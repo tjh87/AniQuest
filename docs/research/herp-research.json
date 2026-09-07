@@ -1,0 +1,378 @@
+[
+  {
+    "scientific": "Heosemys spinosa",
+    "name": "Spiny hill turtle",
+    "emoji": "🐢",
+    "habitat": "Mature forest",
+    "rarity": "Rare; forest-restricted",
+    "statusCode": "EN",
+    "sourceUrl": "https://www.nparks.gov.sg/florafaunaweb/fauna/0/6/06",
+    "statusSourceUrl": "https://www.nparks.gov.sg/nature/species-list/reptiles",
+    "globalStatus": "Dated assessment not verified in this edition",
+    "globalSourceUrl": "",
+    "profile": {
+      "id": "spiny-hill-turtle",
+      "group": "Reptile",
+      "family": "Geoemydidae",
+      "aliases": [
+        "Spiny hill terrapin",
+        "Spiny terrapin",
+        "Spiny turtle",
+        "Emys spinosa"
+      ],
+      "origin": "Native",
+      "encounter": "Rare or restricted",
+      "habitats": [
+        "Forest",
+        "Freshwater"
+      ],
+      "summary": "A forest-floor turtle with an especially striking shell when young. Singapore's remaining mature forests shelter this locally Endangered reptile.",
+      "identification": "Brown shell with a raised middle ridge and jagged rear edge; dark head and limbs, with reddish marks beside the head. Young turtles have much sharper shell-edge projections than adults.",
+      "diet": "An omnivore. Regional research records fruit and other plant material, some animal food and mushrooms; the proportions in Singapore have not been measured here.",
+      "activity": "NParks describes mainly nocturnal activity; this is not a rule that excludes daytime encounters.",
+      "behaviour": "Adults spend much of their time on land. Younger turtles use water more extensively, so forest-floor and stream habitats both matter.",
+      "reproduction": "Lays eggs. Breeding has been achieved in conservation collections; no Singapore nesting month or clutch-size claim is made here.",
+      "singapore": "Native populations are associated with the Central Nature Reserves. The national assessment is Endangered in RDB3; encounter locations and resting sites are not mapped here.",
+      "ecologicalRole": "Consumes material from several parts of the forest food web. Mushroom eating is documented, but effective fungal-spore dispersal by this species remains a research question.",
+      "pressures": "Forest degradation and collection for trade threaten it. Protecting habitat and preventing collection are central conservation needs.",
+      "watch": "Keep to open paths, leave it where it is and avoid handling or flash. Do not disclose a precise location or collect an animal for a pet.",
+      "funFacts": [
+        {
+          "title": "Growing out of the spikes",
+          "text": "Its dramatic juvenile shell edges become much less spiky as the turtle grows.",
+          "sourceUrl": "https://www.nparks.gov.sg/florafaunaweb/fauna/0/6/06"
+        },
+        {
+          "title": "Mushroom on the menu",
+          "text": "A study published in 2026 describes a wild spiny turtle eating a mushroom in Borneo, an observation made in 2020.",
+          "sourceUrl": "https://herpetologynotes.org/index.php/hn/article/download/385/210/3963"
+        }
+      ],
+      "sources": [
+        {
+          "name": "NParks · Flora & Fauna Web",
+          "url": "https://www.nparks.gov.sg/florafaunaweb/fauna/0/6/06",
+          "supports": "Identification, activity, habitat, native occurrence and local pressures; its older VU assessment is superseded by RDB3"
+        },
+        {
+          "name": "The Reptile Database",
+          "url": "https://reptile-database.reptarium.cz/Heosemys/spinosa",
+          "supports": "Taxonomy, Singapore range and egg-laying reproduction"
+        },
+        {
+          "name": "Turtle Survival Alliance · Spiny turtle",
+          "url": "https://turtlesurvival.org/species/spiny-turtle/",
+          "supports": "Conservation breeding and regional threats"
+        },
+        {
+          "name": "Herpetology Notes · Mushroom feeding observation (2026)",
+          "url": "https://herpetologynotes.org/index.php/hn/article/download/385/210/3963",
+          "supports": "Regional diet and a documented 2020 feeding observation; spore dispersal remains unproven"
+        }
+      ],
+      "statusNote": "Use Endangered from Singapore RDB3 (2024), rather than the older Vulnerable label still displayed on the species page. Global and Singapore categories are separate assessments."
+    },
+    "reviewNotes": [
+      "Reviewed 2026-09-06: RDB3 reptile row Heosemys spinosa = EN; RDB2 = VU.",
+      "The direct IUCN 2021 record https://www.iucnredlist.org/species/9942/3152508 returned 403. A June 2026 primary natural-history paper cites it as Endangered and TSA also says Endangered, but the full dated IUCN record was not verified directly; leave global field explicitly unverified.",
+      "No embedded photo is supplied. NParks reference photos may be linked, never assumed licensed for redistribution."
+    ]
+  },
+  {
+    "scientific": "Cyclemys dentata",
+    "name": "Asian leaf turtle",
+    "emoji": "🐢",
+    "habitat": "Forest streams",
+    "rarity": "Rare; highly restricted records",
+    "statusCode": "CR",
+    "sourceUrl": "https://www.nparks.gov.sg/florafaunaweb/fauna/2/6/260",
+    "statusSourceUrl": "https://www.nparks.gov.sg/nature/species-list/reptiles",
+    "globalStatus": "Dated assessment not verified in this edition",
+    "globalSourceUrl": "",
+    "profile": {
+      "id": "asian-leaf-turtle",
+      "group": "Reptile",
+      "family": "Geoemydidae",
+      "aliases": [
+        "Asian leaf terrapin"
+      ],
+      "origin": "Native",
+      "encounter": "Rare or restricted",
+      "habitats": [
+        "Forest",
+        "Freshwater"
+      ],
+      "summary": "A secretive stream-associated turtle, listed as Critically Endangered in Singapore. Its subdued colours fit the shaded forest setting.",
+      "identification": "An oval, dark-brown shell with a toothed rear edge; orange lines mark the dark head and neck. Hatchlings are flatter and more densely spotted than adults.",
+      "diet": "An omnivore that eats both plant and animal material.",
+      "activity": "NParks describes apparent nocturnal activity; detailed Singapore activity patterns remain poorly documented.",
+      "behaviour": "Associated with forest streams and their banks. Limited sightings make this an animal to learn about without seeking out sensitive sites.",
+      "reproduction": "Lays eggs; local nesting timing and clutch sizes have not been verified.",
+      "singapore": "NParks documents catchment-forest records from 2006 and 2007. These are historical observations, while RDB3 (2024) retains the species as nationally Critically Endangered; neither is a current population census.",
+      "ecologicalRole": "Its mixed diet connects plant material and animal prey within the forest-stream food web.",
+      "pressures": "Habitat degradation and collection for food or trade are identified threats. Forest streams and surrounding cover need protection.",
+      "watch": "Stay out of streams and leave turtles, eggs and cover undisturbed. Do not collect or release pet turtles into natural habitats.",
+      "funFacts": [
+        {
+          "title": "Baby shell, different look",
+          "text": "The hatchling has a flattened shell densely patterned with dark spots; adults have a dark-brown shell.",
+          "sourceUrl": "https://www.nparks.gov.sg/florafaunaweb/fauna/2/6/260"
+        },
+        {
+          "title": "A hidden splash of colour",
+          "text": "Look at the reference photo: the dark head and neck carry orange lines.",
+          "sourceUrl": "https://www.nparks.gov.sg/florafaunaweb/fauna/2/6/260"
+        }
+      ],
+      "sources": [
+        {
+          "name": "NParks · Flora & Fauna Web",
+          "url": "https://www.nparks.gov.sg/florafaunaweb/fauna/2/6/260",
+          "supports": "Identification, broad ecology, dated Singapore records, native origin and pressures"
+        },
+        {
+          "name": "The Reptile Database",
+          "url": "https://reptile-database.reptarium.cz/Cyclemys/dentata",
+          "supports": "Taxonomy, Singapore range and egg-laying reproduction"
+        }
+      ],
+      "statusNote": "Critically Endangered in Singapore RDB3 (2024). A national category describes the Singapore population, not the entire global range."
+    },
+    "reviewNotes": [
+      "Reviewed 2026-09-06: NParks RDB3 row Cyclemys dentata = CR, unchanged from RDB2.",
+      "NParks species page's 'recent' 2006/2007 records are explicitly dated in this profile and are not described as new sightings.",
+      "IUCN-published GBIF dataset identifies a 2021 assessment e.T195849722A2929066, but its category/full assessment could not be directly checked. Do not copy Wikipedia's NT label without that verification.",
+      "Global DOI research lead only: https://doi.org/10.2305/IUCN.UK.2021-1.RLTS.T195849722A2929066.en"
+    ]
+  },
+  {
+    "scientific": "Varanus nebulosus",
+    "name": "Clouded monitor",
+    "emoji": "🦎",
+    "habitat": "Forest and wooded parks",
+    "rarity": "Relatively common in suitable habitat",
+    "statusCode": "LC",
+    "sourceUrl": "https://biodiversitysg.nparks.gov.sg/our-biodiversity/reptiles/lizards/clouded-monitor/",
+    "statusSourceUrl": "https://www.nparks.gov.sg/nature/species-list/reptiles",
+    "globalStatus": "Dated assessment not verified in this edition",
+    "globalSourceUrl": "",
+    "profile": {
+      "id": "clouded-monitor",
+      "group": "Reptile",
+      "family": "Varanidae",
+      "aliases": [
+        "Clouded monitor lizard",
+        "Varanus bengalensis nebulosus"
+      ],
+      "origin": "Native",
+      "encounter": "Commonly seen",
+      "habitats": [
+        "Forest",
+        "Parks",
+        "Scrub"
+      ],
+      "summary": "A native monitor that is as comfortable climbing trees as exploring the forest floor. It generally favours land habitats more than the familiar water monitor.",
+      "identification": "Brown with yellow spotting. Compared with a Malayan water monitor, the head is shorter, the tail more rounded and the nostril sits farther back, about midway between the eye and snout tip. Use several features together.",
+      "diet": "Searches through leaf litter for worms and other invertebrates.",
+      "activity": "Diurnal: active during daylight, as documented in local forest surveys.",
+      "behaviour": "Forages on the ground and climbs trees. Its ability to use both levels is a useful reminder to look above ground as well as along paths.",
+      "reproduction": "Lays eggs. Local nesting dates, clutch size and incubation periods are not asserted from unrelated captive accounts.",
+      "singapore": "NParks describes it as relatively common in suitable habitats, including forest and wooded gardens. This does not mean it is equally frequent in every neighbourhood.",
+      "ecologicalRole": "A predator of small ground-dwelling animals within the leaf-litter food web.",
+      "pressures": "Retaining forest cover, leaf litter and climbing trees helps preserve its habitat. Its local Least Concern label does not remove the need for respectful encounters.",
+      "watch": "Watch from a distance and allow it to pass. Never feed, corner or handle a monitor, and keep pets under control.",
+      "funFacts": [
+        {
+          "title": "The nose knows",
+          "text": "Nostril position helps tell the two common monitors apart: the clouded monitor's nostril sits farther back from the snout tip.",
+          "sourceUrl": "https://biodiversitysg.nparks.gov.sg/our-biodiversity/reptiles/lizards/clouded-monitor/"
+        },
+        {
+          "title": "A lizard upstairs",
+          "text": "Clouded monitors forage on land but can also climb trees.",
+          "sourceUrl": "https://biodiversitysg.nparks.gov.sg/our-biodiversity/reptiles/lizards/clouded-monitor/"
+        }
+      ],
+      "sources": [
+        {
+          "name": "NParks · BiodiversitySG",
+          "url": "https://biodiversitysg.nparks.gov.sg/our-biodiversity/reptiles/lizards/clouded-monitor/",
+          "supports": "Identification, diet, climbing, local habitats and relative frequency; updated 15 June 2026"
+        },
+        {
+          "name": "The Reptile Database",
+          "url": "https://reptile-database.reptarium.cz/Varanus/nebulosus",
+          "supports": "Accepted taxon, former subspecies name and egg-laying reproduction"
+        },
+        {
+          "name": "NParks · Bukit Timah vertebrate inventory (2019)",
+          "url": "https://www.nparks.gov.sg/sbg/research/publications/the-gardens%27-bulletin-singapore/-/media/sbg/gardens-bulletin/gbs_71_s1_y2019_v71_s1/71_s1_05_y2019_v71s1_gbs_pg145.pdf",
+          "supports": "Daytime activity and documented local occurrence; survey data are historical"
+        },
+        {
+          "name": "NParks / AVS · Monitor lizards",
+          "url": "https://avs.nparks.gov.sg/wildlife/encountering-wildlife/monitor-lizards/",
+          "supports": "Safe encounters and coexistence"
+        }
+      ],
+      "taxonomyNote": "NParks treats Varanus nebulosus as a species. Some older literature and IUCN material include it within Varanus bengalensis, so an assessment of that broader taxon must not be silently relabelled.",
+      "statusNote": "Least Concern in Singapore RDB3 (2024). Its global assessment needs separate taxonomic checking."
+    },
+    "reviewNotes": [
+      "Reviewed 2026-09-06: NParks RDB3 Varanus nebulosus = LC; BiodiversitySG profile dated 15 June 2026.",
+      "IUCN SSC Monitor Lizard Specialist Group says this taxon is considered a synonym of V. bengalensis in the IUCN Red List: https://iucn-mlsg.org/species/southeast-asian-species-2/varanus-nebulosus-2/ . The IUCN-published GBIF record for V. bengalensis confirms 2021 citation e.T164579A1058949 and synonym. Do not assign its NT status as a separately verified V. nebulosus assessment.",
+      "The qualitative encounter label means suitable habitat; no Singapore abundance number has been inferred."
+    ]
+  },
+  {
+    "scientific": "Pelobatrachus nasutus",
+    "name": "Malayan horned frog",
+    "emoji": "🐸",
+    "habitat": "Mature forest streams",
+    "rarity": "Rare; forest-restricted",
+    "statusCode": "CR",
+    "sourceUrl": "https://lkcnhm.nus.edu.sg/app/uploads/2017/06/2014nis049-054.pdf",
+    "statusSourceUrl": "https://www.nparks.gov.sg/nature/species-list/amphibians",
+    "globalStatus": "Dated assessment not verified in this edition",
+    "globalSourceUrl": "",
+    "profile": {
+      "id": "malayan-horned-frog",
+      "group": "Amphibian",
+      "family": "Megophryidae",
+      "aliases": [
+        "Megophrys nasuta",
+        "Pelobatrachus nasuta",
+        "Malayan leaf frog",
+        "Long-nosed horned frog"
+      ],
+      "origin": "Native",
+      "encounter": "Rare or restricted",
+      "habitats": [
+        "Forest",
+        "Freshwater"
+      ],
+      "summary": "A leaf-shaped ambush hunter from Singapore's mature forests. Its camouflage is so effective that a call may reveal a frog that the eye has missed.",
+      "identification": "Broad angular head, pointed eyelid projections and a leaf-like snout and brown body. Females are larger than males. Projection length varies, so it should not be the only identification feature.",
+      "diet": "Animal prey on the forest floor, including invertebrates and small vertebrates such as other frogs or lizards.",
+      "activity": "Secretive; calls can be heard around dusk and were recorded during late-afternoon breeding observations in Singapore.",
+      "behaviour": "Remains still in leaf litter and ambushes passing prey. Local researchers have often detected it by its distinctive loud call near streams.",
+      "reproduction": "Breeds in forest streams. A Singapore field study recorded mating and a cluster of gelatinous eggs attached beneath partly submerged bark; larvae develop in water.",
+      "singapore": "Associated with patches of mature forest in the Central Nature Reserves. It is nationally Critically Endangered in RDB3; this guide avoids breeding-site directions.",
+      "ecologicalRole": "An ambush predator that connects leaf-litter prey with larger forest predators; its aquatic young also depend on stream habitat.",
+      "pressures": "Loss or damage to moist forest and stream habitat is a concern, alongside collection for the pet trade across its range.",
+      "watch": "Listen from open trails during permitted hours. Do not use call playback, move leaf litter, enter breeding streams or handle frogs and eggs.",
+      "funFacts": [
+        {
+          "title": "A leaf with legs",
+          "text": "Its angular outline and brown colouring help a motionless frog disappear among fallen leaves.",
+          "sourceUrl": "https://animaldiversity.org/accounts/Megophrys_nasuta/"
+        },
+        {
+          "title": "Tadpole with a funnel",
+          "text": "The tadpole's broad funnel-shaped mouth helps it feed at the water surface.",
+          "sourceUrl": "https://animaldiversity.org/accounts/Megophrys_nasuta/"
+        }
+      ],
+      "sources": [
+        {
+          "name": "NUS · Singapore breeding observations (2014)",
+          "url": "https://lkcnhm.nus.edu.sg/app/uploads/2017/06/2014nis049-054.pdf",
+          "supports": "Singapore breeding, habitat, female/male differences and dated observations; its old EN national category is superseded"
+        },
+        {
+          "name": "Animal Diversity Web · University of Michigan",
+          "url": "https://animaldiversity.org/accounts/Megophrys_nasuta/",
+          "supports": "Camouflage, ambush feeding, prey, tadpole mouth and regional pressures under the older scientific name"
+        },
+        {
+          "name": "American Museum of Natural History · Amphibian Species of the World",
+          "url": "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Megophryidae/Megophryinae/Pelobatrachus/Pelobatrachus-nasutus",
+          "supports": "Accepted scientific name and synonym history"
+        },
+        {
+          "name": "NParks · Bukit Timah vertebrate inventory (2019)",
+          "url": "https://www.nparks.gov.sg/sbg/research/publications/the-gardens%27-bulletin-singapore/-/media/sbg/gardens-bulletin/gbs_71_s1_y2019_v71_s1/71_s1_05_y2019_v71s1_gbs_pg145.pdf",
+          "supports": "Local stream association, camouflage and detection by calls"
+        }
+      ],
+      "taxonomyNote": "Pelobatrachus nasutus is the accepted name in Amphibian Species of the World. Older Singapore sources use Megophrys nasuta. NParks' online RDB3 table contains the spelling Pelobratrachus nasutus; this apparent typo is not used as the accepted name.",
+      "statusNote": "Critically Endangered in Singapore RDB3 (2024), superseding the Endangered category in older Singapore publications."
+    },
+    "reviewNotes": [
+      "Reviewed 2026-09-06: full NParks amphibian page timed out, but indexed official row explicitly reads Malayan Horned Frog | Native | EN | CR. Cross-checked with HSS RDB3 checklist, which also shows Pelobatrachus nasutus CR.",
+      "Primary taxonomy URL confirms Pelobatrachus nasutus, not NParks' misspelled Pelobratrachus. Old ADW record contains other broad/outdated statements; no Himalayan distribution, captive breeding frequency, dated global LC, or legacy family text was carried forward.",
+      "The 2014 NUS publication's historical national EN and IUCN 2004 LC are not current labels. Global dated assessment remains unverified."
+    ]
+  },
+  {
+    "scientific": "Leptobrachium nigrops",
+    "name": "Black-eyed litter frog",
+    "emoji": "🐸",
+    "habitat": "Forest floor and streams",
+    "rarity": "Elusive; common within some forest habitat",
+    "statusCode": "NT",
+    "sourceUrl": "https://www.nparks.gov.sg/florafaunaweb/fauna/5/0/5023",
+    "statusSourceUrl": "https://www.nparks.gov.sg/nature/species-list/amphibians",
+    "globalStatus": "Dated assessment not verified in this edition",
+    "globalSourceUrl": "",
+    "profile": {
+      "id": "black-eyed-litter-frog",
+      "group": "Amphibian",
+      "family": "Megophryidae",
+      "aliases": [
+        "Black eyed litter frog"
+      ],
+      "origin": "Native",
+      "encounter": "Elusive",
+      "habitats": [
+        "Forest",
+        "Freshwater"
+      ],
+      "summary": "A small leaf-litter frog with conspicuous dark eyes and a surprisingly distinctive voice. Being common within a forest patch does not mean it is widespread across Singapore.",
+      "identification": "Large head and black eyes, relatively short slender limbs, and grey or brown skin marked with irregular dark patches. The pale underside has dark speckling.",
+      "diet": "Insectivorous, feeding on small animal prey in its forest-floor habitat.",
+      "activity": "Mainly nocturnal.",
+      "behaviour": "Lives among fallen leaves. Its rapid rattling call can be easier to notice than its camouflaged body.",
+      "reproduction": "Has an aquatic tadpole stage. NParks describes the larvae as large and almost black; no verified Singapore clutch-size or fixed breeding-season estimate is supplied here.",
+      "singapore": "Associated with the Central Nature Reserves and forest stream habitats. NParks surveys found it frequently in suitable forest, while RDB3 assesses it as nationally Near Threatened.",
+      "ecologicalRole": "An insect predator within the forest-floor food web, with aquatic larvae linking the life cycle to water.",
+      "pressures": "Maintaining connected, moist forest and its water habitats is important for this habitat-associated frog; local frequency should not be confused with habitat security.",
+      "watch": "Observe without moving logs or leaves. Keep out of streams, avoid playback and flash, and leave amphibians and tadpoles untouched.",
+      "funFacts": [
+        {
+          "title": "Tiny frog, rapid rattle",
+          "text": "Researchers identify its rapid, rattling call even when the frog itself stays hidden.",
+          "sourceUrl": "https://www.nparks.gov.sg/sbg/research/publications/the-gardens%27-bulletin-singapore/-/media/sbg/gardens-bulletin/gbs_71_s1_y2019_v71s1_gbs_pg145.pdf"
+        },
+        {
+          "title": "A frog doing a handstand",
+          "text": "A Singapore observation documented one balancing on its front limbs while wiping its body with its back feet; the purpose was not proven.",
+          "sourceUrl": "https://lkcnhm.nus.edu.sg/app/uploads/2017/04/sbr2013-050-051.pdf"
+        }
+      ],
+      "sources": [
+        {
+          "name": "NParks · Flora & Fauna Web",
+          "url": "https://www.nparks.gov.sg/florafaunaweb/fauna/5/0/5023",
+          "supports": "Identification, larvae, activity, diet and native forest occurrence; its 1994 V label is historical"
+        },
+        {
+          "name": "NParks · Bukit Timah vertebrate inventory (2019)",
+          "url": "https://www.nparks.gov.sg/sbg/research/publications/the-gardens%27-bulletin-singapore/-/media/sbg/gardens-bulletin/gbs_71_s1_y2019_v71_s1/71_s1_05_y2019_v71s1_gbs_pg145.pdf",
+          "supports": "Local encounter context, water association and characteristic calls"
+        },
+        {
+          "name": "NUS · Body-wiping observation (2013)",
+          "url": "https://lkcnhm.nus.edu.sg/app/uploads/2017/04/sbr2013-050-051.pdf",
+          "supports": "A documented 2009 body-wiping observation; grooming/moisture explanations are hypotheses"
+        }
+      ],
+      "statusNote": "Near Threatened in Singapore RDB3 (2024). The old Vulnerable (1994) label on Flora & Fauna Web is historical, and common in suitable habitat is an encounter description, not a conservation category."
+    },
+    "reviewNotes": [
+      "Reviewed 2026-09-06: indexed NParks official row explicitly reads Leptobrachium nigrops | Black-eyed Litter Frog | Native | Not Listed | NT; cross-checked HSS RDB3 NT.",
+      "AmphibiaWeb displays global LC but no matching assessment date was confirmed, so it was not promoted to a dated verified IUCN claim.",
+      "The NUS handstand observation occurred in 2009 and was published in 2013; it is not a new 2026 sighting or proof of the behaviour's biological function."
+    ]
+  }
+]

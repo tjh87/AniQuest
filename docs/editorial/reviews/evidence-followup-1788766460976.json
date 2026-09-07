@@ -1,0 +1,128 @@
+{
+  "scope": "Follow-up of the 200 incomplete profile claims",
+  "reviews": [
+    {
+      "contentId": "profile:sunda-colugo",
+      "claim": "singapore",
+      "claimText": "Associated with tall forest in the Central Nature Reserves and connected wooded spaces. A quiet, hidden animal may be present even when visitors do not notice it.",
+      "hash": "fb7dd9ef91e19aabd821f582d542a88355d6facb8629c28c08ba61e45c7a4652",
+      "sourceUrl": "https://www.nparks.gov.sg/florafaunaweb/fauna/4/7/478",
+      "additionalSources": [
+        "https://biodiversitysg.nparks.gov.sg/our-biodiversity/mammals/other-mammals/sunda-colugo/"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "Flora & Fauna Web names the central reserves and adjacent parkland. BiodiversitySG explains tall-forest use, camouflage and concealed daytime rest.",
+      "reviewedAt": "2026-09-07T07:34:20.975Z"
+    },
+    {
+      "contentId": "profile:lesser-dog-faced-fruit-bat",
+      "claim": "watch",
+      "claimText": "Do not handle a bat or disturb a roost. Observe from a distance and seek professional help for an injured animal.",
+      "hash": "7ce54f4a660c23a2cc5383bdc49f238b799e864d71e4288725016550d654dd49",
+      "sourceUrl": "https://avs.nparks.gov.sg/wildlife/encountering-wildlife/bats/",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/florafaunaweb/fauna/5/6/562",
+        "https://www.pss1950.org/wp-content/uploads/2025/12/GUIDELINES-FOR-ETHICAL-PRACTICES-IN-THE-FIELD-FOR-NATURE-PHOTOGRAPHY-IN-SINGAPORE-Updated-27-Nov-2025.pdf"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "AVS gives non-handling and professional rescue advice. The roost and fruit dependence supports the qualitative habitat-loss inference, not a measured decline.",
+      "reviewedAt": "2026-09-07T07:34:20.975Z"
+    },
+    {
+      "contentId": "profile:lesser-dog-faced-fruit-bat",
+      "claim": "pressures",
+      "claimText": "Loss of roosts and fruiting vegetation can remove shelter and food.",
+      "hash": "7ce54f4a660c23a2cc5383bdc49f238b799e864d71e4288725016550d654dd49",
+      "sourceUrl": "https://avs.nparks.gov.sg/wildlife/encountering-wildlife/bats/",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/florafaunaweb/fauna/5/6/562",
+        "https://www.pss1950.org/wp-content/uploads/2025/12/GUIDELINES-FOR-ETHICAL-PRACTICES-IN-THE-FIELD-FOR-NATURE-PHOTOGRAPHY-IN-SINGAPORE-Updated-27-Nov-2025.pdf"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "AVS gives non-handling and professional rescue advice. The roost and fruit dependence supports the qualitative habitat-loss inference, not a measured decline.",
+      "reviewedAt": "2026-09-07T07:34:20.975Z"
+    },
+    {
+      "contentId": "profile:spiny-hill-turtle",
+      "claim": "diet",
+      "claimText": "An omnivore. Regional research records fruit and other plant material, some animal food and mushrooms; the proportions in Singapore have not been measured here.",
+      "hash": "3e12c0327b9005f5ac989a16f9efcb8f2cda50955e610bed163aed8e7019a4d9",
+      "sourceUrl": "https://herpetologynotes.org/index.php/hn/article/download/385/210/3963",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The 2026 paper documents mushroom feeding in Indonesia in 2020 and reviews other foods. It explicitly states that spore dispersal remains unproven.",
+      "reviewedAt": "2026-09-07T07:34:20.975Z"
+    },
+    {
+      "contentId": "profile:spiny-hill-turtle",
+      "claim": "ecologicalRole",
+      "claimText": "Consumes material from several parts of the forest food web. Mushroom eating is documented, but effective fungal-spore dispersal by this species remains a research question.",
+      "hash": "3e12c0327b9005f5ac989a16f9efcb8f2cda50955e610bed163aed8e7019a4d9",
+      "sourceUrl": "https://herpetologynotes.org/index.php/hn/article/download/385/210/3963",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The 2026 paper documents mushroom feeding in Indonesia in 2020 and reviews other foods. It explicitly states that spore dispersal remains unproven.",
+      "reviewedAt": "2026-09-07T07:34:20.975Z"
+    },
+    {
+      "contentId": "profile:spiny-hill-turtle",
+      "claim": "reproduction",
+      "claimText": "Lays eggs. Breeding has been achieved in conservation collections; no Singapore nesting month or clutch-size claim is made here.",
+      "hash": "3e12c0327b9005f5ac989a16f9efcb8f2cda50955e610bed163aed8e7019a4d9",
+      "sourceUrl": "https://www.torontozoo.com/animals/Spiny%20turtle",
+      "additionalSources": [
+        "https://www.researchgate.net/publication/305462838_Husbandry_and_Breeding_of_the_Spiny_Turtle_Heosemys_spinosa_GRAY_1931_at_the_Durrell_Wildlife_Conservation_Trust"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The zoo account and Durrell breeding report document eggs and captive breeding. Captive timing is not a Singapore nesting calendar.",
+      "reviewedAt": "2026-09-07T07:34:20.975Z"
+    },
+    {
+      "contentId": "profile:common-house-gecko",
+      "claim": "singapore",
+      "claimText": "Common in buildings and nearby wooded areas. It is listed in Singapore’s national reptile assessment as Least Concern.",
+      "hash": "c56c06a40433120def66731ddd349e6a584e6c7bd38912563ac0d95ecc6bb3f7",
+      "sourceUrl": "https://juronglakegardens.nparks.gov.sg/reptiles-and-amphibians/",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/nature/species-list/reptiles"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The Jurong Lake Gardens gecko section confirms buildings and nearby forests. RDB3 separately supplies the national Least Concern category.",
+      "reviewedAt": "2026-09-07T07:34:20.975Z"
+    },
+    {
+      "contentId": "profile:sumatran-palm-civet",
+      "claim": "singapore",
+      "claimText": "A native resident of wooded areas and some neighbourhoods. The name Sumatran palm civet follows NParks’ current species table.",
+      "hash": "7f1ab1a92c867d287fb5806e17672970863efaf1ea0548b558b8edda51122dbd",
+      "sourceUrl": "https://biodiversitysg.nparks.gov.sg/our-biodiversity/mammals/other-mammals/sumatran-palm-civet/",
+      "additionalSources": [
+        "https://avs.nparks.gov.sg/wildlife/encountering-wildlife/civets/",
+        "https://www.nparks.gov.sg/nature/species-list/terrestrial-mammals"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "BiodiversitySG uses Paradoxurus musangus and describes forests and gardens. AVS adds neighbourhood occurrence under the older name; RDB3 confirms native status.",
+      "reviewedAt": "2026-09-07T07:34:20.976Z"
+    },
+    {
+      "contentId": "profile:malayan-horned-frog",
+      "claim": "singapore",
+      "claimText": "Associated with patches of mature forest in the Central Nature Reserves. It is nationally Critically Endangered in RDB3; this guide avoids breeding-site directions.",
+      "hash": "107689cd45a62077d52481daee23651812398f772b908617059eceebd91cea71",
+      "sourceUrl": "https://lkcnhm.nus.edu.sg/app/uploads/2017/06/2014nis049-054.pdf",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/nature/species-list/amphibians"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The Singapore field paper confines occurrence to the central reserves. RDB3 replaces its historical national category with Critically Endangered.",
+      "reviewedAt": "2026-09-07T07:34:20.976Z"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "scope": "Follow-up of the 200 incomplete profile claims",
+  "reviews": [
+    {
+      "contentId": "profile:mainland-leopard-cat",
+      "claim": "globalStatus",
+      "claimText": "Least Concern · 2022",
+      "hash": "0333e6d57035ce46cbc2f1bd94e81daeedc6d363760d77c1736d0f449dc65c05",
+      "sourceUrl": "https://www.researchgate.net/publication/362309134_Prionailurus_bengalensis_The_IUCN_Red_List_of_Threatened_Species_2022",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The author-uploaded IUCN report lists Least Concern and publication year 2022. Its assessment date is 29 December 2021. This is not a new 2026 assessment.",
+      "reviewedAt": "2026-09-07T07:31:21.109Z"
+    },
+    {
+      "contentId": "profile:malayan-water-monitor",
+      "claim": "globalStatus",
+      "claimText": "Least Concern · 2021",
+      "hash": "d02c5d178ca1b66fbe097365f2ab2be51d395048b3f06400a91251956527e1e0",
+      "sourceUrl": "https://www.researchgate.net/publication/354381307_Varanus_salvator_The_IUCN_Red_List_of_Threatened_Species_2021",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The IUCN report lists Least Concern, published in 2021, assessed on 8 May 2018. Publication year and assessment date differ.",
+      "reviewedAt": "2026-09-07T07:31:21.109Z"
+    },
+    {
+      "contentId": "profile:reticulated-python",
+      "claim": "globalStatus",
+      "claimText": "Least Concern · 2018",
+      "hash": "581b818ce80b6af744ccf1692cfc739c02adf21ba59c33f9baf5e4afe87a3ea5",
+      "sourceUrl": "https://www.researchgate.net/publication/354528580_Malayopython_reticulatus_The_IUCN_Red_List_of_Threatened_Species2018",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The IUCN report lists Least Concern, published in 2018, assessed on 2 September 2011. It includes the Malayopython synonym.",
+      "reviewedAt": "2026-09-07T07:31:21.110Z"
+    },
+    {
+      "contentId": "profile:reticulated-python",
+      "claim": "activity",
+      "claimText": "Often nocturnal or hidden during daylight.",
+      "hash": "581b818ce80b6af744ccf1692cfc739c02adf21ba59c33f9baf5e4afe87a3ea5",
+      "sourceUrl": "https://biodiversitysg.nparks.gov.sg/our-biodiversity/reptiles/snakes/reticulated-python/",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "NParks describes generally nocturnal activity and daytime concealment in urban drains. This does not imply exclusively night activity.",
+      "reviewedAt": "2026-09-07T07:31:21.110Z"
+    },
+    {
+      "contentId": "profile:white-bellied-sea-eagle",
+      "claim": "diet",
+      "claimText": "Fish and other animals taken around waterways; also scavenges.",
+      "hash": "df9e6aeb79a4175bcca0e4cbd21da422c99a6a6d43a7ce44a1da595053920675",
+      "sourceUrl": "https://peregrinefund.org/explore-raptors-species/eagles/white-bellied-sea-eagle",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The feeding account supports aquatic prey and scavenging. The conservation section identifies disturbance and loss of breeding trees. Food-web position is qualitative.",
+      "reviewedAt": "2026-09-07T07:31:21.110Z"
+    },
+    {
+      "contentId": "profile:white-bellied-sea-eagle",
+      "claim": "ecologicalRole",
+      "claimText": "A high-level predator and scavenger associated with aquatic food webs.",
+      "hash": "df9e6aeb79a4175bcca0e4cbd21da422c99a6a6d43a7ce44a1da595053920675",
+      "sourceUrl": "https://peregrinefund.org/explore-raptors-species/eagles/white-bellied-sea-eagle",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The feeding account supports aquatic prey and scavenging. The conservation section identifies disturbance and loss of breeding trees. Food-web position is qualitative.",
+      "reviewedAt": "2026-09-07T07:31:21.110Z"
+    },
+    {
+      "contentId": "profile:white-bellied-sea-eagle",
+      "claim": "pressures",
+      "claimText": "Protecting large nesting trees and limiting disturbance helps keep suitable habitat available.",
+      "hash": "df9e6aeb79a4175bcca0e4cbd21da422c99a6a6d43a7ce44a1da595053920675",
+      "sourceUrl": "https://peregrinefund.org/explore-raptors-species/eagles/white-bellied-sea-eagle",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The feeding account supports aquatic prey and scavenging. The conservation section identifies disturbance and loss of breeding trees. Food-web position is qualitative.",
+      "reviewedAt": "2026-09-07T07:31:21.110Z"
+    },
+    {
+      "contentId": "profile:white-bellied-sea-eagle",
+      "claim": "activity",
+      "claimText": "Diurnal, often soaring above water.",
+      "hash": "df9e6aeb79a4175bcca0e4cbd21da422c99a6a6d43a7ce44a1da595053920675",
+      "sourceUrl": "https://animaldiversity.org/accounts/Haliaeetus_leucogaster/",
+      "additionalSources": [
+        "https://peregrinefund.org/explore-raptors-species/eagles/white-bellied-sea-eagle"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "ADW explicitly lists diurnal activity. The Peregrine Fund describes soaring over coastal and inland water bodies.",
+      "reviewedAt": "2026-09-07T07:31:21.110Z"
+    },
+    {
+      "contentId": "profile:estuarine-crocodile",
+      "claim": "watch",
+      "claimText": "Follow park warnings and stay on designated paths. Keep well away from water edges, do not feed, and alert park staff to unsafe encounters.",
+      "hash": "1dfd68e18a814df6e0d85bcc7b5efc1813ebf3c772a2c7f908557b203f822913",
+      "sourceUrl": "https://avs.nparks.gov.sg/wildlife/encountering-wildlife/estuarine-crocodiles/",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "AVS directs visitors to marked paths, away from water edges, and prohibits feeding. Its encounter advice includes reporting concerns to NParks.",
+      "reviewedAt": "2026-09-07T07:31:21.111Z"
+    },
+    {
+      "contentId": "profile:green-turtle",
+      "claim": "watch",
+      "claimText": "Do not block a turtle’s route or use bright lights around nests. Observe from a distance and report nesting to NParks.",
+      "hash": "43e5c5e7057c1ddfcdda7a6a8f125bb3a07062d206261ff8c59c2f129ccd5c5d",
+      "sourceUrl": "https://www.nparks.gov.sg/publications-resources/articles/home-to-conserve-turtles",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "NParks turtle guidance supports distance, no lights, no interference and reporting nests. Keeping the route clear is conservative non-interference advice.",
+      "reviewedAt": "2026-09-07T07:31:21.111Z"
+    }
+  ]
+}

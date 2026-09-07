@@ -1,0 +1,11 @@
+{
+  "contentId": "profile:sunda-colugo",
+  "claim": "activity",
+  "claimText": "Mainly nocturnal; rests on trees by day.",
+  "hash": "fb7dd9ef91e19aabd821f582d542a88355d6facb8629c28c08ba61e45c7a4652",
+  "sourceUrl": "https://biodiversitysg.nparks.gov.sg/our-biodiversity/mammals/other-mammals/sunda-colugo/",
+  "status": "supported",
+  "reviewer": "Codex source comparison",
+  "note": "The Habitat and ecology section describes night activity and daytime rest on tree trunks. This supports the activity field, not all profile claims.",
+  "reviewedAt": "2026-09-07T06:24:51.938Z"
+}

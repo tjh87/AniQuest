@@ -1,0 +1,288 @@
+{
+  "reviewedAt": "2026-09-06",
+  "scope": "Independent audit of the existing 30 profiles. Checked all claimed Singapore RDB3 categories and taxon mappings against the four NParks taxon tables; checked origin in the mammal/bird/amphibian tables and the explicitly introduced frog account. Targeted review of significant biological and fun-fact assertions, not a claim that every sentence or global assessment was independently verified.",
+  "summary": {
+    "existingProfiles": 30,
+    "nationalStatusesConfirmed": 29,
+    "nationalStatusContradictionsFound": 0,
+    "inventedCorrections": false,
+    "remainingNationalEvidenceGap": "Kaloula pulchra has no row in the successfully opened NParks amphibian table. Retain the editorial UNV category rather than assigning NA by inference.",
+    "genuineErrorsFound": [
+      "Some profile source cards misidentify BiodiversitySG, Jurong Lake Gardens and an RDB3 table as Flora & Fauna Web."
+    ]
+  },
+  "officialStatusEvidence": [
+    {
+      "url": "https://www.nparks.gov.sg/nature/species-list/terrestrial-mammals",
+      "edition": "RDB3",
+      "taxa": [
+        [
+          "Galeopterus variegatus",
+          "NT",
+          "Native"
+        ],
+        [
+          "Manis javanica",
+          "CR",
+          "Native"
+        ],
+        [
+          "Prionailurus bengalensis",
+          "CR",
+          "Native"
+        ],
+        [
+          "Lutrogale perspicillata",
+          "EN",
+          "Native"
+        ],
+        [
+          "Nycticebus coucang",
+          "EN",
+          "Native"
+        ],
+        [
+          "Presbytis femoralis",
+          "CR",
+          "Native"
+        ],
+        [
+          "Macaca fascicularis",
+          "LC",
+          "Native"
+        ],
+        [
+          "Callosciurus notatus",
+          "LC",
+          "Native"
+        ],
+        [
+          "Paradoxurus musangus",
+          "LC",
+          "Native"
+        ],
+        [
+          "Sus scrofa",
+          "LC",
+          "Native"
+        ],
+        [
+          "Tragulus kanchil",
+          "EN",
+          "Native"
+        ],
+        [
+          "Cynopterus brachyotis",
+          "LC",
+          "Native"
+        ]
+      ]
+    },
+    {
+      "url": "https://www.nparks.gov.sg/nature/species-list/birds",
+      "edition": "RDB3",
+      "taxa": [
+        [
+          "Pycnonotus zeylanicus",
+          "EN",
+          "Native"
+        ],
+        [
+          "Anthracoceros albirostris",
+          "NT",
+          "Native"
+        ],
+        [
+          "Haliaeetus leucogaster",
+          "LC",
+          "Native"
+        ],
+        [
+          "Acridotheres javanicus",
+          "NA",
+          "Introduced"
+        ],
+        [
+          "Corvus splendens",
+          "NA",
+          "Introduced"
+        ],
+        [
+          "Eudynamys scolopaceus",
+          "LC",
+          "Native"
+        ],
+        [
+          "Oriolus chinensis",
+          "LC",
+          "Native"
+        ],
+        [
+          "Todiramphus chloris",
+          "LC",
+          "Native"
+        ],
+        [
+          "Gallus gallus",
+          "NT",
+          "Native"
+        ]
+      ]
+    },
+    {
+      "url": "https://www.nparks.gov.sg/nature/species-list/reptiles/",
+      "edition": "RDB3",
+      "note": "This table contains no origin column, so its status rows alone cannot establish native origin.",
+      "taxa": [
+        [
+          "Eretmochelys imbricata",
+          "CR"
+        ],
+        [
+          "Chelonia mydas",
+          "CR"
+        ],
+        [
+          "Crocodylus porosus",
+          "CR"
+        ],
+        [
+          "Varanus salvator",
+          "LC"
+        ],
+        [
+          "Malayopython reticulatus",
+          "LC"
+        ],
+        [
+          "Naja sumatrana",
+          "LC"
+        ],
+        [
+          "Hemidactylus frenatus",
+          "LC"
+        ]
+      ]
+    },
+    {
+      "url": "https://www.nparks.gov.sg/nature/species-list/amphibians/",
+      "edition": "RDB3",
+      "taxa": [
+        [
+          "Polypedates leucomystax",
+          "LC",
+          "Native"
+        ]
+      ],
+      "absence": "Kaloula pulchra is absent from the rendered taxon table; it is not a verified RDB3 NA entry."
+    }
+  ],
+  "actionableCorrections": [
+    {
+      "id": "SOURCE-LABEL-01",
+      "severity": "minor",
+      "classification": "confirmed metadata error",
+      "file": "app/species-profiles.ts",
+      "issue": "The np() helper hard-codes the source name NParks · Flora & Fauna Web for every URL. Current calls include a BiodiversitySG pangolin page, an NParks RDB3 mammal table and a Jurong Lake Gardens birds page.",
+      "action": "Choose the source name from the verified host/path or make the name an explicit helper argument. Use NParks · BiodiversitySG, NParks · Singapore Red List (RDB3), and NParks · Jurong Lake Gardens for those three cases.",
+      "evidenceUrls": [
+        "https://biodiversitysg.nparks.gov.sg/our-biodiversity/mammals/other-mammals/sunda-pangolin/",
+        "https://www.nparks.gov.sg/nature/species-list/terrestrial-mammals",
+        "https://juronglakegardens.nparks.gov.sg/birds/"
+      ]
+    },
+    {
+      "id": "STATUS-EVIDENCE-02",
+      "severity": "information",
+      "classification": "unresolved evidence, not an incorrect category",
+      "taxon": "Kaloula pulchra",
+      "action": "Keep introduced origin, qualitative commonness and UNV; add the actually checked RDB3 amphibian table to its references and say that the published table checked on 2026-09-06 does not include a row for this species. Do not describe the absence as a proved national Not Evaluated or Not Applicable assessment.",
+      "evidenceUrls": [
+        "https://www.nparks.gov.sg/nature/species-list/amphibians/",
+        "https://www.nparks.gov.sg/florafaunaweb/fauna/4/5/455"
+      ],
+      "evidenceSummary": "FFWeb455 records introduced origin and common occurrence. The amphibian table supports absence of a matched row, not an assigned threat category."
+    }
+  ],
+  "importantClaimsValidated": [
+    {
+      "taxon": "Nycticebus coucang",
+      "claims": "Venomous bite, nocturnal tree life, gum/sap/nectar/insect diet and sustained branch grip.",
+      "url": "https://biodiversitysg.nparks.gov.sg/our-biodiversity/mammals/primates/sunda-slow-loris/",
+      "result": "Supported by the NParks learning page. A temporary web open error was resolved through the search tool's indexed page content; this is not evidence of a broken source."
+    },
+    {
+      "taxon": "Presbytis femoralis",
+      "claims": "Pale infant coat, leaf-eating adaptation, multi-chambered stomach and restricted Singapore forest occurrence.",
+      "url": "https://biodiversitysg.nparks.gov.sg/our-biodiversity/mammals/primates/raffles-banded-langur/",
+      "result": "Supported. The app wisely avoids repeating the source's absolute wording that the animals spend their entire lives in the canopy."
+    },
+    {
+      "taxon": "Tragulus kanchil",
+      "claims": "No antlers, enlarged male canines, forest-floor diet and Sang Kancil folklore.",
+      "url": "https://biodiversitysg.nparks.gov.sg/our-biodiversity/mammals/ungulates-hoofed-animals/lesser-mousedeer/",
+      "result": "Supported. Do not add the page's unqualified world's-smallest-hoofed-mammal superlative without independent taxonomic review."
+    },
+    {
+      "taxon": "Oriolus chinensis",
+      "claims": "Kunyit Besar colour-related name, juvenile grey bill versus adult pink bill, fruit/insect diet.",
+      "url": "https://biodiversitysg.nparks.gov.sg/our-biodiversity/birds/other-birds/black-naped-oriole/",
+      "result": "Supported."
+    },
+    {
+      "taxon": "Haliaeetus leucogaster",
+      "claims": "Brown juvenile plumage, adult white/grey plumage, shallow-V soaring and reuse/enlargement of stick nests.",
+      "url": "https://biodiversitysg.nparks.gov.sg/our-biodiversity/birds/raptors/white-bellied-sea-eagle/",
+      "result": "Supported. Haliaeetus leucogaster remains the spelling shown in both linked NParks sources; alternate-genus note can remain."
+    },
+    {
+      "taxon": "Macaca fascicularis",
+      "claims": "Tail approximately as long as head/body together and matrilineal social groups.",
+      "url": "https://biodiversitysg.nparks.gov.sg/our-biodiversity/mammals/primates/long-tailed-macaque/",
+      "result": "Supported."
+    },
+    {
+      "taxon": "Cynopterus brachyotis",
+      "claims": "White edging on ears and wing bones, fruit/nectar diet, small-group roosts and common urban occurrence.",
+      "url": "https://www.nparks.gov.sg/florafaunaweb/fauna/5/6/562",
+      "result": "Supported; current common name and RDB3 common-name alias describe the same taxon."
+    },
+    {
+      "taxon": "Hemidactylus frenatus",
+      "claims": "Usually two hard-shelled eggs.",
+      "url": "https://animaldiversity.org/accounts/Hemidactylus_frenatus/",
+      "result": "Supported. Do not automatically import all additional details from this educational account as current research."
+    },
+    {
+      "taxon": "Kaloula pulchra",
+      "claims": "Body inflation, rain-associated calls, nocturnal activity and ants/termites in diet.",
+      "url": "https://biodiversitysg.nparks.gov.sg/our-biodiversity/amphibians/banded-bullfrog/",
+      "result": "Supported."
+    },
+    {
+      "taxon": "Polypedates leucomystax",
+      "claims": "Variable visibility of four back stripes, foam nests above water, tadpoles falling into water.",
+      "url": "https://biodiversitysg.nparks.gov.sg/our-biodiversity/amphibians/four-lined-tree-frog/",
+      "result": "Supported."
+    },
+    {
+      "taxon": "Callosciurus notatus",
+      "claims": "Contrasting flank stripes, chatter/chirps, sheltered maternal nests and plant/animal food.",
+      "url": "https://animaldiversity.org/accounts/Callosciurus_notatus/",
+      "result": "Broad claims supported. If rewriting identification, prefer contrasting pale and dark flank stripes to an overly precise stripe order based on ambiguous source phrasing."
+    }
+  ],
+  "retainExistingSafeguards": [
+    "RDB3 supersedes RDB2 for the app's national status display. Existing otter, loris, lesser mousedeer, hornbill and junglefowl categories already use the newer column correctly.",
+    "Do not transfer the older broad Paradoxurus hermaphroditus global assessment directly to Paradoxurus musangus.",
+    "The existing Green turtle note separates dated global Least Concern (2025) from national Critically Endangered. The global DOI was outside this bounded audit.",
+    "Introduced occurrence, qualitative encounter frequency, national threat and global threat remain separate concepts.",
+    "The 18 global assessment gaps remain explicitly unverified; do not silently mark them reviewed because the national rows were checked."
+  ],
+  "sourceTableCautionsForNewProfiles": [
+    "NParks reptile table uses Cuora couro and amphibian table prints Pelobratrachus nasutus and Icthyophis paucisulcus. Check accepted taxon names in a relevant authoritative taxonomic source before blindly reproducing table spellings.",
+    "Mammal RDB3 classifies Sambar deer and Dusky langur origin as uncertain with NA, not simply Native.",
+    "Mammal RDB3 includes nationally extinct and vagrant animals; do not present them as established present-day residents.",
+    "Common myna is listed Native/LC in the current NParks bird table; any conflicting older species-page origin should be documented if that animal is added."
+  ]
+}

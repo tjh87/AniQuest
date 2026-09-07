@@ -1,0 +1,3942 @@
+[
+  {
+    "id": "oriental-pied-hornbill",
+    "scientific": "Anthracoceros albirostris",
+    "retrievedAt": "2026-09-07T08:18:09.680Z",
+    "sourceUrl": "https://www.gbif.org/dataset/19491596-35ae-4a91-9a98-85cf505f1bd3/taxon/22682437",
+    "match": {
+      "key": 176610600,
+      "datasetKey": "19491596-35ae-4a91-9a98-85cf505f1bd3",
+      "nubKey": 2475991,
+      "parentKey": 336607031,
+      "parent": "Anthracoceros",
+      "kingdom": "ANIMALIA",
+      "phylum": "CHORDATA",
+      "order": "BUCEROTIFORMES",
+      "family": "BUCEROTIDAE",
+      "genus": "Anthracoceros",
+      "species": "Anthracoceros albirostris",
+      "kingdomKey": 336598482,
+      "phylumKey": 336598673,
+      "classKey": 336606478,
+      "orderKey": 336607011,
+      "familyKey": 336607020,
+      "genusKey": 336607031,
+      "speciesKey": 176610600,
+      "scientificName": "Anthracoceros albirostris (Shaw & Nodder, 1807)",
+      "canonicalName": "Anthracoceros albirostris",
+      "authorship": "(Shaw & Nodder, 1807)",
+      "nameType": "SCIENTIFIC",
+      "taxonomicStatus": "ACCEPTED",
+      "rank": "SPECIES",
+      "origin": "SOURCE",
+      "numDescendants": 0,
+      "numOccurrences": 0,
+      "taxonID": "22682437",
+      "habitats": [],
+      "nomenclaturalStatus": [],
+      "threatStatuses": [
+        "LEAST_CONCERN"
+      ],
+      "descriptions": [],
+      "vernacularNames": [
+        {
+          "vernacularName": "Oriental Pied Hornbill",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Oriental Pied-Hornbill",
+          "language": "eng"
+        }
+      ],
+      "synonym": false,
+      "higherClassificationMap": {
+        "336598482": "ANIMALIA",
+        "336598673": "CHORDATA",
+        "336606478": "AVES",
+        "336607011": "BUCEROTIFORMES",
+        "336607020": "BUCEROTIDAE",
+        "336607031": "Anthracoceros"
+      },
+      "class": "AVES"
+    },
+    "references": {
+      "key": 176610600,
+      "extensions": {
+        "http://rs.gbif.org/terms/1.0/VernacularName": [
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Oriental Pied Hornbill",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "true"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Oriental Pied-Hornbill",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          }
+        ],
+        "http://rs.gbif.org/terms/1.0/Distribution": [
+          {
+            "http://rs.tdwg.org/dwc/terms/occurrenceStatus": "Present",
+            "http://iucn.org/terms/threatStatus": "Least Concern",
+            "http://rs.tdwg.org/dwc/terms/locality": "Global",
+            "http://purl.org/dc/terms/source": "BirdLife International 2020. Anthracoceros albirostris (Shaw & Nodder, 1807). The IUCN Red List of Threatened Species 2020: https://doi.org/10.2305/IUCN.UK.2020-3.RLTS.T22682437A184925767.en"
+          }
+        ]
+      },
+      "lastCrawled": "2026-08-28T18:56:24.836+00:00",
+      "http://rs.tdwg.org/dwc/terms/acceptedNameUsageID": "22682437",
+      "http://rs.tdwg.org/dwc/terms/genus": "Anthracoceros",
+      "http://rs.tdwg.org/dwc/terms/kingdom": "ANIMALIA",
+      "http://rs.tdwg.org/dwc/terms/class": "AVES",
+      "http://rs.tdwg.org/dwc/terms/taxonID": "22682437",
+      "http://rs.tdwg.org/dwc/terms/taxonomicStatus": "accepted",
+      "http://rs.tdwg.org/dwc/terms/order": "BUCEROTIFORMES",
+      "http://rs.tdwg.org/dwc/terms/taxonRank": "species",
+      "http://rs.tdwg.org/dwc/terms/specificEpithet": "albirostris",
+      "http://rs.tdwg.org/dwc/terms/scientificNameAuthorship": "(Shaw & Nodder, 1807)",
+      "http://purl.org/dc/terms/bibliographicCitation": "BirdLife International 2020. Anthracoceros albirostris (Shaw & Nodder, 1807). The IUCN Red List of Threatened Species 2020: https://doi.org/10.2305/IUCN.UK.2020-3.RLTS.T22682437A184925767.en",
+      "http://rs.tdwg.org/dwc/terms/family": "BUCEROTIDAE",
+      "http://purl.org/dc/terms/references": "https://www.iucnredlist.org/species/22682437/184925767",
+      "http://rs.tdwg.org/dwc/terms/scientificName": "Anthracoceros albirostris (Shaw & Nodder, 1807)",
+      "http://rs.tdwg.org/dwc/terms/phylum": "CHORDATA"
+    }
+  },
+  {
+    "id": "white-bellied-sea-eagle",
+    "scientific": "Haliaeetus leucogaster",
+    "retrievedAt": "2026-09-07T08:18:10.073Z",
+    "sourceUrl": "https://www.gbif.org/dataset/19491596-35ae-4a91-9a98-85cf505f1bd3/taxon/22695097",
+    "match": {
+      "key": 176613008,
+      "datasetKey": "19491596-35ae-4a91-9a98-85cf505f1bd3",
+      "nubKey": 2480455,
+      "parentKey": 336607422,
+      "parent": "Haliaeetus",
+      "kingdom": "ANIMALIA",
+      "phylum": "CHORDATA",
+      "order": "ACCIPITRIFORMES",
+      "family": "ACCIPITRIDAE",
+      "genus": "Haliaeetus",
+      "species": "Haliaeetus leucogaster",
+      "kingdomKey": 336598482,
+      "phylumKey": 336598673,
+      "classKey": 336606478,
+      "orderKey": 336607399,
+      "familyKey": 336607408,
+      "genusKey": 336607422,
+      "speciesKey": 176613008,
+      "scientificName": "Haliaeetus leucogaster (Gmelin, 1788)",
+      "canonicalName": "Haliaeetus leucogaster",
+      "authorship": "(Gmelin, 1788)",
+      "nameType": "SCIENTIFIC",
+      "taxonomicStatus": "ACCEPTED",
+      "rank": "SPECIES",
+      "origin": "SOURCE",
+      "numDescendants": 0,
+      "numOccurrences": 0,
+      "taxonID": "22695097",
+      "habitats": [],
+      "nomenclaturalStatus": [],
+      "threatStatuses": [
+        "LEAST_CONCERN"
+      ],
+      "descriptions": [],
+      "vernacularNames": [
+        {
+          "vernacularName": "White-bellied Fish-Eagle",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "White-bellied Sea Eagle",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "White-bellied Sea-Eagle",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "White-bellied Sea-eagle",
+          "language": "eng"
+        }
+      ],
+      "synonym": false,
+      "higherClassificationMap": {
+        "336598482": "ANIMALIA",
+        "336598673": "CHORDATA",
+        "336606478": "AVES",
+        "336607399": "ACCIPITRIFORMES",
+        "336607408": "ACCIPITRIDAE",
+        "336607422": "Haliaeetus"
+      },
+      "class": "AVES"
+    },
+    "references": {
+      "key": 176613008,
+      "extensions": {
+        "http://rs.gbif.org/terms/1.0/VernacularName": [
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "White-bellied Fish-Eagle",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "White-bellied Sea Eagle",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "White-bellied Sea-Eagle",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "White-bellied Sea-eagle",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "true"
+          }
+        ],
+        "http://rs.gbif.org/terms/1.0/Distribution": [
+          {
+            "http://rs.tdwg.org/dwc/terms/occurrenceStatus": "Present",
+            "http://iucn.org/terms/threatStatus": "Least Concern",
+            "http://rs.tdwg.org/dwc/terms/locality": "Global",
+            "http://purl.org/dc/terms/source": "BirdLife International 2020. Haliaeetus leucogaster (Gmelin, 1788). The IUCN Red List of Threatened Species 2020:"
+          }
+        ]
+      },
+      "lastCrawled": "2026-08-28T18:56:24.836+00:00",
+      "http://rs.tdwg.org/dwc/terms/acceptedNameUsageID": "22695097",
+      "http://rs.tdwg.org/dwc/terms/genus": "Haliaeetus",
+      "http://rs.tdwg.org/dwc/terms/kingdom": "ANIMALIA",
+      "http://rs.tdwg.org/dwc/terms/class": "AVES",
+      "http://rs.tdwg.org/dwc/terms/taxonID": "22695097",
+      "http://rs.tdwg.org/dwc/terms/taxonomicStatus": "accepted",
+      "http://rs.tdwg.org/dwc/terms/order": "ACCIPITRIFORMES",
+      "http://rs.tdwg.org/dwc/terms/taxonRank": "species",
+      "http://rs.tdwg.org/dwc/terms/specificEpithet": "leucogaster",
+      "http://rs.tdwg.org/dwc/terms/scientificNameAuthorship": "(Gmelin, 1788)",
+      "http://purl.org/dc/terms/bibliographicCitation": "BirdLife International 2020. Haliaeetus leucogaster (Gmelin, 1788). The IUCN Red List of Threatened Species 2020:",
+      "http://rs.tdwg.org/dwc/terms/family": "ACCIPITRIDAE",
+      "http://purl.org/dc/terms/references": "https://www.iucnredlist.org/species/22695097/216253643",
+      "http://rs.tdwg.org/dwc/terms/scientificName": "Haliaeetus leucogaster (Gmelin, 1788)",
+      "http://rs.tdwg.org/dwc/terms/phylum": "CHORDATA"
+    }
+  },
+  {
+    "id": "estuarine-crocodile",
+    "scientific": "Crocodylus porosus",
+    "retrievedAt": "2026-09-07T08:18:10.476Z",
+    "sourceUrl": "https://www.gbif.org/dataset/19491596-35ae-4a91-9a98-85cf505f1bd3/taxon/5668",
+    "match": {
+      "key": 176712914,
+      "datasetKey": "19491596-35ae-4a91-9a98-85cf505f1bd3",
+      "nubKey": 2441333,
+      "parentKey": 336598842,
+      "parent": "Crocodylus",
+      "kingdom": "ANIMALIA",
+      "phylum": "CHORDATA",
+      "order": "CROCODYLIA",
+      "family": "CROCODYLIDAE",
+      "genus": "Crocodylus",
+      "species": "Crocodylus porosus",
+      "kingdomKey": 336598482,
+      "phylumKey": 336598673,
+      "classKey": 336598831,
+      "orderKey": 336598832,
+      "familyKey": 336598837,
+      "genusKey": 336598842,
+      "speciesKey": 176712914,
+      "scientificName": "Crocodylus porosus Schneider, 1801",
+      "canonicalName": "Crocodylus porosus",
+      "authorship": "Schneider, 1801",
+      "nameType": "SCIENTIFIC",
+      "taxonomicStatus": "ACCEPTED",
+      "rank": "SPECIES",
+      "origin": "SOURCE",
+      "numDescendants": 0,
+      "numOccurrences": 0,
+      "taxonID": "5668",
+      "habitats": [],
+      "nomenclaturalStatus": [],
+      "threatStatuses": [
+        "LEAST_CONCERN"
+      ],
+      "descriptions": [],
+      "vernacularNames": [
+        {
+          "vernacularName": "Estuarine Crocodile",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Indo-Paciﬁc crocodile",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Salt-water crocodile",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Saltie",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Saltwater Crocodile",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Crocodile d'estuaire",
+          "language": "fra"
+        },
+        {
+          "vernacularName": "Crocodile marin",
+          "language": "fra"
+        },
+        {
+          "vernacularName": "Buaya muara",
+          "language": "ind"
+        },
+        {
+          "vernacularName": "Buaya katak",
+          "language": "msa"
+        },
+        {
+          "vernacularName": "Geta kimbula",
+          "language": "sin"
+        },
+        {
+          "vernacularName": "Cocodrilo Poroso",
+          "language": "spa"
+        },
+        {
+          "vernacularName": "Geta kimbula",
+          "language": "tam"
+        },
+        {
+          "vernacularName": "Jara Kaenumkem",
+          "language": "tha"
+        }
+      ],
+      "synonym": false,
+      "higherClassificationMap": {
+        "336598482": "ANIMALIA",
+        "336598673": "CHORDATA",
+        "336598831": "REPTILIA",
+        "336598832": "CROCODYLIA",
+        "336598837": "CROCODYLIDAE",
+        "336598842": "Crocodylus"
+      },
+      "class": "REPTILIA"
+    },
+    "references": {
+      "key": 176712914,
+      "extensions": {
+        "http://rs.gbif.org/terms/1.0/VernacularName": [
+          {
+            "http://purl.org/dc/terms/language": "Australian languages",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Dungalaba",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "Palauan",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Ius",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "Papuan (Other)",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Baya",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "Papuan (Other)",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Kone huala",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "Papuan (Other)",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Pukpuk",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Estuarine Crocodile",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Indo-Paciﬁc crocodile",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Salt-water crocodile",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Saltie",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Saltwater Crocodile",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "true"
+          },
+          {
+            "http://purl.org/dc/terms/language": "fra",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Crocodile d'estuaire",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "fra",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Crocodile marin",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "ind",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Buaya muara",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "msa",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Buaya katak",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "sin",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Geta kimbula",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "spa",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Cocodrilo Poroso",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "tam",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Geta kimbula",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "tha",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Jara Kaenumkem",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          }
+        ],
+        "http://rs.gbif.org/terms/1.0/Distribution": [
+          {
+            "http://rs.tdwg.org/dwc/terms/occurrenceStatus": "Present",
+            "http://iucn.org/terms/threatStatus": "Least Concern",
+            "http://rs.tdwg.org/dwc/terms/locality": "Global",
+            "http://purl.org/dc/terms/source": "Webb, G.J.W., Manolis, C., Brien, M.L., Balaguera-Reina, S.A. & Isberg, S. 2021. Crocodylus porosus Schneider, 1801. The IUCN Red List of Threatened Species 2021: https://doi.org/10.2305/IUCN.UK.2021-2.RLTS.T5668A268788998.en"
+          }
+        ]
+      },
+      "lastCrawled": "2026-08-28T18:56:24.836+00:00",
+      "http://rs.tdwg.org/dwc/terms/acceptedNameUsageID": "5668",
+      "http://rs.tdwg.org/dwc/terms/genus": "Crocodylus",
+      "http://rs.tdwg.org/dwc/terms/kingdom": "ANIMALIA",
+      "http://rs.tdwg.org/dwc/terms/class": "REPTILIA",
+      "http://rs.tdwg.org/dwc/terms/taxonID": "5668",
+      "http://rs.tdwg.org/dwc/terms/taxonomicStatus": "accepted",
+      "http://rs.tdwg.org/dwc/terms/order": "CROCODYLIA",
+      "http://rs.tdwg.org/dwc/terms/taxonRank": "species",
+      "http://rs.tdwg.org/dwc/terms/specificEpithet": "porosus",
+      "http://rs.tdwg.org/dwc/terms/scientificNameAuthorship": "Schneider, 1801",
+      "http://purl.org/dc/terms/bibliographicCitation": "Webb, G.J.W., Manolis, C., Brien, M.L., Balaguera-Reina, S.A. & Isberg, S. 2021. Crocodylus porosus Schneider, 1801. The IUCN Red List of Threatened Species 2021: https://doi.org/10.2305/IUCN.UK.2021-2.RLTS.T5668A268788998.en",
+      "http://rs.tdwg.org/dwc/terms/family": "CROCODYLIDAE",
+      "http://purl.org/dc/terms/references": "https://www.iucnredlist.org/species/5668/268788998",
+      "http://rs.tdwg.org/dwc/terms/scientificName": "Crocodylus porosus Schneider, 1801",
+      "http://rs.tdwg.org/dwc/terms/phylum": "CHORDATA"
+    }
+  },
+  {
+    "id": "plantain-squirrel",
+    "scientific": "Callosciurus notatus",
+    "retrievedAt": "2026-09-07T08:18:10.886Z",
+    "sourceUrl": "https://www.gbif.org/dataset/19491596-35ae-4a91-9a98-85cf505f1bd3/taxon/3600",
+    "match": {
+      "key": 176671860,
+      "datasetKey": "19491596-35ae-4a91-9a98-85cf505f1bd3",
+      "nubKey": 2437396,
+      "parentKey": 336608588,
+      "parent": "Callosciurus",
+      "kingdom": "ANIMALIA",
+      "phylum": "CHORDATA",
+      "order": "RODENTIA",
+      "family": "SCIURIDAE",
+      "genus": "Callosciurus",
+      "species": "Callosciurus notatus",
+      "kingdomKey": 336598482,
+      "phylumKey": 336598673,
+      "classKey": 336605913,
+      "orderKey": 336607821,
+      "familyKey": 336608449,
+      "genusKey": 336608588,
+      "speciesKey": 176671860,
+      "scientificName": "Callosciurus notatus (Boddaert, 1785)",
+      "canonicalName": "Callosciurus notatus",
+      "authorship": "(Boddaert, 1785)",
+      "nameType": "SCIENTIFIC",
+      "taxonomicStatus": "ACCEPTED",
+      "rank": "SPECIES",
+      "origin": "SOURCE",
+      "numDescendants": 0,
+      "numOccurrences": 0,
+      "taxonID": "3600",
+      "habitats": [],
+      "nomenclaturalStatus": [],
+      "threatStatuses": [
+        "LEAST_CONCERN"
+      ],
+      "descriptions": [],
+      "vernacularNames": [
+        {
+          "vernacularName": "Plantain Squirrel",
+          "language": "eng"
+        }
+      ],
+      "synonym": false,
+      "higherClassificationMap": {
+        "336598482": "ANIMALIA",
+        "336598673": "CHORDATA",
+        "336605913": "MAMMALIA",
+        "336607821": "RODENTIA",
+        "336608449": "SCIURIDAE",
+        "336608588": "Callosciurus"
+      },
+      "class": "MAMMALIA"
+    },
+    "references": {
+      "key": 176671860,
+      "extensions": {
+        "http://rs.gbif.org/terms/1.0/VernacularName": [
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Plantain Squirrel",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "true"
+          }
+        ],
+        "http://rs.gbif.org/terms/1.0/Distribution": [
+          {
+            "http://rs.tdwg.org/dwc/terms/occurrenceStatus": "Present",
+            "http://iucn.org/terms/threatStatus": "Least Concern",
+            "http://rs.tdwg.org/dwc/terms/locality": "Global",
+            "http://purl.org/dc/terms/source": "Duckworth, J.W. 2016. Callosciurus notatus (Boddaert, 1785). The IUCN Red List of Threatened Species 2016: https://doi.org/10.2305/IUCN.UK.2016-3.RLTS.T3600A22254046.en"
+          }
+        ]
+      },
+      "lastCrawled": "2026-08-28T18:56:24.836+00:00",
+      "http://rs.tdwg.org/dwc/terms/acceptedNameUsageID": "3600",
+      "http://rs.tdwg.org/dwc/terms/genus": "Callosciurus",
+      "http://rs.tdwg.org/dwc/terms/kingdom": "ANIMALIA",
+      "http://rs.tdwg.org/dwc/terms/class": "MAMMALIA",
+      "http://rs.tdwg.org/dwc/terms/taxonID": "3600",
+      "http://rs.tdwg.org/dwc/terms/taxonomicStatus": "accepted",
+      "http://rs.tdwg.org/dwc/terms/order": "RODENTIA",
+      "http://rs.tdwg.org/dwc/terms/taxonRank": "species",
+      "http://rs.tdwg.org/dwc/terms/specificEpithet": "notatus",
+      "http://rs.tdwg.org/dwc/terms/scientificNameAuthorship": "(Boddaert, 1785)",
+      "http://purl.org/dc/terms/bibliographicCitation": "Duckworth, J.W. 2016. Callosciurus notatus (Boddaert, 1785). The IUCN Red List of Threatened Species 2016: https://doi.org/10.2305/IUCN.UK.2016-3.RLTS.T3600A22254046.en",
+      "http://rs.tdwg.org/dwc/terms/family": "SCIURIDAE",
+      "http://purl.org/dc/terms/references": "https://www.iucnredlist.org/species/3600/115065317",
+      "http://rs.tdwg.org/dwc/terms/scientificName": "Callosciurus notatus (Boddaert, 1785)",
+      "http://rs.tdwg.org/dwc/terms/phylum": "CHORDATA"
+    }
+  },
+  {
+    "id": "sumatran-palm-civet",
+    "scientific": "Paradoxurus musangus",
+    "retrievedAt": "2026-09-07T08:18:11.310Z",
+    "sourceUrl": "https://www.gbif.org/dataset/19491596-35ae-4a91-9a98-85cf505f1bd3/taxon/41693_2",
+    "match": {
+      "key": 176684555,
+      "datasetKey": "19491596-35ae-4a91-9a98-85cf505f1bd3",
+      "nubKey": 11001339,
+      "parentKey": 321820,
+      "parent": "Paradoxurus",
+      "acceptedKey": 176684549,
+      "accepted": "Paradoxurus hermaphroditus (Pallas, 1777)",
+      "kingdom": "ANIMALIA",
+      "phylum": "CHORDATA",
+      "order": "CARNIVORA",
+      "family": "VIVERRIDAE",
+      "genus": "Paradoxurus",
+      "species": "Paradoxurus hermaphroditus",
+      "kingdomKey": 336598482,
+      "phylumKey": 336598673,
+      "classKey": 336605913,
+      "orderKey": 336606139,
+      "familyKey": 336606210,
+      "genusKey": 336606227,
+      "speciesKey": 176684549,
+      "scientificName": "Paradoxurus musangus (Raffles, 1821)",
+      "canonicalName": "Paradoxurus musangus",
+      "authorship": "(Raffles, 1821)",
+      "nameType": "SCIENTIFIC",
+      "taxonomicStatus": "SYNONYM",
+      "origin": "SOURCE",
+      "numDescendants": 0,
+      "numOccurrences": 0,
+      "taxonID": "41693_2",
+      "habitats": [],
+      "nomenclaturalStatus": [],
+      "threatStatuses": [],
+      "descriptions": [],
+      "vernacularNames": [],
+      "synonym": true,
+      "higherClassificationMap": {
+        "321820": "Paradoxurus",
+        "176684549": "Paradoxurus hermaphroditus",
+        "336598482": "ANIMALIA",
+        "336598673": "CHORDATA",
+        "336605913": "MAMMALIA",
+        "336606139": "CARNIVORA",
+        "336606210": "VIVERRIDAE",
+        "336606227": "Paradoxurus"
+      },
+      "class": "MAMMALIA"
+    },
+    "references": {
+      "key": 176684555,
+      "extensions": {},
+      "lastCrawled": "2026-08-28T18:56:24.836+00:00",
+      "http://rs.tdwg.org/dwc/terms/acceptedNameUsageID": "41693",
+      "http://rs.tdwg.org/dwc/terms/scientificNameAuthorship": "(Raffles, 1821)",
+      "http://rs.tdwg.org/dwc/terms/kingdom": "ANIMALIA",
+      "http://purl.org/dc/terms/bibliographicCitation": "Duckworth, J.W., Timmins, R.J., Choudhury, A.U., Chutipong, W., Willcox, D.H.A., Mudappa, D., Rahman, H., Widmann, P., Wilting, A. & Xu, W. 2024. Paradoxurus hermaphroditus (Pallas, 1777). The IUCN Red List of Threatened Species 2024: https://doi.org/10.2305/IUCN.UK.2024-2.RLTS.T41693A259352474.en",
+      "http://rs.tdwg.org/dwc/terms/taxonID": "41693_2",
+      "http://rs.tdwg.org/dwc/terms/taxonomicStatus": "synonym",
+      "http://purl.org/dc/terms/references": "https://www.iucnredlist.org/species/41693/259352474",
+      "http://rs.tdwg.org/dwc/terms/scientificName": "Paradoxurus musangus (Raffles, 1821)"
+    },
+    "acceptedSourceUrl": "https://api.gbif.org/v1/species/176684549/verbatim",
+    "acceptedReferences": {
+      "key": 176684549,
+      "extensions": {
+        "http://rs.gbif.org/terms/1.0/VernacularName": [
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Common Palm Civet",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "true"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Mentawai Palm Civet",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          }
+        ],
+        "http://rs.gbif.org/terms/1.0/Distribution": [
+          {
+            "http://rs.tdwg.org/dwc/terms/occurrenceStatus": "Present",
+            "http://iucn.org/terms/threatStatus": "Least Concern",
+            "http://rs.tdwg.org/dwc/terms/locality": "Global",
+            "http://purl.org/dc/terms/source": "Duckworth, J.W., Timmins, R.J., Choudhury, A.U., Chutipong, W., Willcox, D.H.A., Mudappa, D., Rahman, H., Widmann, P., Wilting, A. & Xu, W. 2024. Paradoxurus hermaphroditus (Pallas, 1777). The IUCN Red List of Threatened Species 2024: https://doi.org/10.2305/IUCN.UK.2024-2.RLTS.T41693A259352474.en"
+          }
+        ]
+      },
+      "lastCrawled": "2026-08-28T18:56:24.836+00:00",
+      "http://rs.tdwg.org/dwc/terms/acceptedNameUsageID": "41693",
+      "http://rs.tdwg.org/dwc/terms/genus": "Paradoxurus",
+      "http://rs.tdwg.org/dwc/terms/kingdom": "ANIMALIA",
+      "http://rs.tdwg.org/dwc/terms/class": "MAMMALIA",
+      "http://rs.tdwg.org/dwc/terms/taxonID": "41693",
+      "http://rs.tdwg.org/dwc/terms/taxonomicStatus": "accepted",
+      "http://rs.tdwg.org/dwc/terms/order": "CARNIVORA",
+      "http://rs.tdwg.org/dwc/terms/taxonRank": "species",
+      "http://rs.tdwg.org/dwc/terms/specificEpithet": "hermaphroditus",
+      "http://rs.tdwg.org/dwc/terms/scientificNameAuthorship": "(Pallas, 1777)",
+      "http://purl.org/dc/terms/bibliographicCitation": "Duckworth, J.W., Timmins, R.J., Choudhury, A.U., Chutipong, W., Willcox, D.H.A., Mudappa, D., Rahman, H., Widmann, P., Wilting, A. & Xu, W. 2024. Paradoxurus hermaphroditus (Pallas, 1777). The IUCN Red List of Threatened Species 2024: https://doi.org/10.2305/IUCN.UK.2024-2.RLTS.T41693A259352474.en",
+      "http://rs.tdwg.org/dwc/terms/family": "VIVERRIDAE",
+      "http://purl.org/dc/terms/references": "https://www.iucnredlist.org/species/41693/259352474",
+      "http://rs.tdwg.org/dwc/terms/scientificName": "Paradoxurus hermaphroditus (Pallas, 1777)",
+      "http://rs.tdwg.org/dwc/terms/phylum": "CHORDATA"
+    }
+  },
+  {
+    "id": "wild-boar",
+    "scientific": "Sus scrofa",
+    "retrievedAt": "2026-09-07T08:18:11.990Z",
+    "sourceUrl": "https://www.gbif.org/dataset/19491596-35ae-4a91-9a98-85cf505f1bd3/taxon/41775",
+    "match": {
+      "key": 176668594,
+      "datasetKey": "19491596-35ae-4a91-9a98-85cf505f1bd3",
+      "nubKey": 7705930,
+      "parentKey": 336607617,
+      "parent": "Sus",
+      "kingdom": "ANIMALIA",
+      "phylum": "CHORDATA",
+      "order": "ARTIODACTYLA",
+      "family": "SUIDAE",
+      "genus": "Sus",
+      "species": "Sus scrofa",
+      "kingdomKey": 336598482,
+      "phylumKey": 336598673,
+      "classKey": 336605913,
+      "orderKey": 336607553,
+      "familyKey": 336607602,
+      "genusKey": 336607617,
+      "speciesKey": 176668594,
+      "scientificName": "Sus scrofa Linnaeus, 1758",
+      "canonicalName": "Sus scrofa",
+      "authorship": "Linnaeus, 1758",
+      "nameType": "SCIENTIFIC",
+      "taxonomicStatus": "ACCEPTED",
+      "rank": "SPECIES",
+      "origin": "SOURCE",
+      "numDescendants": 0,
+      "numOccurrences": 0,
+      "taxonID": "41775",
+      "habitats": [],
+      "nomenclaturalStatus": [],
+      "threatStatuses": [
+        "LEAST_CONCERN"
+      ],
+      "descriptions": [],
+      "vernacularNames": [
+        {
+          "vernacularName": "Schwarzwild",
+          "language": "deu"
+        },
+        {
+          "vernacularName": "Wildschwein",
+          "language": "deu"
+        },
+        {
+          "vernacularName": "Eurasian Wild Pig",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Ryukyu Islands Wild Pig",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Wild Boar",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Sanglier",
+          "language": "fra"
+        },
+        {
+          "vernacularName": "Sanglier d'Eurasie",
+          "language": "fra"
+        },
+        {
+          "vernacularName": "Cinghiale",
+          "language": "ita"
+        },
+        {
+          "vernacularName": "Zerleg Gakhai",
+          "language": "mon"
+        },
+        {
+          "vernacularName": "Jabalí",
+          "language": "spa"
+        }
+      ],
+      "synonym": false,
+      "higherClassificationMap": {
+        "336598482": "ANIMALIA",
+        "336598673": "CHORDATA",
+        "336605913": "MAMMALIA",
+        "336607553": "ARTIODACTYLA",
+        "336607602": "SUIDAE",
+        "336607617": "Sus"
+      },
+      "class": "MAMMALIA"
+    },
+    "references": {
+      "key": 176668594,
+      "extensions": {
+        "http://rs.gbif.org/terms/1.0/VernacularName": [
+          {
+            "http://purl.org/dc/terms/language": "deu",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Schwarzwild",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "deu",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Wildschwein",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Eurasian Wild Pig",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Ryukyu Islands Wild Pig",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Wild Boar",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "true"
+          },
+          {
+            "http://purl.org/dc/terms/language": "fra",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Sanglier",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "fra",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Sanglier d'Eurasie",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "ita",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Cinghiale",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "mon",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Zerleg Gakhai",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "spa",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Jabalí",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          }
+        ],
+        "http://rs.gbif.org/terms/1.0/Distribution": [
+          {
+            "http://rs.tdwg.org/dwc/terms/occurrenceStatus": "Present",
+            "http://iucn.org/terms/threatStatus": "Least Concern",
+            "http://rs.tdwg.org/dwc/terms/locality": "Global",
+            "http://purl.org/dc/terms/source": "Keuling, O. & Leus, K. 2019. Sus scrofa Linnaeus, 1758. The IUCN Red List of Threatened Species 2019: https://doi.org/10.2305/IUCN.UK.2019-3.RLTS.T41775A44141833.en"
+          }
+        ]
+      },
+      "lastCrawled": "2026-08-28T18:56:24.836+00:00",
+      "http://rs.tdwg.org/dwc/terms/acceptedNameUsageID": "41775",
+      "http://rs.tdwg.org/dwc/terms/genus": "Sus",
+      "http://rs.tdwg.org/dwc/terms/kingdom": "ANIMALIA",
+      "http://rs.tdwg.org/dwc/terms/class": "MAMMALIA",
+      "http://rs.tdwg.org/dwc/terms/taxonID": "41775",
+      "http://rs.tdwg.org/dwc/terms/taxonomicStatus": "accepted",
+      "http://rs.tdwg.org/dwc/terms/order": "ARTIODACTYLA",
+      "http://rs.tdwg.org/dwc/terms/taxonRank": "species",
+      "http://rs.tdwg.org/dwc/terms/specificEpithet": "scrofa",
+      "http://rs.tdwg.org/dwc/terms/scientificNameAuthorship": "Linnaeus, 1758",
+      "http://purl.org/dc/terms/bibliographicCitation": "Keuling, O. & Leus, K. 2019. Sus scrofa Linnaeus, 1758. The IUCN Red List of Threatened Species 2019: https://doi.org/10.2305/IUCN.UK.2019-3.RLTS.T41775A44141833.en",
+      "http://rs.tdwg.org/dwc/terms/family": "SUIDAE",
+      "http://purl.org/dc/terms/references": "https://www.iucnredlist.org/species/41775/44141833",
+      "http://rs.tdwg.org/dwc/terms/scientificName": "Sus scrofa Linnaeus, 1758",
+      "http://rs.tdwg.org/dwc/terms/phylum": "CHORDATA"
+    }
+  },
+  {
+    "id": "lesser-mousedeer",
+    "scientific": "Tragulus kanchil",
+    "retrievedAt": "2026-09-07T08:18:12.390Z",
+    "sourceUrl": "https://www.gbif.org/dataset/19491596-35ae-4a91-9a98-85cf505f1bd3/taxon/136297",
+    "match": {
+      "key": 176668823,
+      "datasetKey": "19491596-35ae-4a91-9a98-85cf505f1bd3",
+      "nubKey": 7261464,
+      "parentKey": 336607775,
+      "parent": "Tragulus",
+      "kingdom": "ANIMALIA",
+      "phylum": "CHORDATA",
+      "order": "ARTIODACTYLA",
+      "family": "TRAGULIDAE",
+      "genus": "Tragulus",
+      "species": "Tragulus kanchil",
+      "kingdomKey": 336598482,
+      "phylumKey": 336598673,
+      "classKey": 336605913,
+      "orderKey": 336607553,
+      "familyKey": 336607772,
+      "genusKey": 336607775,
+      "speciesKey": 176668823,
+      "scientificName": "Tragulus kanchil (Raffles, 1821)",
+      "canonicalName": "Tragulus kanchil",
+      "authorship": "(Raffles, 1821)",
+      "nameType": "SCIENTIFIC",
+      "taxonomicStatus": "ACCEPTED",
+      "rank": "SPECIES",
+      "origin": "SOURCE",
+      "numDescendants": 0,
+      "numOccurrences": 0,
+      "taxonID": "136297",
+      "habitats": [],
+      "nomenclaturalStatus": [],
+      "threatStatuses": [
+        "LEAST_CONCERN"
+      ],
+      "descriptions": [],
+      "vernacularNames": [
+        {
+          "vernacularName": "Lesser Indo-Malayan Chevrotain",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Lesser Malay Chevrotain",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Lesser Mousedeer",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Lesser Oriental Chevrotain",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Mouse Deer",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Chevrotain kanchil",
+          "language": "fra"
+        },
+        {
+          "vernacularName": "Petit tragul malais",
+          "language": "fra"
+        },
+        {
+          "vernacularName": "Kanchil",
+          "language": "ind"
+        },
+        {
+          "vernacularName": "Xi-lu",
+          "language": "zho"
+        }
+      ],
+      "synonym": false,
+      "higherClassificationMap": {
+        "336598482": "ANIMALIA",
+        "336598673": "CHORDATA",
+        "336605913": "MAMMALIA",
+        "336607553": "ARTIODACTYLA",
+        "336607772": "TRAGULIDAE",
+        "336607775": "Tragulus"
+      },
+      "class": "MAMMALIA"
+    },
+    "references": {
+      "key": 176668823,
+      "extensions": {
+        "http://rs.gbif.org/terms/1.0/VernacularName": [
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Lesser Indo-Malayan Chevrotain",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Lesser Malay Chevrotain",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Lesser Mousedeer",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Lesser Oriental Chevrotain",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "true"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Mouse Deer",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "fra",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Chevrotain kanchil",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "fra",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Petit tragul malais",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "ind",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Kanchil",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "zho",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Xi-lu",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          }
+        ],
+        "http://rs.gbif.org/terms/1.0/Distribution": [
+          {
+            "http://rs.tdwg.org/dwc/terms/occurrenceStatus": "Present",
+            "http://iucn.org/terms/threatStatus": "Least Concern",
+            "http://rs.tdwg.org/dwc/terms/locality": "Global",
+            "http://purl.org/dc/terms/source": "Timmins, R. & Duckworth, J.W. 2015. Tragulus kanchil (Raffles, 1821). The IUCN Red List of Threatened Species 2015: https://doi.org/10.2305/IUCN.UK.2015-2.RLTS.T136297A61978576.en"
+          }
+        ]
+      },
+      "lastCrawled": "2026-08-28T18:56:24.836+00:00",
+      "http://rs.tdwg.org/dwc/terms/acceptedNameUsageID": "136297",
+      "http://rs.tdwg.org/dwc/terms/genus": "Tragulus",
+      "http://rs.tdwg.org/dwc/terms/kingdom": "ANIMALIA",
+      "http://rs.tdwg.org/dwc/terms/class": "MAMMALIA",
+      "http://rs.tdwg.org/dwc/terms/taxonID": "136297",
+      "http://rs.tdwg.org/dwc/terms/taxonomicStatus": "accepted",
+      "http://rs.tdwg.org/dwc/terms/order": "ARTIODACTYLA",
+      "http://rs.tdwg.org/dwc/terms/taxonRank": "species",
+      "http://rs.tdwg.org/dwc/terms/specificEpithet": "kanchil",
+      "http://rs.tdwg.org/dwc/terms/scientificNameAuthorship": "(Raffles, 1821)",
+      "http://purl.org/dc/terms/bibliographicCitation": "Timmins, R. & Duckworth, J.W. 2015. Tragulus kanchil (Raffles, 1821). The IUCN Red List of Threatened Species 2015: https://doi.org/10.2305/IUCN.UK.2015-2.RLTS.T136297A61978576.en",
+      "http://rs.tdwg.org/dwc/terms/family": "TRAGULIDAE",
+      "http://purl.org/dc/terms/references": "https://www.iucnredlist.org/species/136297/61978576",
+      "http://rs.tdwg.org/dwc/terms/scientificName": "Tragulus kanchil (Raffles, 1821)",
+      "http://rs.tdwg.org/dwc/terms/phylum": "CHORDATA"
+    }
+  },
+  {
+    "id": "lesser-dog-faced-fruit-bat",
+    "scientific": "Cynopterus brachyotis",
+    "retrievedAt": "2026-09-07T08:18:12.783Z",
+    "sourceUrl": "https://www.gbif.org/dataset/19491596-35ae-4a91-9a98-85cf505f1bd3/taxon/6103",
+    "match": {
+      "key": 176679141,
+      "datasetKey": "19491596-35ae-4a91-9a98-85cf505f1bd3",
+      "nubKey": 2432837,
+      "parentKey": 336606971,
+      "parent": "Cynopterus",
+      "kingdom": "ANIMALIA",
+      "phylum": "CHORDATA",
+      "order": "CHIROPTERA",
+      "family": "PTEROPODIDAE",
+      "genus": "Cynopterus",
+      "species": "Cynopterus brachyotis",
+      "kingdomKey": 336598482,
+      "phylumKey": 336598673,
+      "classKey": 336605913,
+      "orderKey": 336606595,
+      "familyKey": 336606920,
+      "genusKey": 336606971,
+      "speciesKey": 176679141,
+      "scientificName": "Cynopterus brachyotis (Müller, 1838)",
+      "canonicalName": "Cynopterus brachyotis",
+      "authorship": "(Müller, 1838)",
+      "nameType": "SCIENTIFIC",
+      "taxonomicStatus": "ACCEPTED",
+      "rank": "SPECIES",
+      "origin": "SOURCE",
+      "numDescendants": 0,
+      "numOccurrences": 0,
+      "taxonID": "6103",
+      "habitats": [],
+      "nomenclaturalStatus": [],
+      "threatStatuses": [
+        "LEAST_CONCERN"
+      ],
+      "descriptions": [],
+      "vernacularNames": [
+        {
+          "vernacularName": "Common Short-nosed Fruit Bat",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Lesser Dog-faced Fruit Bat",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Lesser Short-nosed Fruit Bat",
+          "language": "eng"
+        }
+      ],
+      "synonym": false,
+      "higherClassificationMap": {
+        "336598482": "ANIMALIA",
+        "336598673": "CHORDATA",
+        "336605913": "MAMMALIA",
+        "336606595": "CHIROPTERA",
+        "336606920": "PTEROPODIDAE",
+        "336606971": "Cynopterus"
+      },
+      "class": "MAMMALIA"
+    },
+    "references": {
+      "key": 176679141,
+      "extensions": {
+        "http://rs.gbif.org/terms/1.0/VernacularName": [
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Common Short-nosed Fruit Bat",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Lesser Dog-faced Fruit Bat",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "true"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Lesser Short-nosed Fruit Bat",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          }
+        ],
+        "http://rs.gbif.org/terms/1.0/Distribution": [
+          {
+            "http://rs.tdwg.org/dwc/terms/occurrenceStatus": "Present",
+            "http://iucn.org/terms/threatStatus": "Least Concern",
+            "http://rs.tdwg.org/dwc/terms/locality": "Global",
+            "http://purl.org/dc/terms/source": "Csorba, G., Bumrungsri, S., Bates, P., Gumal, M., Kingston, T., Molur, S. & Srinivasulu, C. 2019. Cynopterus brachyotis (Müller, 1838). The IUCN Red List of Threatened Species 2019: https://doi.org/10.2305/IUCN.UK.2019-3.RLTS.T6103A22113381.en"
+          }
+        ]
+      },
+      "lastCrawled": "2026-08-28T18:56:24.836+00:00",
+      "http://rs.tdwg.org/dwc/terms/acceptedNameUsageID": "6103",
+      "http://rs.tdwg.org/dwc/terms/genus": "Cynopterus",
+      "http://rs.tdwg.org/dwc/terms/kingdom": "ANIMALIA",
+      "http://rs.tdwg.org/dwc/terms/class": "MAMMALIA",
+      "http://rs.tdwg.org/dwc/terms/taxonID": "6103",
+      "http://rs.tdwg.org/dwc/terms/taxonomicStatus": "accepted",
+      "http://rs.tdwg.org/dwc/terms/order": "CHIROPTERA",
+      "http://rs.tdwg.org/dwc/terms/taxonRank": "species",
+      "http://rs.tdwg.org/dwc/terms/specificEpithet": "brachyotis",
+      "http://rs.tdwg.org/dwc/terms/scientificNameAuthorship": "(Müller, 1838)",
+      "http://purl.org/dc/terms/bibliographicCitation": "Csorba, G., Bumrungsri, S., Bates, P., Gumal, M., Kingston, T., Molur, S. & Srinivasulu, C. 2019. Cynopterus brachyotis (Müller, 1838). The IUCN Red List of Threatened Species 2019: https://doi.org/10.2305/IUCN.UK.2019-3.RLTS.T6103A22113381.en",
+      "http://rs.tdwg.org/dwc/terms/family": "PTEROPODIDAE",
+      "http://purl.org/dc/terms/references": "https://www.iucnredlist.org/species/6103/22113381",
+      "http://rs.tdwg.org/dwc/terms/scientificName": "Cynopterus brachyotis (Müller, 1838)",
+      "http://rs.tdwg.org/dwc/terms/phylum": "CHORDATA"
+    }
+  },
+  {
+    "id": "javan-myna",
+    "scientific": "Acridotheres javanicus",
+    "retrievedAt": "2026-09-07T08:18:13.179Z",
+    "sourceUrl": "https://www.gbif.org/dataset/19491596-35ae-4a91-9a98-85cf505f1bd3/taxon/103871334",
+    "match": {
+      "key": 176631807,
+      "datasetKey": "19491596-35ae-4a91-9a98-85cf505f1bd3",
+      "nubKey": 5845375,
+      "parentKey": 336609941,
+      "parent": "Acridotheres",
+      "kingdom": "ANIMALIA",
+      "phylum": "CHORDATA",
+      "order": "PASSERIFORMES",
+      "family": "STURNIDAE",
+      "genus": "Acridotheres",
+      "species": "Acridotheres javanicus",
+      "kingdomKey": 336598482,
+      "phylumKey": 336598673,
+      "classKey": 336606478,
+      "orderKey": 336608839,
+      "familyKey": 336609909,
+      "genusKey": 336609941,
+      "speciesKey": 176631807,
+      "scientificName": "Acridotheres javanicus Cabanis, 1851",
+      "canonicalName": "Acridotheres javanicus",
+      "authorship": "Cabanis, 1851",
+      "nameType": "SCIENTIFIC",
+      "taxonomicStatus": "ACCEPTED",
+      "rank": "SPECIES",
+      "origin": "SOURCE",
+      "numDescendants": 0,
+      "numOccurrences": 0,
+      "taxonID": "103871334",
+      "habitats": [],
+      "nomenclaturalStatus": [],
+      "threatStatuses": [
+        "VULNERABLE"
+      ],
+      "descriptions": [],
+      "vernacularNames": [
+        {
+          "vernacularName": "Javan Myna",
+          "language": "eng"
+        }
+      ],
+      "synonym": false,
+      "higherClassificationMap": {
+        "336598482": "ANIMALIA",
+        "336598673": "CHORDATA",
+        "336606478": "AVES",
+        "336608839": "PASSERIFORMES",
+        "336609909": "STURNIDAE",
+        "336609941": "Acridotheres"
+      },
+      "class": "AVES"
+    },
+    "references": {
+      "key": 176631807,
+      "extensions": {
+        "http://rs.gbif.org/terms/1.0/VernacularName": [
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Javan Myna",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "true"
+          }
+        ],
+        "http://rs.gbif.org/terms/1.0/Distribution": [
+          {
+            "http://rs.tdwg.org/dwc/terms/occurrenceStatus": "Present",
+            "http://iucn.org/terms/threatStatus": "Vulnerable",
+            "http://rs.tdwg.org/dwc/terms/locality": "Global",
+            "http://purl.org/dc/terms/source": "BirdLife International 2020. Acridotheres javanicus Cabanis, 1851. The IUCN Red List of Threatened Species 2020: https://doi.org/10.2305/IUCN.UK.2020-3.RLTS.T103871334A176499647.en"
+          }
+        ]
+      },
+      "lastCrawled": "2026-08-28T18:56:24.836+00:00",
+      "http://rs.tdwg.org/dwc/terms/acceptedNameUsageID": "103871334",
+      "http://rs.tdwg.org/dwc/terms/genus": "Acridotheres",
+      "http://rs.tdwg.org/dwc/terms/kingdom": "ANIMALIA",
+      "http://rs.tdwg.org/dwc/terms/class": "AVES",
+      "http://rs.tdwg.org/dwc/terms/taxonID": "103871334",
+      "http://rs.tdwg.org/dwc/terms/taxonomicStatus": "accepted",
+      "http://rs.tdwg.org/dwc/terms/order": "PASSERIFORMES",
+      "http://rs.tdwg.org/dwc/terms/taxonRank": "species",
+      "http://rs.tdwg.org/dwc/terms/specificEpithet": "javanicus",
+      "http://rs.tdwg.org/dwc/terms/scientificNameAuthorship": "Cabanis, 1851",
+      "http://purl.org/dc/terms/bibliographicCitation": "BirdLife International 2020. Acridotheres javanicus Cabanis, 1851. The IUCN Red List of Threatened Species 2020: https://doi.org/10.2305/IUCN.UK.2020-3.RLTS.T103871334A176499647.en",
+      "http://rs.tdwg.org/dwc/terms/family": "STURNIDAE",
+      "http://purl.org/dc/terms/references": "https://www.iucnredlist.org/species/103871334/176499647",
+      "http://rs.tdwg.org/dwc/terms/scientificName": "Acridotheres javanicus Cabanis, 1851",
+      "http://rs.tdwg.org/dwc/terms/phylum": "CHORDATA"
+    }
+  },
+  {
+    "id": "house-crow",
+    "scientific": "Corvus splendens",
+    "retrievedAt": "2026-09-07T08:18:13.583Z",
+    "sourceUrl": "https://www.gbif.org/dataset/19491596-35ae-4a91-9a98-85cf505f1bd3/taxon/22705938",
+    "match": {
+      "key": 176650556,
+      "datasetKey": "19491596-35ae-4a91-9a98-85cf505f1bd3",
+      "nubKey": 2482499,
+      "parentKey": 336609436,
+      "parent": "Corvus",
+      "kingdom": "ANIMALIA",
+      "phylum": "CHORDATA",
+      "order": "PASSERIFORMES",
+      "family": "CORVIDAE",
+      "genus": "Corvus",
+      "species": "Corvus splendens",
+      "kingdomKey": 336598482,
+      "phylumKey": 336598673,
+      "classKey": 336606478,
+      "orderKey": 336608839,
+      "familyKey": 336609419,
+      "genusKey": 336609436,
+      "speciesKey": 176650556,
+      "scientificName": "Corvus splendens Vieillot, 1817",
+      "canonicalName": "Corvus splendens",
+      "authorship": "Vieillot, 1817",
+      "nameType": "SCIENTIFIC",
+      "taxonomicStatus": "ACCEPTED",
+      "rank": "SPECIES",
+      "origin": "SOURCE",
+      "numDescendants": 0,
+      "numOccurrences": 0,
+      "taxonID": "22705938",
+      "habitats": [],
+      "nomenclaturalStatus": [],
+      "threatStatuses": [
+        "LEAST_CONCERN"
+      ],
+      "descriptions": [],
+      "vernacularNames": [
+        {
+          "vernacularName": "House Crow",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Indian House Crow",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Corbeau d'Inde",
+          "language": "fra"
+        }
+      ],
+      "synonym": false,
+      "higherClassificationMap": {
+        "336598482": "ANIMALIA",
+        "336598673": "CHORDATA",
+        "336606478": "AVES",
+        "336608839": "PASSERIFORMES",
+        "336609419": "CORVIDAE",
+        "336609436": "Corvus"
+      },
+      "class": "AVES"
+    },
+    "references": {
+      "key": 176650556,
+      "extensions": {
+        "http://rs.gbif.org/terms/1.0/VernacularName": [
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "House Crow",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "true"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Indian House Crow",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "fra",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Corbeau d'Inde",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          }
+        ],
+        "http://rs.gbif.org/terms/1.0/Distribution": [
+          {
+            "http://rs.tdwg.org/dwc/terms/occurrenceStatus": "Present",
+            "http://iucn.org/terms/threatStatus": "Least Concern",
+            "http://rs.tdwg.org/dwc/terms/locality": "Global",
+            "http://purl.org/dc/terms/source": "BirdLife International 2018. Corvus splendens Vieillot, 1817. The IUCN Red List of Threatened Species 2018: https://doi.org/10.2305/IUCN.UK.2018-2.RLTS.T22705938A131944731.en"
+          }
+        ]
+      },
+      "lastCrawled": "2026-08-28T18:56:24.836+00:00",
+      "http://rs.tdwg.org/dwc/terms/acceptedNameUsageID": "22705938",
+      "http://rs.tdwg.org/dwc/terms/genus": "Corvus",
+      "http://rs.tdwg.org/dwc/terms/kingdom": "ANIMALIA",
+      "http://rs.tdwg.org/dwc/terms/class": "AVES",
+      "http://rs.tdwg.org/dwc/terms/taxonID": "22705938",
+      "http://rs.tdwg.org/dwc/terms/taxonomicStatus": "accepted",
+      "http://rs.tdwg.org/dwc/terms/order": "PASSERIFORMES",
+      "http://rs.tdwg.org/dwc/terms/taxonRank": "species",
+      "http://rs.tdwg.org/dwc/terms/specificEpithet": "splendens",
+      "http://rs.tdwg.org/dwc/terms/scientificNameAuthorship": "Vieillot, 1817",
+      "http://purl.org/dc/terms/bibliographicCitation": "BirdLife International 2018. Corvus splendens Vieillot, 1817. The IUCN Red List of Threatened Species 2018: https://doi.org/10.2305/IUCN.UK.2018-2.RLTS.T22705938A131944731.en",
+      "http://rs.tdwg.org/dwc/terms/family": "CORVIDAE",
+      "http://purl.org/dc/terms/references": "https://www.iucnredlist.org/species/22705938/131944731",
+      "http://rs.tdwg.org/dwc/terms/scientificName": "Corvus splendens Vieillot, 1817",
+      "http://rs.tdwg.org/dwc/terms/phylum": "CHORDATA"
+    }
+  },
+  {
+    "id": "black-naped-oriole",
+    "scientific": "Oriolus chinensis",
+    "retrievedAt": "2026-09-07T08:18:13.985Z",
+    "sourceUrl": "https://www.gbif.org/dataset/19491596-35ae-4a91-9a98-85cf505f1bd3/taxon/22706394",
+    "match": {
+      "key": 176651168,
+      "datasetKey": "19491596-35ae-4a91-9a98-85cf505f1bd3",
+      "nubKey": 9750846,
+      "parentKey": 336609388,
+      "parent": "Oriolus",
+      "kingdom": "ANIMALIA",
+      "phylum": "CHORDATA",
+      "order": "PASSERIFORMES",
+      "family": "ORIOLIDAE",
+      "genus": "Oriolus",
+      "species": "Oriolus chinensis",
+      "kingdomKey": 336598482,
+      "phylumKey": 336598673,
+      "classKey": 336606478,
+      "orderKey": 336608839,
+      "familyKey": 336609384,
+      "genusKey": 336609388,
+      "speciesKey": 176651168,
+      "scientificName": "Oriolus chinensis Linnaeus, 1766",
+      "canonicalName": "Oriolus chinensis",
+      "authorship": "Linnaeus, 1766",
+      "nameType": "SCIENTIFIC",
+      "taxonomicStatus": "ACCEPTED",
+      "rank": "SPECIES",
+      "origin": "SOURCE",
+      "numDescendants": 0,
+      "numOccurrences": 0,
+      "taxonID": "22706394",
+      "habitats": [],
+      "nomenclaturalStatus": [],
+      "threatStatuses": [
+        "LEAST_CONCERN"
+      ],
+      "descriptions": [],
+      "vernacularNames": [
+        {
+          "vernacularName": "Black-naped Oriole",
+          "language": "eng"
+        }
+      ],
+      "synonym": false,
+      "higherClassificationMap": {
+        "336598482": "ANIMALIA",
+        "336598673": "CHORDATA",
+        "336606478": "AVES",
+        "336608839": "PASSERIFORMES",
+        "336609384": "ORIOLIDAE",
+        "336609388": "Oriolus"
+      },
+      "class": "AVES"
+    },
+    "references": {
+      "key": 176651168,
+      "extensions": {
+        "http://rs.gbif.org/terms/1.0/VernacularName": [
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Black-naped Oriole",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "true"
+          }
+        ],
+        "http://rs.gbif.org/terms/1.0/Distribution": [
+          {
+            "http://rs.tdwg.org/dwc/terms/occurrenceStatus": "Present",
+            "http://iucn.org/terms/threatStatus": "Least Concern",
+            "http://rs.tdwg.org/dwc/terms/locality": "Global",
+            "http://purl.org/dc/terms/source": "BirdLife International 2018. Oriolus chinensis Linnaeus, 1766. The IUCN Red List of Threatened Species 2018: https://doi.org/10.2305/IUCN.UK.2018-2.RLTS.T22706394A130376308.en"
+          }
+        ]
+      },
+      "lastCrawled": "2026-08-28T18:56:24.836+00:00",
+      "http://rs.tdwg.org/dwc/terms/acceptedNameUsageID": "22706394",
+      "http://rs.tdwg.org/dwc/terms/genus": "Oriolus",
+      "http://rs.tdwg.org/dwc/terms/kingdom": "ANIMALIA",
+      "http://rs.tdwg.org/dwc/terms/class": "AVES",
+      "http://rs.tdwg.org/dwc/terms/taxonID": "22706394",
+      "http://rs.tdwg.org/dwc/terms/taxonomicStatus": "accepted",
+      "http://rs.tdwg.org/dwc/terms/order": "PASSERIFORMES",
+      "http://rs.tdwg.org/dwc/terms/taxonRank": "species",
+      "http://rs.tdwg.org/dwc/terms/specificEpithet": "chinensis",
+      "http://rs.tdwg.org/dwc/terms/scientificNameAuthorship": "Linnaeus, 1766",
+      "http://purl.org/dc/terms/bibliographicCitation": "BirdLife International 2018. Oriolus chinensis Linnaeus, 1766. The IUCN Red List of Threatened Species 2018: https://doi.org/10.2305/IUCN.UK.2018-2.RLTS.T22706394A130376308.en",
+      "http://rs.tdwg.org/dwc/terms/family": "ORIOLIDAE",
+      "http://purl.org/dc/terms/references": "https://www.iucnredlist.org/species/22706394/130376308",
+      "http://rs.tdwg.org/dwc/terms/scientificName": "Oriolus chinensis Linnaeus, 1766",
+      "http://rs.tdwg.org/dwc/terms/phylum": "CHORDATA"
+    }
+  },
+  {
+    "id": "collared-kingfisher",
+    "scientific": "Todiramphus chloris",
+    "retrievedAt": "2026-09-07T08:18:14.404Z",
+    "sourceUrl": "https://www.gbif.org/dataset/19491596-35ae-4a91-9a98-85cf505f1bd3/taxon/22683399",
+    "match": {
+      "key": 176609729,
+      "datasetKey": "19491596-35ae-4a91-9a98-85cf505f1bd3",
+      "nubKey": 2475742,
+      "parentKey": 336606800,
+      "parent": "Todiramphus",
+      "kingdom": "ANIMALIA",
+      "phylum": "CHORDATA",
+      "order": "CORACIIFORMES",
+      "family": "ALCEDINIDAE",
+      "genus": "Todiramphus",
+      "species": "Todiramphus chloris",
+      "kingdomKey": 336598482,
+      "phylumKey": 336598673,
+      "classKey": 336606478,
+      "orderKey": 336606772,
+      "familyKey": 336606783,
+      "genusKey": 336606800,
+      "speciesKey": 176609729,
+      "scientificName": "Todiramphus chloris (Boddaert, 1783)",
+      "canonicalName": "Todiramphus chloris",
+      "authorship": "(Boddaert, 1783)",
+      "nameType": "SCIENTIFIC",
+      "taxonomicStatus": "ACCEPTED",
+      "rank": "SPECIES",
+      "origin": "SOURCE",
+      "numDescendants": 0,
+      "numOccurrences": 0,
+      "taxonID": "22683399",
+      "habitats": [],
+      "nomenclaturalStatus": [],
+      "threatStatuses": [
+        "LEAST_CONCERN"
+      ],
+      "descriptions": [],
+      "vernacularNames": [
+        {
+          "vernacularName": "رفراف مطوق",
+          "language": "ara"
+        },
+        {
+          "vernacularName": "Collared Kingfisher",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "White-collared Kingfisher",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Martin-chasseur à collier blanc",
+          "language": "fra"
+        }
+      ],
+      "synonym": false,
+      "higherClassificationMap": {
+        "336598482": "ANIMALIA",
+        "336598673": "CHORDATA",
+        "336606478": "AVES",
+        "336606772": "CORACIIFORMES",
+        "336606783": "ALCEDINIDAE",
+        "336606800": "Todiramphus"
+      },
+      "class": "AVES"
+    },
+    "references": {
+      "key": 176609729,
+      "extensions": {
+        "http://rs.gbif.org/terms/1.0/VernacularName": [
+          {
+            "http://purl.org/dc/terms/language": "ara",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "رفراف مطوق",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Collared Kingfisher",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "true"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "White-collared Kingfisher",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "fra",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Martin-chasseur à collier blanc",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          }
+        ],
+        "http://rs.gbif.org/terms/1.0/Distribution": [
+          {
+            "http://rs.tdwg.org/dwc/terms/occurrenceStatus": "Present",
+            "http://iucn.org/terms/threatStatus": "Least Concern",
+            "http://rs.tdwg.org/dwc/terms/locality": "Global",
+            "http://purl.org/dc/terms/source": "BirdLife International 2024. Todiramphus chloris (Boddaert, 1783). The IUCN Red List of Threatened Species 2024: https://doi.org/10.2305/IUCN.UK.2024-2.RLTS.T22683399A263685424.en"
+          }
+        ]
+      },
+      "lastCrawled": "2026-08-28T18:56:24.836+00:00",
+      "http://rs.tdwg.org/dwc/terms/acceptedNameUsageID": "22683399",
+      "http://rs.tdwg.org/dwc/terms/genus": "Todiramphus",
+      "http://rs.tdwg.org/dwc/terms/kingdom": "ANIMALIA",
+      "http://rs.tdwg.org/dwc/terms/class": "AVES",
+      "http://rs.tdwg.org/dwc/terms/taxonID": "22683399",
+      "http://rs.tdwg.org/dwc/terms/taxonomicStatus": "accepted",
+      "http://rs.tdwg.org/dwc/terms/order": "CORACIIFORMES",
+      "http://rs.tdwg.org/dwc/terms/taxonRank": "species",
+      "http://rs.tdwg.org/dwc/terms/specificEpithet": "chloris",
+      "http://rs.tdwg.org/dwc/terms/scientificNameAuthorship": "(Boddaert, 1783)",
+      "http://purl.org/dc/terms/bibliographicCitation": "BirdLife International 2024. Todiramphus chloris (Boddaert, 1783). The IUCN Red List of Threatened Species 2024: https://doi.org/10.2305/IUCN.UK.2024-2.RLTS.T22683399A263685424.en",
+      "http://rs.tdwg.org/dwc/terms/family": "ALCEDINIDAE",
+      "http://purl.org/dc/terms/references": "https://www.iucnredlist.org/species/22683399/263685424",
+      "http://rs.tdwg.org/dwc/terms/scientificName": "Todiramphus chloris (Boddaert, 1783)",
+      "http://rs.tdwg.org/dwc/terms/phylum": "CHORDATA"
+    }
+  },
+  {
+    "id": "equatorial-spitting-cobra",
+    "scientific": "Naja sumatrana",
+    "retrievedAt": "2026-09-07T08:18:14.804Z",
+    "sourceUrl": "https://www.gbif.org/dataset/19491596-35ae-4a91-9a98-85cf505f1bd3/taxon/184073",
+    "match": {
+      "key": 176722678,
+      "datasetKey": "19491596-35ae-4a91-9a98-85cf505f1bd3",
+      "nubKey": 7992764,
+      "parentKey": 336602270,
+      "parent": "Naja",
+      "kingdom": "ANIMALIA",
+      "phylum": "CHORDATA",
+      "order": "SQUAMATA",
+      "family": "ELAPIDAE",
+      "genus": "Naja",
+      "species": "Naja sumatrana",
+      "kingdomKey": 336598482,
+      "phylumKey": 336598673,
+      "classKey": 336598831,
+      "orderKey": 336599223,
+      "familyKey": 336602254,
+      "genusKey": 336602270,
+      "speciesKey": 176722678,
+      "scientificName": "Naja sumatrana Müller, 1890",
+      "canonicalName": "Naja sumatrana",
+      "authorship": "Müller, 1890",
+      "nameType": "SCIENTIFIC",
+      "taxonomicStatus": "ACCEPTED",
+      "rank": "SPECIES",
+      "origin": "SOURCE",
+      "numDescendants": 0,
+      "numOccurrences": 0,
+      "taxonID": "184073",
+      "habitats": [],
+      "nomenclaturalStatus": [],
+      "threatStatuses": [
+        "LEAST_CONCERN"
+      ],
+      "descriptions": [],
+      "vernacularNames": [
+        {
+          "vernacularName": "Black Spitting Cobra",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Equatorial Spitting Cobra",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Sumatran Spitting Cobra",
+          "language": "eng"
+        }
+      ],
+      "synonym": false,
+      "higherClassificationMap": {
+        "336598482": "ANIMALIA",
+        "336598673": "CHORDATA",
+        "336598831": "REPTILIA",
+        "336599223": "SQUAMATA",
+        "336602254": "ELAPIDAE",
+        "336602270": "Naja"
+      },
+      "class": "REPTILIA"
+    },
+    "references": {
+      "key": 176722678,
+      "extensions": {
+        "http://rs.gbif.org/terms/1.0/VernacularName": [
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Black Spitting Cobra",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Equatorial Spitting Cobra",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "true"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Sumatran Spitting Cobra",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          }
+        ],
+        "http://rs.gbif.org/terms/1.0/Distribution": [
+          {
+            "http://rs.tdwg.org/dwc/terms/occurrenceStatus": "Present",
+            "http://iucn.org/terms/threatStatus": "Least Concern",
+            "http://rs.tdwg.org/dwc/terms/locality": "Global",
+            "http://purl.org/dc/terms/source": "Grismer, L., Chan-Ard, T., Diesmos, A.C. & Sy, E. 2012. Naja sumatrana Müller, 1890. The IUCN Red List of Threatened Species 2012: https://doi.org/10.2305/IUCN.UK.2012-1.RLTS.T184073A1748598.en"
+          }
+        ]
+      },
+      "lastCrawled": "2026-08-28T18:56:24.836+00:00",
+      "http://rs.tdwg.org/dwc/terms/acceptedNameUsageID": "184073",
+      "http://rs.tdwg.org/dwc/terms/genus": "Naja",
+      "http://rs.tdwg.org/dwc/terms/kingdom": "ANIMALIA",
+      "http://rs.tdwg.org/dwc/terms/class": "REPTILIA",
+      "http://rs.tdwg.org/dwc/terms/taxonID": "184073",
+      "http://rs.tdwg.org/dwc/terms/taxonomicStatus": "accepted",
+      "http://rs.tdwg.org/dwc/terms/order": "SQUAMATA",
+      "http://rs.tdwg.org/dwc/terms/taxonRank": "species",
+      "http://rs.tdwg.org/dwc/terms/specificEpithet": "sumatrana",
+      "http://rs.tdwg.org/dwc/terms/scientificNameAuthorship": "Müller, 1890",
+      "http://purl.org/dc/terms/bibliographicCitation": "Grismer, L., Chan-Ard, T., Diesmos, A.C. & Sy, E. 2012. Naja sumatrana Müller, 1890. The IUCN Red List of Threatened Species 2012: https://doi.org/10.2305/IUCN.UK.2012-1.RLTS.T184073A1748598.en",
+      "http://rs.tdwg.org/dwc/terms/family": "ELAPIDAE",
+      "http://purl.org/dc/terms/references": "https://www.iucnredlist.org/species/184073/1748598",
+      "http://rs.tdwg.org/dwc/terms/scientificName": "Naja sumatrana Müller, 1890",
+      "http://rs.tdwg.org/dwc/terms/phylum": "CHORDATA"
+    }
+  },
+  {
+    "id": "common-house-gecko",
+    "scientific": "Hemidactylus frenatus",
+    "retrievedAt": "2026-09-07T08:18:15.200Z",
+    "sourceUrl": "https://www.gbif.org/dataset/19491596-35ae-4a91-9a98-85cf505f1bd3/taxon/99156022",
+    "match": {
+      "key": 192007850,
+      "datasetKey": "19491596-35ae-4a91-9a98-85cf505f1bd3",
+      "nubKey": 5959976,
+      "parentKey": 336602401,
+      "parent": "Hemidactylus",
+      "kingdom": "ANIMALIA",
+      "phylum": "CHORDATA",
+      "order": "SQUAMATA",
+      "family": "GEKKONIDAE",
+      "genus": "Hemidactylus",
+      "species": "Hemidactylus frenatus",
+      "kingdomKey": 336598482,
+      "phylumKey": 336598673,
+      "classKey": 336598831,
+      "orderKey": 336599223,
+      "familyKey": 336602353,
+      "genusKey": 336602401,
+      "speciesKey": 192007850,
+      "scientificName": "Hemidactylus frenatus Schlegel in Duméril & Bibron, 1836",
+      "canonicalName": "Hemidactylus frenatus",
+      "authorship": "Schlegel in Duméril & Bibron, 1836",
+      "nameType": "SCIENTIFIC",
+      "taxonomicStatus": "ACCEPTED",
+      "rank": "SPECIES",
+      "origin": "SOURCE",
+      "numDescendants": 0,
+      "numOccurrences": 0,
+      "taxonID": "99156022",
+      "habitats": [],
+      "nomenclaturalStatus": [],
+      "threatStatuses": [
+        "LEAST_CONCERN"
+      ],
+      "descriptions": [],
+      "vernacularNames": [
+        {
+          "vernacularName": "Common House Gecko",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Pacific Gecko",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "South Asian House Gecko",
+          "language": "eng"
+        }
+      ],
+      "synonym": false,
+      "higherClassificationMap": {
+        "336598482": "ANIMALIA",
+        "336598673": "CHORDATA",
+        "336598831": "REPTILIA",
+        "336599223": "SQUAMATA",
+        "336602353": "GEKKONIDAE",
+        "336602401": "Hemidactylus"
+      },
+      "class": "REPTILIA"
+    },
+    "references": {
+      "key": 192007850,
+      "extensions": {
+        "http://rs.gbif.org/terms/1.0/VernacularName": [
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Common House Gecko",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "true"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Pacific Gecko",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "South Asian House Gecko",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          }
+        ],
+        "http://rs.gbif.org/terms/1.0/Distribution": [
+          {
+            "http://rs.tdwg.org/dwc/terms/occurrenceStatus": "Present",
+            "http://iucn.org/terms/threatStatus": "Least Concern",
+            "http://rs.tdwg.org/dwc/terms/locality": "Global",
+            "http://purl.org/dc/terms/source": "Wogan, G., Sumontha, M., Phimmachak, S., Lwin, K., Neang, T., Stuart, B.L., Thaksintham, W., Caicedo, J.R., Rivas, G., Tjaturadi, B. & Iskandar, D. 2021. Hemidactylus frenatus Schlegel in Duméril & Bibron, 1836. The IUCN Red List of Threatened Species 2021: https://doi.org/10.2305/IUCN.UK.2021-3.RLTS.T99156022A1434103.en"
+          }
+        ]
+      },
+      "lastCrawled": "2026-08-28T18:56:24.836+00:00",
+      "http://rs.tdwg.org/dwc/terms/acceptedNameUsageID": "99156022",
+      "http://rs.tdwg.org/dwc/terms/genus": "Hemidactylus",
+      "http://rs.tdwg.org/dwc/terms/kingdom": "ANIMALIA",
+      "http://rs.tdwg.org/dwc/terms/class": "REPTILIA",
+      "http://rs.tdwg.org/dwc/terms/taxonID": "99156022",
+      "http://rs.tdwg.org/dwc/terms/taxonomicStatus": "accepted",
+      "http://rs.tdwg.org/dwc/terms/order": "SQUAMATA",
+      "http://rs.tdwg.org/dwc/terms/taxonRank": "species",
+      "http://rs.tdwg.org/dwc/terms/specificEpithet": "frenatus",
+      "http://rs.tdwg.org/dwc/terms/scientificNameAuthorship": "Schlegel in Duméril & Bibron, 1836",
+      "http://purl.org/dc/terms/bibliographicCitation": "Wogan, G., Sumontha, M., Phimmachak, S., Lwin, K., Neang, T., Stuart, B.L., Thaksintham, W., Caicedo, J.R., Rivas, G., Tjaturadi, B. & Iskandar, D. 2021. Hemidactylus frenatus Schlegel in Duméril & Bibron, 1836. The IUCN Red List of Threatened Species 2021: https://doi.org/10.2305/IUCN.UK.2021-3.RLTS.T99156022A1434103.en",
+      "http://rs.tdwg.org/dwc/terms/family": "GEKKONIDAE",
+      "http://purl.org/dc/terms/references": "https://www.iucnredlist.org/species/99156022/1434103",
+      "http://rs.tdwg.org/dwc/terms/scientificName": "Hemidactylus frenatus Schlegel in Duméril & Bibron, 1836",
+      "http://rs.tdwg.org/dwc/terms/phylum": "CHORDATA"
+    }
+  },
+  {
+    "id": "banded-bullfrog",
+    "scientific": "Kaloula pulchra",
+    "retrievedAt": "2026-09-07T08:18:15.634Z",
+    "sourceUrl": "https://www.gbif.org/dataset/19491596-35ae-4a91-9a98-85cf505f1bd3/taxon/88333729",
+    "match": {
+      "key": 258094839,
+      "datasetKey": "19491596-35ae-4a91-9a98-85cf505f1bd3",
+      "nubKey": 2421636,
+      "parentKey": 336600555,
+      "parent": "Kaloula",
+      "kingdom": "ANIMALIA",
+      "phylum": "CHORDATA",
+      "order": "ANURA",
+      "family": "MICROHYLIDAE",
+      "genus": "Kaloula",
+      "species": "Kaloula pulchra",
+      "kingdomKey": 336598482,
+      "phylumKey": 336598673,
+      "classKey": 336598859,
+      "orderKey": 336599027,
+      "familyKey": 336600432,
+      "genusKey": 336600555,
+      "speciesKey": 258094839,
+      "scientificName": "Kaloula pulchra Gray, 1831",
+      "canonicalName": "Kaloula pulchra",
+      "authorship": "Gray, 1831",
+      "nameType": "SCIENTIFIC",
+      "taxonomicStatus": "ACCEPTED",
+      "rank": "SPECIES",
+      "origin": "SOURCE",
+      "numDescendants": 0,
+      "numOccurrences": 0,
+      "taxonID": "88333729",
+      "habitats": [],
+      "nomenclaturalStatus": [],
+      "threatStatuses": [
+        "LEAST_CONCERN"
+      ],
+      "descriptions": [],
+      "vernacularNames": [
+        {
+          "vernacularName": "Asiatic Painted Frog",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Banded Bullfrog",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Beautiful Kaloula",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Ceylon Kaloula",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Digging Frog",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Malayan Bullfrog",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Malaysian Narrowmouth Toad",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Painted Burrowing Frog",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Belentuk-pohon cantik",
+          "language": "ind"
+        },
+        {
+          "vernacularName": "花狭口蛙",
+          "language": "zho"
+        }
+      ],
+      "synonym": false,
+      "higherClassificationMap": {
+        "336598482": "ANIMALIA",
+        "336598673": "CHORDATA",
+        "336598859": "AMPHIBIA",
+        "336599027": "ANURA",
+        "336600432": "MICROHYLIDAE",
+        "336600555": "Kaloula"
+      },
+      "class": "AMPHIBIA"
+    },
+    "references": {
+      "key": 258094839,
+      "extensions": {
+        "http://rs.gbif.org/terms/1.0/VernacularName": [
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Asiatic Painted Frog",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Banded Bullfrog",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Beautiful Kaloula",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Ceylon Kaloula",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Digging Frog",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Malayan Bullfrog",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Malaysian Narrowmouth Toad",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "true"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Painted Burrowing Frog",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "ind",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Belentuk-pohon cantik",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "zho",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "花狭口蛙",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          }
+        ],
+        "http://rs.gbif.org/terms/1.0/Distribution": [
+          {
+            "http://rs.tdwg.org/dwc/terms/occurrenceStatus": "Present",
+            "http://iucn.org/terms/threatStatus": "Least Concern",
+            "http://rs.tdwg.org/dwc/terms/locality": "Global",
+            "http://purl.org/dc/terms/source": "IUCN SSC Amphibian Specialist Group 2022. Kaloula pulchra Gray, 1831. The IUCN Red List of Threatened Species 2022: https://doi.org/10.2305/IUCN.UK.2022-2.RLTS.T88333729A63887207.en"
+          }
+        ]
+      },
+      "lastCrawled": "2026-08-28T18:56:24.836+00:00",
+      "http://rs.tdwg.org/dwc/terms/acceptedNameUsageID": "88333729",
+      "http://rs.tdwg.org/dwc/terms/genus": "Kaloula",
+      "http://rs.tdwg.org/dwc/terms/kingdom": "ANIMALIA",
+      "http://rs.tdwg.org/dwc/terms/class": "AMPHIBIA",
+      "http://rs.tdwg.org/dwc/terms/taxonID": "88333729",
+      "http://rs.tdwg.org/dwc/terms/taxonomicStatus": "accepted",
+      "http://rs.tdwg.org/dwc/terms/order": "ANURA",
+      "http://rs.tdwg.org/dwc/terms/taxonRank": "species",
+      "http://rs.tdwg.org/dwc/terms/specificEpithet": "pulchra",
+      "http://rs.tdwg.org/dwc/terms/scientificNameAuthorship": "Gray, 1831",
+      "http://purl.org/dc/terms/bibliographicCitation": "IUCN SSC Amphibian Specialist Group 2022. Kaloula pulchra Gray, 1831. The IUCN Red List of Threatened Species 2022: https://doi.org/10.2305/IUCN.UK.2022-2.RLTS.T88333729A63887207.en",
+      "http://rs.tdwg.org/dwc/terms/family": "MICROHYLIDAE",
+      "http://purl.org/dc/terms/references": "https://www.iucnredlist.org/species/88333729/63887207",
+      "http://rs.tdwg.org/dwc/terms/scientificName": "Kaloula pulchra Gray, 1831",
+      "http://rs.tdwg.org/dwc/terms/phylum": "CHORDATA"
+    }
+  },
+  {
+    "id": "four-lined-tree-frog",
+    "scientific": "Polypedates leucomystax",
+    "retrievedAt": "2026-09-07T08:18:16.023Z",
+    "sourceUrl": "https://www.gbif.org/dataset/19491596-35ae-4a91-9a98-85cf505f1bd3/taxon/73729553",
+    "match": {
+      "key": 258095250,
+      "datasetKey": "19491596-35ae-4a91-9a98-85cf505f1bd3",
+      "nubKey": 2423785,
+      "parentKey": 336600883,
+      "parent": "Polypedates",
+      "kingdom": "ANIMALIA",
+      "phylum": "CHORDATA",
+      "order": "ANURA",
+      "family": "RHACOPHORIDAE",
+      "genus": "Polypedates",
+      "species": "Polypedates leucomystax",
+      "kingdomKey": 336598482,
+      "phylumKey": 336598673,
+      "classKey": 336598859,
+      "orderKey": 336599027,
+      "familyKey": 336600756,
+      "genusKey": 336600883,
+      "speciesKey": 258095250,
+      "scientificName": "Polypedates leucomystax (Gravenhorst, 1829)",
+      "canonicalName": "Polypedates leucomystax",
+      "authorship": "(Gravenhorst, 1829)",
+      "nameType": "SCIENTIFIC",
+      "taxonomicStatus": "ACCEPTED",
+      "rank": "SPECIES",
+      "origin": "SOURCE",
+      "numDescendants": 0,
+      "numOccurrences": 0,
+      "taxonID": "73729553",
+      "habitats": [],
+      "nomenclaturalStatus": [],
+      "threatStatuses": [
+        "LEAST_CONCERN"
+      ],
+      "descriptions": [],
+      "vernacularNames": [
+        {
+          "vernacularName": "Java Whipping Frog",
+          "language": "eng"
+        }
+      ],
+      "synonym": false,
+      "higherClassificationMap": {
+        "336598482": "ANIMALIA",
+        "336598673": "CHORDATA",
+        "336598859": "AMPHIBIA",
+        "336599027": "ANURA",
+        "336600756": "RHACOPHORIDAE",
+        "336600883": "Polypedates"
+      },
+      "class": "AMPHIBIA"
+    },
+    "references": {
+      "key": 258095250,
+      "extensions": {
+        "http://rs.gbif.org/terms/1.0/VernacularName": [
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Java Whipping Frog",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "true"
+          }
+        ],
+        "http://rs.gbif.org/terms/1.0/Distribution": [
+          {
+            "http://rs.tdwg.org/dwc/terms/occurrenceStatus": "Present",
+            "http://iucn.org/terms/threatStatus": "Least Concern",
+            "http://rs.tdwg.org/dwc/terms/locality": "Global",
+            "http://purl.org/dc/terms/source": "IUCN SSC Amphibian Specialist Group 2023. Polypedates leucomystax (Gravenhorst, 1829). The IUCN Red List of Threatened Species 2023: https://doi.org/10.2305/IUCN.UK.2023-1.RLTS.T73729553A63882856.en"
+          }
+        ]
+      },
+      "lastCrawled": "2026-08-28T18:56:24.836+00:00",
+      "http://rs.tdwg.org/dwc/terms/acceptedNameUsageID": "73729553",
+      "http://rs.tdwg.org/dwc/terms/genus": "Polypedates",
+      "http://rs.tdwg.org/dwc/terms/kingdom": "ANIMALIA",
+      "http://rs.tdwg.org/dwc/terms/class": "AMPHIBIA",
+      "http://rs.tdwg.org/dwc/terms/taxonID": "73729553",
+      "http://rs.tdwg.org/dwc/terms/taxonomicStatus": "accepted",
+      "http://rs.tdwg.org/dwc/terms/order": "ANURA",
+      "http://rs.tdwg.org/dwc/terms/taxonRank": "species",
+      "http://rs.tdwg.org/dwc/terms/specificEpithet": "leucomystax",
+      "http://rs.tdwg.org/dwc/terms/scientificNameAuthorship": "(Gravenhorst, 1829)",
+      "http://purl.org/dc/terms/bibliographicCitation": "IUCN SSC Amphibian Specialist Group 2023. Polypedates leucomystax (Gravenhorst, 1829). The IUCN Red List of Threatened Species 2023: https://doi.org/10.2305/IUCN.UK.2023-1.RLTS.T73729553A63882856.en",
+      "http://rs.tdwg.org/dwc/terms/family": "RHACOPHORIDAE",
+      "http://purl.org/dc/terms/references": "https://www.iucnredlist.org/species/73729553/63882856",
+      "http://rs.tdwg.org/dwc/terms/scientificName": "Polypedates leucomystax (Gravenhorst, 1829)",
+      "http://rs.tdwg.org/dwc/terms/phylum": "CHORDATA"
+    }
+  },
+  {
+    "id": "greater-mousedeer",
+    "scientific": "Tragulus napu",
+    "retrievedAt": "2026-09-07T08:18:16.434Z",
+    "sourceUrl": "https://www.gbif.org/dataset/19491596-35ae-4a91-9a98-85cf505f1bd3/taxon/41781",
+    "match": {
+      "key": 176668810,
+      "datasetKey": "19491596-35ae-4a91-9a98-85cf505f1bd3",
+      "nubKey": 5220186,
+      "parentKey": 336607775,
+      "parent": "Tragulus",
+      "kingdom": "ANIMALIA",
+      "phylum": "CHORDATA",
+      "order": "ARTIODACTYLA",
+      "family": "TRAGULIDAE",
+      "genus": "Tragulus",
+      "species": "Tragulus napu",
+      "kingdomKey": 336598482,
+      "phylumKey": 336598673,
+      "classKey": 336605913,
+      "orderKey": 336607553,
+      "familyKey": 336607772,
+      "genusKey": 336607775,
+      "speciesKey": 176668810,
+      "scientificName": "Tragulus napu (F. Cuvier, 1822)",
+      "canonicalName": "Tragulus napu",
+      "authorship": "(F. Cuvier, 1822)",
+      "nameType": "SCIENTIFIC",
+      "taxonomicStatus": "ACCEPTED",
+      "rank": "SPECIES",
+      "origin": "SOURCE",
+      "numDescendants": 0,
+      "numOccurrences": 0,
+      "taxonID": "41781",
+      "habitats": [],
+      "nomenclaturalStatus": [],
+      "threatStatuses": [
+        "LEAST_CONCERN"
+      ],
+      "descriptions": [],
+      "vernacularNames": [
+        {
+          "vernacularName": "Balabac Chevrotain",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Greater Indo-Malayan Chevrotain",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Greater Mousedeer",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Greater Oriental Chevrotain",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Larger Malay Chevrotain",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Larger Mousedeer",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Napu",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Chevrotain napu",
+          "language": "fra"
+        },
+        {
+          "vernacularName": "Grand tragul malais",
+          "language": "fra"
+        },
+        {
+          "vernacularName": "Napoh",
+          "language": "msa"
+        }
+      ],
+      "synonym": false,
+      "higherClassificationMap": {
+        "336598482": "ANIMALIA",
+        "336598673": "CHORDATA",
+        "336605913": "MAMMALIA",
+        "336607553": "ARTIODACTYLA",
+        "336607772": "TRAGULIDAE",
+        "336607775": "Tragulus"
+      },
+      "class": "MAMMALIA"
+    },
+    "references": {
+      "key": 176668810,
+      "extensions": {
+        "http://rs.gbif.org/terms/1.0/VernacularName": [
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Balabac Chevrotain",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Greater Indo-Malayan Chevrotain",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Greater Mousedeer",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Greater Oriental Chevrotain",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "true"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Larger Malay Chevrotain",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Larger Mousedeer",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Napu",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "fra",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Chevrotain napu",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "fra",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Grand tragul malais",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "msa",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Napoh",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          }
+        ],
+        "http://rs.gbif.org/terms/1.0/Distribution": [
+          {
+            "http://rs.tdwg.org/dwc/terms/occurrenceStatus": "Present",
+            "http://iucn.org/terms/threatStatus": "Least Concern",
+            "http://rs.tdwg.org/dwc/terms/locality": "Global",
+            "http://purl.org/dc/terms/source": "Timmins, R. & Duckworth, J.W. 2015. Tragulus napu (F. Cuvier, 1822). The IUCN Red List of Threatened Species 2015: https://doi.org/10.2305/IUCN.UK.2015-2.RLTS.T41781A61978315.en"
+          }
+        ]
+      },
+      "lastCrawled": "2026-08-28T18:56:24.836+00:00",
+      "http://rs.tdwg.org/dwc/terms/acceptedNameUsageID": "41781",
+      "http://rs.tdwg.org/dwc/terms/genus": "Tragulus",
+      "http://rs.tdwg.org/dwc/terms/kingdom": "ANIMALIA",
+      "http://rs.tdwg.org/dwc/terms/class": "MAMMALIA",
+      "http://rs.tdwg.org/dwc/terms/taxonID": "41781",
+      "http://rs.tdwg.org/dwc/terms/taxonomicStatus": "accepted",
+      "http://rs.tdwg.org/dwc/terms/order": "ARTIODACTYLA",
+      "http://rs.tdwg.org/dwc/terms/taxonRank": "species",
+      "http://rs.tdwg.org/dwc/terms/specificEpithet": "napu",
+      "http://rs.tdwg.org/dwc/terms/scientificNameAuthorship": "(F. Cuvier, 1822)",
+      "http://purl.org/dc/terms/bibliographicCitation": "Timmins, R. & Duckworth, J.W. 2015. Tragulus napu (F. Cuvier, 1822). The IUCN Red List of Threatened Species 2015: https://doi.org/10.2305/IUCN.UK.2015-2.RLTS.T41781A61978315.en",
+      "http://rs.tdwg.org/dwc/terms/family": "TRAGULIDAE",
+      "http://purl.org/dc/terms/references": "https://www.iucnredlist.org/species/41781/61978315",
+      "http://rs.tdwg.org/dwc/terms/scientificName": "Tragulus napu (F. Cuvier, 1822)",
+      "http://rs.tdwg.org/dwc/terms/phylum": "CHORDATA"
+    }
+  },
+  {
+    "id": "malayan-porcupine",
+    "scientific": "Hystrix brachyura",
+    "retrievedAt": "2026-09-07T08:18:16.864Z",
+    "sourceUrl": "https://www.gbif.org/dataset/19491596-35ae-4a91-9a98-85cf505f1bd3/taxon/10749",
+    "match": {
+      "key": 176672514,
+      "datasetKey": "19491596-35ae-4a91-9a98-85cf505f1bd3",
+      "nubKey": 5219890,
+      "parentKey": 336609014,
+      "parent": "Hystrix",
+      "kingdom": "ANIMALIA",
+      "phylum": "CHORDATA",
+      "order": "RODENTIA",
+      "family": "HYSTRICIDAE",
+      "genus": "Hystrix",
+      "species": "Hystrix brachyura",
+      "kingdomKey": 336598482,
+      "phylumKey": 336598673,
+      "classKey": 336605913,
+      "orderKey": 336607821,
+      "familyKey": 336609005,
+      "genusKey": 336609014,
+      "speciesKey": 176672514,
+      "scientificName": "Hystrix brachyura Linnaeus, 1758",
+      "canonicalName": "Hystrix brachyura",
+      "authorship": "Linnaeus, 1758",
+      "nameType": "SCIENTIFIC",
+      "taxonomicStatus": "ACCEPTED",
+      "rank": "SPECIES",
+      "origin": "SOURCE",
+      "numDescendants": 0,
+      "numOccurrences": 0,
+      "taxonID": "10749",
+      "habitats": [],
+      "nomenclaturalStatus": [],
+      "threatStatuses": [
+        "LEAST_CONCERN"
+      ],
+      "descriptions": [],
+      "vernacularNames": [
+        {
+          "vernacularName": "Himalayan Crestless Porcupine",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Malayan Porcupine",
+          "language": "eng"
+        }
+      ],
+      "synonym": false,
+      "higherClassificationMap": {
+        "336598482": "ANIMALIA",
+        "336598673": "CHORDATA",
+        "336605913": "MAMMALIA",
+        "336607821": "RODENTIA",
+        "336609005": "HYSTRICIDAE",
+        "336609014": "Hystrix"
+      },
+      "class": "MAMMALIA"
+    },
+    "references": {
+      "key": 176672514,
+      "extensions": {
+        "http://rs.gbif.org/terms/1.0/VernacularName": [
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Himalayan Crestless Porcupine",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Malayan Porcupine",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "true"
+          }
+        ],
+        "http://rs.gbif.org/terms/1.0/Distribution": [
+          {
+            "http://rs.tdwg.org/dwc/terms/occurrenceStatus": "Present",
+            "http://iucn.org/terms/threatStatus": "Least Concern",
+            "http://rs.tdwg.org/dwc/terms/locality": "Global",
+            "http://purl.org/dc/terms/source": "Lunde, D., Aplin, K. & Molur, S. 2016. Hystrix brachyura Linnaeus, 1758. The IUCN Red List of Threatened Species 2016: https://doi.org/10.2305/IUCN.UK.2016-3.RLTS.T10749A22232129.en"
+          }
+        ]
+      },
+      "lastCrawled": "2026-08-28T18:56:24.836+00:00",
+      "http://rs.tdwg.org/dwc/terms/acceptedNameUsageID": "10749",
+      "http://rs.tdwg.org/dwc/terms/genus": "Hystrix",
+      "http://rs.tdwg.org/dwc/terms/kingdom": "ANIMALIA",
+      "http://rs.tdwg.org/dwc/terms/class": "MAMMALIA",
+      "http://rs.tdwg.org/dwc/terms/taxonID": "10749",
+      "http://rs.tdwg.org/dwc/terms/taxonomicStatus": "accepted",
+      "http://rs.tdwg.org/dwc/terms/order": "RODENTIA",
+      "http://rs.tdwg.org/dwc/terms/taxonRank": "species",
+      "http://rs.tdwg.org/dwc/terms/specificEpithet": "brachyura",
+      "http://rs.tdwg.org/dwc/terms/scientificNameAuthorship": "Linnaeus, 1758",
+      "http://purl.org/dc/terms/bibliographicCitation": "Lunde, D., Aplin, K. & Molur, S. 2016. Hystrix brachyura Linnaeus, 1758. The IUCN Red List of Threatened Species 2016: https://doi.org/10.2305/IUCN.UK.2016-3.RLTS.T10749A22232129.en",
+      "http://rs.tdwg.org/dwc/terms/family": "HYSTRICIDAE",
+      "http://purl.org/dc/terms/references": "https://www.iucnredlist.org/species/10749/115099298",
+      "http://rs.tdwg.org/dwc/terms/scientificName": "Hystrix brachyura Linnaeus, 1758",
+      "http://rs.tdwg.org/dwc/terms/phylum": "CHORDATA"
+    }
+  },
+  {
+    "id": "horsfields-flying-squirrel",
+    "scientific": "Iomys horsfieldii",
+    "retrievedAt": "2026-09-07T08:18:17.252Z",
+    "sourceUrl": "https://www.gbif.org/dataset/19491596-35ae-4a91-9a98-85cf505f1bd3/taxon/10845",
+    "match": {
+      "key": 176670985,
+      "datasetKey": "19491596-35ae-4a91-9a98-85cf505f1bd3",
+      "nubKey": 2437357,
+      "parentKey": 336608485,
+      "parent": "Iomys",
+      "kingdom": "ANIMALIA",
+      "phylum": "CHORDATA",
+      "order": "RODENTIA",
+      "family": "SCIURIDAE",
+      "genus": "Iomys",
+      "species": "Iomys horsfieldii",
+      "kingdomKey": 336598482,
+      "phylumKey": 336598673,
+      "classKey": 336605913,
+      "orderKey": 336607821,
+      "familyKey": 336608449,
+      "genusKey": 336608485,
+      "speciesKey": 176670985,
+      "scientificName": "Iomys horsfieldii (Waterhouse, 1838)",
+      "canonicalName": "Iomys horsfieldii",
+      "authorship": "(Waterhouse, 1838)",
+      "nameType": "SCIENTIFIC",
+      "taxonomicStatus": "ACCEPTED",
+      "rank": "SPECIES",
+      "origin": "SOURCE",
+      "numDescendants": 0,
+      "numOccurrences": 0,
+      "taxonID": "10845",
+      "habitats": [],
+      "nomenclaturalStatus": [],
+      "threatStatuses": [
+        "LEAST_CONCERN"
+      ],
+      "descriptions": [],
+      "vernacularNames": [
+        {
+          "vernacularName": "Javanese Flying Squirrel",
+          "language": "eng"
+        }
+      ],
+      "synonym": false,
+      "higherClassificationMap": {
+        "336598482": "ANIMALIA",
+        "336598673": "CHORDATA",
+        "336605913": "MAMMALIA",
+        "336607821": "RODENTIA",
+        "336608449": "SCIURIDAE",
+        "336608485": "Iomys"
+      },
+      "class": "MAMMALIA"
+    },
+    "references": {
+      "key": 176670985,
+      "extensions": {
+        "http://rs.gbif.org/terms/1.0/VernacularName": [
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Javanese Flying Squirrel",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "true"
+          }
+        ],
+        "http://rs.gbif.org/terms/1.0/Distribution": [
+          {
+            "http://rs.tdwg.org/dwc/terms/occurrenceStatus": "Present",
+            "http://iucn.org/terms/threatStatus": "Least Concern",
+            "http://rs.tdwg.org/dwc/terms/locality": "Global",
+            "http://purl.org/dc/terms/source": "Aplin, K. & Lunde, D. 2016. Iomys horsfieldii (Waterhouse, 1838). The IUCN Red List of Threatened Species 2016: https://doi.org/10.2305/IUCN.UK.2016-3.RLTS.T10845A22249234.en"
+          }
+        ]
+      },
+      "lastCrawled": "2026-08-28T18:56:24.836+00:00",
+      "http://rs.tdwg.org/dwc/terms/acceptedNameUsageID": "10845",
+      "http://rs.tdwg.org/dwc/terms/genus": "Iomys",
+      "http://rs.tdwg.org/dwc/terms/kingdom": "ANIMALIA",
+      "http://rs.tdwg.org/dwc/terms/class": "MAMMALIA",
+      "http://rs.tdwg.org/dwc/terms/taxonID": "10845",
+      "http://rs.tdwg.org/dwc/terms/taxonomicStatus": "accepted",
+      "http://rs.tdwg.org/dwc/terms/order": "RODENTIA",
+      "http://rs.tdwg.org/dwc/terms/taxonRank": "species",
+      "http://rs.tdwg.org/dwc/terms/specificEpithet": "horsfieldii",
+      "http://rs.tdwg.org/dwc/terms/scientificNameAuthorship": "(Waterhouse, 1838)",
+      "http://purl.org/dc/terms/bibliographicCitation": "Aplin, K. & Lunde, D. 2016. Iomys horsfieldii (Waterhouse, 1838). The IUCN Red List of Threatened Species 2016: https://doi.org/10.2305/IUCN.UK.2016-3.RLTS.T10845A22249234.en",
+      "http://rs.tdwg.org/dwc/terms/family": "SCIURIDAE",
+      "http://purl.org/dc/terms/references": "https://www.iucnredlist.org/species/10845/115099730",
+      "http://rs.tdwg.org/dwc/terms/scientificName": "Iomys horsfieldii (Waterhouse, 1838)",
+      "http://rs.tdwg.org/dwc/terms/phylum": "CHORDATA"
+    }
+  },
+  {
+    "id": "red-cheeked-flying-squirrel",
+    "scientific": "Hylopetes spadiceus",
+    "retrievedAt": "2026-09-07T08:18:17.644Z",
+    "sourceUrl": "https://www.gbif.org/dataset/19491596-35ae-4a91-9a98-85cf505f1bd3/taxon/10607",
+    "match": {
+      "key": 176671036,
+      "datasetKey": "19491596-35ae-4a91-9a98-85cf505f1bd3",
+      "nubKey": 2437531,
+      "parentKey": 336608475,
+      "parent": "Hylopetes",
+      "kingdom": "ANIMALIA",
+      "phylum": "CHORDATA",
+      "order": "RODENTIA",
+      "family": "SCIURIDAE",
+      "genus": "Hylopetes",
+      "species": "Hylopetes spadiceus",
+      "kingdomKey": 336598482,
+      "phylumKey": 336598673,
+      "classKey": 336605913,
+      "orderKey": 336607821,
+      "familyKey": 336608449,
+      "genusKey": 336608475,
+      "speciesKey": 176671036,
+      "scientificName": "Hylopetes spadiceus (Blyth, 1847)",
+      "canonicalName": "Hylopetes spadiceus",
+      "authorship": "(Blyth, 1847)",
+      "nameType": "SCIENTIFIC",
+      "taxonomicStatus": "ACCEPTED",
+      "rank": "SPECIES",
+      "origin": "SOURCE",
+      "numDescendants": 0,
+      "numOccurrences": 0,
+      "taxonID": "10607",
+      "habitats": [],
+      "nomenclaturalStatus": [],
+      "threatStatuses": [
+        "LEAST_CONCERN"
+      ],
+      "descriptions": [],
+      "vernacularNames": [
+        {
+          "vernacularName": "Red-cheeked Flying Squirrel",
+          "language": "eng"
+        }
+      ],
+      "synonym": false,
+      "higherClassificationMap": {
+        "336598482": "ANIMALIA",
+        "336598673": "CHORDATA",
+        "336605913": "MAMMALIA",
+        "336607821": "RODENTIA",
+        "336608449": "SCIURIDAE",
+        "336608475": "Hylopetes"
+      },
+      "class": "MAMMALIA"
+    },
+    "references": {
+      "key": 176671036,
+      "extensions": {
+        "http://rs.gbif.org/terms/1.0/VernacularName": [
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Red-cheeked Flying Squirrel",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "true"
+          }
+        ],
+        "http://rs.gbif.org/terms/1.0/Distribution": [
+          {
+            "http://rs.tdwg.org/dwc/terms/occurrenceStatus": "Present",
+            "http://iucn.org/terms/threatStatus": "Least Concern",
+            "http://rs.tdwg.org/dwc/terms/locality": "Global",
+            "http://purl.org/dc/terms/source": "Duckworth, J.W. 2016. Hylopetes spadiceus (Blyth, 1847). The IUCN Red List of Threatened Species 2016: https://doi.org/10.2305/IUCN.UK.2016-3.RLTS.T10607A22244296.en"
+          }
+        ]
+      },
+      "lastCrawled": "2026-08-28T18:56:24.836+00:00",
+      "http://rs.tdwg.org/dwc/terms/acceptedNameUsageID": "10607",
+      "http://rs.tdwg.org/dwc/terms/genus": "Hylopetes",
+      "http://rs.tdwg.org/dwc/terms/kingdom": "ANIMALIA",
+      "http://rs.tdwg.org/dwc/terms/class": "MAMMALIA",
+      "http://rs.tdwg.org/dwc/terms/taxonID": "10607",
+      "http://rs.tdwg.org/dwc/terms/taxonomicStatus": "accepted",
+      "http://rs.tdwg.org/dwc/terms/order": "RODENTIA",
+      "http://rs.tdwg.org/dwc/terms/taxonRank": "species",
+      "http://rs.tdwg.org/dwc/terms/specificEpithet": "spadiceus",
+      "http://rs.tdwg.org/dwc/terms/scientificNameAuthorship": "(Blyth, 1847)",
+      "http://purl.org/dc/terms/bibliographicCitation": "Duckworth, J.W. 2016. Hylopetes spadiceus (Blyth, 1847). The IUCN Red List of Threatened Species 2016: https://doi.org/10.2305/IUCN.UK.2016-3.RLTS.T10607A22244296.en",
+      "http://rs.tdwg.org/dwc/terms/family": "SCIURIDAE",
+      "http://purl.org/dc/terms/references": "https://www.iucnredlist.org/species/10607/115098135",
+      "http://rs.tdwg.org/dwc/terms/scientificName": "Hylopetes spadiceus (Blyth, 1847)",
+      "http://rs.tdwg.org/dwc/terms/phylum": "CHORDATA"
+    }
+  },
+  {
+    "id": "small-toothed-palm-civet",
+    "scientific": "Arctogalidia trivirgata",
+    "retrievedAt": "2026-09-07T08:18:18.034Z",
+    "sourceUrl": "https://www.gbif.org/dataset/19491596-35ae-4a91-9a98-85cf505f1bd3/taxon/41691",
+    "match": {
+      "key": 176684519,
+      "datasetKey": "19491596-35ae-4a91-9a98-85cf505f1bd3",
+      "nubKey": 2434742,
+      "parentKey": 336606218,
+      "parent": "Arctogalidia",
+      "kingdom": "ANIMALIA",
+      "phylum": "CHORDATA",
+      "order": "CARNIVORA",
+      "family": "VIVERRIDAE",
+      "genus": "Arctogalidia",
+      "species": "Arctogalidia trivirgata",
+      "kingdomKey": 336598482,
+      "phylumKey": 336598673,
+      "classKey": 336605913,
+      "orderKey": 336606139,
+      "familyKey": 336606210,
+      "genusKey": 336606218,
+      "speciesKey": 176684519,
+      "scientificName": "Arctogalidia trivirgata (Gray, 1832)",
+      "canonicalName": "Arctogalidia trivirgata",
+      "authorship": "(Gray, 1832)",
+      "nameType": "SCIENTIFIC",
+      "taxonomicStatus": "ACCEPTED",
+      "rank": "SPECIES",
+      "origin": "SOURCE",
+      "numDescendants": 0,
+      "numOccurrences": 0,
+      "taxonID": "41691",
+      "habitats": [],
+      "nomenclaturalStatus": [],
+      "threatStatuses": [
+        "LEAST_CONCERN"
+      ],
+      "descriptions": [],
+      "vernacularNames": [
+        {
+          "vernacularName": "Streifenroller",
+          "language": "deu"
+        },
+        {
+          "vernacularName": "Small-toothed Palm Civet",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Three-striped Palm Civet",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Musang Akar",
+          "language": "ind"
+        }
+      ],
+      "synonym": false,
+      "higherClassificationMap": {
+        "336598482": "ANIMALIA",
+        "336598673": "CHORDATA",
+        "336605913": "MAMMALIA",
+        "336606139": "CARNIVORA",
+        "336606210": "VIVERRIDAE",
+        "336606218": "Arctogalidia"
+      },
+      "class": "MAMMALIA"
+    },
+    "references": {
+      "key": 176684519,
+      "extensions": {
+        "http://rs.gbif.org/terms/1.0/VernacularName": [
+          {
+            "http://purl.org/dc/terms/language": "deu",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Streifenroller",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Small-toothed Palm Civet",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "true"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Three-striped Palm Civet",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "ind",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Musang Akar",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          }
+        ],
+        "http://rs.gbif.org/terms/1.0/Distribution": [
+          {
+            "http://rs.tdwg.org/dwc/terms/occurrenceStatus": "Present",
+            "http://iucn.org/terms/threatStatus": "Least Concern",
+            "http://rs.tdwg.org/dwc/terms/locality": "Global",
+            "http://purl.org/dc/terms/source": "Willcox, D.H.A., Duckworth, J.W., Timmins, R.J., Chutipong, W., Choudhury, A.U., Roberton, S., Long, B., Hearn, A. & Ross, J. 2024. Arctogalidia trivirgata (Gray, 1832). The IUCN Red List of Threatened Species 2024: https://doi.org/10.2305/IUCN.UK.2024-2.RLTS.T41691A259342969.en"
+          }
+        ]
+      },
+      "lastCrawled": "2026-08-28T18:56:24.836+00:00",
+      "http://rs.tdwg.org/dwc/terms/acceptedNameUsageID": "41691",
+      "http://rs.tdwg.org/dwc/terms/genus": "Arctogalidia",
+      "http://rs.tdwg.org/dwc/terms/kingdom": "ANIMALIA",
+      "http://rs.tdwg.org/dwc/terms/class": "MAMMALIA",
+      "http://rs.tdwg.org/dwc/terms/taxonID": "41691",
+      "http://rs.tdwg.org/dwc/terms/taxonomicStatus": "accepted",
+      "http://rs.tdwg.org/dwc/terms/order": "CARNIVORA",
+      "http://rs.tdwg.org/dwc/terms/taxonRank": "species",
+      "http://rs.tdwg.org/dwc/terms/specificEpithet": "trivirgata",
+      "http://rs.tdwg.org/dwc/terms/scientificNameAuthorship": "(Gray, 1832)",
+      "http://purl.org/dc/terms/bibliographicCitation": "Willcox, D.H.A., Duckworth, J.W., Timmins, R.J., Chutipong, W., Choudhury, A.U., Roberton, S., Long, B., Hearn, A. & Ross, J. 2024. Arctogalidia trivirgata (Gray, 1832). The IUCN Red List of Threatened Species 2024: https://doi.org/10.2305/IUCN.UK.2024-2.RLTS.T41691A259342969.en",
+      "http://rs.tdwg.org/dwc/terms/family": "VIVERRIDAE",
+      "http://purl.org/dc/terms/references": "https://www.iucnredlist.org/species/41691/259342969",
+      "http://rs.tdwg.org/dwc/terms/scientificName": "Arctogalidia trivirgata (Gray, 1832)",
+      "http://rs.tdwg.org/dwc/terms/phylum": "CHORDATA"
+    }
+  },
+  {
+    "id": "buffy-fish-owl",
+    "scientific": "Ketupa ketupu",
+    "retrievedAt": "2026-09-07T08:18:18.432Z",
+    "sourceUrl": "https://www.gbif.org/dataset/19491596-35ae-4a91-9a98-85cf505f1bd3/taxon/22689024",
+    "match": {
+      "key": 176617632,
+      "datasetKey": "19491596-35ae-4a91-9a98-85cf505f1bd3",
+      "nubKey": 5232234,
+      "parentKey": 336607834,
+      "parent": "Ketupa",
+      "kingdom": "ANIMALIA",
+      "phylum": "CHORDATA",
+      "order": "STRIGIFORMES",
+      "family": "STRIGIDAE",
+      "genus": "Ketupa",
+      "species": "Ketupa ketupu",
+      "kingdomKey": 336598482,
+      "phylumKey": 336598673,
+      "classKey": 336606478,
+      "orderKey": 336607777,
+      "familyKey": 336607790,
+      "genusKey": 336607834,
+      "speciesKey": 176617632,
+      "scientificName": "Ketupa ketupu (Horsfield, 1821)",
+      "canonicalName": "Ketupa ketupu",
+      "authorship": "(Horsfield, 1821)",
+      "nameType": "SCIENTIFIC",
+      "taxonomicStatus": "ACCEPTED",
+      "rank": "SPECIES",
+      "origin": "SOURCE",
+      "numDescendants": 0,
+      "numOccurrences": 0,
+      "taxonID": "22689024",
+      "habitats": [],
+      "nomenclaturalStatus": [],
+      "threatStatuses": [
+        "LEAST_CONCERN"
+      ],
+      "descriptions": [],
+      "vernacularNames": [
+        {
+          "vernacularName": "Buffy Fish Owl",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Buffy Fish-Owl",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Buffy Fish-owl",
+          "language": "eng"
+        }
+      ],
+      "synonym": false,
+      "higherClassificationMap": {
+        "336598482": "ANIMALIA",
+        "336598673": "CHORDATA",
+        "336606478": "AVES",
+        "336607777": "STRIGIFORMES",
+        "336607790": "STRIGIDAE",
+        "336607834": "Ketupa"
+      },
+      "class": "AVES"
+    },
+    "references": {
+      "key": 176617632,
+      "extensions": {
+        "http://rs.gbif.org/terms/1.0/VernacularName": [
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Buffy Fish Owl",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Buffy Fish-Owl",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Buffy Fish-owl",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "true"
+          }
+        ],
+        "http://rs.gbif.org/terms/1.0/Distribution": [
+          {
+            "http://rs.tdwg.org/dwc/terms/occurrenceStatus": "Present",
+            "http://iucn.org/terms/threatStatus": "Least Concern",
+            "http://rs.tdwg.org/dwc/terms/locality": "Global",
+            "http://purl.org/dc/terms/source": "BirdLife International 2024. Ketupa ketupu (Horsfield, 1821). The IUCN Red List of Threatened Species 2024: https://doi.org/10.2305/IUCN.UK.2024-2.RLTS.T22689024A263602946.en"
+          }
+        ]
+      },
+      "lastCrawled": "2026-08-28T18:56:24.836+00:00",
+      "http://rs.tdwg.org/dwc/terms/acceptedNameUsageID": "22689024",
+      "http://rs.tdwg.org/dwc/terms/genus": "Ketupa",
+      "http://rs.tdwg.org/dwc/terms/kingdom": "ANIMALIA",
+      "http://rs.tdwg.org/dwc/terms/class": "AVES",
+      "http://rs.tdwg.org/dwc/terms/taxonID": "22689024",
+      "http://rs.tdwg.org/dwc/terms/taxonomicStatus": "accepted",
+      "http://rs.tdwg.org/dwc/terms/order": "STRIGIFORMES",
+      "http://rs.tdwg.org/dwc/terms/taxonRank": "species",
+      "http://rs.tdwg.org/dwc/terms/specificEpithet": "ketupu",
+      "http://rs.tdwg.org/dwc/terms/scientificNameAuthorship": "(Horsfield, 1821)",
+      "http://purl.org/dc/terms/bibliographicCitation": "BirdLife International 2024. Ketupa ketupu (Horsfield, 1821). The IUCN Red List of Threatened Species 2024: https://doi.org/10.2305/IUCN.UK.2024-2.RLTS.T22689024A263602946.en",
+      "http://rs.tdwg.org/dwc/terms/family": "STRIGIDAE",
+      "http://purl.org/dc/terms/references": "https://www.iucnredlist.org/species/22689024/263602946",
+      "http://rs.tdwg.org/dwc/terms/scientificName": "Ketupa ketupu (Horsfield, 1821)",
+      "http://rs.tdwg.org/dwc/terms/phylum": "CHORDATA"
+    }
+  },
+  {
+    "id": "blue-eared-kingfisher",
+    "scientific": "Alcedo meninting",
+    "retrievedAt": "2026-09-07T08:18:18.818Z",
+    "sourceUrl": "https://www.gbif.org/dataset/19491596-35ae-4a91-9a98-85cf505f1bd3/taxon/22683042",
+    "match": {
+      "key": 176609922,
+      "datasetKey": "19491596-35ae-4a91-9a98-85cf505f1bd3",
+      "nubKey": 2475494,
+      "parentKey": 336606820,
+      "parent": "Alcedo",
+      "kingdom": "ANIMALIA",
+      "phylum": "CHORDATA",
+      "order": "CORACIIFORMES",
+      "family": "ALCEDINIDAE",
+      "genus": "Alcedo",
+      "species": "Alcedo meninting",
+      "kingdomKey": 336598482,
+      "phylumKey": 336598673,
+      "classKey": 336606478,
+      "orderKey": 336606772,
+      "familyKey": 336606783,
+      "genusKey": 336606820,
+      "speciesKey": 176609922,
+      "scientificName": "Alcedo meninting Horsfield, 1821",
+      "canonicalName": "Alcedo meninting",
+      "authorship": "Horsfield, 1821",
+      "nameType": "SCIENTIFIC",
+      "taxonomicStatus": "ACCEPTED",
+      "rank": "SPECIES",
+      "origin": "SOURCE",
+      "numDescendants": 0,
+      "numOccurrences": 0,
+      "taxonID": "22683042",
+      "habitats": [],
+      "nomenclaturalStatus": [],
+      "threatStatuses": [
+        "LEAST_CONCERN"
+      ],
+      "descriptions": [],
+      "vernacularNames": [
+        {
+          "vernacularName": "Blue-eared Kingfisher",
+          "language": "eng"
+        }
+      ],
+      "synonym": false,
+      "higherClassificationMap": {
+        "336598482": "ANIMALIA",
+        "336598673": "CHORDATA",
+        "336606478": "AVES",
+        "336606772": "CORACIIFORMES",
+        "336606783": "ALCEDINIDAE",
+        "336606820": "Alcedo"
+      },
+      "class": "AVES"
+    },
+    "references": {
+      "key": 176609922,
+      "extensions": {
+        "http://rs.gbif.org/terms/1.0/VernacularName": [
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Blue-eared Kingfisher",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "true"
+          }
+        ],
+        "http://rs.gbif.org/terms/1.0/Distribution": [
+          {
+            "http://rs.tdwg.org/dwc/terms/occurrenceStatus": "Present",
+            "http://iucn.org/terms/threatStatus": "Least Concern",
+            "http://rs.tdwg.org/dwc/terms/locality": "Global",
+            "http://purl.org/dc/terms/source": "BirdLife International 2024. Alcedo meninting Horsfield, 1821. The IUCN Red List of Threatened Species 2024: https://doi.org/10.2305/IUCN.UK.2024-2.RLTS.T22683042A263619844.en"
+          }
+        ]
+      },
+      "lastCrawled": "2026-08-28T18:56:24.836+00:00",
+      "http://rs.tdwg.org/dwc/terms/acceptedNameUsageID": "22683042",
+      "http://rs.tdwg.org/dwc/terms/genus": "Alcedo",
+      "http://rs.tdwg.org/dwc/terms/kingdom": "ANIMALIA",
+      "http://rs.tdwg.org/dwc/terms/class": "AVES",
+      "http://rs.tdwg.org/dwc/terms/taxonID": "22683042",
+      "http://rs.tdwg.org/dwc/terms/taxonomicStatus": "accepted",
+      "http://rs.tdwg.org/dwc/terms/order": "CORACIIFORMES",
+      "http://rs.tdwg.org/dwc/terms/taxonRank": "species",
+      "http://rs.tdwg.org/dwc/terms/specificEpithet": "meninting",
+      "http://rs.tdwg.org/dwc/terms/scientificNameAuthorship": "Horsfield, 1821",
+      "http://purl.org/dc/terms/bibliographicCitation": "BirdLife International 2024. Alcedo meninting Horsfield, 1821. The IUCN Red List of Threatened Species 2024: https://doi.org/10.2305/IUCN.UK.2024-2.RLTS.T22683042A263619844.en",
+      "http://rs.tdwg.org/dwc/terms/family": "ALCEDINIDAE",
+      "http://purl.org/dc/terms/references": "https://www.iucnredlist.org/species/22683042/263619844",
+      "http://rs.tdwg.org/dwc/terms/scientificName": "Alcedo meninting Horsfield, 1821",
+      "http://rs.tdwg.org/dwc/terms/phylum": "CHORDATA"
+    }
+  },
+  {
+    "id": "spiny-hill-turtle",
+    "scientific": "Heosemys spinosa",
+    "retrievedAt": "2026-09-07T08:18:19.218Z",
+    "sourceUrl": "https://www.gbif.org/dataset/19491596-35ae-4a91-9a98-85cf505f1bd3/taxon/9942",
+    "match": {
+      "key": 176715416,
+      "datasetKey": "19491596-35ae-4a91-9a98-85cf505f1bd3",
+      "nubKey": 2443326,
+      "parentKey": 336599142,
+      "parent": "Heosemys",
+      "kingdom": "ANIMALIA",
+      "phylum": "CHORDATA",
+      "order": "TESTUDINES",
+      "family": "GEOEMYDIDAE",
+      "genus": "Heosemys",
+      "species": "Heosemys spinosa",
+      "kingdomKey": 336598482,
+      "phylumKey": 336598673,
+      "classKey": 336598831,
+      "orderKey": 336598865,
+      "familyKey": 336599082,
+      "genusKey": 336599142,
+      "speciesKey": 176715416,
+      "scientificName": "Heosemys spinosa (Gray, 1830)",
+      "canonicalName": "Heosemys spinosa",
+      "authorship": "(Gray, 1830)",
+      "nameType": "SCIENTIFIC",
+      "taxonomicStatus": "ACCEPTED",
+      "rank": "SPECIES",
+      "origin": "SOURCE",
+      "numDescendants": 0,
+      "numOccurrences": 0,
+      "taxonID": "9942",
+      "habitats": [],
+      "nomenclaturalStatus": [],
+      "threatStatuses": [
+        "ENDANGERED"
+      ],
+      "descriptions": [],
+      "vernacularNames": [
+        {
+          "vernacularName": "Spiny Terrapin",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Spiny Turtle",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Sunburst Turtle",
+          "language": "eng"
+        }
+      ],
+      "synonym": false,
+      "higherClassificationMap": {
+        "336598482": "ANIMALIA",
+        "336598673": "CHORDATA",
+        "336598831": "REPTILIA",
+        "336598865": "TESTUDINES",
+        "336599082": "GEOEMYDIDAE",
+        "336599142": "Heosemys"
+      },
+      "class": "REPTILIA"
+    },
+    "references": {
+      "key": 176715416,
+      "extensions": {
+        "http://rs.gbif.org/terms/1.0/VernacularName": [
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Spiny Terrapin",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Spiny Turtle",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "true"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Sunburst Turtle",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          }
+        ],
+        "http://rs.gbif.org/terms/1.0/Distribution": [
+          {
+            "http://rs.tdwg.org/dwc/terms/occurrenceStatus": "Present",
+            "http://iucn.org/terms/threatStatus": "Endangered",
+            "http://rs.tdwg.org/dwc/terms/locality": "Global",
+            "http://purl.org/dc/terms/source": "Cota, M., Guntoro, J., Horne, B.D., Kusrini, M.D., Krishnasamy, K. & Shepherd, C. 2021. Heosemys spinosa (Gray, 1830). The IUCN Red List of Threatened Species 2021: https://doi.org/10.2305/IUCN.UK.2021-2.RLTS.T9942A3152508.en"
+          }
+        ]
+      },
+      "lastCrawled": "2026-08-28T18:56:24.836+00:00",
+      "http://rs.tdwg.org/dwc/terms/acceptedNameUsageID": "9942",
+      "http://rs.tdwg.org/dwc/terms/genus": "Heosemys",
+      "http://rs.tdwg.org/dwc/terms/kingdom": "ANIMALIA",
+      "http://rs.tdwg.org/dwc/terms/class": "REPTILIA",
+      "http://rs.tdwg.org/dwc/terms/taxonID": "9942",
+      "http://rs.tdwg.org/dwc/terms/taxonomicStatus": "accepted",
+      "http://rs.tdwg.org/dwc/terms/order": "TESTUDINES",
+      "http://rs.tdwg.org/dwc/terms/taxonRank": "species",
+      "http://rs.tdwg.org/dwc/terms/specificEpithet": "spinosa",
+      "http://rs.tdwg.org/dwc/terms/scientificNameAuthorship": "(Gray, 1830)",
+      "http://purl.org/dc/terms/bibliographicCitation": "Cota, M., Guntoro, J., Horne, B.D., Kusrini, M.D., Krishnasamy, K. & Shepherd, C. 2021. Heosemys spinosa (Gray, 1830). The IUCN Red List of Threatened Species 2021: https://doi.org/10.2305/IUCN.UK.2021-2.RLTS.T9942A3152508.en",
+      "http://rs.tdwg.org/dwc/terms/family": "GEOEMYDIDAE",
+      "http://purl.org/dc/terms/references": "https://www.iucnredlist.org/species/9942/3152508",
+      "http://rs.tdwg.org/dwc/terms/scientificName": "Heosemys spinosa (Gray, 1830)",
+      "http://rs.tdwg.org/dwc/terms/phylum": "CHORDATA"
+    }
+  },
+  {
+    "id": "asian-leaf-turtle",
+    "scientific": "Cyclemys dentata",
+    "retrievedAt": "2026-09-07T08:18:19.619Z",
+    "sourceUrl": "https://www.gbif.org/dataset/19491596-35ae-4a91-9a98-85cf505f1bd3/taxon/195849722",
+    "match": {
+      "key": 188401998,
+      "datasetKey": "19491596-35ae-4a91-9a98-85cf505f1bd3",
+      "nubKey": 2443436,
+      "parentKey": 336599113,
+      "parent": "Cyclemys",
+      "kingdom": "ANIMALIA",
+      "phylum": "CHORDATA",
+      "order": "TESTUDINES",
+      "family": "GEOEMYDIDAE",
+      "genus": "Cyclemys",
+      "species": "Cyclemys dentata",
+      "kingdomKey": 336598482,
+      "phylumKey": 336598673,
+      "classKey": 336598831,
+      "orderKey": 336598865,
+      "familyKey": 336599082,
+      "genusKey": 336599113,
+      "speciesKey": 188401998,
+      "scientificName": "Cyclemys dentata (Gray, 1831)",
+      "canonicalName": "Cyclemys dentata",
+      "authorship": "(Gray, 1831)",
+      "nameType": "SCIENTIFIC",
+      "taxonomicStatus": "ACCEPTED",
+      "rank": "SPECIES",
+      "origin": "SOURCE",
+      "numDescendants": 0,
+      "numOccurrences": 0,
+      "taxonID": "195849722",
+      "habitats": [],
+      "nomenclaturalStatus": [],
+      "threatStatuses": [
+        "NEAR_THREATENED"
+      ],
+      "descriptions": [],
+      "vernacularNames": [
+        {
+          "vernacularName": "Asian Leaf Turtle",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Brown Stream Terrapin",
+          "language": "eng"
+        }
+      ],
+      "synonym": false,
+      "higherClassificationMap": {
+        "336598482": "ANIMALIA",
+        "336598673": "CHORDATA",
+        "336598831": "REPTILIA",
+        "336598865": "TESTUDINES",
+        "336599082": "GEOEMYDIDAE",
+        "336599113": "Cyclemys"
+      },
+      "class": "REPTILIA"
+    },
+    "references": {
+      "key": 188401998,
+      "extensions": {
+        "http://rs.gbif.org/terms/1.0/VernacularName": [
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Asian Leaf Turtle",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "true"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Brown Stream Terrapin",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          }
+        ],
+        "http://rs.gbif.org/terms/1.0/Distribution": [
+          {
+            "http://rs.tdwg.org/dwc/terms/occurrenceStatus": "Present",
+            "http://iucn.org/terms/threatStatus": "Near Threatened",
+            "http://rs.tdwg.org/dwc/terms/locality": "Global",
+            "http://purl.org/dc/terms/source": "As-singkily, M., Guntoro, J., Kusrini, M.D. & Schoppe, S. 2021. Cyclemys dentata (Gray, 1831). The IUCN Red List of Threatened Species 2021: https://doi.org/10.2305/IUCN.UK.2021-1.RLTS.T195849722A2929066.en"
+          }
+        ]
+      },
+      "lastCrawled": "2026-08-28T18:56:24.836+00:00",
+      "http://rs.tdwg.org/dwc/terms/acceptedNameUsageID": "195849722",
+      "http://rs.tdwg.org/dwc/terms/genus": "Cyclemys",
+      "http://rs.tdwg.org/dwc/terms/kingdom": "ANIMALIA",
+      "http://rs.tdwg.org/dwc/terms/class": "REPTILIA",
+      "http://rs.tdwg.org/dwc/terms/taxonID": "195849722",
+      "http://rs.tdwg.org/dwc/terms/taxonomicStatus": "accepted",
+      "http://rs.tdwg.org/dwc/terms/order": "TESTUDINES",
+      "http://rs.tdwg.org/dwc/terms/taxonRank": "species",
+      "http://rs.tdwg.org/dwc/terms/specificEpithet": "dentata",
+      "http://rs.tdwg.org/dwc/terms/scientificNameAuthorship": "(Gray, 1831)",
+      "http://purl.org/dc/terms/bibliographicCitation": "As-singkily, M., Guntoro, J., Kusrini, M.D. & Schoppe, S. 2021. Cyclemys dentata (Gray, 1831). The IUCN Red List of Threatened Species 2021: https://doi.org/10.2305/IUCN.UK.2021-1.RLTS.T195849722A2929066.en",
+      "http://rs.tdwg.org/dwc/terms/family": "GEOEMYDIDAE",
+      "http://purl.org/dc/terms/references": "https://www.iucnredlist.org/species/195849722/2929066",
+      "http://rs.tdwg.org/dwc/terms/scientificName": "Cyclemys dentata (Gray, 1831)",
+      "http://rs.tdwg.org/dwc/terms/phylum": "CHORDATA"
+    }
+  },
+  {
+    "id": "clouded-monitor",
+    "scientific": "Varanus nebulosus",
+    "retrievedAt": "2026-09-07T08:18:20.009Z",
+    "sourceUrl": "https://www.gbif.org/dataset/19491596-35ae-4a91-9a98-85cf505f1bd3/taxon/164579_5",
+    "match": {
+      "key": 188408320,
+      "datasetKey": "19491596-35ae-4a91-9a98-85cf505f1bd3",
+      "nubKey": 2470732,
+      "parentKey": 311755,
+      "parent": "Varanus",
+      "acceptedKey": 176750610,
+      "accepted": "Varanus bengalensis (Daudin, 1802)",
+      "kingdom": "ANIMALIA",
+      "phylum": "CHORDATA",
+      "order": "SQUAMATA",
+      "family": "VARANIDAE",
+      "genus": "Varanus",
+      "species": "Varanus bengalensis",
+      "kingdomKey": 336598482,
+      "phylumKey": 336598673,
+      "classKey": 336598831,
+      "orderKey": 336599223,
+      "familyKey": 336601125,
+      "genusKey": 336601126,
+      "speciesKey": 176750610,
+      "scientificName": "Varanus nebulosus (Gray, 1831)",
+      "canonicalName": "Varanus nebulosus",
+      "authorship": "(Gray, 1831)",
+      "nameType": "SCIENTIFIC",
+      "taxonomicStatus": "SYNONYM",
+      "origin": "SOURCE",
+      "numDescendants": 0,
+      "numOccurrences": 0,
+      "taxonID": "164579_5",
+      "habitats": [],
+      "nomenclaturalStatus": [],
+      "threatStatuses": [],
+      "descriptions": [],
+      "vernacularNames": [],
+      "synonym": true,
+      "higherClassificationMap": {
+        "311755": "Varanus",
+        "176750610": "Varanus bengalensis",
+        "336598482": "ANIMALIA",
+        "336598673": "CHORDATA",
+        "336598831": "REPTILIA",
+        "336599223": "SQUAMATA",
+        "336601125": "VARANIDAE",
+        "336601126": "Varanus"
+      },
+      "class": "REPTILIA"
+    },
+    "references": {
+      "key": 188408320,
+      "extensions": {},
+      "lastCrawled": "2026-08-28T18:56:24.836+00:00",
+      "http://rs.tdwg.org/dwc/terms/acceptedNameUsageID": "164579",
+      "http://rs.tdwg.org/dwc/terms/scientificNameAuthorship": "(Gray, 1831)",
+      "http://rs.tdwg.org/dwc/terms/kingdom": "ANIMALIA",
+      "http://purl.org/dc/terms/bibliographicCitation": "Cota, M., Stuart, B.L., Grismer, L., Quah, E., Panitvong, N., Neang, T., Nguyen, N.S., Wogan, G., Lwin, K., Srinivasulu, C., Srinivasulu, B., Vijayakumar, S.P., Ramesh, M., Ganesan, S.R., Madala, M., Sreekar, R., Rao, D.-Q., Thakur, S., Mohapatra, P. & Vyas, R. 2021. Varanus bengalensis (Daudin, 1802). The IUCN Red List of Threatened Species 2021: https://doi.org/10.2305/IUCN.UK.2021-2.RLTS.T164579A1058949.en",
+      "http://rs.tdwg.org/dwc/terms/taxonID": "164579_5",
+      "http://rs.tdwg.org/dwc/terms/taxonomicStatus": "synonym",
+      "http://purl.org/dc/terms/references": "https://www.iucnredlist.org/species/164579/1058949",
+      "http://rs.tdwg.org/dwc/terms/scientificName": "Varanus nebulosus (Gray, 1831)"
+    },
+    "acceptedSourceUrl": "https://api.gbif.org/v1/species/176750610/verbatim",
+    "acceptedReferences": {
+      "key": 176750610,
+      "extensions": {
+        "http://rs.gbif.org/terms/1.0/VernacularName": [
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Bengal Monitor Lizard",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "true"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Clouded Monitor",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Common Indian Monitor",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "zho",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "孟加拉巨蜥",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          }
+        ],
+        "http://rs.gbif.org/terms/1.0/Distribution": [
+          {
+            "http://rs.tdwg.org/dwc/terms/occurrenceStatus": "Present",
+            "http://iucn.org/terms/threatStatus": "Near Threatened",
+            "http://rs.tdwg.org/dwc/terms/locality": "Global",
+            "http://purl.org/dc/terms/source": "Cota, M., Stuart, B.L., Grismer, L., Quah, E., Panitvong, N., Neang, T., Nguyen, N.S., Wogan, G., Lwin, K., Srinivasulu, C., Srinivasulu, B., Vijayakumar, S.P., Ramesh, M., Ganesan, S.R., Madala, M., Sreekar, R., Rao, D.-Q., Thakur, S., Mohapatra, P. & Vyas, R. 2021. Varanus bengalensis (Daudin, 1802). The IUCN Red List of Threatened Species 2021: https://doi.org/10.2305/IUCN.UK.2021-2.RLTS.T164579A1058949.en"
+          }
+        ]
+      },
+      "lastCrawled": "2026-08-28T18:56:24.836+00:00",
+      "http://rs.tdwg.org/dwc/terms/acceptedNameUsageID": "164579",
+      "http://rs.tdwg.org/dwc/terms/genus": "Varanus",
+      "http://rs.tdwg.org/dwc/terms/kingdom": "ANIMALIA",
+      "http://rs.tdwg.org/dwc/terms/class": "REPTILIA",
+      "http://rs.tdwg.org/dwc/terms/taxonID": "164579",
+      "http://rs.tdwg.org/dwc/terms/taxonomicStatus": "accepted",
+      "http://rs.tdwg.org/dwc/terms/order": "SQUAMATA",
+      "http://rs.tdwg.org/dwc/terms/taxonRank": "species",
+      "http://rs.tdwg.org/dwc/terms/specificEpithet": "bengalensis",
+      "http://rs.tdwg.org/dwc/terms/scientificNameAuthorship": "(Daudin, 1802)",
+      "http://purl.org/dc/terms/bibliographicCitation": "Cota, M., Stuart, B.L., Grismer, L., Quah, E., Panitvong, N., Neang, T., Nguyen, N.S., Wogan, G., Lwin, K., Srinivasulu, C., Srinivasulu, B., Vijayakumar, S.P., Ramesh, M., Ganesan, S.R., Madala, M., Sreekar, R., Rao, D.-Q., Thakur, S., Mohapatra, P. & Vyas, R. 2021. Varanus bengalensis (Daudin, 1802). The IUCN Red List of Threatened Species 2021: https://doi.org/10.2305/IUCN.UK.2021-2.RLTS.T164579A1058949.en",
+      "http://rs.tdwg.org/dwc/terms/family": "VARANIDAE",
+      "http://purl.org/dc/terms/references": "https://www.iucnredlist.org/species/164579/1058949",
+      "http://rs.tdwg.org/dwc/terms/scientificName": "Varanus bengalensis (Daudin, 1802)",
+      "http://rs.tdwg.org/dwc/terms/phylum": "CHORDATA"
+    }
+  },
+  {
+    "id": "malayan-horned-frog",
+    "scientific": "Pelobatrachus nasutus",
+    "retrievedAt": "2026-09-07T08:18:20.580Z",
+    "sourceUrl": "https://www.gbif.org/dataset/19491596-35ae-4a91-9a98-85cf505f1bd3/taxon/57582_2",
+    "match": {
+      "key": 192011338,
+      "datasetKey": "19491596-35ae-4a91-9a98-85cf505f1bd3",
+      "nubKey": 11029318,
+      "parentKey": 312952,
+      "parent": "Megophrys",
+      "acceptedKey": 176672714,
+      "accepted": "Megophrys nasuta (Schlegel, 1858)",
+      "kingdom": "ANIMALIA",
+      "phylum": "CHORDATA",
+      "order": "ANURA",
+      "family": "MEGOPHRYIDAE",
+      "genus": "Megophrys",
+      "species": "Megophrys nasuta",
+      "kingdomKey": 336598482,
+      "phylumKey": 336598673,
+      "classKey": 336598859,
+      "orderKey": 336599027,
+      "familyKey": 336601858,
+      "genusKey": 336601880,
+      "speciesKey": 176672714,
+      "scientificName": "Pelobatrachus nasutus (Schlegel, 1858)",
+      "canonicalName": "Pelobatrachus nasutus",
+      "authorship": "(Schlegel, 1858)",
+      "nameType": "SCIENTIFIC",
+      "taxonomicStatus": "SYNONYM",
+      "origin": "SOURCE",
+      "numDescendants": 0,
+      "numOccurrences": 0,
+      "taxonID": "57582_2",
+      "habitats": [],
+      "nomenclaturalStatus": [],
+      "threatStatuses": [],
+      "descriptions": [],
+      "vernacularNames": [],
+      "synonym": true,
+      "higherClassificationMap": {
+        "312952": "Megophrys",
+        "176672714": "Megophrys nasuta",
+        "336598482": "ANIMALIA",
+        "336598673": "CHORDATA",
+        "336598859": "AMPHIBIA",
+        "336599027": "ANURA",
+        "336601858": "MEGOPHRYIDAE",
+        "336601880": "Megophrys"
+      },
+      "class": "AMPHIBIA"
+    },
+    "references": {
+      "key": 192011338,
+      "extensions": {},
+      "lastCrawled": "2026-08-28T18:56:24.836+00:00",
+      "http://rs.tdwg.org/dwc/terms/acceptedNameUsageID": "57582",
+      "http://rs.tdwg.org/dwc/terms/scientificNameAuthorship": "(Schlegel, 1858)",
+      "http://rs.tdwg.org/dwc/terms/kingdom": "ANIMALIA",
+      "http://purl.org/dc/terms/bibliographicCitation": "IUCN SSC Amphibian Specialist Group 2021. Megophrys nasuta (Schlegel, 1858). The IUCN Red List of Threatened Species 2021: https://doi.org/10.2305/IUCN.UK.2021-3.RLTS.T57582A114918773.en",
+      "http://rs.tdwg.org/dwc/terms/taxonID": "57582_2",
+      "http://rs.tdwg.org/dwc/terms/taxonomicStatus": "synonym",
+      "http://purl.org/dc/terms/references": "https://www.iucnredlist.org/species/57582/114918773",
+      "http://rs.tdwg.org/dwc/terms/scientificName": "Pelobatrachus nasutus (Schlegel, 1858)"
+    },
+    "acceptedSourceUrl": "https://api.gbif.org/v1/species/176672714/verbatim",
+    "acceptedReferences": {
+      "key": 176672714,
+      "extensions": {
+        "http://rs.gbif.org/terms/1.0/VernacularName": [
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Bornean Horned Frog",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Horned Toad",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Large Horned Frog",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Long-nosed Horned Toad",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "true"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Malayan Horned Frog",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          }
+        ],
+        "http://rs.gbif.org/terms/1.0/Distribution": [
+          {
+            "http://rs.tdwg.org/dwc/terms/occurrenceStatus": "Present",
+            "http://iucn.org/terms/threatStatus": "Least Concern",
+            "http://rs.tdwg.org/dwc/terms/locality": "Global",
+            "http://purl.org/dc/terms/source": "IUCN SSC Amphibian Specialist Group 2021. Megophrys nasuta (Schlegel, 1858). The IUCN Red List of Threatened Species 2021: https://doi.org/10.2305/IUCN.UK.2021-3.RLTS.T57582A114918773.en"
+          }
+        ]
+      },
+      "lastCrawled": "2026-08-28T18:56:24.836+00:00",
+      "http://rs.tdwg.org/dwc/terms/acceptedNameUsageID": "57582",
+      "http://rs.tdwg.org/dwc/terms/genus": "Megophrys",
+      "http://rs.tdwg.org/dwc/terms/kingdom": "ANIMALIA",
+      "http://rs.tdwg.org/dwc/terms/class": "AMPHIBIA",
+      "http://rs.tdwg.org/dwc/terms/taxonID": "57582",
+      "http://rs.tdwg.org/dwc/terms/taxonomicStatus": "accepted",
+      "http://rs.tdwg.org/dwc/terms/order": "ANURA",
+      "http://rs.tdwg.org/dwc/terms/taxonRank": "species",
+      "http://rs.tdwg.org/dwc/terms/specificEpithet": "nasuta",
+      "http://rs.tdwg.org/dwc/terms/scientificNameAuthorship": "(Schlegel, 1858)",
+      "http://purl.org/dc/terms/bibliographicCitation": "IUCN SSC Amphibian Specialist Group 2021. Megophrys nasuta (Schlegel, 1858). The IUCN Red List of Threatened Species 2021: https://doi.org/10.2305/IUCN.UK.2021-3.RLTS.T57582A114918773.en",
+      "http://rs.tdwg.org/dwc/terms/family": "MEGOPHRYIDAE",
+      "http://purl.org/dc/terms/references": "https://www.iucnredlist.org/species/57582/114918773",
+      "http://rs.tdwg.org/dwc/terms/scientificName": "Megophrys nasuta (Schlegel, 1858)",
+      "http://rs.tdwg.org/dwc/terms/phylum": "CHORDATA"
+    }
+  },
+  {
+    "id": "black-eyed-litter-frog",
+    "scientific": "Leptobrachium nigrops",
+    "retrievedAt": "2026-09-07T08:18:21.150Z",
+    "sourceUrl": "https://www.gbif.org/dataset/19491596-35ae-4a91-9a98-85cf505f1bd3/taxon/129738745",
+    "match": {
+      "key": 192011362,
+      "datasetKey": "19491596-35ae-4a91-9a98-85cf505f1bd3",
+      "nubKey": 2424683,
+      "parentKey": 336601873,
+      "parent": "Leptobrachium",
+      "kingdom": "ANIMALIA",
+      "phylum": "CHORDATA",
+      "order": "ANURA",
+      "family": "MEGOPHRYIDAE",
+      "genus": "Leptobrachium",
+      "species": "Leptobrachium nigrops",
+      "kingdomKey": 336598482,
+      "phylumKey": 336598673,
+      "classKey": 336598859,
+      "orderKey": 336599027,
+      "familyKey": 336601858,
+      "genusKey": 336601873,
+      "speciesKey": 192011362,
+      "scientificName": "Leptobrachium nigrops Berry & Hendrickson, 1963",
+      "canonicalName": "Leptobrachium nigrops",
+      "authorship": "Berry & Hendrickson, 1963",
+      "nameType": "SCIENTIFIC",
+      "taxonomicStatus": "ACCEPTED",
+      "rank": "SPECIES",
+      "origin": "SOURCE",
+      "numDescendants": 0,
+      "numOccurrences": 0,
+      "taxonID": "129738745",
+      "habitats": [],
+      "nomenclaturalStatus": [],
+      "threatStatuses": [
+        "LEAST_CONCERN"
+      ],
+      "descriptions": [],
+      "vernacularNames": [
+        {
+          "vernacularName": "Black-eyed Litter Frog",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Singapore Spadefoot Toad",
+          "language": "eng"
+        }
+      ],
+      "synonym": false,
+      "higherClassificationMap": {
+        "336598482": "ANIMALIA",
+        "336598673": "CHORDATA",
+        "336598859": "AMPHIBIA",
+        "336599027": "ANURA",
+        "336601858": "MEGOPHRYIDAE",
+        "336601873": "Leptobrachium"
+      },
+      "class": "AMPHIBIA"
+    },
+    "references": {
+      "key": 192011362,
+      "extensions": {
+        "http://rs.gbif.org/terms/1.0/VernacularName": [
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Black-eyed Litter Frog",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Singapore Spadefoot Toad",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "true"
+          }
+        ],
+        "http://rs.gbif.org/terms/1.0/Distribution": [
+          {
+            "http://rs.tdwg.org/dwc/terms/occurrenceStatus": "Present",
+            "http://iucn.org/terms/threatStatus": "Least Concern",
+            "http://rs.tdwg.org/dwc/terms/locality": "Global",
+            "http://purl.org/dc/terms/source": "IUCN SSC Amphibian Specialist Group 2021. Leptobrachium nigrops Berry & Hendrickson, 1963. The IUCN Red List of Threatened Species 2021: https://doi.org/10.2305/IUCN.UK.2021-3.RLTS.T129738745A123835241.en"
+          }
+        ]
+      },
+      "lastCrawled": "2026-08-28T18:56:24.836+00:00",
+      "http://rs.tdwg.org/dwc/terms/acceptedNameUsageID": "129738745",
+      "http://rs.tdwg.org/dwc/terms/genus": "Leptobrachium",
+      "http://rs.tdwg.org/dwc/terms/kingdom": "ANIMALIA",
+      "http://rs.tdwg.org/dwc/terms/class": "AMPHIBIA",
+      "http://rs.tdwg.org/dwc/terms/taxonID": "129738745",
+      "http://rs.tdwg.org/dwc/terms/taxonomicStatus": "accepted",
+      "http://rs.tdwg.org/dwc/terms/order": "ANURA",
+      "http://rs.tdwg.org/dwc/terms/taxonRank": "species",
+      "http://rs.tdwg.org/dwc/terms/specificEpithet": "nigrops",
+      "http://rs.tdwg.org/dwc/terms/scientificNameAuthorship": "Berry & Hendrickson, 1963",
+      "http://purl.org/dc/terms/bibliographicCitation": "IUCN SSC Amphibian Specialist Group 2021. Leptobrachium nigrops Berry & Hendrickson, 1963. The IUCN Red List of Threatened Species 2021: https://doi.org/10.2305/IUCN.UK.2021-3.RLTS.T129738745A123835241.en",
+      "http://rs.tdwg.org/dwc/terms/family": "MEGOPHRYIDAE",
+      "http://purl.org/dc/terms/references": "https://www.iucnredlist.org/species/129738745/123835241",
+      "http://rs.tdwg.org/dwc/terms/scientificName": "Leptobrachium nigrops Berry & Hendrickson, 1963",
+      "http://rs.tdwg.org/dwc/terms/phylum": "CHORDATA"
+    }
+  },
+  {
+    "id": "dugong",
+    "scientific": "Dugong dugon",
+    "retrievedAt": "2026-09-07T08:18:21.543Z",
+    "sourceUrl": "https://www.gbif.org/dataset/19491596-35ae-4a91-9a98-85cf505f1bd3/taxon/6909",
+    "match": {
+      "key": 176667499,
+      "datasetKey": "19491596-35ae-4a91-9a98-85cf505f1bd3",
+      "nubKey": 9729967,
+      "parentKey": 336606135,
+      "parent": "Dugong",
+      "kingdom": "ANIMALIA",
+      "phylum": "CHORDATA",
+      "order": "SIRENIA",
+      "family": "DUGONGIDAE",
+      "genus": "Dugong",
+      "species": "Dugong dugon",
+      "kingdomKey": 336598482,
+      "phylumKey": 336598673,
+      "classKey": 336605913,
+      "orderKey": 336606130,
+      "familyKey": 336606133,
+      "genusKey": 336606135,
+      "speciesKey": 176667499,
+      "scientificName": "Dugong dugon (Müller, 1776)",
+      "canonicalName": "Dugong dugon",
+      "authorship": "(Müller, 1776)",
+      "nameType": "SCIENTIFIC",
+      "taxonomicStatus": "ACCEPTED",
+      "rank": "SPECIES",
+      "origin": "SOURCE",
+      "numDescendants": 0,
+      "numOccurrences": 0,
+      "taxonID": "6909",
+      "habitats": [],
+      "nomenclaturalStatus": [],
+      "threatStatuses": [
+        "VULNERABLE"
+      ],
+      "descriptions": [],
+      "vernacularNames": [
+        {
+          "vernacularName": "Baghr al-Bahr",
+          "language": "ara"
+        },
+        {
+          "vernacularName": "Seekuh",
+          "language": "deu"
+        },
+        {
+          "vernacularName": "Dugong",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Sea Cow",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Dugong",
+          "language": "fra"
+        },
+        {
+          "vernacularName": "Duyong",
+          "language": "ind"
+        },
+        {
+          "vernacularName": "Babi Laut",
+          "language": "msa"
+        },
+        {
+          "vernacularName": "Lembu Laut",
+          "language": "msa"
+        },
+        {
+          "vernacularName": "Dugon",
+          "language": "spa"
+        }
+      ],
+      "synonym": false,
+      "higherClassificationMap": {
+        "336598482": "ANIMALIA",
+        "336598673": "CHORDATA",
+        "336605913": "MAMMALIA",
+        "336606130": "SIRENIA",
+        "336606133": "DUGONGIDAE",
+        "336606135": "Dugong"
+      },
+      "class": "MAMMALIA"
+    },
+    "references": {
+      "key": 176667499,
+      "extensions": {
+        "http://rs.gbif.org/terms/1.0/VernacularName": [
+          {
+            "http://purl.org/dc/terms/language": "ara",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Baghr al-Bahr",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "deu",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Seekuh",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Dugong",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "true"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Sea Cow",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "fra",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Dugong",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "ind",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Duyong",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "msa",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Babi Laut",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "msa",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Lembu Laut",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "spa",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Dugon",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          }
+        ],
+        "http://rs.gbif.org/terms/1.0/Distribution": [
+          {
+            "http://rs.tdwg.org/dwc/terms/occurrenceStatus": "Present",
+            "http://iucn.org/terms/threatStatus": "Vulnerable",
+            "http://rs.tdwg.org/dwc/terms/locality": "Global",
+            "http://purl.org/dc/terms/source": "Marsh, H. & Sobtzick, S. 2019. Dugong dugon (Müller, 1776). The IUCN Red List of Threatened Species 2019: https://doi.org/10.2305/IUCN.UK.2015-4.RLTS.T6909A160756767.en"
+          }
+        ]
+      },
+      "lastCrawled": "2026-08-28T18:56:24.836+00:00",
+      "http://rs.tdwg.org/dwc/terms/acceptedNameUsageID": "6909",
+      "http://rs.tdwg.org/dwc/terms/genus": "Dugong",
+      "http://rs.tdwg.org/dwc/terms/kingdom": "ANIMALIA",
+      "http://rs.tdwg.org/dwc/terms/class": "MAMMALIA",
+      "http://rs.tdwg.org/dwc/terms/taxonID": "6909",
+      "http://rs.tdwg.org/dwc/terms/taxonomicStatus": "accepted",
+      "http://rs.tdwg.org/dwc/terms/order": "SIRENIA",
+      "http://rs.tdwg.org/dwc/terms/taxonRank": "species",
+      "http://rs.tdwg.org/dwc/terms/specificEpithet": "dugon",
+      "http://rs.tdwg.org/dwc/terms/scientificNameAuthorship": "(Müller, 1776)",
+      "http://purl.org/dc/terms/bibliographicCitation": "Marsh, H. & Sobtzick, S. 2019. Dugong dugon (Müller, 1776). The IUCN Red List of Threatened Species 2019: https://doi.org/10.2305/IUCN.UK.2015-4.RLTS.T6909A160756767.en",
+      "http://rs.tdwg.org/dwc/terms/family": "DUGONGIDAE",
+      "http://purl.org/dc/terms/references": "https://www.iucnredlist.org/species/6909/160756767",
+      "http://rs.tdwg.org/dwc/terms/scientificName": "Dugong dugon (Müller, 1776)",
+      "http://rs.tdwg.org/dwc/terms/phylum": "CHORDATA"
+    }
+  },
+  {
+    "id": "indo-pacific-humpback-dolphin",
+    "scientific": "Sousa chinensis",
+    "retrievedAt": "2026-09-07T08:18:21.932Z",
+    "sourceUrl": "https://www.gbif.org/dataset/19491596-35ae-4a91-9a98-85cf505f1bd3/taxon/82031425",
+    "match": {
+      "key": 176668997,
+      "datasetKey": "19491596-35ae-4a91-9a98-85cf505f1bd3",
+      "nubKey": 2440495,
+      "parentKey": 336607746,
+      "parent": "Sousa",
+      "kingdom": "ANIMALIA",
+      "phylum": "CHORDATA",
+      "order": "ARTIODACTYLA",
+      "family": "DELPHINIDAE",
+      "genus": "Sousa",
+      "species": "Sousa chinensis",
+      "kingdomKey": 336598482,
+      "phylumKey": 336598673,
+      "classKey": 336605913,
+      "orderKey": 336607553,
+      "familyKey": 336607736,
+      "genusKey": 336607746,
+      "speciesKey": 176668997,
+      "scientificName": "Sousa chinensis (Osbeck, 1765)",
+      "canonicalName": "Sousa chinensis",
+      "authorship": "(Osbeck, 1765)",
+      "nameType": "SCIENTIFIC",
+      "taxonomicStatus": "ACCEPTED",
+      "rank": "SPECIES",
+      "origin": "SOURCE",
+      "numDescendants": 0,
+      "numOccurrences": 0,
+      "taxonID": "82031425",
+      "habitats": [],
+      "nomenclaturalStatus": [],
+      "threatStatuses": [
+        "VULNERABLE"
+      ],
+      "descriptions": [],
+      "vernacularNames": [
+        {
+          "vernacularName": "Chinese White Dolphin",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Indo-Pacific Humpback Dolphin",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Dauphin à bosse de I'Indo-Pacifique",
+          "language": "fra"
+        },
+        {
+          "vernacularName": "Lumba lumba putih Cina",
+          "language": "ind"
+        },
+        {
+          "vernacularName": "Lumba balaq",
+          "language": "msa"
+        },
+        {
+          "vernacularName": "Parampaun laut",
+          "language": "msa"
+        },
+        {
+          "vernacularName": "Delfin jorobado del Indo-Pacifico",
+          "language": "spa"
+        },
+        {
+          "vernacularName": "Jung wat bat hoi tun",
+          "language": "zho"
+        },
+        {
+          "vernacularName": "Zhonghua bai haitun",
+          "language": "zho"
+        }
+      ],
+      "synonym": false,
+      "higherClassificationMap": {
+        "336598482": "ANIMALIA",
+        "336598673": "CHORDATA",
+        "336605913": "MAMMALIA",
+        "336607553": "ARTIODACTYLA",
+        "336607736": "DELPHINIDAE",
+        "336607746": "Sousa"
+      },
+      "class": "MAMMALIA"
+    },
+    "references": {
+      "key": 176668997,
+      "extensions": {
+        "http://rs.gbif.org/terms/1.0/VernacularName": [
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Chinese White Dolphin",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Indo-Pacific Humpback Dolphin",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "true"
+          },
+          {
+            "http://purl.org/dc/terms/language": "fra",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Dauphin à bosse de I'Indo-Pacifique",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "ind",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Lumba lumba putih Cina",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "msa",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Lumba balaq",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "msa",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Parampaun laut",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "spa",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Delfin jorobado del Indo-Pacifico",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "zho",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Jung wat bat hoi tun",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "zho",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Zhonghua bai haitun",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          }
+        ],
+        "http://rs.gbif.org/terms/1.0/Distribution": [
+          {
+            "http://rs.tdwg.org/dwc/terms/occurrenceStatus": "Present",
+            "http://iucn.org/terms/threatStatus": "Vulnerable",
+            "http://rs.tdwg.org/dwc/terms/locality": "Global",
+            "http://purl.org/dc/terms/source": "Jefferson, T.A., Smith, B.D., Braulik, G.T. & Perrin, W. 2017. Sousa chinensis (Osbeck, 1765). The IUCN Red List of Threatened Species 2017: https://doi.org/10.2305/IUCN.UK.2017-3.RLTS.T82031425A50372332.en"
+          }
+        ]
+      },
+      "lastCrawled": "2026-08-28T18:56:24.836+00:00",
+      "http://rs.tdwg.org/dwc/terms/acceptedNameUsageID": "82031425",
+      "http://rs.tdwg.org/dwc/terms/genus": "Sousa",
+      "http://rs.tdwg.org/dwc/terms/kingdom": "ANIMALIA",
+      "http://rs.tdwg.org/dwc/terms/class": "MAMMALIA",
+      "http://rs.tdwg.org/dwc/terms/taxonID": "82031425",
+      "http://rs.tdwg.org/dwc/terms/taxonomicStatus": "accepted",
+      "http://rs.tdwg.org/dwc/terms/order": "ARTIODACTYLA",
+      "http://rs.tdwg.org/dwc/terms/taxonRank": "species",
+      "http://rs.tdwg.org/dwc/terms/specificEpithet": "chinensis",
+      "http://rs.tdwg.org/dwc/terms/scientificNameAuthorship": "(Osbeck, 1765)",
+      "http://purl.org/dc/terms/bibliographicCitation": "Jefferson, T.A., Smith, B.D., Braulik, G.T. & Perrin, W. 2017. Sousa chinensis (Osbeck, 1765). The IUCN Red List of Threatened Species 2017: https://doi.org/10.2305/IUCN.UK.2017-3.RLTS.T82031425A50372332.en",
+      "http://rs.tdwg.org/dwc/terms/family": "DELPHINIDAE",
+      "http://purl.org/dc/terms/references": "https://www.iucnredlist.org/species/82031425/123794774",
+      "http://rs.tdwg.org/dwc/terms/scientificName": "Sousa chinensis (Osbeck, 1765)",
+      "http://rs.tdwg.org/dwc/terms/phylum": "CHORDATA"
+    }
+  },
+  {
+    "id": "grey-heron",
+    "scientific": "Ardea cinerea",
+    "retrievedAt": "2026-09-07T08:18:22.329Z",
+    "sourceUrl": "https://www.gbif.org/dataset/19491596-35ae-4a91-9a98-85cf505f1bd3/taxon/22696993",
+    "match": {
+      "key": 176611595,
+      "datasetKey": "19491596-35ae-4a91-9a98-85cf505f1bd3",
+      "nubKey": 9797180,
+      "parentKey": 336607562,
+      "parent": "Ardea",
+      "kingdom": "ANIMALIA",
+      "phylum": "CHORDATA",
+      "order": "PELECANIFORMES",
+      "family": "ARDEIDAE",
+      "genus": "Ardea",
+      "species": "Ardea cinerea",
+      "kingdomKey": 336598482,
+      "phylumKey": 336598673,
+      "classKey": 336606478,
+      "orderKey": 336607506,
+      "familyKey": 336607536,
+      "genusKey": 336607562,
+      "speciesKey": 176611595,
+      "scientificName": "Ardea cinerea Linnaeus, 1758",
+      "canonicalName": "Ardea cinerea",
+      "authorship": "Linnaeus, 1758",
+      "nameType": "SCIENTIFIC",
+      "taxonomicStatus": "ACCEPTED",
+      "rank": "SPECIES",
+      "origin": "SOURCE",
+      "numDescendants": 0,
+      "numOccurrences": 0,
+      "taxonID": "22696993",
+      "habitats": [],
+      "nomenclaturalStatus": [],
+      "threatStatuses": [
+        "LEAST_CONCERN"
+      ],
+      "descriptions": [],
+      "vernacularNames": [
+        {
+          "vernacularName": "البلشون الرمادي, مالك الحزين الرمادي",
+          "language": "ara"
+        },
+        {
+          "vernacularName": "Σταχτοτσικνιάς",
+          "language": "ell"
+        },
+        {
+          "vernacularName": "Gray Heron",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Grey Heron",
+          "language": "eng"
+        },
+        {
+          "vernacularName": "Héron cendré",
+          "language": "fra"
+        }
+      ],
+      "synonym": false,
+      "higherClassificationMap": {
+        "336598482": "ANIMALIA",
+        "336598673": "CHORDATA",
+        "336606478": "AVES",
+        "336607506": "PELECANIFORMES",
+        "336607536": "ARDEIDAE",
+        "336607562": "Ardea"
+      },
+      "class": "AVES"
+    },
+    "references": {
+      "key": 176611595,
+      "extensions": {
+        "http://rs.gbif.org/terms/1.0/VernacularName": [
+          {
+            "http://purl.org/dc/terms/language": "ara",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "البلشون الرمادي, مالك الحزين الرمادي",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "ell",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Σταχτοτσικνιάς",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Gray Heron",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Grey Heron",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "true"
+          },
+          {
+            "http://purl.org/dc/terms/language": "fra",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Héron cendré",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          }
+        ],
+        "http://rs.gbif.org/terms/1.0/Distribution": [
+          {
+            "http://rs.tdwg.org/dwc/terms/occurrenceStatus": "Present",
+            "http://iucn.org/terms/threatStatus": "Least Concern",
+            "http://rs.tdwg.org/dwc/terms/locality": "Global",
+            "http://purl.org/dc/terms/source": "BirdLife International 2019. Ardea cinerea Linnaeus, 1758. The IUCN Red List of Threatened Species 2019: https://doi.org/10.2305/IUCN.UK.2019-3.RLTS.T22696993A154525233.en"
+          }
+        ]
+      },
+      "lastCrawled": "2026-08-28T18:56:24.836+00:00",
+      "http://rs.tdwg.org/dwc/terms/acceptedNameUsageID": "22696993",
+      "http://rs.tdwg.org/dwc/terms/genus": "Ardea",
+      "http://rs.tdwg.org/dwc/terms/kingdom": "ANIMALIA",
+      "http://rs.tdwg.org/dwc/terms/class": "AVES",
+      "http://rs.tdwg.org/dwc/terms/taxonID": "22696993",
+      "http://rs.tdwg.org/dwc/terms/taxonomicStatus": "accepted",
+      "http://rs.tdwg.org/dwc/terms/order": "PELECANIFORMES",
+      "http://rs.tdwg.org/dwc/terms/taxonRank": "species",
+      "http://rs.tdwg.org/dwc/terms/specificEpithet": "cinerea",
+      "http://rs.tdwg.org/dwc/terms/scientificNameAuthorship": "Linnaeus, 1758",
+      "http://purl.org/dc/terms/bibliographicCitation": "BirdLife International 2019. Ardea cinerea Linnaeus, 1758. The IUCN Red List of Threatened Species 2019: https://doi.org/10.2305/IUCN.UK.2019-3.RLTS.T22696993A154525233.en",
+      "http://rs.tdwg.org/dwc/terms/family": "ARDEIDAE",
+      "http://purl.org/dc/terms/references": "https://www.iucnredlist.org/species/22696993/154525233",
+      "http://rs.tdwg.org/dwc/terms/scientificName": "Ardea cinerea Linnaeus, 1758",
+      "http://rs.tdwg.org/dwc/terms/phylum": "CHORDATA"
+    }
+  },
+  {
+    "id": "little-egret",
+    "scientific": "Egretta garzetta",
+    "retrievedAt": "2026-09-07T08:18:22.720Z",
+    "sourceUrl": "https://www.gbif.org/dataset/19491596-35ae-4a91-9a98-85cf505f1bd3/taxon/62774969",
+    "match": {
+      "key": 176611472,
+      "datasetKey": "19491596-35ae-4a91-9a98-85cf505f1bd3",
+      "nubKey": 2480876,
+      "parentKey": 336607539,
+      "parent": "Egretta",
+      "kingdom": "ANIMALIA",
+      "phylum": "CHORDATA",
+      "order": "PELECANIFORMES",
+      "family": "ARDEIDAE",
+      "genus": "Egretta",
+      "species": "Egretta garzetta",
+      "kingdomKey": 336598482,
+      "phylumKey": 336598673,
+      "classKey": 336606478,
+      "orderKey": 336607506,
+      "familyKey": 336607536,
+      "genusKey": 336607539,
+      "speciesKey": 176611472,
+      "scientificName": "Egretta garzetta (Linnaeus, 1766)",
+      "canonicalName": "Egretta garzetta",
+      "authorship": "(Linnaeus, 1766)",
+      "nameType": "SCIENTIFIC",
+      "taxonomicStatus": "ACCEPTED",
+      "rank": "SPECIES",
+      "origin": "SOURCE",
+      "numDescendants": 0,
+      "numOccurrences": 0,
+      "taxonID": "62774969",
+      "habitats": [],
+      "nomenclaturalStatus": [],
+      "threatStatuses": [
+        "LEAST_CONCERN"
+      ],
+      "descriptions": [],
+      "vernacularNames": [
+        {
+          "vernacularName": "Λευκοτσικνιάς",
+          "language": "ell"
+        },
+        {
+          "vernacularName": "Little Egret",
+          "language": "eng"
+        }
+      ],
+      "synonym": false,
+      "higherClassificationMap": {
+        "336598482": "ANIMALIA",
+        "336598673": "CHORDATA",
+        "336606478": "AVES",
+        "336607506": "PELECANIFORMES",
+        "336607536": "ARDEIDAE",
+        "336607539": "Egretta"
+      },
+      "class": "AVES"
+    },
+    "references": {
+      "key": 176611472,
+      "extensions": {
+        "http://rs.gbif.org/terms/1.0/VernacularName": [
+          {
+            "http://purl.org/dc/terms/language": "ell",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Λευκοτσικνιάς",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "false"
+          },
+          {
+            "http://purl.org/dc/terms/language": "eng",
+            "http://rs.tdwg.org/dwc/terms/vernacularName": "Little Egret",
+            "http://rs.gbif.org/terms/1.0/isPreferredName": "true"
+          }
+        ],
+        "http://rs.gbif.org/terms/1.0/Distribution": [
+          {
+            "http://rs.tdwg.org/dwc/terms/occurrenceStatus": "Present",
+            "http://iucn.org/terms/threatStatus": "Least Concern",
+            "http://rs.tdwg.org/dwc/terms/locality": "Global",
+            "http://purl.org/dc/terms/source": "BirdLife International 2025. Egretta garzetta (Linnaeus, 1766). The IUCN Red List of Threatened Species 2025: https://doi.org/10.2305/IUCN.UK.2025-2.RLTS.T62774969A154819214.en"
+          }
+        ]
+      },
+      "lastCrawled": "2026-08-28T18:56:24.836+00:00",
+      "http://rs.tdwg.org/dwc/terms/acceptedNameUsageID": "62774969",
+      "http://rs.tdwg.org/dwc/terms/genus": "Egretta",
+      "http://rs.tdwg.org/dwc/terms/kingdom": "ANIMALIA",
+      "http://rs.tdwg.org/dwc/terms/class": "AVES",
+      "http://rs.tdwg.org/dwc/terms/taxonID": "62774969",
+      "http://rs.tdwg.org/dwc/terms/taxonomicStatus": "accepted",
+      "http://rs.tdwg.org/dwc/terms/order": "PELECANIFORMES",
+      "http://rs.tdwg.org/dwc/terms/taxonRank": "species",
+      "http://rs.tdwg.org/dwc/terms/specificEpithet": "garzetta",
+      "http://rs.tdwg.org/dwc/terms/scientificNameAuthorship": "(Linnaeus, 1766)",
+      "http://purl.org/dc/terms/bibliographicCitation": "BirdLife International 2025. Egretta garzetta (Linnaeus, 1766). The IUCN Red List of Threatened Species 2025: https://doi.org/10.2305/IUCN.UK.2025-2.RLTS.T62774969A154819214.en",
+      "http://rs.tdwg.org/dwc/terms/family": "ARDEIDAE",
+      "http://purl.org/dc/terms/references": "https://www.iucnredlist.org/species/62774969/154819214",
+      "http://rs.tdwg.org/dwc/terms/scientificName": "Egretta garzetta (Linnaeus, 1766)",
+      "http://rs.tdwg.org/dwc/terms/phylum": "CHORDATA"
+    }
+  }
+]

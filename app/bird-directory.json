@@ -1,0 +1,539 @@
+{
+  "checkedAt": "2026-09-07",
+  "source": "Bird Society of Singapore",
+  "sourceUrl": "https://singaporebirds.com/checklist?view=basic",
+  "scope": "Current accepted checklist; not every historical or disputed record",
+  "groups": [
+    {
+      "family": "Accipitridae",
+      "sourceUrl": "https://singaporebirds.com/family/accipitridae",
+      "birds": [
+        {
+          "id": "black-winged-kite",
+          "name": "Black-winged Kite",
+          "scientific": "Elanus caeruleus",
+          "localStatus": "Uncommon resident",
+          "statuses": [
+            "Resident"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/black-winged-kite/"
+        },
+        {
+          "id": "jerdons-baza",
+          "name": "Jerdon's Baza",
+          "scientific": "Aviceda jerdoni",
+          "localStatus": "Uncommon migrant",
+          "statuses": [
+            "Migrant"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/jerdons-baza/"
+        },
+        {
+          "id": "black-baza",
+          "name": "Black Baza",
+          "scientific": "Aviceda leuphotes",
+          "localStatus": "Common migrant",
+          "statuses": [
+            "Migrant"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/black-baza/"
+        },
+        {
+          "id": "crested-honey-buzzard",
+          "name": "Crested Honey Buzzard",
+          "scientific": "Pernis ptilorhynchus",
+          "localStatus": "Very common migrant and uncommon visitor",
+          "statuses": [
+            "Migrant",
+            "Visitor"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/crested-honey-buzzard/"
+        },
+        {
+          "id": "cinereous-vulture",
+          "name": "Cinereous Vulture",
+          "scientific": "Aegypius monachus",
+          "localStatus": "Vagrant",
+          "statuses": [
+            "Vagrant"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/cinereous-vulture/"
+        },
+        {
+          "id": "himalayan-vulture",
+          "name": "Himalayan Vulture",
+          "scientific": "Gyps himalayensis",
+          "localStatus": "Vagrant",
+          "statuses": [
+            "Vagrant"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/himalayan-vulture/"
+        },
+        {
+          "id": "crested-serpent-eagle",
+          "name": "Crested Serpent Eagle",
+          "scientific": "Spilornis cheela",
+          "localStatus": "Uncommon resident",
+          "statuses": [
+            "Resident"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/crested-serpent-eagle/"
+        },
+        {
+          "id": "short-toed-snake-eagle",
+          "name": "Short-toed Snake Eagle",
+          "scientific": "Circaetus gallicus",
+          "localStatus": "Vagrant",
+          "statuses": [
+            "Vagrant"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/short-toed-snake-eagle/"
+        },
+        {
+          "id": "changeable-hawk-eagle",
+          "name": "Changeable Hawk-Eagle",
+          "scientific": "Nisaetus cirrhatus",
+          "localStatus": "Common resident",
+          "statuses": [
+            "Resident"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/changeable-hawk-eagle/"
+        },
+        {
+          "id": "rufous-bellied-eagle",
+          "name": "Rufous-bellied Eagle",
+          "scientific": "Lophotriorchis kienerii",
+          "localStatus": "Rare migrant and rare visitor",
+          "statuses": [
+            "Migrant",
+            "Visitor"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/rufous-bellied-eagle/"
+        },
+        {
+          "id": "greater-spotted-eagle",
+          "name": "Greater Spotted Eagle",
+          "scientific": "Clanga clanga",
+          "localStatus": "Rare migrant",
+          "statuses": [
+            "Migrant"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/greater-spotted-eagle/"
+        },
+        {
+          "id": "booted-eagle",
+          "name": "Booted Eagle",
+          "scientific": "Hieraaetus pennatus",
+          "localStatus": "Rare migrant",
+          "statuses": [
+            "Migrant"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/booted-eagle/"
+        },
+        {
+          "id": "steppe-eagle",
+          "name": "Steppe Eagle",
+          "scientific": "Aquila nipalensis",
+          "localStatus": "Vagrant",
+          "statuses": [
+            "Vagrant"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/steppe-eagle/"
+        },
+        {
+          "id": "eastern-imperial-eagle",
+          "name": "Eastern Imperial Eagle",
+          "scientific": "Aquila heliaca",
+          "localStatus": "Vagrant",
+          "statuses": [
+            "Vagrant"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/eastern-imperial-eagle/"
+        },
+        {
+          "id": "bat-hawk",
+          "name": "Bat Hawk",
+          "scientific": "Macheiramphus alcinus",
+          "localStatus": "Very rare visitor",
+          "statuses": [
+            "Visitor"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/bat-hawk/"
+        },
+        {
+          "id": "crested-goshawk",
+          "name": "Crested Goshawk",
+          "scientific": "Lophospiza trivirgata",
+          "localStatus": "Uncommon resident",
+          "statuses": [
+            "Resident"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/crested-goshawk/"
+        },
+        {
+          "id": "besra",
+          "name": "Besra",
+          "scientific": "Tachyspiza virgata",
+          "localStatus": "Rare migrant",
+          "statuses": [
+            "Migrant"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/besra/"
+        },
+        {
+          "id": "japanese-sparrowhawk",
+          "name": "Japanese Sparrowhawk",
+          "scientific": "Tachyspiza gularis",
+          "localStatus": "Common migrant",
+          "statuses": [
+            "Migrant"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/japanese-sparrowhawk/"
+        },
+        {
+          "id": "shikra",
+          "name": "Shikra",
+          "scientific": "Tachyspiza badia",
+          "localStatus": "Vagrant",
+          "statuses": [
+            "Vagrant"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/shikra/"
+        },
+        {
+          "id": "chinese-sparrowhawk",
+          "name": "Chinese Sparrowhawk",
+          "scientific": "Tachyspiza soloensis",
+          "localStatus": "Common migrant",
+          "statuses": [
+            "Migrant"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/chinese-sparrowhawk/"
+        },
+        {
+          "id": "eurasian-sparrowhawk",
+          "name": "Eurasian Sparrowhawk",
+          "scientific": "Accipiter nisus",
+          "localStatus": "Vagrant",
+          "statuses": [
+            "Vagrant"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/eurasian-sparrowhawk/"
+        },
+        {
+          "id": "pied-harrier",
+          "name": "Pied Harrier",
+          "scientific": "Circus melanoleucos",
+          "localStatus": "Rare migrant",
+          "statuses": [
+            "Migrant"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/pied-harrier/"
+        },
+        {
+          "id": "eastern-marsh-harrier",
+          "name": "Eastern Marsh Harrier",
+          "scientific": "Circus spilonotus",
+          "localStatus": "Uncommon migrant",
+          "statuses": [
+            "Migrant"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/eastern-marsh-harrier/"
+        },
+        {
+          "id": "brahminy-kite",
+          "name": "Brahminy Kite",
+          "scientific": "Haliastur indus",
+          "localStatus": "Very common resident",
+          "statuses": [
+            "Resident"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/brahminy-kite/"
+        },
+        {
+          "id": "black-kite",
+          "name": "Black Kite",
+          "scientific": "Milvus migrans",
+          "localStatus": "Rare migrant",
+          "statuses": [
+            "Migrant"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/black-kite/"
+        },
+        {
+          "id": "white-bellied-sea-eagle",
+          "name": "White-bellied Sea Eagle",
+          "scientific": "Icthyophaga leucogaster",
+          "localStatus": "Very common resident",
+          "statuses": [
+            "Resident"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/white-bellied-sea-eagle/"
+        },
+        {
+          "id": "grey-headed-fish-eagle",
+          "name": "Grey-headed Fish Eagle",
+          "scientific": "Icthyophaga ichthyaetus",
+          "localStatus": "Common resident",
+          "statuses": [
+            "Resident"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/grey-headed-fish-eagle/"
+        },
+        {
+          "id": "grey-faced-buzzard",
+          "name": "Grey-faced Buzzard",
+          "scientific": "Butastur indicus",
+          "localStatus": "Uncommon migrant",
+          "statuses": [
+            "Migrant"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/grey-faced-buzzard/"
+        },
+        {
+          "id": "common-buzzard",
+          "name": "Common Buzzard",
+          "scientific": "Buteo buteo",
+          "localStatus": "Uncommon migrant",
+          "statuses": [
+            "Migrant"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/common-buzzard/"
+        },
+        {
+          "id": "eastern-buzzard",
+          "name": "Eastern Buzzard",
+          "scientific": "Buteo japonicus",
+          "localStatus": "Rare migrant",
+          "statuses": [
+            "Migrant"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/eastern-buzzard/"
+        }
+      ]
+    },
+    {
+      "family": "Pandionidae",
+      "sourceUrl": "https://singaporebirds.com/family/pandionidae",
+      "birds": [
+        {
+          "id": "osprey",
+          "name": "Osprey",
+          "scientific": "Pandion haliaetus",
+          "localStatus": "Uncommon migrant and uncommon visitor",
+          "statuses": [
+            "Migrant",
+            "Visitor"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/osprey/"
+        }
+      ]
+    },
+    {
+      "family": "Falconidae",
+      "sourceUrl": "https://singaporebirds.com/family/falconidae",
+      "birds": [
+        {
+          "id": "black-thighed-falconet",
+          "name": "Black-thighed Falconet",
+          "scientific": "Microhierax fringillarius",
+          "localStatus": "Former resident and very rare visitor",
+          "statuses": [
+            "Former resident",
+            "Visitor"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/black-thighed-falconet/"
+        },
+        {
+          "id": "lesser-kestrel",
+          "name": "Lesser Kestrel",
+          "scientific": "Falco naumanni",
+          "localStatus": "Vagrant",
+          "statuses": [
+            "Vagrant"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/lesser-kestrel/"
+        },
+        {
+          "id": "common-kestrel",
+          "name": "Common Kestrel",
+          "scientific": "Falco tinnunculus",
+          "localStatus": "Rare migrant",
+          "statuses": [
+            "Migrant"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/common-kestrel/"
+        },
+        {
+          "id": "amur-falcon",
+          "name": "Amur Falcon",
+          "scientific": "Falco amurensis",
+          "localStatus": "Vagrant",
+          "statuses": [
+            "Vagrant"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/amur-falcon/"
+        },
+        {
+          "id": "eurasian-hobby",
+          "name": "Eurasian Hobby",
+          "scientific": "Falco subbuteo",
+          "localStatus": "Vagrant",
+          "statuses": [
+            "Vagrant"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/eurasian-hobby/"
+        },
+        {
+          "id": "peregrine-falcon",
+          "name": "Peregrine Falcon",
+          "scientific": "Falco peregrinus",
+          "localStatus": "Uncommon migrant and very rare resident",
+          "statuses": [
+            "Migrant",
+            "Resident"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/peregrine-falcon/"
+        }
+      ]
+    },
+    {
+      "family": "Tytonidae",
+      "sourceUrl": "https://singaporebirds.com/family/tytonidae",
+      "birds": [
+        {
+          "id": "eastern-barn-owl",
+          "name": "Eastern Barn Owl",
+          "scientific": "Tyto javanica",
+          "localStatus": "Uncommon resident",
+          "statuses": [
+            "Resident"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/eastern-barn-owl/"
+        }
+      ]
+    },
+    {
+      "family": "Strigidae",
+      "sourceUrl": "https://singaporebirds.com/family/strigidae",
+      "birds": [
+        {
+          "id": "brown-boobook",
+          "name": "Brown Boobook",
+          "scientific": "Ninox scutulata",
+          "localStatus": "Uncommon resident",
+          "statuses": [
+            "Resident"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/brown-boobook/"
+        },
+        {
+          "id": "northern-boobook",
+          "name": "Northern Boobook",
+          "scientific": "Ninox japonica",
+          "localStatus": "Rare migrant",
+          "statuses": [
+            "Migrant"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/northern-boobook/"
+        },
+        {
+          "id": "collared-scops-owl",
+          "name": "Collared Scops Owl",
+          "scientific": "Otus lettia",
+          "localStatus": "Common resident",
+          "statuses": [
+            "Resident"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/collared-scops-owl/"
+        },
+        {
+          "id": "oriental-scops-owl",
+          "name": "Oriental Scops Owl",
+          "scientific": "Otus sunia",
+          "localStatus": "Uncommon migrant",
+          "statuses": [
+            "Migrant"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/oriental-scops-owl/"
+        },
+        {
+          "id": "short-eared-owl",
+          "name": "Short-eared Owl",
+          "scientific": "Asio flammeus",
+          "localStatus": "Vagrant",
+          "statuses": [
+            "Vagrant"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/short-eared-owl/"
+        },
+        {
+          "id": "buffy-fish-owl",
+          "name": "Buffy Fish Owl",
+          "scientific": "Ketupa ketupu",
+          "localStatus": "Uncommon resident",
+          "statuses": [
+            "Resident"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/buffy-fish-owl/"
+        },
+        {
+          "id": "barred-eagle-owl",
+          "name": "Barred Eagle-Owl",
+          "scientific": "Ketupa sumatrana",
+          "localStatus": "Rare resident",
+          "statuses": [
+            "Resident"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/barred-eagle-owl/"
+        },
+        {
+          "id": "spotted-wood-owl",
+          "name": "Spotted Wood Owl",
+          "scientific": "Strix seloputo",
+          "localStatus": "Uncommon resident",
+          "statuses": [
+            "Resident"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/spotted-wood-owl/"
+        },
+        {
+          "id": "brown-wood-owl",
+          "name": "Brown Wood Owl",
+          "scientific": "Strix leptogrammica",
+          "localStatus": "Very rare visitor",
+          "statuses": [
+            "Visitor"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/brown-wood-owl/"
+        }
+      ]
+    },
+    {
+      "family": "Phasianidae",
+      "sourceUrl": "https://singaporebirds.com/family/phasianidae",
+      "birds": [
+        {
+          "id": "red-junglefowl",
+          "name": "Red Junglefowl",
+          "scientific": "Gallus gallus",
+          "localStatus": "Common resident",
+          "statuses": [
+            "Resident"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/red-junglefowl/"
+        },
+        {
+          "id": "king-quail",
+          "name": "King Quail",
+          "scientific": "Synoicus chinensis",
+          "localStatus": "Uncommon resident",
+          "statuses": [
+            "Resident"
+          ],
+          "sourceUrl": "https://singaporebirds.com/species/king-quail/"
+        }
+      ]
+    }
+  ]
+}

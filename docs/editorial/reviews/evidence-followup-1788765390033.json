@@ -1,0 +1,970 @@
+{
+  "scope": "Follow-up of the 200 incomplete profile claims",
+  "reviews": [
+    {
+      "contentId": "profile:sunda-colugo",
+      "claim": "watch",
+      "claimText": "Stay on open trails. Use binoculars and avoid flash or shining a light into its eyes.",
+      "hash": "fb7dd9ef91e19aabd821f582d542a88355d6facb8629c28c08ba61e45c7a4652",
+      "sourceUrl": "https://www.nparks.gov.sg/publications-resources/articles/enjoying-nature-responsibly",
+      "additionalSources": [
+        "https://www.pss1950.org/wp-content/uploads/2025/12/GUIDELINES-FOR-ETHICAL-PRACTICES-IN-THE-FIELD-FOR-NATURE-PHOTOGRAPHY-IN-SINGAPORE-Updated-27-Nov-2025.pdf"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "Trail and lighting advice matches NParks guidance; handling cautions follow the professional-help guidance.",
+      "reviewedAt": "2026-09-07T07:16:30.020Z"
+    },
+    {
+      "contentId": "profile:sunda-slow-loris",
+      "claim": "watch",
+      "claimText": "Never touch or attempt to rescue one by hand. Do not use flash photography or lure it into view.",
+      "hash": "390eec4207febb0a062216aca2ace0174332c08d768ba3b498d2f0ebeb39dc72",
+      "sourceUrl": "https://www.nparks.gov.sg/publications-resources/articles/enjoying-nature-responsibly",
+      "additionalSources": [
+        "https://www.pss1950.org/wp-content/uploads/2025/12/GUIDELINES-FOR-ETHICAL-PRACTICES-IN-THE-FIELD-FOR-NATURE-PHOTOGRAPHY-IN-SINGAPORE-Updated-27-Nov-2025.pdf"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "Trail and lighting advice matches NParks guidance; handling cautions follow the professional-help guidance.",
+      "reviewedAt": "2026-09-07T07:16:30.022Z"
+    },
+    {
+      "contentId": "profile:mainland-leopard-cat",
+      "claim": "watch",
+      "claimText": "Do not pursue it or disclose a den location. Report suspected trapping to the relevant wildlife authority.",
+      "hash": "0333e6d57035ce46cbc2f1bd94e81daeedc6d363760d77c1736d0f449dc65c05",
+      "sourceUrl": "https://www.pss1950.org/wp-content/uploads/2025/12/GUIDELINES-FOR-ETHICAL-PRACTICES-IN-THE-FIELD-FOR-NATURE-PHOTOGRAPHY-IN-SINGAPORE-Updated-27-Nov-2025.pdf",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "Sections 1–3 and 5 support these distance, disturbance and reporting precautions.",
+      "reviewedAt": "2026-09-07T07:16:30.022Z"
+    },
+    {
+      "contentId": "profile:plantain-squirrel",
+      "claim": "watch",
+      "claimText": "Enjoy it from the path. Do not bait it for a photograph or offer snacks.",
+      "hash": "826a1c195c073d9f8276241336ab05501502fe702f52e849bf62cc8ad05ed76c",
+      "sourceUrl": "https://www.pss1950.org/wp-content/uploads/2025/12/GUIDELINES-FOR-ETHICAL-PRACTICES-IN-THE-FIELD-FOR-NATURE-PHOTOGRAPHY-IN-SINGAPORE-Updated-27-Nov-2025.pdf",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "Sections 1–3 and 5 support these distance, disturbance and reporting precautions.",
+      "reviewedAt": "2026-09-07T07:16:30.022Z"
+    },
+    {
+      "contentId": "profile:lesser-mousedeer",
+      "claim": "watch",
+      "claimText": "Remain on trails and let it disappear into cover. Do not pursue it for a closer photograph.",
+      "hash": "aae939f5de0c5d0cf7405568e0a616fd5b085d8f8bea36df48785b52b1826370",
+      "sourceUrl": "https://www.pss1950.org/wp-content/uploads/2025/12/GUIDELINES-FOR-ETHICAL-PRACTICES-IN-THE-FIELD-FOR-NATURE-PHOTOGRAPHY-IN-SINGAPORE-Updated-27-Nov-2025.pdf",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "Sections 1–3 and 5 support these distance, disturbance and reporting precautions.",
+      "reviewedAt": "2026-09-07T07:16:30.022Z"
+    },
+    {
+      "contentId": "profile:greater-mousedeer",
+      "claim": "watch",
+      "claimText": "Keep to permitted paths, observe quietly and never feed or pursue it. Leave dense undergrowth undisturbed and do not share exact resting locations.",
+      "hash": "cb34d6aea378ff3043758c2278ee641426b228551fa429dca713acb0fa9870fb",
+      "sourceUrl": "https://www.pss1950.org/wp-content/uploads/2025/12/GUIDELINES-FOR-ETHICAL-PRACTICES-IN-THE-FIELD-FOR-NATURE-PHOTOGRAPHY-IN-SINGAPORE-Updated-27-Nov-2025.pdf",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "Sections 1–3 and 5 support these distance, disturbance and reporting precautions.",
+      "reviewedAt": "2026-09-07T07:16:30.023Z"
+    },
+    {
+      "contentId": "profile:malayan-porcupine",
+      "claim": "watch",
+      "claimText": "Keep a generous distance and never block its path or approach a burrow. Do not attempt to handle an animal or remove its quills.",
+      "hash": "9b1a892a1c1a4afba0be11972154a04bacbc620870f5d9b260a625b212766426",
+      "sourceUrl": "https://www.pss1950.org/wp-content/uploads/2025/12/GUIDELINES-FOR-ETHICAL-PRACTICES-IN-THE-FIELD-FOR-NATURE-PHOTOGRAPHY-IN-SINGAPORE-Updated-27-Nov-2025.pdf",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "Sections 1–3 and 5 support these distance, disturbance and reporting precautions.",
+      "reviewedAt": "2026-09-07T07:16:30.023Z"
+    },
+    {
+      "contentId": "profile:small-toothed-palm-civet",
+      "claim": "watch",
+      "claimText": "Use binoculars from permitted paths and leave resting animals undisturbed. Never bait, feed, touch or follow a civet into the forest.",
+      "hash": "8e740aba2479d2f304b54e4dda126c0f0463e1bab92cacb65c27080a849104eb",
+      "sourceUrl": "https://www.pss1950.org/wp-content/uploads/2025/12/GUIDELINES-FOR-ETHICAL-PRACTICES-IN-THE-FIELD-FOR-NATURE-PHOTOGRAPHY-IN-SINGAPORE-Updated-27-Nov-2025.pdf",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "Sections 1–3 and 5 support these distance, disturbance and reporting precautions.",
+      "reviewedAt": "2026-09-07T07:16:30.023Z"
+    },
+    {
+      "contentId": "profile:horsfields-flying-squirrel",
+      "claim": "watch",
+      "claimText": "Observe from permitted routes and avoid flash, sustained spotlighting or disturbance of tree holes. Never lure an animal with food or enter closed areas to seek it.",
+      "hash": "46ea3fedf7fa3f3455983fa8ccfd777a9f647b9852677a651d79b7a2bd76b9e7",
+      "sourceUrl": "https://www.nparks.gov.sg/publications-resources/articles/enjoying-nature-responsibly",
+      "additionalSources": [
+        "https://www.pss1950.org/wp-content/uploads/2025/12/GUIDELINES-FOR-ETHICAL-PRACTICES-IN-THE-FIELD-FOR-NATURE-PHOTOGRAPHY-IN-SINGAPORE-Updated-27-Nov-2025.pdf",
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "NParks lighting guidance supplements the linked photography and wildlife precautions.",
+      "reviewedAt": "2026-09-07T07:16:30.023Z"
+    },
+    {
+      "contentId": "profile:red-cheeked-flying-squirrel",
+      "claim": "watch",
+      "claimText": "Watch quietly from open trails without flash or prolonged direct light. Do not inspect occupied tree cavities or publish exact shelter locations.",
+      "hash": "f9e4c07690e6937e40153141de7df5dbcd1a49a0398dee06b81e0496f179255d",
+      "sourceUrl": "https://www.nparks.gov.sg/publications-resources/articles/enjoying-nature-responsibly",
+      "additionalSources": [
+        "https://www.pss1950.org/wp-content/uploads/2025/12/GUIDELINES-FOR-ETHICAL-PRACTICES-IN-THE-FIELD-FOR-NATURE-PHOTOGRAPHY-IN-SINGAPORE-Updated-27-Nov-2025.pdf",
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "NParks lighting guidance supplements the linked photography and wildlife precautions.",
+      "reviewedAt": "2026-09-07T07:16:30.024Z"
+    },
+    {
+      "contentId": "profile:spiny-hill-turtle",
+      "claim": "watch",
+      "claimText": "Keep to open paths, leave it where it is and avoid handling or flash. Do not disclose a precise location or collect an animal for a pet.",
+      "hash": "3e12c0327b9005f5ac989a16f9efcb8f2cda50955e610bed163aed8e7019a4d9",
+      "sourceUrl": "https://www.nparks.gov.sg/publications-resources/articles/enjoying-nature-responsibly",
+      "additionalSources": [
+        "https://www.pss1950.org/wp-content/uploads/2025/12/GUIDELINES-FOR-ETHICAL-PRACTICES-IN-THE-FIELD-FOR-NATURE-PHOTOGRAPHY-IN-SINGAPORE-Updated-27-Nov-2025.pdf",
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "NParks lighting guidance supplements the linked photography and wildlife precautions.",
+      "reviewedAt": "2026-09-07T07:16:30.024Z"
+    },
+    {
+      "contentId": "profile:raffles-banded-langur",
+      "claim": "watch",
+      "claimText": "Use open trails and binoculars. Do not follow a group off-trail, play calls or share sensitive locations.",
+      "hash": "bb81aecf162f8902839b291ace039c186c1e8b137572bd22dd117c14f059db65",
+      "sourceUrl": "https://www.nparks.gov.sg/visit/activities/birdwatching",
+      "additionalSources": [
+        "https://www.pss1950.org/wp-content/uploads/2025/12/GUIDELINES-FOR-ETHICAL-PRACTICES-IN-THE-FIELD-FOR-NATURE-PHOTOGRAPHY-IN-SINGAPORE-Updated-27-Nov-2025.pdf",
+        "https://www.nparks.gov.sg/publications-resources/articles/enjoying-nature-responsibly",
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The linked guidance supports these conservative viewing precautions. It is advice, not measured species behaviour.",
+      "reviewedAt": "2026-09-07T07:16:30.024Z"
+    },
+    {
+      "contentId": "profile:straw-headed-bulbul",
+      "claim": "watch",
+      "claimText": "Listen quietly from paths. Never play calls to draw it out, set up bait or publicise a nest.",
+      "hash": "8e39661b7a105e310ae13f4da303c6af1a2434865d6db7fed1eecea4b2ef3d87",
+      "sourceUrl": "https://www.nparks.gov.sg/visit/activities/birdwatching",
+      "additionalSources": [
+        "https://www.pss1950.org/wp-content/uploads/2025/12/GUIDELINES-FOR-ETHICAL-PRACTICES-IN-THE-FIELD-FOR-NATURE-PHOTOGRAPHY-IN-SINGAPORE-Updated-27-Nov-2025.pdf",
+        "https://www.nparks.gov.sg/publications-resources/articles/enjoying-nature-responsibly",
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The linked guidance supports these conservative viewing precautions. It is advice, not measured species behaviour.",
+      "reviewedAt": "2026-09-07T07:16:30.024Z"
+    },
+    {
+      "contentId": "profile:oriental-pied-hornbill",
+      "claim": "watch",
+      "claimText": "Leave fruit for wildlife. Do not feed, crowd or approach a nesting cavity.",
+      "hash": "9fda6e9c0da6315f16da5a26aaa097d0abc48e3fe4b5d1096edc1ba5c15dd5f1",
+      "sourceUrl": "https://www.nparks.gov.sg/visit/activities/birdwatching",
+      "additionalSources": [
+        "https://www.pss1950.org/wp-content/uploads/2025/12/GUIDELINES-FOR-ETHICAL-PRACTICES-IN-THE-FIELD-FOR-NATURE-PHOTOGRAPHY-IN-SINGAPORE-Updated-27-Nov-2025.pdf",
+        "https://www.nparks.gov.sg/publications-resources/articles/enjoying-nature-responsibly",
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The linked guidance supports these conservative viewing precautions. It is advice, not measured species behaviour.",
+      "reviewedAt": "2026-09-07T07:16:30.024Z"
+    },
+    {
+      "contentId": "profile:white-bellied-sea-eagle",
+      "claim": "watch",
+      "claimText": "Use binoculars from a safe viewpoint. Never fly a drone near a nest or move closer to force a take-off.",
+      "hash": "df9e6aeb79a4175bcca0e4cbd21da422c99a6a6d43a7ce44a1da595053920675",
+      "sourceUrl": "https://www.nparks.gov.sg/visit/activities/birdwatching",
+      "additionalSources": [
+        "https://www.pss1950.org/wp-content/uploads/2025/12/GUIDELINES-FOR-ETHICAL-PRACTICES-IN-THE-FIELD-FOR-NATURE-PHOTOGRAPHY-IN-SINGAPORE-Updated-27-Nov-2025.pdf",
+        "https://www.nparks.gov.sg/publications-resources/articles/enjoying-nature-responsibly",
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The linked guidance supports these conservative viewing precautions. It is advice, not measured species behaviour.",
+      "reviewedAt": "2026-09-07T07:16:30.025Z"
+    },
+    {
+      "contentId": "profile:asian-koel",
+      "claim": "watch",
+      "claimText": "Listen from a distance and avoid playback. Do not search for or interfere with a host nest.",
+      "hash": "b8350ae0c8db4da25909c1646bf3b1e5c05adbb86baabecc73ce76cfd5c371d9",
+      "sourceUrl": "https://www.nparks.gov.sg/visit/activities/birdwatching",
+      "additionalSources": [
+        "https://www.pss1950.org/wp-content/uploads/2025/12/GUIDELINES-FOR-ETHICAL-PRACTICES-IN-THE-FIELD-FOR-NATURE-PHOTOGRAPHY-IN-SINGAPORE-Updated-27-Nov-2025.pdf",
+        "https://www.nparks.gov.sg/publications-resources/articles/enjoying-nature-responsibly",
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The linked guidance supports these conservative viewing precautions. It is advice, not measured species behaviour.",
+      "reviewedAt": "2026-09-07T07:16:30.025Z"
+    },
+    {
+      "contentId": "profile:black-naped-oriole",
+      "claim": "watch",
+      "claimText": "Watch feeding birds from the path. Avoid pointing out or approaching active nests.",
+      "hash": "2ee10f8e050df2183f8f527d33337117c7db5ade481d9c00321d5ef2e744c3be",
+      "sourceUrl": "https://www.nparks.gov.sg/visit/activities/birdwatching",
+      "additionalSources": [
+        "https://www.pss1950.org/wp-content/uploads/2025/12/GUIDELINES-FOR-ETHICAL-PRACTICES-IN-THE-FIELD-FOR-NATURE-PHOTOGRAPHY-IN-SINGAPORE-Updated-27-Nov-2025.pdf",
+        "https://www.nparks.gov.sg/publications-resources/articles/enjoying-nature-responsibly",
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The linked guidance supports these conservative viewing precautions. It is advice, not measured species behaviour.",
+      "reviewedAt": "2026-09-07T07:16:30.025Z"
+    },
+    {
+      "contentId": "profile:collared-kingfisher",
+      "claim": "watch",
+      "claimText": "Use binoculars from a fixed point. Let the bird resume hunting rather than following it between perches.",
+      "hash": "f657f8616ff406beb9658fd26ecbc23b854b81e16db89ea7c2d71668f2fd51aa",
+      "sourceUrl": "https://www.nparks.gov.sg/visit/activities/birdwatching",
+      "additionalSources": [
+        "https://www.pss1950.org/wp-content/uploads/2025/12/GUIDELINES-FOR-ETHICAL-PRACTICES-IN-THE-FIELD-FOR-NATURE-PHOTOGRAPHY-IN-SINGAPORE-Updated-27-Nov-2025.pdf",
+        "https://www.nparks.gov.sg/publications-resources/articles/enjoying-nature-responsibly",
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The linked guidance supports these conservative viewing precautions. It is advice, not measured species behaviour.",
+      "reviewedAt": "2026-09-07T07:16:30.025Z"
+    },
+    {
+      "contentId": "profile:red-junglefowl",
+      "claim": "watch",
+      "claimText": "Do not feed or chase. Give hens with chicks room to move and leave ground nests alone.",
+      "hash": "33cddcc72930793400f2533bea86c99c100c3347bab12bd02f1a8a2a00ce3a4b",
+      "sourceUrl": "https://www.nparks.gov.sg/visit/activities/birdwatching",
+      "additionalSources": [
+        "https://www.pss1950.org/wp-content/uploads/2025/12/GUIDELINES-FOR-ETHICAL-PRACTICES-IN-THE-FIELD-FOR-NATURE-PHOTOGRAPHY-IN-SINGAPORE-Updated-27-Nov-2025.pdf",
+        "https://www.nparks.gov.sg/publications-resources/articles/enjoying-nature-responsibly",
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The linked guidance supports these conservative viewing precautions. It is advice, not measured species behaviour.",
+      "reviewedAt": "2026-09-07T07:16:30.025Z"
+    },
+    {
+      "contentId": "profile:buffy-fish-owl",
+      "claim": "watch",
+      "claimText": "Watch from open paths using binoculars. Avoid flash, prolonged torchlight, playback or crowding a resting bird. Never approach a nest or publish its precise position.",
+      "hash": "2ac27ef3b9c904c5d5d08f1f295bac9742c938c50ba8adf729772c04cc1a0b8b",
+      "sourceUrl": "https://www.nparks.gov.sg/visit/activities/birdwatching",
+      "additionalSources": [
+        "https://www.pss1950.org/wp-content/uploads/2025/12/GUIDELINES-FOR-ETHICAL-PRACTICES-IN-THE-FIELD-FOR-NATURE-PHOTOGRAPHY-IN-SINGAPORE-Updated-27-Nov-2025.pdf",
+        "https://www.nparks.gov.sg/publications-resources/articles/enjoying-nature-responsibly",
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The linked guidance supports these conservative viewing precautions. It is advice, not measured species behaviour.",
+      "reviewedAt": "2026-09-07T07:16:30.026Z"
+    },
+    {
+      "contentId": "profile:blue-eared-kingfisher",
+      "claim": "watch",
+      "claimText": "Remain on public paths and give bank vegetation space. Do not clear branches for photographs, bait the bird, play calls or approach a burrow entrance.",
+      "hash": "a9dc8afbf5fbff3fb724a1358798655258741d8810bc46be2f1eea3ac7a3731f",
+      "sourceUrl": "https://www.nparks.gov.sg/visit/activities/birdwatching",
+      "additionalSources": [
+        "https://www.pss1950.org/wp-content/uploads/2025/12/GUIDELINES-FOR-ETHICAL-PRACTICES-IN-THE-FIELD-FOR-NATURE-PHOTOGRAPHY-IN-SINGAPORE-Updated-27-Nov-2025.pdf",
+        "https://www.nparks.gov.sg/publications-resources/articles/enjoying-nature-responsibly",
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The linked guidance supports these conservative viewing precautions. It is advice, not measured species behaviour.",
+      "reviewedAt": "2026-09-07T07:16:30.026Z"
+    },
+    {
+      "contentId": "profile:great-billed-heron",
+      "claim": "watch",
+      "claimText": "Use coastal hides and public paths. Stay off restricted islands and mangrove nesting areas. Give a feeding bird space instead of following it along the waterline.",
+      "hash": "5d1fb8d90d6aa3f232fe55a9638ee0c445305b0b6251bbf509eec511fbc147a7",
+      "sourceUrl": "https://www.nparks.gov.sg/visit/activities/birdwatching",
+      "additionalSources": [
+        "https://www.pss1950.org/wp-content/uploads/2025/12/GUIDELINES-FOR-ETHICAL-PRACTICES-IN-THE-FIELD-FOR-NATURE-PHOTOGRAPHY-IN-SINGAPORE-Updated-27-Nov-2025.pdf",
+        "https://www.nparks.gov.sg/publications-resources/articles/enjoying-nature-responsibly",
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The linked guidance supports these conservative viewing precautions. It is advice, not measured species behaviour.",
+      "reviewedAt": "2026-09-07T07:16:30.026Z"
+    },
+    {
+      "contentId": "profile:changeable-hawk-eagle",
+      "claim": "watch",
+      "claimText": "Scan the canopy from public trails. Never bait a raptor or approach an occupied nest. Keep the bird's flight path clear and watch through binoculars.",
+      "hash": "0d1262d88ea21787804342933adea7ab5e44976da302e6e353f9d8b053d40ddc",
+      "sourceUrl": "https://www.nparks.gov.sg/visit/activities/birdwatching",
+      "additionalSources": [
+        "https://www.pss1950.org/wp-content/uploads/2025/12/GUIDELINES-FOR-ETHICAL-PRACTICES-IN-THE-FIELD-FOR-NATURE-PHOTOGRAPHY-IN-SINGAPORE-Updated-27-Nov-2025.pdf",
+        "https://www.nparks.gov.sg/publications-resources/articles/enjoying-nature-responsibly",
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The linked guidance supports these conservative viewing precautions. It is advice, not measured species behaviour.",
+      "reviewedAt": "2026-09-07T07:16:30.026Z"
+    },
+    {
+      "contentId": "profile:purple-heron",
+      "claim": "watch",
+      "claimText": "Use hides and stay on public paths. Do not enter reedbeds, cut vegetation or flush a hidden bird into view. Keep nesting habitat undisturbed.",
+      "hash": "c9de4bafaed1734ad406619ee30093068454b0ac1e3cd8a17f615bd1b82602ca",
+      "sourceUrl": "https://www.nparks.gov.sg/visit/activities/birdwatching",
+      "additionalSources": [
+        "https://www.pss1950.org/wp-content/uploads/2025/12/GUIDELINES-FOR-ETHICAL-PRACTICES-IN-THE-FIELD-FOR-NATURE-PHOTOGRAPHY-IN-SINGAPORE-Updated-27-Nov-2025.pdf",
+        "https://www.nparks.gov.sg/publications-resources/articles/enjoying-nature-responsibly",
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The linked guidance supports these conservative viewing precautions. It is advice, not measured species behaviour.",
+      "reviewedAt": "2026-09-07T07:16:30.026Z"
+    },
+    {
+      "contentId": "profile:grey-heron",
+      "claim": "watch",
+      "claimText": "Stay on paths and use binoculars. Do not enter colonies, feed birds or approach nests for photographs.",
+      "hash": "b4dc19f11f7c1802a953dd57ed756214d23627478d0aebe16fd6ea5ee1440a49",
+      "sourceUrl": "https://www.nparks.gov.sg/visit/activities/birdwatching",
+      "additionalSources": [
+        "https://www.pss1950.org/wp-content/uploads/2025/12/GUIDELINES-FOR-ETHICAL-PRACTICES-IN-THE-FIELD-FOR-NATURE-PHOTOGRAPHY-IN-SINGAPORE-Updated-27-Nov-2025.pdf",
+        "https://www.nparks.gov.sg/publications-resources/articles/enjoying-nature-responsibly",
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The linked guidance supports these conservative viewing precautions. It is advice, not measured species behaviour.",
+      "reviewedAt": "2026-09-07T07:16:30.027Z"
+    },
+    {
+      "contentId": "profile:little-egret",
+      "claim": "watch",
+      "claimText": "Watch from paths or hides. Avoid making birds fly away from feeding or resting areas, and never feed them.",
+      "hash": "7ac53b90ee02a82af0786e135d6fe59c4b852ec9767de6fac45d5148c148d479",
+      "sourceUrl": "https://www.nparks.gov.sg/visit/activities/birdwatching",
+      "additionalSources": [
+        "https://www.pss1950.org/wp-content/uploads/2025/12/GUIDELINES-FOR-ETHICAL-PRACTICES-IN-THE-FIELD-FOR-NATURE-PHOTOGRAPHY-IN-SINGAPORE-Updated-27-Nov-2025.pdf",
+        "https://www.nparks.gov.sg/publications-resources/articles/enjoying-nature-responsibly",
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The linked guidance supports these conservative viewing precautions. It is advice, not measured species behaviour.",
+      "reviewedAt": "2026-09-07T07:16:30.027Z"
+    },
+    {
+      "contentId": "profile:banded-bullfrog",
+      "claim": "watch",
+      "claimText": "Listen after rain from a safe path. Leave adults, eggs and tadpoles in place.",
+      "hash": "d0faad095fdbc4af7f2889d14162b056f41c488cc6a4c5c48aa1bdf89c159cd1",
+      "sourceUrl": "https://www.nparks.gov.sg/visit/when-visiting-parks/etiquette/nature-parks-reserve-dos-donts",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/publications-resources/articles/enjoying-nature-responsibly",
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "Trail, water and wildlife guidance supports leaving animals and their habitat undisturbed; playback avoidance is conservative advice.",
+      "reviewedAt": "2026-09-07T07:16:30.027Z"
+    },
+    {
+      "contentId": "profile:four-lined-tree-frog",
+      "claim": "watch",
+      "claimText": "Do not peel open foam nests, collect tadpoles or handle the frogs. Watch from the path.",
+      "hash": "452f2c9aa8fc546b4f34f5056bb1520187c79ec1e38d02e3e7cf165193c2f49f",
+      "sourceUrl": "https://www.nparks.gov.sg/visit/when-visiting-parks/etiquette/nature-parks-reserve-dos-donts",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/publications-resources/articles/enjoying-nature-responsibly",
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "Trail, water and wildlife guidance supports leaving animals and their habitat undisturbed; playback avoidance is conservative advice.",
+      "reviewedAt": "2026-09-07T07:16:30.027Z"
+    },
+    {
+      "contentId": "profile:asian-leaf-turtle",
+      "claim": "watch",
+      "claimText": "Stay out of streams and leave turtles, eggs and cover undisturbed. Do not collect or release pet turtles into natural habitats.",
+      "hash": "7abcd811796a125b65b4b9259c35e369a819812c97e6a50ed664672f7d2d7caa",
+      "sourceUrl": "https://www.nparks.gov.sg/visit/when-visiting-parks/etiquette/nature-parks-reserve-dos-donts",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/publications-resources/articles/enjoying-nature-responsibly",
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "Trail, water and wildlife guidance supports leaving animals and their habitat undisturbed; playback avoidance is conservative advice.",
+      "reviewedAt": "2026-09-07T07:16:30.027Z"
+    },
+    {
+      "contentId": "profile:malayan-horned-frog",
+      "claim": "watch",
+      "claimText": "Listen from open trails during permitted hours. Do not use call playback, move leaf litter, enter breeding streams or handle frogs and eggs.",
+      "hash": "107689cd45a62077d52481daee23651812398f772b908617059eceebd91cea71",
+      "sourceUrl": "https://www.nparks.gov.sg/visit/when-visiting-parks/etiquette/nature-parks-reserve-dos-donts",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/publications-resources/articles/enjoying-nature-responsibly",
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "Trail, water and wildlife guidance supports leaving animals and their habitat undisturbed; playback avoidance is conservative advice.",
+      "reviewedAt": "2026-09-07T07:16:30.027Z"
+    },
+    {
+      "contentId": "profile:black-eyed-litter-frog",
+      "claim": "watch",
+      "claimText": "Observe without moving logs or leaves. Keep out of streams, avoid playback and flash, and leave amphibians and tadpoles untouched.",
+      "hash": "18a50e31716339f64324064fca672764144f5be45a7b862dcfeedb15b0b4e479",
+      "sourceUrl": "https://www.nparks.gov.sg/visit/when-visiting-parks/etiquette/nature-parks-reserve-dos-donts",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/publications-resources/articles/enjoying-nature-responsibly",
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "Trail, water and wildlife guidance supports leaving animals and their habitat undisturbed; playback avoidance is conservative advice.",
+      "reviewedAt": "2026-09-07T07:16:30.028Z"
+    },
+    {
+      "contentId": "profile:sunda-pangolin",
+      "claim": "reproduction",
+      "claimText": "Usually has one baby at a time. Young may ride on the mother’s tail or back while she moves.",
+      "hash": "f80ba0922eff9920dd0fde6940119f4911b32d1f628114bd82af26d6e22ef445",
+      "sourceUrl": "https://biodiversitysg.nparks.gov.sg/our-biodiversity/mammals/other-mammals/sunda-pangolin/",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "Habitat and ecology confirms one baby, carried on the mother's back or tail.",
+      "reviewedAt": "2026-09-07T07:16:30.028Z"
+    },
+    {
+      "contentId": "profile:sunda-colugo",
+      "claim": "globalStatus",
+      "claimText": "Least Concern · 2008",
+      "hash": "fb7dd9ef91e19aabd821f582d542a88355d6facb8629c28c08ba61e45c7a4652",
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3819077/",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The published study explicitly cites Boeadi and Steinmetz (2008) for Least Concern. This verifies the dated category.",
+      "reviewedAt": "2026-09-07T07:16:30.028Z"
+    },
+    {
+      "contentId": "profile:sunda-pangolin",
+      "claim": "globalStatus",
+      "claimText": "Critically Endangered · 2019",
+      "hash": "f80ba0922eff9920dd0fde6940119f4911b32d1f628114bd82af26d6e22ef445",
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10427774/",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The paper explicitly links Critically Endangered to Challender et al. (2019), the dated IUCN assessment.",
+      "reviewedAt": "2026-09-07T07:16:30.028Z"
+    },
+    {
+      "contentId": "profile:smooth-coated-otter",
+      "claim": "globalStatus",
+      "claimText": "Vulnerable · 2021",
+      "hash": "9bab972ad861c9315f7eae77d1038a38d6afc6e45a67ba2a8428dd3a678f26b1",
+      "sourceUrl": "https://v1.wii.gov.in/node/2919",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "Wildlife Institute of India gives Vulnerable and cites the 2021 IUCN assessment for this taxon.",
+      "reviewedAt": "2026-09-07T07:16:30.028Z"
+    },
+    {
+      "contentId": "profile:smooth-coated-otter",
+      "claim": "pressures",
+      "claimText": "Road crossings, disturbance and unsafe encounters can affect urban families. Connected, usable waterways remain important.",
+      "hash": "9bab972ad861c9315f7eae77d1038a38d6afc6e45a67ba2a8428dd3a678f26b1",
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10243989/",
+      "additionalSources": [
+        "https://avs.nparks.gov.sg/wildlife/encountering-wildlife/otters/"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The Singapore mortality study documents vehicle collisions; AVS covers disturbance. Waterway connectivity is a conservation inference.",
+      "reviewedAt": "2026-09-07T07:16:30.028Z"
+    },
+    {
+      "contentId": "profile:sunda-slow-loris",
+      "claim": "singapore",
+      "claimText": "A rare forest resident recorded in the nature reserves and Pulau Tekong. This guide withholds precise observation and resting locations.",
+      "hash": "390eec4207febb0a062216aca2ace0174332c08d768ba3b498d2f0ebeb39dc72",
+      "sourceUrl": "https://www.nparks.gov.sg/florafaunaweb/fauna/2/2/223",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "Distribution lists both central reserves and Pulau Tekong. Exact sites remain withheld as an editorial precaution.",
+      "reviewedAt": "2026-09-07T07:16:30.029Z"
+    },
+    {
+      "contentId": "profile:sunda-slow-loris",
+      "claim": "globalStatus",
+      "claimText": "Endangered · 2020",
+      "hash": "390eec4207febb0a062216aca2ace0174332c08d768ba3b498d2f0ebeb39dc72",
+      "sourceUrl": "https://neprimateconservancy.org/sunda-slow-loris/",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The conservation section explicitly cites IUCN 2020 for Endangered under Nycticebus coucang.",
+      "reviewedAt": "2026-09-07T07:16:30.029Z"
+    },
+    {
+      "contentId": "profile:raffles-banded-langur",
+      "claim": "globalStatus",
+      "claimText": "Critically Endangered · 2022",
+      "hash": "bb81aecf162f8902839b291ace039c186c1e8b137572bd22dd117c14f059db65",
+      "sourceUrl": "https://portals.iucn.org/library/sites/library/files/documents/2024-025-En.pdf",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "IUCN's Asian langur report lists Presbytis femoralis as Critically Endangered, assessed in 2022.",
+      "reviewedAt": "2026-09-07T07:16:30.029Z"
+    },
+    {
+      "contentId": "profile:straw-headed-bulbul",
+      "claim": "globalStatus",
+      "claimText": "Critically Endangered · 2018",
+      "hash": "8e39661b7a105e310ae13f4da303c6af1a2434865d6db7fed1eecea4b2ef3d87",
+      "sourceUrl": "https://www.nparks.gov.sg/publications-resources/articles/who--who--bulbul%21",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "NParks explicitly identifies the August 2018 global assessment as Critically Endangered.",
+      "reviewedAt": "2026-09-07T07:16:30.029Z"
+    },
+    {
+      "contentId": "profile:straw-headed-bulbul",
+      "claim": "behaviour",
+      "claimText": "Forages in thick foliage near water and forest edges. Its loud, bubbling song is a useful clue, but listening must not become playback or disturbance.",
+      "hash": "8e39661b7a105e310ae13f4da303c6af1a2434865d6db7fed1eecea4b2ef3d87",
+      "sourceUrl": "https://biodiversitysg.nparks.gov.sg/our-biodiversity/birds/bulbuls-sparrows-and-munias/straw-headed-bulbul/",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/visit/activities/birdwatching"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The species ecology account supports foliage, waterside foraging and song; birdwatching guidance supports avoiding playback.",
+      "reviewedAt": "2026-09-07T07:16:30.029Z"
+    },
+    {
+      "contentId": "profile:straw-headed-bulbul",
+      "claim": "reproduction",
+      "claimText": "An egg-laying bird whose nesting cover needs protection. Do not seek nests or publish nest locations; local timing is not predicted by this guide.",
+      "hash": "8e39661b7a105e310ae13f4da303c6af1a2434865d6db7fed1eecea4b2ef3d87",
+      "sourceUrl": "https://www.nparks.gov.sg/florafaunaweb/fauna/3/6/36",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/visit/activities/birdwatching"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "NParks records a nest and eggs. Its birdwatching guidance supports the nesting precautions; no local calendar is inferred.",
+      "reviewedAt": "2026-09-07T07:16:30.029Z"
+    },
+    {
+      "contentId": "profile:oriental-pied-hornbill",
+      "claim": "diet",
+      "claimText": "Mainly fruit, supplemented by small animals.",
+      "hash": "9fda6e9c0da6315f16da5a26aaa097d0abc48e3fe4b5d1096edc1ba5c15dd5f1",
+      "sourceUrl": "https://besgroup.org/2006/06/08/what-do-hornbills-eat/",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The field account records fruit and animal food, with undamaged seed regurgitation. Dispersal is qualitative, not a local rate.",
+      "reviewedAt": "2026-09-07T07:16:30.029Z"
+    },
+    {
+      "contentId": "profile:oriental-pied-hornbill",
+      "claim": "ecologicalRole",
+      "claimText": "Fruit consumption can move seeds between patches of vegetation.",
+      "hash": "9fda6e9c0da6315f16da5a26aaa097d0abc48e3fe4b5d1096edc1ba5c15dd5f1",
+      "sourceUrl": "https://besgroup.org/2006/06/08/what-do-hornbills-eat/",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The field account records fruit and animal food, with undamaged seed regurgitation. Dispersal is qualitative, not a local rate.",
+      "reviewedAt": "2026-09-07T07:16:30.029Z"
+    },
+    {
+      "contentId": "profile:hawksbill-turtle",
+      "claim": "globalStatus",
+      "claimText": "Critically Endangered · 2008",
+      "hash": "951a348076effddb55b0cd1af187d5a62d0bc959cfdcf4b081db9b63a56d8af9",
+      "sourceUrl": "https://portals.iucn.org/library/efiles/documents/RL-2009-001.pdf",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "IUCN's marine-status chapter records approval of Critically Endangered in May 2008 for this species.",
+      "reviewedAt": "2026-09-07T07:16:30.030Z"
+    },
+    {
+      "contentId": "profile:green-turtle",
+      "claim": "globalStatus",
+      "claimText": "Least Concern · 2025",
+      "hash": "43e5c5e7057c1ddfcdda7a6a8f125bb3a07062d206261ff8c59c2f129ccd5c5d",
+      "sourceUrl": "https://iucn.org/press-release/202510/arctic-seals-threatened-climate-change-birds-decline-globally-iucn-red-list",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "IUCN's 10 October 2025 announcement explicitly records the global change to Least Concern. Local status remains separate.",
+      "reviewedAt": "2026-09-07T07:16:30.030Z"
+    },
+    {
+      "contentId": "profile:long-tailed-macaque",
+      "claim": "globalStatus",
+      "claimText": "Endangered · 2025",
+      "hash": "1e93fda30b496236c1627c8a123b84d48cf808c35f5ab17a9d2d3e87073137ea",
+      "sourceUrl": "https://nrl.iucnredlist.org/es/resources/petitions",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "IUCN confirms that the reassessment retained Endangered in the 2025-2 update after petition review.",
+      "reviewedAt": "2026-09-07T07:16:30.030Z"
+    },
+    {
+      "contentId": "profile:long-tailed-macaque",
+      "claim": "activity",
+      "claimText": "Mainly diurnal.",
+      "hash": "1e93fda30b496236c1627c8a123b84d48cf808c35f5ab17a9d2d3e87073137ea",
+      "sourceUrl": "https://avs.nparks.gov.sg/wildlife/encountering-wildlife/macaques/",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "AVS describes daytime foraging, forest-edge encounters, feeding effects and the stated encounter precautions.",
+      "reviewedAt": "2026-09-07T07:16:30.030Z"
+    },
+    {
+      "contentId": "profile:long-tailed-macaque",
+      "claim": "singapore",
+      "claimText": "Commonly encountered in and around forest reserves and some parkland. Feeding changes natural foraging behaviour and increases conflict.",
+      "hash": "1e93fda30b496236c1627c8a123b84d48cf808c35f5ab17a9d2d3e87073137ea",
+      "sourceUrl": "https://avs.nparks.gov.sg/wildlife/encountering-wildlife/macaques/",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "AVS describes daytime foraging, forest-edge encounters, feeding effects and the stated encounter precautions.",
+      "reviewedAt": "2026-09-07T07:16:30.030Z"
+    },
+    {
+      "contentId": "profile:long-tailed-macaque",
+      "claim": "watch",
+      "claimText": "Keep food out of sight, secure bags and give the group space. Do not stare, feed, tease or try to touch a monkey.",
+      "hash": "1e93fda30b496236c1627c8a123b84d48cf808c35f5ab17a9d2d3e87073137ea",
+      "sourceUrl": "https://avs.nparks.gov.sg/wildlife/encountering-wildlife/macaques/",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "AVS describes daytime foraging, forest-edge encounters, feeding effects and the stated encounter precautions.",
+      "reviewedAt": "2026-09-07T07:16:30.030Z"
+    },
+    {
+      "contentId": "profile:wild-boar",
+      "claim": "behaviour",
+      "claimText": "Roots through the ground for food. Females may travel with young; an animal with piglets or no escape route needs particular space.",
+      "hash": "73763a6cfda94b8150b849033aa3164af58ecfc51851d85281268fcbbfa42362",
+      "sourceUrl": "https://avs.nparks.gov.sg/wildlife/encountering-wildlife/wild-boars/",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "AVS covers soil digging, protective mothers, road conflict, feeding effects and distance from piglets.",
+      "reviewedAt": "2026-09-07T07:16:30.030Z"
+    },
+    {
+      "contentId": "profile:wild-boar",
+      "claim": "ecologicalRole",
+      "claimText": "An omnivore whose rooting changes soil and leaf litter.",
+      "hash": "73763a6cfda94b8150b849033aa3164af58ecfc51851d85281268fcbbfa42362",
+      "sourceUrl": "https://avs.nparks.gov.sg/wildlife/encountering-wildlife/wild-boars/",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "AVS covers soil digging, protective mothers, road conflict, feeding effects and distance from piglets.",
+      "reviewedAt": "2026-09-07T07:16:30.030Z"
+    },
+    {
+      "contentId": "profile:wild-boar",
+      "claim": "pressures",
+      "claimText": "Human food, roads and encounters near urban edges can lead to conflict. Never encourage it to approach people.",
+      "hash": "73763a6cfda94b8150b849033aa3164af58ecfc51851d85281268fcbbfa42362",
+      "sourceUrl": "https://avs.nparks.gov.sg/wildlife/encountering-wildlife/wild-boars/",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "AVS covers soil digging, protective mothers, road conflict, feeding effects and distance from piglets.",
+      "reviewedAt": "2026-09-07T07:16:30.030Z"
+    },
+    {
+      "contentId": "profile:wild-boar",
+      "claim": "watch",
+      "claimText": "Stay calm, keep your distance and avoid separating adults from piglets. Do not feed or corner a boar.",
+      "hash": "73763a6cfda94b8150b849033aa3164af58ecfc51851d85281268fcbbfa42362",
+      "sourceUrl": "https://avs.nparks.gov.sg/wildlife/encountering-wildlife/wild-boars/",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "AVS covers soil digging, protective mothers, road conflict, feeding effects and distance from piglets.",
+      "reviewedAt": "2026-09-07T07:16:30.031Z"
+    },
+    {
+      "contentId": "profile:javan-myna",
+      "claim": "singapore",
+      "claimText": "Widespread and commonly seen near people. Its national assessment is Not Applicable because it is introduced.",
+      "hash": "a9ae6c3f891fb0e5a074d84687c1614d58eb17bff62c1381154d919118449ad7",
+      "sourceUrl": "https://avs.nparks.gov.sg/wildlife/encountering-wildlife/house-crows-pigeons-javan-mynas/javan-mynas/",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/nature/species-list/birds"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "AVS confirms introduced, abundant urban occurrence; the NParks national table assigns Not Applicable.",
+      "reviewedAt": "2026-09-07T07:16:30.031Z"
+    },
+    {
+      "contentId": "profile:asian-koel",
+      "claim": "singapore",
+      "claimText": "Common in secondary woodland, gardens, parks and other urban greenery. It is a native resident, not an introduced noise-making species.",
+      "hash": "b8350ae0c8db4da25909c1646bf3b1e5c05adbb86baabecc73ce76cfd5c371d9",
+      "sourceUrl": "https://avs.nparks.gov.sg/wildlife/encountering-wildlife/other-birds/asian-koels/",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/nature/species-list/birds"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "AVS records secondary forest, parks and urban habitat; the national table confirms native origin.",
+      "reviewedAt": "2026-09-07T07:16:30.031Z"
+    },
+    {
+      "contentId": "profile:asian-koel",
+      "claim": "pressures",
+      "claimText": "Loss of fruiting trees removes food. Managing noise complaints should not involve disturbing wildlife nests.",
+      "hash": "b8350ae0c8db4da25909c1646bf3b1e5c05adbb86baabecc73ce76cfd5c371d9",
+      "sourceUrl": "https://avs.nparks.gov.sg/wildlife/encountering-wildlife/other-birds/asian-koels/",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/visit/activities/birdwatching"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "Fruit dependence supports the food-tree inference. NParks nesting guidance supports avoiding nest disturbance during noise complaints.",
+      "reviewedAt": "2026-09-07T07:16:30.031Z"
+    },
+    {
+      "contentId": "profile:asian-koel",
+      "claim": "globalStatus",
+      "claimText": "Least Concern · 2016",
+      "hash": "b8350ae0c8db4da25909c1646bf3b1e5c05adbb86baabecc73ce76cfd5c371d9",
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9635466/",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The research paper explicitly cites BirdLife International (2016) for this taxon's Least Concern status.",
+      "reviewedAt": "2026-09-07T07:16:30.031Z"
+    },
+    {
+      "contentId": "profile:black-naped-oriole",
+      "claim": "singapore",
+      "claimText": "Widespread in parks, gardens and other wooded settings. It is listed as native and nationally Least Concern.",
+      "hash": "2ee10f8e050df2183f8f527d33337117c7db5ade481d9c00321d5ef2e744c3be",
+      "sourceUrl": "https://biodiversitysg.nparks.gov.sg/our-biodiversity/birds/other-birds/black-naped-oriole/",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/nature/species-list/birds"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The ecology account confirms parks, gardens and wooded sites; the national table confirms native origin and Least Concern.",
+      "reviewedAt": "2026-09-07T07:16:30.031Z"
+    },
+    {
+      "contentId": "profile:collared-kingfisher",
+      "claim": "identification",
+      "claimText": "Blue-green upperparts with a white collar and belly. The large bill is dark, unlike the red bill of a white-throated kingfisher.",
+      "hash": "f657f8616ff406beb9658fd26ecbc23b854b81e16db89ea7c2d71668f2fd51aa",
+      "sourceUrl": "https://biodiversitysg.nparks.gov.sg/our-biodiversity/birds/kingfishers/collared-kingfisher/",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/publications-resources/articles/what-is-that-blue-bird"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The species account confirms blue upperparts, white collar and black bill; the comparative article covers the white-throated species.",
+      "reviewedAt": "2026-09-07T07:16:30.031Z"
+    },
+    {
+      "contentId": "profile:greater-mousedeer",
+      "claim": "reproduction",
+      "claimText": "Usually produces one well-developed young. Regional accounts describe a pregnancy of roughly five months; this is not a prediction of Singapore birth dates. Juveniles were documented during the Ubin rediscovery study.",
+      "hash": "cb34d6aea378ff3043758c2278ee641426b228551fa429dca713acb0fa9870fb",
+      "sourceUrl": "https://animaldiversity.org/accounts/Tragulus_napu/",
+      "additionalSources": [
+        "https://lkcnhm.nus.edu.sg/wp-content/uploads/sites/11/app/uploads/2017/04/2009nis373-378.pdf"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "ADW supports one precocial young and roughly five months' gestation; the Ubin study independently records a juvenile.",
+      "reviewedAt": "2026-09-07T07:16:30.032Z"
+    },
+    {
+      "contentId": "profile:malayan-porcupine",
+      "claim": "singapore",
+      "claimText": "Rediscovered on an offshore island in 2005. Later camera-trap records documented animals in mainland forest reserves and other wooded areas. RDB3 continues to recognise a native, nationally Critically Endangered population.",
+      "hash": "9b1a892a1c1a4afba0be11972154a04bacbc620870f5d9b260a625b212766426",
+      "sourceUrl": "https://lkcnhm.nus.edu.sg/wp-content/uploads/sites/11/app/uploads/2017/06/2016nis063-068.pdf",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/nature/species-list/terrestrial-mammals"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The 2016 paper documents offshore rediscovery in 2005 and later mainland records. RDB3 confirms native, nationally Critically Endangered.",
+      "reviewedAt": "2026-09-07T07:16:30.032Z"
+    },
+    {
+      "contentId": "profile:horsfields-flying-squirrel",
+      "claim": "singapore",
+      "claimText": "Recorded in Singapore's central forest reserves and in a wooded nature park outside them. Local records require careful identification; difficulty seeing a nocturnal animal is not a population estimate.",
+      "hash": "46ea3fedf7fa3f3455983fa8ccfd777a9f647b9852677a651d79b7a2bd76b9e7",
+      "sourceUrl": "https://lkcnhm.nus.edu.sg/app/uploads/2017/04/2013nis301-305.pdf",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/florafaunaweb/fauna/2/3/236"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "Chua et al. (2013) documents the additional localities, alongside earlier central-reserve records. Survey detections are not population estimates.",
+      "reviewedAt": "2026-09-07T07:16:30.032Z"
+    },
+    {
+      "contentId": "profile:red-cheeked-flying-squirrel",
+      "claim": "singapore",
+      "claimText": "Recorded from Bukit Timah and Central Catchment forests. The latter records were published in 2013, so the older statement that it occurs only in Bukit Timah is not retained.",
+      "hash": "f9e4c07690e6937e40153141de7df5dbcd1a49a0398dee06b81e0496f179255d",
+      "sourceUrl": "https://lkcnhm.nus.edu.sg/app/uploads/2017/04/2013nis301-305.pdf",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/florafaunaweb/fauna/0/7/07"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "Chua et al. (2013) documents the additional localities, alongside earlier central-reserve records. Survey detections are not population estimates.",
+      "reviewedAt": "2026-09-07T07:16:30.032Z"
+    },
+    {
+      "contentId": "profile:buffy-fish-owl",
+      "claim": "reproduction",
+      "claimText": "A documented Singapore nesting observation found a chick in a bird's-nest fern in 2016. Such records establish local breeding, but do not provide a complete island-wide breeding calendar.",
+      "hash": "2ac27ef3b9c904c5d5d08f1f295bac9742c938c50ba8adf729772c04cc1a0b8b",
+      "sourceUrl": "https://singaporebirdgroup.wordpress.com/2016/04/30/first-nesting-record-of-the-buffy-fish-owl/",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The April 2016 direct observation documents a chick in a bird's-nest fern, not an island-wide breeding season.",
+      "reviewedAt": "2026-09-07T07:16:30.032Z"
+    },
+    {
+      "contentId": "profile:blue-eared-kingfisher",
+      "claim": "singapore",
+      "claimText": "Bird Society of Singapore lists it as an uncommon resident that favours dense woodland and mangroves. NParks has also documented use of the Eco-Link@BKE wildlife bridge; the bridge is not a public viewing site.",
+      "hash": "a9dc8afbf5fbff3fb724a1358798655258741d8810bc46be2f1eea3ac7a3731f",
+      "sourceUrl": "https://singaporebirds.com/species/blue-eared-kingfisher",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/visit/parks/bukit-timah-nature-reserve/special-features/eco-link-bke"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The bird account supports resident habitat. NParks confirms bridge use and research-only access.",
+      "reviewedAt": "2026-09-07T07:16:30.032Z"
+    },
+    {
+      "contentId": "profile:four-lined-tree-frog",
+      "claim": "singapore",
+      "claimText": "A common native frog of suburban and rural greenery, as well as disturbed forest. It is nationally Least Concern in RDB3.",
+      "hash": "452f2c9aa8fc546b4f34f5056bb1520187c79ec1e38d02e3e7cf165193c2f49f",
+      "sourceUrl": "https://biodiversitysg.nparks.gov.sg/our-biodiversity/amphibians/four-lined-tree-frog/",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/nature/species-list/amphibians"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The ecology account supports human habitation and forest-edge occurrence; RDB3 confirms native origin and Least Concern.",
+      "reviewedAt": "2026-09-07T07:16:30.033Z"
+    },
+    {
+      "contentId": "profile:grey-heron",
+      "claim": "identification",
+      "claimText": "Grey and white plumage, long legs, a long neck and a yellowish pointed bill. Adults have a dark stripe extending behind the eye.",
+      "hash": "b4dc19f11f7c1802a953dd57ed756214d23627478d0aebe16fd6ea5ee1440a49",
+      "sourceUrl": "https://animaldiversity.org/accounts/Ardea_cinerea/",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "ADW's physical, feeding and behaviour sections support this field. Food-web transfer is a qualitative inference.",
+      "reviewedAt": "2026-09-07T07:16:30.033Z"
+    },
+    {
+      "contentId": "profile:grey-heron",
+      "claim": "diet",
+      "claimText": "Fish and other small animals captured near water.",
+      "hash": "b4dc19f11f7c1802a953dd57ed756214d23627478d0aebe16fd6ea5ee1440a49",
+      "sourceUrl": "https://animaldiversity.org/accounts/Ardea_cinerea/",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "ADW's physical, feeding and behaviour sections support this field. Food-web transfer is a qualitative inference.",
+      "reviewedAt": "2026-09-07T07:16:30.033Z"
+    },
+    {
+      "contentId": "profile:grey-heron",
+      "claim": "activity",
+      "claimText": "Can feed during daylight or at night, depending on conditions.",
+      "hash": "b4dc19f11f7c1802a953dd57ed756214d23627478d0aebe16fd6ea5ee1440a49",
+      "sourceUrl": "https://animaldiversity.org/accounts/Ardea_cinerea/",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "ADW's physical, feeding and behaviour sections support this field. Food-web transfer is a qualitative inference.",
+      "reviewedAt": "2026-09-07T07:16:30.033Z"
+    },
+    {
+      "contentId": "profile:grey-heron",
+      "claim": "behaviour",
+      "claimText": "Often waits motionless before striking at prey. It usually draws its neck back during flight.",
+      "hash": "b4dc19f11f7c1802a953dd57ed756214d23627478d0aebe16fd6ea5ee1440a49",
+      "sourceUrl": "https://animaldiversity.org/accounts/Ardea_cinerea/",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "ADW's physical, feeding and behaviour sections support this field. Food-web transfer is a qualitative inference.",
+      "reviewedAt": "2026-09-07T07:16:30.033Z"
+    },
+    {
+      "contentId": "profile:grey-heron",
+      "claim": "ecologicalRole",
+      "claimText": "Transfers energy from aquatic prey into the wider wetland food web.",
+      "hash": "b4dc19f11f7c1802a953dd57ed756214d23627478d0aebe16fd6ea5ee1440a49",
+      "sourceUrl": "https://animaldiversity.org/accounts/Ardea_cinerea/",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "ADW's physical, feeding and behaviour sections support this field. Food-web transfer is a qualitative inference.",
+      "reviewedAt": "2026-09-07T07:16:30.033Z"
+    }
+  ]
+}

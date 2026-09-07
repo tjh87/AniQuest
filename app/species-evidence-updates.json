@@ -1,0 +1,480 @@
+{
+  "straw-headed-bulbul": {
+    "activity": "Forages within dense foliage; often heard before it is seen."
+  },
+  "oriental-pied-hornbill": {
+    "activity": "Moves through wooded areas and the tree canopy, giving loud cackling calls.",
+    "globalStatus": "Least Concern · 2020",
+    "globalSourceUrl": "https://www.iucnredlist.org/species/22682437/184925767",
+    "globalReviewedAt": "2026-09-07",
+    "globalAssessmentNote": "The IUCN-published dataset records Least Concern. The citation year is 2020; it is not the date of this review.",
+    "evidenceSources": [
+      {
+        "name": "IUCN Red List · published dataset on GBIF",
+        "url": "https://api.gbif.org/v1/species/176610600/verbatim",
+        "supports": "Global category, citation year and taxonomy. BirdLife International 2020. Anthracoceros albirostris (Shaw & Nodder, 1807). The IUCN Red List of Threatened Species 2020: https://doi.org/10.2305/IUCN.UK.2020-3.RLTS.T22682437A184925767.en"
+      }
+    ]
+  },
+  "green-turtle": {
+    "behaviour": "Travels between feeding grounds and nesting beaches. These journeys can cross large areas of sea."
+  },
+  "long-tailed-macaque": {
+    "pressures": "Access to human food can change behaviour and increase conflict with people. Keep food and rubbish secure."
+  },
+  "plantain-squirrel": {
+    "pressures": "Care advice: do not feed squirrels. Let them forage for their natural food.",
+    "globalStatus": "Least Concern · 2016",
+    "globalSourceUrl": "https://www.iucnredlist.org/species/3600/115065317",
+    "globalReviewedAt": "2026-09-07",
+    "globalAssessmentNote": "The IUCN-published dataset records Least Concern. The citation year is 2016; it is not the date of this review.",
+    "evidenceSources": [
+      {
+        "name": "IUCN Red List · published dataset on GBIF",
+        "url": "https://api.gbif.org/v1/species/176671860/verbatim",
+        "supports": "Global category, citation year and taxonomy. Duckworth, J.W. 2016. Callosciurus notatus (Boddaert, 1785). The IUCN Red List of Threatened Species 2016: https://doi.org/10.2305/IUCN.UK.2016-3.RLTS.T3600A22254046.en"
+      }
+    ]
+  },
+  "sumatran-palm-civet": {
+    "pressures": "Attempts to catch or handle civets can cause stress or injury. Use NParks guidance for encounters around homes.",
+    "globalStatus": "Not separately assessed · broader taxon 2024",
+    "globalSourceUrl": "https://www.iucnredlist.org/species/41693/259352474",
+    "globalReviewedAt": "2026-09-07",
+    "globalAssessmentNote": "IUCN lists Paradoxurus musangus under Paradoxurus hermaphroditus. The broader 2024 record is Least Concern. This is not a separate assessment of the species used by NParks.",
+    "evidenceSources": [
+      {
+        "name": "IUCN Red List · published dataset on GBIF",
+        "url": "https://api.gbif.org/v1/species/176684555/verbatim",
+        "supports": "Global category, citation year and taxonomy. Duckworth, J.W., Timmins, R.J., Choudhury, A.U., Chutipong, W., Willcox, D.H.A., Mudappa, D., Rahman, H., Widmann, P., Wilting, A. & Xu, W. 2024. Paradoxurus hermaphroditus (Pallas, 1777). The IUCN Red List of Threatened Species 2024: https://doi.org/10.2305/IUCN.UK.2024-2.RLTS.T41693A259352474.en"
+      }
+    ]
+  },
+  "lesser-mousedeer": {
+    "reproduction": "Females give birth to live young and keep their fawns hidden. Breeding schedules vary across its range.",
+    "pressures": "Loss of lowland forest can reduce its habitat. Its response to forest disturbance varies across its range.",
+    "globalStatus": "Least Concern · 2015",
+    "globalSourceUrl": "https://www.iucnredlist.org/species/136297/61978576",
+    "globalReviewedAt": "2026-09-07",
+    "globalAssessmentNote": "The IUCN-published dataset records Least Concern. The citation year is 2015; it is not the date of this review.",
+    "evidenceSources": [
+      {
+        "name": "IUCN Red List · published dataset on GBIF",
+        "url": "https://api.gbif.org/v1/species/176668823/verbatim",
+        "supports": "Global category, citation year and taxonomy. Timmins, R. & Duckworth, J.W. 2015. Tragulus kanchil (Raffles, 1821). The IUCN Red List of Threatened Species 2015: https://doi.org/10.2305/IUCN.UK.2015-2.RLTS.T136297A61978576.en"
+      }
+    ]
+  },
+  "javan-myna": {
+    "activity": "Forages on the ground and in trees, often near people.",
+    "globalStatus": "Vulnerable · 2020",
+    "globalSourceUrl": "https://www.iucnredlist.org/species/103871334/176499647",
+    "globalReviewedAt": "2026-09-07",
+    "globalAssessmentNote": "The IUCN-published dataset records Vulnerable. The citation year is 2020; it is not the date of this review. Global native-range risk is separate from its introduced status in Singapore.",
+    "evidenceSources": [
+      {
+        "name": "IUCN Red List · published dataset on GBIF",
+        "url": "https://api.gbif.org/v1/species/176631807/verbatim",
+        "supports": "Global category, citation year and taxonomy. BirdLife International 2020. Acridotheres javanicus Cabanis, 1851. The IUCN Red List of Threatened Species 2020: https://doi.org/10.2305/IUCN.UK.2020-3.RLTS.T103871334A176499647.en"
+      }
+    ]
+  },
+  "house-crow": {
+    "diet": "Small animals, fruit, grain, eggs, carrion and accessible food waste.",
+    "activity": "Daytime activity is documented in Singapore. This does not establish an exclusively daytime activity cycle.",
+    "singapore": "Common in urban areas and also found in mangroves. NParks lists it as introduced; its national category is Not Applicable.",
+    "globalStatus": "Least Concern · 2018",
+    "globalSourceUrl": "https://www.iucnredlist.org/species/22705938/131944731",
+    "globalReviewedAt": "2026-09-07",
+    "globalAssessmentNote": "The IUCN-published dataset records Least Concern. The citation year is 2018; it is not the date of this review.",
+    "evidenceSources": [
+      {
+        "name": "IUCN Red List · published dataset on GBIF",
+        "url": "https://api.gbif.org/v1/species/176650556/verbatim",
+        "supports": "Global category, citation year and taxonomy. BirdLife International 2018. Corvus splendens Vieillot, 1817. The IUCN Red List of Threatened Species 2018: https://doi.org/10.2305/IUCN.UK.2018-2.RLTS.T22705938A131944731.en"
+      }
+    ]
+  },
+  "black-naped-oriole": {
+    "activity": "Forages in fruiting trees, sometimes joining mixed flocks.",
+    "globalStatus": "Least Concern · 2018",
+    "globalSourceUrl": "https://www.iucnredlist.org/species/22706394/130376308",
+    "globalReviewedAt": "2026-09-07",
+    "globalAssessmentNote": "The IUCN-published dataset records Least Concern. The citation year is 2018; it is not the date of this review.",
+    "evidenceSources": [
+      {
+        "name": "IUCN Red List · published dataset on GBIF",
+        "url": "https://api.gbif.org/v1/species/176651168/verbatim",
+        "supports": "Global category, citation year and taxonomy. BirdLife International 2018. Oriolus chinensis Linnaeus, 1766. The IUCN Red List of Threatened Species 2018: https://doi.org/10.2305/IUCN.UK.2018-2.RLTS.T22706394A130376308.en"
+      }
+    ]
+  },
+  "collared-kingfisher": {
+    "activity": "Watches for prey from a fence, wire or low branch, then flies down to catch it.",
+    "reproduction": "Nests in cavities. A Singapore study recorded a pair nesting in a canal-bank opening. Keep away from occupied nests.",
+    "pressures": "Suitable nesting sites need protection. NParks has installed nest boxes for kingfishers and woodpeckers on Coney Island.",
+    "globalStatus": "Least Concern · 2024",
+    "globalSourceUrl": "https://www.iucnredlist.org/species/22683399/263685424",
+    "globalReviewedAt": "2026-09-07",
+    "globalAssessmentNote": "The IUCN-published dataset records Least Concern. The citation year is 2024; it is not the date of this review.",
+    "evidenceSources": [
+      {
+        "name": "IUCN Red List · published dataset on GBIF",
+        "url": "https://api.gbif.org/v1/species/176609729/verbatim",
+        "supports": "Global category, citation year and taxonomy. BirdLife International 2024. Todiramphus chloris (Boddaert, 1783). The IUCN Red List of Threatened Species 2024: https://doi.org/10.2305/IUCN.UK.2024-2.RLTS.T22683399A263685424.en"
+      }
+    ]
+  },
+  "red-junglefowl": {
+    "reproduction": "Females lay eggs in ground nests and care for their chicks."
+  },
+  "malayan-water-monitor": {
+    "behaviour": "Pursues prey and can climb trees. When threatened, it may escape from a branch into water.",
+    "reproduction": "Females lay eggs beside decaying logs or stumps.",
+    "pressures": "NParks reports poaching of monitor lizards in Singapore. Do not buy live monitors, their meat or skin products."
+  },
+  "reticulated-python": {
+    "behaviour": "Ambushes prey and kills by constriction. It can climb trees as well as move on the ground.",
+    "pressures": "Handling or cornering a python can cause stress or injury and provoke a defensive bite."
+  },
+  "equatorial-spitting-cobra": {
+    "pressures": "Attempts to catch or handle snakes can cause stress or injury. Leave rescue work to trained professionals.",
+    "watch": "Back away and keep people and pets away. Never try to catch it. Seek urgent medical care after a bite or venom entering the eyes.",
+    "globalStatus": "Least Concern · 2012",
+    "globalSourceUrl": "https://www.iucnredlist.org/species/184073/1748598",
+    "globalReviewedAt": "2026-09-07",
+    "globalAssessmentNote": "The IUCN-published dataset records Least Concern. The citation year is 2012; it is not the date of this review.",
+    "evidenceSources": [
+      {
+        "name": "IUCN Red List · published dataset on GBIF",
+        "url": "https://api.gbif.org/v1/species/176722678/verbatim",
+        "supports": "Global category, citation year and taxonomy. Grismer, L., Chan-Ard, T., Diesmos, A.C. & Sy, E. 2012. Naja sumatrana Müller, 1890. The IUCN Red List of Threatened Species 2012: https://doi.org/10.2305/IUCN.UK.2012-1.RLTS.T184073A1748598.en"
+      }
+    ]
+  },
+  "common-house-gecko": {
+    "pressures": "Glue traps can catch geckos as well as their intended targets.",
+    "globalStatus": "Least Concern · 2021",
+    "globalSourceUrl": "https://www.iucnredlist.org/species/99156022/1434103",
+    "globalReviewedAt": "2026-09-07",
+    "globalAssessmentNote": "The IUCN-published dataset records Least Concern. The citation year is 2021; it is not the date of this review.",
+    "evidenceSources": [
+      {
+        "name": "IUCN Red List · published dataset on GBIF",
+        "url": "https://api.gbif.org/v1/species/192007850/verbatim",
+        "supports": "Global category, citation year and taxonomy. Wogan, G., Sumontha, M., Phimmachak, S., Lwin, K., Neang, T., Stuart, B.L., Thaksintham, W., Caicedo, J.R., Rivas, G., Tjaturadi, B. & Iskandar, D. 2021. Hemidactylus frenatus Schlegel in Duméril & Bibron, 1836. The IUCN Red List of Threatened Species 2021: https://doi.org/10.2305/IUCN.UK.2021-3.RLTS.T99156022A1434103.en"
+      }
+    ]
+  },
+  "banded-bullfrog": {
+    "behaviour": "Shelters under rocks and in drains. When threatened, it can inflate its body.",
+    "reproduction": "Breeding groups gather near ponds, puddles and ditches to lay eggs.",
+    "ecologicalRole": "Eats small insects and is prey for monitor lizards.",
+    "pressures": "Care advice: do not release frogs or tadpoles into new sites. Introduced animals can disrupt local ecosystems.",
+    "statusSourceUrl": "https://www.nparks.gov.sg/nature/species-list/amphibians",
+    "globalStatus": "Least Concern · 2022",
+    "globalSourceUrl": "https://www.iucnredlist.org/species/88333729/63887207",
+    "globalReviewedAt": "2026-09-07",
+    "globalAssessmentNote": "The IUCN-published dataset records Least Concern. The citation year is 2022; it is not the date of this review.",
+    "evidenceSources": [
+      {
+        "name": "IUCN Red List · published dataset on GBIF",
+        "url": "https://api.gbif.org/v1/species/258094839/verbatim",
+        "supports": "Global category, citation year and taxonomy. IUCN SSC Amphibian Specialist Group 2022. Kaloula pulchra Gray, 1831. The IUCN Red List of Threatened Species 2022: https://doi.org/10.2305/IUCN.UK.2022-2.RLTS.T88333729A63887207.en"
+      }
+    ]
+  },
+  "four-lined-tree-frog": {
+    "pressures": "Care advice: protect plants around breeding water. Do not disturb foam nests above ponds and drains.",
+    "globalStatus": "Least Concern · 2023",
+    "globalSourceUrl": "https://www.iucnredlist.org/species/73729553/63882856",
+    "globalReviewedAt": "2026-09-07",
+    "globalAssessmentNote": "The IUCN-published dataset records Least Concern. The citation year is 2023; it is not the date of this review.",
+    "evidenceSources": [
+      {
+        "name": "IUCN Red List · published dataset on GBIF",
+        "url": "https://api.gbif.org/v1/species/258095250/verbatim",
+        "supports": "Global category, citation year and taxonomy. IUCN SSC Amphibian Specialist Group 2023. Polypedates leucomystax (Gravenhorst, 1829). The IUCN Red List of Threatened Species 2023: https://doi.org/10.2305/IUCN.UK.2023-1.RLTS.T73729553A63882856.en"
+      }
+    ]
+  },
+  "small-toothed-palm-civet": {
+    "globalStatus": "Least Concern · 2024",
+    "globalSourceUrl": "https://www.iucnredlist.org/species/41691/259342969",
+    "globalReviewedAt": "2026-09-07",
+    "globalAssessmentNote": "The IUCN-published dataset records Least Concern. The citation year is 2024; it is not the date of this review.",
+    "evidenceSources": [
+      {
+        "name": "IUCN Red List · published dataset on GBIF",
+        "url": "https://api.gbif.org/v1/species/176684519/verbatim",
+        "supports": "Global category, citation year and taxonomy. Willcox, D.H.A., Duckworth, J.W., Timmins, R.J., Chutipong, W., Choudhury, A.U., Roberton, S., Long, B., Hearn, A. & Ross, J. 2024. Arctogalidia trivirgata (Gray, 1832). The IUCN Red List of Threatened Species 2024: https://doi.org/10.2305/IUCN.UK.2024-2.RLTS.T41691A259342969.en"
+      }
+    ],
+    "statusNote": "Singapore: Critically Endangered in RDB3 (2024), checked 6 September 2026. The NUS occurrence paper cites the older RDB2 status, so the current badge uses the separate RDB3 table. The separate global record now includes the IUCN category and citation year."
+  },
+  "blue-eared-kingfisher": {
+    "activity": "Perches beside water, then dives to catch fish and invertebrates.",
+    "globalStatus": "Least Concern · 2024",
+    "globalSourceUrl": "https://www.iucnredlist.org/species/22683042/263619844",
+    "globalReviewedAt": "2026-09-07",
+    "globalAssessmentNote": "The IUCN-published dataset records Least Concern. The citation year is 2024; it is not the date of this review.",
+    "evidenceSources": [
+      {
+        "name": "IUCN Red List · published dataset on GBIF",
+        "url": "https://api.gbif.org/v1/species/176609922/verbatim",
+        "supports": "Global category, citation year and taxonomy. BirdLife International 2024. Alcedo meninting Horsfield, 1821. The IUCN Red List of Threatened Species 2024: https://doi.org/10.2305/IUCN.UK.2024-2.RLTS.T22683042A263619844.en"
+      }
+    ]
+  },
+  "great-billed-heron": {
+    "activity": "Usually feeds alone, stalking prey along mudflat and estuary edges."
+  },
+  "changeable-hawk-eagle": {},
+  "purple-heron": {},
+  "malayan-horned-frog": {
+    "identification": "A broad, angular head with pointed eyelid projections and a leaf-like snout. Its brown body resembles dead leaves. Females are larger than males.",
+    "behaviour": "Waits motionless in leaf litter and ambushes passing prey. Singapore researchers have recorded males calling beside forest streams.",
+    "globalStatus": "Least Concern · 2021",
+    "globalSourceUrl": "https://www.iucnredlist.org/species/57582/114918773",
+    "globalReviewedAt": "2026-09-07",
+    "globalAssessmentNote": "IUCN assessed this frog under Megophrys nasuta in 2021. Its dataset maps Pelobatrachus nasutus to that name. The Singapore profile keeps the current genus.",
+    "evidenceSources": [
+      {
+        "name": "IUCN Red List · published dataset on GBIF",
+        "url": "https://api.gbif.org/v1/species/192011338/verbatim",
+        "supports": "Global category, citation year and taxonomy. IUCN SSC Amphibian Specialist Group 2021. Megophrys nasuta (Schlegel, 1858). The IUCN Red List of Threatened Species 2021: https://doi.org/10.2305/IUCN.UK.2021-3.RLTS.T57582A114918773.en"
+      }
+    ]
+  },
+  "black-eyed-litter-frog": {
+    "singapore": "Lives among forest leaf litter in the Central Nature Reserves. RDB3 lists it as nationally Near Threatened.",
+    "globalStatus": "Least Concern · 2021",
+    "globalSourceUrl": "https://www.iucnredlist.org/species/129738745/123835241",
+    "globalReviewedAt": "2026-09-07",
+    "globalAssessmentNote": "The IUCN-published dataset records Least Concern. The citation year is 2021; it is not the date of this review.",
+    "evidenceSources": [
+      {
+        "name": "IUCN Red List · published dataset on GBIF",
+        "url": "https://api.gbif.org/v1/species/192011362/verbatim",
+        "supports": "Global category, citation year and taxonomy. IUCN SSC Amphibian Specialist Group 2021. Leptobrachium nigrops Berry & Hendrickson, 1963. The IUCN Red List of Threatened Species 2021: https://doi.org/10.2305/IUCN.UK.2021-3.RLTS.T129738745A123835241.en"
+      }
+    ]
+  },
+  "dugong": {
+    "watch": "Watch without touching, feeding or blocking its path. Report a stranded animal to the NParks Animal Response Centre.",
+    "globalStatus": "Vulnerable · 2019",
+    "globalSourceUrl": "https://www.iucnredlist.org/species/6909/160756767",
+    "globalReviewedAt": "2026-09-07",
+    "globalAssessmentNote": "The IUCN-published dataset records Vulnerable. The citation year is 2019; it is not the date of this review. The 2019 citation links a DOI with a 2015 edition code. These identify an amended record, not a new 2019 field survey.",
+    "evidenceSources": [
+      {
+        "name": "IUCN Red List · published dataset on GBIF",
+        "url": "https://api.gbif.org/v1/species/176667499/verbatim",
+        "supports": "Global category, citation year and taxonomy. Marsh, H. & Sobtzick, S. 2019. Dugong dugon (Müller, 1776). The IUCN Red List of Threatened Species 2019: https://doi.org/10.2305/IUCN.UK.2015-4.RLTS.T6909A160756767.en"
+      }
+    ]
+  },
+  "indo-pacific-humpback-dolphin": {
+    "singapore": "NParks includes Sousa chinensis in Singapore's marine mammal list and records it as nationally Critically Endangered. The list does not provide a population count or guarantee sightings.",
+    "watch": "Do not chase, feed or block a dolphin's path. Report a stranded animal to the NParks Animal Response Centre.",
+    "globalStatus": "Vulnerable · 2017",
+    "globalSourceUrl": "https://www.iucnredlist.org/species/82031425/123794774",
+    "globalReviewedAt": "2026-09-07",
+    "globalAssessmentNote": "The IUCN-published dataset records Vulnerable. The citation year is 2017; it is not the date of this review. This is the whole-species record, not the Critically Endangered Taiwan population.",
+    "evidenceSources": [
+      {
+        "name": "IUCN Red List · published dataset on GBIF",
+        "url": "https://api.gbif.org/v1/species/176668997/verbatim",
+        "supports": "Global category, citation year and taxonomy. Jefferson, T.A., Smith, B.D., Braulik, G.T. & Perrin, W. 2017. Sousa chinensis (Osbeck, 1765). The IUCN Red List of Threatened Species 2017: https://doi.org/10.2305/IUCN.UK.2017-3.RLTS.T82031425A50372332.en"
+      }
+    ]
+  },
+  "grey-heron": {
+    "pressures": "Loss of nesting trees, disturbance near colonies and water pollution can harm herons. These are range-wide pressures, not measured Singapore trends.",
+    "globalStatus": "Least Concern · 2019",
+    "globalSourceUrl": "https://www.iucnredlist.org/species/22696993/154525233",
+    "globalReviewedAt": "2026-09-07",
+    "globalAssessmentNote": "The IUCN-published dataset records Least Concern. The citation year is 2019; it is not the date of this review.",
+    "evidenceSources": [
+      {
+        "name": "IUCN Red List · published dataset on GBIF",
+        "url": "https://api.gbif.org/v1/species/176611595/verbatim",
+        "supports": "Global category, citation year and taxonomy. BirdLife International 2019. Ardea cinerea Linnaeus, 1758. The IUCN Red List of Threatened Species 2019: https://doi.org/10.2305/IUCN.UK.2019-3.RLTS.T22696993A154525233.en"
+      }
+    ]
+  },
+  "white-bellied-sea-eagle": {
+    "globalStatus": "Least Concern · 2020",
+    "globalSourceUrl": "https://www.iucnredlist.org/species/22695097/216253643",
+    "globalReviewedAt": "2026-09-07",
+    "globalAssessmentNote": "The IUCN-published dataset records Least Concern. The citation year is 2020; it is not the date of this review. The dataset cites BirdLife 2020, while the linked assessment identifier differs from older references. The displayed year follows that citation, not a presumed assessment date.",
+    "evidenceSources": [
+      {
+        "name": "IUCN Red List · published dataset on GBIF",
+        "url": "https://api.gbif.org/v1/species/176613008/verbatim",
+        "supports": "Global category, citation year and taxonomy. BirdLife International 2020. Haliaeetus leucogaster (Gmelin, 1788). The IUCN Red List of Threatened Species 2020:"
+      }
+    ]
+  },
+  "estuarine-crocodile": {
+    "globalStatus": "Least Concern · 2021",
+    "globalSourceUrl": "https://www.iucnredlist.org/species/5668/268788998",
+    "globalReviewedAt": "2026-09-07",
+    "globalAssessmentNote": "The IUCN-published dataset records Least Concern. The citation year is 2021; it is not the date of this review.",
+    "evidenceSources": [
+      {
+        "name": "IUCN Red List · published dataset on GBIF",
+        "url": "https://api.gbif.org/v1/species/176712914/verbatim",
+        "supports": "Global category, citation year and taxonomy. Webb, G.J.W., Manolis, C., Brien, M.L., Balaguera-Reina, S.A. & Isberg, S. 2021. Crocodylus porosus Schneider, 1801. The IUCN Red List of Threatened Species 2021: https://doi.org/10.2305/IUCN.UK.2021-2.RLTS.T5668A268788998.en"
+      }
+    ]
+  },
+  "wild-boar": {
+    "globalStatus": "Least Concern · 2019",
+    "globalSourceUrl": "https://www.iucnredlist.org/species/41775/44141833",
+    "globalReviewedAt": "2026-09-07",
+    "globalAssessmentNote": "The IUCN-published dataset records Least Concern. The citation year is 2019; it is not the date of this review.",
+    "evidenceSources": [
+      {
+        "name": "IUCN Red List · published dataset on GBIF",
+        "url": "https://api.gbif.org/v1/species/176668594/verbatim",
+        "supports": "Global category, citation year and taxonomy. Keuling, O. & Leus, K. 2019. Sus scrofa Linnaeus, 1758. The IUCN Red List of Threatened Species 2019: https://doi.org/10.2305/IUCN.UK.2019-3.RLTS.T41775A44141833.en"
+      }
+    ]
+  },
+  "lesser-dog-faced-fruit-bat": {
+    "globalStatus": "Least Concern · 2019",
+    "globalSourceUrl": "https://www.iucnredlist.org/species/6103/22113381",
+    "globalReviewedAt": "2026-09-07",
+    "globalAssessmentNote": "The IUCN-published dataset records Least Concern. The citation year is 2019; it is not the date of this review.",
+    "evidenceSources": [
+      {
+        "name": "IUCN Red List · published dataset on GBIF",
+        "url": "https://api.gbif.org/v1/species/176679141/verbatim",
+        "supports": "Global category, citation year and taxonomy. Csorba, G., Bumrungsri, S., Bates, P., Gumal, M., Kingston, T., Molur, S. & Srinivasulu, C. 2019. Cynopterus brachyotis (Müller, 1838). The IUCN Red List of Threatened Species 2019: https://doi.org/10.2305/IUCN.UK.2019-3.RLTS.T6103A22113381.en"
+      }
+    ]
+  },
+  "greater-mousedeer": {
+    "globalStatus": "Least Concern · 2015",
+    "globalSourceUrl": "https://www.iucnredlist.org/species/41781/61978315",
+    "globalReviewedAt": "2026-09-07",
+    "globalAssessmentNote": "The IUCN-published dataset records Least Concern. The citation year is 2015; it is not the date of this review.",
+    "evidenceSources": [
+      {
+        "name": "IUCN Red List · published dataset on GBIF",
+        "url": "https://api.gbif.org/v1/species/176668810/verbatim",
+        "supports": "Global category, citation year and taxonomy. Timmins, R. & Duckworth, J.W. 2015. Tragulus napu (F. Cuvier, 1822). The IUCN Red List of Threatened Species 2015: https://doi.org/10.2305/IUCN.UK.2015-2.RLTS.T41781A61978315.en"
+      }
+    ],
+    "statusNote": "Singapore: Critically Endangered in RDB3 (2024), checked 6 September 2026. The older NParks profile's 'Indeterminate' field is not used as the current national assessment. The separate global record now includes the IUCN category and citation year."
+  },
+  "malayan-porcupine": {
+    "globalStatus": "Least Concern · 2016",
+    "globalSourceUrl": "https://www.iucnredlist.org/species/10749/115099298",
+    "globalReviewedAt": "2026-09-07",
+    "globalAssessmentNote": "The IUCN-published dataset records Least Concern. The citation year is 2016; it is not the date of this review.",
+    "evidenceSources": [
+      {
+        "name": "IUCN Red List · published dataset on GBIF",
+        "url": "https://api.gbif.org/v1/species/176672514/verbatim",
+        "supports": "Global category, citation year and taxonomy. Lunde, D., Aplin, K. & Molur, S. 2016. Hystrix brachyura Linnaeus, 1758. The IUCN Red List of Threatened Species 2016: https://doi.org/10.2305/IUCN.UK.2016-3.RLTS.T10749A22232129.en"
+      }
+    ],
+    "statusNote": "Singapore: Critically Endangered in RDB3 (2024), checked 6 September 2026. This national category is separate from global risk. The separate global record now includes the IUCN category and citation year."
+  },
+  "horsfields-flying-squirrel": {
+    "globalStatus": "Least Concern · 2016",
+    "globalSourceUrl": "https://www.iucnredlist.org/species/10845/115099730",
+    "globalReviewedAt": "2026-09-07",
+    "globalAssessmentNote": "The IUCN-published dataset records Least Concern. The citation year is 2016; it is not the date of this review.",
+    "evidenceSources": [
+      {
+        "name": "IUCN Red List · published dataset on GBIF",
+        "url": "https://api.gbif.org/v1/species/176670985/verbatim",
+        "supports": "Global category, citation year and taxonomy. Aplin, K. & Lunde, D. 2016. Iomys horsfieldii (Waterhouse, 1838). The IUCN Red List of Threatened Species 2016: https://doi.org/10.2305/IUCN.UK.2016-3.RLTS.T10845A22249234.en"
+      }
+    ],
+    "statusNote": "Singapore: Endangered in RDB3 (2024), checked 6 September 2026. Older descriptions of the species as possibly extinct in Singapore are not used. The separate global record now includes the IUCN category and citation year."
+  },
+  "red-cheeked-flying-squirrel": {
+    "globalStatus": "Least Concern · 2016",
+    "globalSourceUrl": "https://www.iucnredlist.org/species/10607/115098135",
+    "globalReviewedAt": "2026-09-07",
+    "globalAssessmentNote": "The IUCN-published dataset records Least Concern. The citation year is 2016; it is not the date of this review.",
+    "evidenceSources": [
+      {
+        "name": "IUCN Red List · published dataset on GBIF",
+        "url": "https://api.gbif.org/v1/species/176671036/verbatim",
+        "supports": "Global category, citation year and taxonomy. Duckworth, J.W. 2016. Hylopetes spadiceus (Blyth, 1847). The IUCN Red List of Threatened Species 2016: https://doi.org/10.2305/IUCN.UK.2016-3.RLTS.T10607A22244296.en"
+      }
+    ],
+    "statusNote": "Singapore: Critically Endangered in RDB3 (2024), checked 6 September 2026. The separate global record now includes the IUCN category and citation year."
+  },
+  "buffy-fish-owl": {
+    "globalStatus": "Least Concern · 2024",
+    "globalSourceUrl": "https://www.iucnredlist.org/species/22689024/263602946",
+    "globalReviewedAt": "2026-09-07",
+    "globalAssessmentNote": "The IUCN-published dataset records Least Concern. The citation year is 2024; it is not the date of this review.",
+    "evidenceSources": [
+      {
+        "name": "IUCN Red List · published dataset on GBIF",
+        "url": "https://api.gbif.org/v1/species/176617632/verbatim",
+        "supports": "Global category, citation year and taxonomy. BirdLife International 2024. Ketupa ketupu (Horsfield, 1821). The IUCN Red List of Threatened Species 2024: https://doi.org/10.2305/IUCN.UK.2024-2.RLTS.T22689024A263602946.en"
+      }
+    ]
+  },
+  "spiny-hill-turtle": {
+    "globalStatus": "Endangered · 2021",
+    "globalSourceUrl": "https://www.iucnredlist.org/species/9942/3152508",
+    "globalReviewedAt": "2026-09-07",
+    "globalAssessmentNote": "The IUCN-published dataset records Endangered. The citation year is 2021; it is not the date of this review.",
+    "evidenceSources": [
+      {
+        "name": "IUCN Red List · published dataset on GBIF",
+        "url": "https://api.gbif.org/v1/species/176715416/verbatim",
+        "supports": "Global category, citation year and taxonomy. Cota, M., Guntoro, J., Horne, B.D., Kusrini, M.D., Krishnasamy, K. & Shepherd, C. 2021. Heosemys spinosa (Gray, 1830). The IUCN Red List of Threatened Species 2021: https://doi.org/10.2305/IUCN.UK.2021-2.RLTS.T9942A3152508.en"
+      }
+    ]
+  },
+  "asian-leaf-turtle": {
+    "globalStatus": "Near Threatened · 2021",
+    "globalSourceUrl": "https://www.iucnredlist.org/species/195849722/2929066",
+    "globalReviewedAt": "2026-09-07",
+    "globalAssessmentNote": "The IUCN-published dataset records Near Threatened. The citation year is 2021; it is not the date of this review.",
+    "evidenceSources": [
+      {
+        "name": "IUCN Red List · published dataset on GBIF",
+        "url": "https://api.gbif.org/v1/species/188401998/verbatim",
+        "supports": "Global category, citation year and taxonomy. As-singkily, M., Guntoro, J., Kusrini, M.D. & Schoppe, S. 2021. Cyclemys dentata (Gray, 1831). The IUCN Red List of Threatened Species 2021: https://doi.org/10.2305/IUCN.UK.2021-1.RLTS.T195849722A2929066.en"
+      }
+    ]
+  },
+  "clouded-monitor": {
+    "globalStatus": "Not separately assessed · broader taxon 2021",
+    "globalSourceUrl": "https://www.iucnredlist.org/species/164579/1058949",
+    "globalReviewedAt": "2026-09-07",
+    "globalAssessmentNote": "IUCN lists Varanus nebulosus under Varanus bengalensis. The broader 2021 record is Near Threatened. This guide does not apply that category as a separate clouded-monitor assessment.",
+    "evidenceSources": [
+      {
+        "name": "IUCN Red List · published dataset on GBIF",
+        "url": "https://api.gbif.org/v1/species/188408320/verbatim",
+        "supports": "Global category, citation year and taxonomy. Cota, M., Stuart, B.L., Grismer, L., Quah, E., Panitvong, N., Neang, T., Nguyen, N.S., Wogan, G., Lwin, K., Srinivasulu, C., Srinivasulu, B., Vijayakumar, S.P., Ramesh, M., Ganesan, S.R., Madala, M., Sreekar, R., Rao, D.-Q., Thakur, S., Mohapatra, P. & Vyas, R. 2021. Varanus bengalensis (Daudin, 1802). The IUCN Red List of Threatened Species 2021: https://doi.org/10.2305/IUCN.UK.2021-2.RLTS.T164579A1058949.en"
+      }
+    ],
+    "statusNote": "Least Concern in Singapore RDB3 (2024). IUCN includes this name within a broader monitor taxon; the global note explains the distinction."
+  },
+  "little-egret": {
+    "globalStatus": "Least Concern · 2025",
+    "globalSourceUrl": "https://www.iucnredlist.org/species/62774969/154819214",
+    "globalReviewedAt": "2026-09-07",
+    "globalAssessmentNote": "The IUCN-published dataset records Least Concern. The citation year is 2025; it is not the date of this review.",
+    "evidenceSources": [
+      {
+        "name": "IUCN Red List · published dataset on GBIF",
+        "url": "https://api.gbif.org/v1/species/176611472/verbatim",
+        "supports": "Global category, citation year and taxonomy. BirdLife International 2025. Egretta garzetta (Linnaeus, 1766). The IUCN Red List of Threatened Species 2025: https://doi.org/10.2305/IUCN.UK.2025-2.RLTS.T62774969A154819214.en"
+      }
+    ]
+  }
+}

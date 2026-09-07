@@ -1,0 +1,277 @@
+{
+  "scope": "Follow-up of the 200 incomplete profile claims",
+  "reviews": [
+    {
+      "contentId": "profile:raffles-banded-langur",
+      "claim": "activity",
+      "claimText": "Mainly active during daylight in the canopy.",
+      "hash": "bb81aecf162f8902839b291ace039c186c1e8b137572bd22dd117c14f059db65",
+      "sourceUrl": "https://neprimateconservancy.org/raffles-banded-langur/",
+      "additionalSources": [
+        "https://biodiversitysg.nparks.gov.sg/our-biodiversity/mammals/primates/raffles-banded-langur/"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The behaviour account supports daytime canopy activity and social families. NParks confirms the specialised digestive stomach.",
+      "reviewedAt": "2026-09-07T07:21:28.459Z"
+    },
+    {
+      "contentId": "profile:raffles-banded-langur",
+      "claim": "behaviour",
+      "claimText": "Lives in social groups and spends much of its time in trees. Its specialised stomach supports digestion of leafy food.",
+      "hash": "bb81aecf162f8902839b291ace039c186c1e8b137572bd22dd117c14f059db65",
+      "sourceUrl": "https://neprimateconservancy.org/raffles-banded-langur/",
+      "additionalSources": [
+        "https://biodiversitysg.nparks.gov.sg/our-biodiversity/mammals/primates/raffles-banded-langur/"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The behaviour account supports daytime canopy activity and social families. NParks confirms the specialised digestive stomach.",
+      "reviewedAt": "2026-09-07T07:21:28.459Z"
+    },
+    {
+      "contentId": "profile:raffles-banded-langur",
+      "claim": "pressures",
+      "claimText": "Small population size and fragmented forest make protection of habitat and connectivity important.",
+      "hash": "bb81aecf162f8902839b291ace039c186c1e8b137572bd22dd117c14f059db65",
+      "sourceUrl": "https://www.nparks.gov.sg/publications-resources/articles/introducing-our-elusive-wild-neighbours",
+      "additionalSources": [
+        "https://biodiversitysg.nparks.gov.sg/our-biodiversity/mammals/primates/raffles-banded-langur/"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "NParks describes a small restricted population and canopy connections, including rope bridges. Habitat protection is the stated conservation response.",
+      "reviewedAt": "2026-09-07T07:21:28.459Z"
+    },
+    {
+      "contentId": "profile:estuarine-crocodile",
+      "claim": "identification",
+      "claimText": "Broad snout, armoured body and a muscular, flattened tail. Only the eyes and nostrils may show above the surface.",
+      "hash": "1dfd68e18a814df6e0d85bcc7b5efc1813ebf3c772a2c7f908557b203f822913",
+      "sourceUrl": "https://www.nparks.gov.sg/florafaunaweb/fauna/2/5/259",
+      "additionalSources": [
+        "https://animaldiversity.org/accounts/Crocodylus_porosus/"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "NParks confirms broad snout and compressed muscular tail; ADW confirms eyes and nostrils can remain exposed above water.",
+      "reviewedAt": "2026-09-07T07:21:28.459Z"
+    },
+    {
+      "contentId": "profile:red-cheeked-flying-squirrel",
+      "claim": "behaviour",
+      "claimText": "Glides between trees and shelters in cavities in tall trunks. It appears largely solitary, but detailed social studies are limited.",
+      "hash": "f9e4c07690e6937e40153141de7df5dbcd1a49a0398dee06b81e0496f179255d",
+      "sourceUrl": "https://animaldiversity.org/accounts/Hylopetes_spadiceus/",
+      "additionalSources": [
+        "https://lkcnhm.nus.edu.sg/app/uploads/2017/04/2013nis301-305.pdf"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "ADW describes gliding and apparently solitary behaviour with limited study. The Singapore paper documents a tree-cavity nest.",
+      "reviewedAt": "2026-09-07T07:21:28.460Z"
+    },
+    {
+      "contentId": "profile:small-toothed-palm-civet",
+      "claim": "identification",
+      "claimText": "Usually brownish-grey with a darker face and tail, pale forehead marking and three dark lines along the back. Markings vary, so a quick glimpse is insufficient to identify an unfamiliar civet confidently.",
+      "hash": "8e740aba2479d2f304b54e4dda126c0f0463e1bab92cacb65c27080a849104eb",
+      "sourceUrl": "https://animaldiversity.org/accounts/Arctogalidia_trivirgata/",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "Physical description confirms dark extremities, pale forehead strip, dorsal lines and variable markings.",
+      "reviewedAt": "2026-09-07T07:21:28.460Z"
+    },
+    {
+      "contentId": "profile:dugong",
+      "claim": "identification",
+      "claimText": "A bulky grey-brown body, blunt bristled muzzle, paired front flippers and a fluked tail. It has no dorsal fin.",
+      "hash": "fdc404428ddf75e261f53eed22668c3f939f9b3d081d842845aa27c6af6770e5",
+      "sourceUrl": "https://animaldiversity.org/accounts/Dugong_dugon/",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "ADW describes brown-grey skin, bristled rounded muzzle, paired foreflippers, fluked tail and absence of a dorsal fin.",
+      "reviewedAt": "2026-09-07T07:21:28.460Z"
+    },
+    {
+      "contentId": "profile:malayan-porcupine",
+      "claim": "reproduction",
+      "claimText": "Gives birth to live young. The Singapore field sources reviewed here do not establish a local breeding season or typical litter size, so no exact reproductive timetable is claimed.",
+      "hash": "9b1a892a1c1a4afba0be11972154a04bacbc620870f5d9b260a625b212766426",
+      "sourceUrl": "https://www.zoothailand.org/en/animal_view.php?c_id=&detail_id=143",
+      "additionalSources": [
+        "https://lkcnhm.nus.edu.sg/wp-content/uploads/sites/11/app/uploads/2017/06/2016nis063-068.pdf"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The zoo's species account confirms live birth. The local field paper does not establish the withheld Singapore breeding timetable.",
+      "reviewedAt": "2026-09-07T07:21:28.460Z"
+    },
+    {
+      "contentId": "profile:equatorial-spitting-cobra",
+      "claim": "reproduction",
+      "claimText": "An egg-laying snake. Do not disturb hidden snakes, egg sites or shelter; young snakes must also be left alone.",
+      "hash": "6327fc5a21036e703bac97d125b28c10abccd1938d6d31826ac0ab8ae9b1f2fb",
+      "sourceUrl": "https://reptile-database.reptarium.cz/Naja/sumatrana",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The taxon record explicitly lists egg-laying reproduction. Leaving snakes and eggs alone is conservative wildlife guidance.",
+      "reviewedAt": "2026-09-07T07:21:28.460Z"
+    },
+    {
+      "contentId": "profile:asian-leaf-turtle",
+      "claim": "reproduction",
+      "claimText": "Lays eggs; local nesting timing and clutch sizes have not been verified.",
+      "hash": "7abcd811796a125b65b4b9259c35e369a819812c97e6a50ed664672f7d2d7caa",
+      "sourceUrl": "https://reptile-database.reptarium.cz/Cyclemys/dentata",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The taxon record explicitly lists egg-laying reproduction. No unverified local breeding measurements are added.",
+      "reviewedAt": "2026-09-07T07:21:28.460Z"
+    },
+    {
+      "contentId": "profile:clouded-monitor",
+      "claim": "reproduction",
+      "claimText": "Lays eggs. Local nesting dates, clutch size and incubation periods are not asserted from unrelated captive accounts.",
+      "hash": "f7e94df9bf65ddaaa0d544481d338a1bc6529b2158cfcba1bd5e61434db43d35",
+      "sourceUrl": "https://reptile-database.reptarium.cz/Varanus/nebulosus?search_param=%28%28taxon%3D%27lizard%27%29%29",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The species record confirms egg-laying reproduction without relying on captive accounts of related monitors.",
+      "reviewedAt": "2026-09-07T07:21:28.460Z"
+    },
+    {
+      "contentId": "profile:greater-mousedeer",
+      "claim": "singapore",
+      "claimText": "Confirmed on Pulau Ubin in 2008 after a long gap in verified records. NParks still includes the species in its 2025 Ubin conservation work. Its limited Singapore distribution does not mean every suitable mainland forest contains it.",
+      "hash": "cb34d6aea378ff3043758c2278ee641426b228551fa429dca713acb0fa9870fb",
+      "sourceUrl": "https://lkcnhm.nus.edu.sg/wp-content/uploads/sites/11/app/uploads/2017/04/2009nis373-378.pdf",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/news/news-detail/the-next-bound-of-the-ubin-project-makes-headway-with-conservation--and-community-driven-initiatives"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The rediscovery paper confirms the 2008 Ubin record. The 2025 NParks update names greater mousedeer in continuing habitat work.",
+      "reviewedAt": "2026-09-07T07:21:28.460Z"
+    },
+    {
+      "contentId": "profile:asian-leaf-turtle",
+      "claim": "singapore",
+      "claimText": "NParks documents catchment-forest records from 2006 and 2007. These are historical observations, while RDB3 (2024) retains the species as nationally Critically Endangered; neither is a current population census.",
+      "hash": "7abcd811796a125b65b4b9259c35e369a819812c97e6a50ed664672f7d2d7caa",
+      "sourceUrl": "https://www.nparks.gov.sg/florafaunaweb/fauna/2/6/260",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/nature/species-list/reptiles"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "NParks lists the 2006 and 2007 catchment records. RDB3 supplies the separate current national category, not a census.",
+      "reviewedAt": "2026-09-07T07:21:28.460Z"
+    },
+    {
+      "contentId": "profile:spiny-hill-turtle",
+      "claim": "singapore",
+      "claimText": "Native populations are associated with the Central Nature Reserves. The national assessment is Endangered in RDB3; encounter locations and resting sites are not mapped here.",
+      "hash": "3e12c0327b9005f5ac989a16f9efcb8f2cda50955e610bed163aed8e7019a4d9",
+      "sourceUrl": "https://www.nparks.gov.sg/florafaunaweb/fauna/0/6/06",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/nature/species-list/reptiles"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "NParks confines native populations to the central reserves. RDB3 lists Endangered, replacing the older profile's national category.",
+      "reviewedAt": "2026-09-07T07:21:28.460Z"
+    },
+    {
+      "contentId": "profile:little-egret",
+      "claim": "singapore",
+      "claimText": "A familiar migrant at Sungei Buloh and other wetlands, including pond and canal edges. NParks records it throughout the year, with higher numbers commonly between November and January.",
+      "hash": "7ac53b90ee02a82af0786e135d6fe59c4b852ec9767de6fac45d5148c148d479",
+      "sourceUrl": "https://biodiversitysg.nparks.gov.sg/our-biodiversity/birds/herons/little-egret/",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/florafaunaweb/fauna/2/8/28"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The two NParks accounts confirm wetland occurrence, year-round records and the November–January peak. They do not promise sightings.",
+      "reviewedAt": "2026-09-07T07:21:28.460Z"
+    },
+    {
+      "contentId": "profile:little-egret",
+      "claim": "reproduction",
+      "claimText": "Builds nests and lays eggs, often in colonies with other waterbirds. Both parents contribute to care. These species-level notes do not claim a local breeding colony.",
+      "hash": "7ac53b90ee02a82af0786e135d6fe59c4b852ec9767de6fac45d5148c148d479",
+      "sourceUrl": "https://heronconservation.org/herons-of-the-world/list/little-egret/",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The breeding account documents colonial nests, eggs and care by both parents. It does not establish a Singapore colony.",
+      "reviewedAt": "2026-09-07T07:21:28.460Z"
+    },
+    {
+      "contentId": "profile:purple-heron",
+      "claim": "diet",
+      "claimText": "Fish are important prey, alongside frogs, aquatic invertebrates and other small animals; diet varies with habitat and prey availability.",
+      "hash": "c9de4bafaed1734ad406619ee30093068454b0ac1e3cd8a17f615bd1b82602ca",
+      "sourceUrl": "https://heronconservation.org/herons-of-the-world/list/purple-heron/",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The feeding, breeding and conservation sections support the field. Regional findings are not presented as Singapore measurements.",
+      "reviewedAt": "2026-09-07T07:21:28.460Z"
+    },
+    {
+      "contentId": "profile:purple-heron",
+      "claim": "reproduction",
+      "claimText": "Builds a platform of reeds or sticks in wetland vegetation; trees and thickets can also be used. Both parents incubate and feed the young. Regional breeding seasons and clutch sizes vary, so none is presented here as a Singapore norm.",
+      "hash": "c9de4bafaed1734ad406619ee30093068454b0ac1e3cd8a17f615bd1b82602ca",
+      "sourceUrl": "https://heronconservation.org/herons-of-the-world/list/purple-heron/",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The feeding, breeding and conservation sections support the field. Regional findings are not presented as Singapore measurements.",
+      "reviewedAt": "2026-09-07T07:21:28.461Z"
+    },
+    {
+      "contentId": "profile:purple-heron",
+      "claim": "pressures",
+      "claimText": "The Heron Specialist Group identifies wetland alteration and disturbance as pressures across its range. Retaining suitable vegetated feeding and nesting habitat is a relevant local priority; no current Singapore decline rate is asserted.",
+      "hash": "c9de4bafaed1734ad406619ee30093068454b0ac1e3cd8a17f615bd1b82602ca",
+      "sourceUrl": "https://heronconservation.org/herons-of-the-world/list/purple-heron/",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The feeding, breeding and conservation sections support the field. Regional findings are not presented as Singapore measurements.",
+      "reviewedAt": "2026-09-07T07:21:28.461Z"
+    },
+    {
+      "contentId": "profile:changeable-hawk-eagle",
+      "claim": "singapore",
+      "claimText": "NParks records it in forest reserves and Pulau Ubin and highlights it in woodland birdwatching at Kranji Marshes. Bird Society lists it as a common resident; frequency of observation does not remove its national Vulnerable status.",
+      "hash": "0d1262d88ea21787804342933adea7ab5e44976da302e6e353f9d8b053d40ddc",
+      "sourceUrl": "https://www.nparks.gov.sg/florafaunaweb/fauna/6/9/697",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/visit/parks/kranji-marshes/activities",
+        "https://singaporebirds.com/species/changeable-hawk-eagle",
+        "https://www.nparks.gov.sg/nature/species-list/birds"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "NParks records the named sites; Bird Society supplies resident frequency. The RDB3 Vulnerable category remains separate.",
+      "reviewedAt": "2026-09-07T07:21:28.461Z"
+    },
+    {
+      "contentId": "profile:banded-bullfrog",
+      "claim": "singapore",
+      "claimText": "Common in gardens, parks and other built environments. Being well established is different from being native.",
+      "hash": "d0faad095fdbc4af7f2889d14162b056f41c488cc6a4c5c48aa1bdf89c159cd1",
+      "sourceUrl": "https://biodiversitysg.nparks.gov.sg/our-biodiversity/amphibians/banded-bullfrog/",
+      "additionalSources": [
+        "https://lkcnhm.nus.edu.sg/app/uploads/2017/06/2012nis095-102.pdf"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "NParks confirms common urban occurrence; the Singapore introduction study distinguishes established occurrence from native origin.",
+      "reviewedAt": "2026-09-07T07:21:28.461Z"
+    }
+  ]
+}

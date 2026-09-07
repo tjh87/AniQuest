@@ -1,0 +1,49 @@
+ANIQUEST - WINDOWS 10
+Package revision: 6 September 2026 - 45 profiles, 90 animal facts and conservation review
+
+START THE APP
+1. Install Node.js 22 LTS, version 22.13 or later.
+   Official downloads: https://nodejs.org/download/release/latest-v22.x/
+   For a standard 64-bit Windows 10 PC, choose the file ending -x64.msi.
+   Keep the installer option that adds Node.js to PATH.
+2. Right-click the project ZIP and select Extract All.
+3. Open the extracted folder. Double-click Start-AniQuest.cmd.
+4. Keep its command window open while you use the app.
+
+Address: http://127.0.0.1:5173
+To stop: press Ctrl+C in the command window, or close that window.
+
+The built app is included. Starting it does not need npm installation,
+Git, WSL, Bash, a cloud account or an API key.
+
+READ THESE FILES
+docs/WINDOWS-10-SETUP.md         Full setup and troubleshooting
+docs/ANIQUEST-PLAN.md            Current features and planned work
+docs/ANIQUEST-BUILD-PROMPTS.md   Copy-and-paste development prompts
+docs/PLAN-REVIEW.md              Findings and proposed improvements
+docs/SOURCES-AND-CONTENT.md      Sources, questions and evidence rules
+docs/FILE-INDEX.md               Guide to the files in this ZIP
+
+YOUR DATA
+Progress is saved in this browser on this PC. Always use the same browser
+and address. Clearing browser data removes progress. Backing up this ZIP
+does not back up browser progress. Export/import is planned, not included.
+
+CURRENT LIMITS
+The catalogue has 45 full animal profiles, 90 animal fun facts and 18 questions.
+No insect or fish profiles are included. Three real photos are embedded.
+There are 23 nationally threatened animals, with a status filter to find them.
+Global assessment references are dated for 24 records; 21 remain unverified.
+All profiles include national status or an honest unassigned label.
+News and events are saved collections, not automatic live feeds.
+Local username/password accounts and local admin tools are not built yet.
+The included /room page explains which server features are unavailable.
+
+AFTER YOU EDIT THE SOURCE
+Stop AniQuest. Double-click Build-AniQuest.cmd. This needs internet access
+to install the locked dependencies. Then start AniQuest again.
+
+The local build and startup code were checked in Linux. The Windows .cmd
+files still need a test on your Windows 10 PC.
+
+All changes remain local. No GitHub push or site publication is required.

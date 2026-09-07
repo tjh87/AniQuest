@@ -1,0 +1,225 @@
+{
+  "reviewDate": "2026-09-06",
+  "scope": "The 18 additions in AniQuest's 30-animal edition. Global status labels below cite a specific dated publication and are not claims that every latest IUCN assessment was exhaustively checked.",
+  "overrides": [
+    {
+      "scientific": "Macaca fascicularis",
+      "globalStatus": "Endangered · 2025",
+      "globalSourceUrl": "https://www.iucnredlist.org/species/12551/273015436",
+      "assessmentDate": null,
+      "publicationYear": 2025,
+      "reviewDate": "2026-09-06",
+      "confidence": "high: category and publication year; exact assessment date not recovered",
+      "evidence": [
+        {
+          "url": "https://aias.au.dk/events/show/artikel/research-contributes-to-updating-the-iucn-red-list-for-the-long-tailed-macaque",
+          "note": "Aarhus University announcement for lead assessor Malene Friis Hansen, published 10 October 2025, explicitly describes the new 2025 IUCN assessment as Endangered and links exact IUCN assessment 12551/273015436."
+        },
+        {
+          "url": "https://www.gbif.org/fr/species/176664519",
+          "note": "IUCN-published Red List dataset's indexed citation identifies DOI 10.2305/IUCN.UK.2025-2.RLTS.T12551A273015436.en."
+        }
+      ],
+      "notes": "Use 2025 rather than the recovered 2022 report. Do not call 10 October the assessment date: it is the publication/announcement date. Keep Singapore LC independent from this global EN."
+    },
+    {
+      "scientific": "Acridotheres javanicus",
+      "globalStatus": "Vulnerable · 2020",
+      "globalSourceUrl": "https://datazone.birdlife.org/species/factsheet/javan-myna-acridotheres-javanicus",
+      "assessmentDate": null,
+      "publicationYear": 2020,
+      "reviewDate": "2026-09-06",
+      "confidence": "high: BirdLife primary indexed factsheet category and citation year",
+      "evidence": [
+        {
+          "url": "https://datazone.birdlife.org/species/factsheet/javan-myna-acridotheres-javanicus",
+          "note": "BirdLife factsheet indexed justification explicitly says species qualifies as Vulnerable; its indexed citation is BirdLife International (2020)."
+        },
+        {
+          "url": "https://www.gbif.org/dataset/19491596-35ae-4a91-9a98-85cf505f1bd3/taxon/103871334",
+          "note": "IUCN-published dataset citation confirms BirdLife 2020 assessment and DOI 10.2305/IUCN.UK.2020-3.RLTS.T103871334A176499647.en."
+        }
+      ],
+      "notes": "Globally Vulnerable in native range does not contradict abundant introduced Singapore population or Singapore Not Applicable status. BirdLife full text is JS-rendered; year/category verified from indexed primary-source results."
+    },
+    {
+      "scientific": "Corvus splendens",
+      "globalStatus": "Least Concern · 2018",
+      "globalSourceUrl": "https://doi.org/10.2305/IUCN.UK.2018-2.RLTS.T22705938A131944731.en",
+      "assessmentDate": "2018-08-09",
+      "publicationYear": 2018,
+      "reviewDate": "2026-09-06",
+      "confidence": "high: full assessment text",
+      "evidence": [
+        {
+          "url": "https://www.scribd.com/document/981487345/10-2305-IUCN-UK-2018-2-RLTS-T22705938A131944731-en",
+          "note": "Mirrored IUCN/BirdLife original report, assessment-information section: taxon Corvus splendens; LC ver 3.1; published 2018; assessed 9 August 2018."
+        },
+        {
+          "url": "https://datazone.birdlife.org/species/factsheet/house-crow-corvus-splendens",
+          "note": "BirdLife indexed factsheet independently displays Least Concern."
+        }
+      ],
+      "notes": "IUCN 2018 report incorrectly/conflictingly lists Singapore as Native. Preserve NParks Singapore-introduced origin; do not import IUCN geographic origin list. The dated global category is valid independently."
+    },
+    {
+      "scientific": "Eudynamys scolopaceus",
+      "globalStatus": "Least Concern · 2016",
+      "globalSourceUrl": "https://datazone.birdlife.org/species/factsheet/western-koel-eudynamys-scolopaceus",
+      "assessmentDate": null,
+      "publicationYear": 2016,
+      "reviewDate": "2026-09-06",
+      "confidence": "high: BirdLife exact taxon and indexed assessment-history year/category",
+      "evidence": [
+        {
+          "url": "https://datazone.birdlife.org/species/factsheet/western-koel-eudynamys-scolopaceus",
+          "note": "Primary BirdLife factsheet names Western Koel Eudynamys scolopaceus; indexed history explicitly gives 2016 Least Concern."
+        }
+      ],
+      "notes": "BirdLife common name is Western Koel for this same scientific taxon. Keep Singapore-facing Asian koel display name. Do not use the guessed /asian-koel-... BirdLife path, which failed."
+    },
+    {
+      "scientific": "Oriolus chinensis",
+      "globalStatus": "Least Concern · 2018",
+      "globalSourceUrl": "https://datazone.birdlife.org/species/factsheet/black-naped-oriole-oriolus-chinensis",
+      "assessmentDate": null,
+      "publicationYear": 2018,
+      "reviewDate": "2026-09-06",
+      "confidence": "high: BirdLife indexed factsheet category and year",
+      "evidence": [
+        {
+          "url": "https://datazone.birdlife.org/species/factsheet/black-naped-oriole-oriolus-chinensis",
+          "note": "Primary indexed factsheet returns 2018 IUCN Red List category Least Concern; justification evaluates it LC; citation is BirdLife International (2018)."
+        }
+      ],
+      "notes": "Direct HTML extraction is a JS shell; status and year were recovered using targeted indexed primary-source queries."
+    },
+    {
+      "scientific": "Todiramphus chloris",
+      "globalStatus": "Least Concern · 2024",
+      "globalSourceUrl": "https://datazone.birdlife.org/species/factsheet/collared-kingfisher-todiramphus-chloris",
+      "assessmentDate": null,
+      "publicationYear": 2024,
+      "reviewDate": "2026-09-06",
+      "confidence": "high: BirdLife indexed assessment history",
+      "evidence": [
+        {
+          "url": "https://datazone.birdlife.org/species/factsheet/collared-kingfisher-todiramphus-chloris",
+          "note": "Primary BirdLife indexed assessment history explicitly gives 2024 Least Concern."
+        },
+        {
+          "url": "https://collections.snm.ku.dk/object/NHMD1769819",
+          "note": "Natural History Museum of Denmark specimen portal's IUCN dataset citation independently identifies 2024 DOI 10.2305/IUCN.UK.2024-2.RLTS.T22683399A263685424.en."
+        }
+      ],
+      "notes": "Prefer 2024 entry over widely copied 2016 assessment amended in 2019."
+    },
+    {
+      "scientific": "Gallus gallus",
+      "globalStatus": "Least Concern · 2024",
+      "globalSourceUrl": "https://datazone.birdlife.org/species/factsheet/red-junglefowl-gallus-gallus",
+      "assessmentDate": null,
+      "publicationYear": 2024,
+      "reviewDate": "2026-09-06",
+      "confidence": "high: BirdLife indexed assessment history, Cornell independent reference",
+      "evidence": [
+        {
+          "url": "https://datazone.birdlife.org/species/factsheet/red-junglefowl-gallus-gallus",
+          "note": "Primary BirdLife indexed assessment history explicitly gives 2024 Least Concern."
+        },
+        {
+          "url": "https://www.allaboutbirds.org/guide/Red_Junglefowl/lifehistory",
+          "note": "Cornell Lab cites BirdLife International 2024 and exact DOI 10.2305/IUCN.UK.2024-2.RLTS.T22679199A263732457.en."
+        }
+      ],
+      "notes": "Retain distinction between Singapore wild red junglefowl and domestic/hybrid birds. Global LC does not override Singapore NT."
+    },
+    {
+      "scientific": "Varanus salvator",
+      "globalStatus": "Least Concern · 2021",
+      "globalSourceUrl": "https://doi.org/10.2305/IUCN.UK.2021-2.RLTS.T178214A113138439.en",
+      "assessmentDate": "2018-05-08",
+      "publicationYear": 2021,
+      "reviewDate": "2026-09-06",
+      "confidence": "high: original assessment full text mirrored by assessor",
+      "evidence": [
+        {
+          "url": "https://www.researchgate.net/publication/354381307_Varanus_salvator_The_IUCN_Red_List_of_Threatened_Species_2021",
+          "note": "Original IUCN assessment identifies exact taxon, LC ver 3.1, publication 2021, assessment date 8 May 2018. Report discusses elevated former subspecies and retains V. salvator as polytypic."
+        }
+      ],
+      "notes": "Do not confuse 2021 publication with 2018 assessment date; scope is the assessed Varanus salvator species, not all historical water-monitor species."
+    },
+    {
+      "scientific": "Malayopython reticulatus",
+      "globalStatus": "Least Concern · 2018",
+      "globalSourceUrl": "https://doi.org/10.2305/IUCN.UK.2018-2.RLTS.T183151A1730027.en",
+      "assessmentDate": "2011-09-02",
+      "publicationYear": 2018,
+      "reviewDate": "2026-09-06",
+      "confidence": "high: original IUCN full text, explicit synonym match",
+      "evidence": [
+        {
+          "url": "https://www.researchgate.net/publication/354528580_Malayopython_reticulatus_The_IUCN_Red_List_of_Threatened_Species2018",
+          "note": "Original IUCN report uses Python reticulatus and explicitly lists Malayopython reticulatus as synonym; gives LC ver 3.1, published 2018, assessed 2 September 2011."
+        }
+      ],
+      "notes": "The 2018 label is publication year, not a new 2018 assessment. Taxonomic notes discuss Malayopython name explicitly."
+    }
+  ],
+  "unresolved": [
+    {
+      "scientific": "Callosciurus notatus",
+      "reason": "Exact 2016/2017-errata IUCN assessment citation and assessment ID 3600/115065317 found, but category+date not recovered together in accessible primary assessment text. Retain unverified label rather than relying on Wikipedia/Animalia.",
+      "candidateSourceUrl": "https://www.iucnredlist.org/species/3600/115065317",
+      "reviewDate": "2026-09-06"
+    },
+    {
+      "scientific": "Paradoxurus musangus",
+      "reason": "Taxonomic split from Paradoxurus hermaphroditus means older 2016 broad-taxon LC must not silently be attached to P. musangus. No exact standalone dated assessment recovered.",
+      "reviewDate": "2026-09-06"
+    },
+    {
+      "scientific": "Sus scrofa",
+      "reason": "IUCN-published GBIF dataset confirms Keuling & Leus 2019 DOI but no accessible primary category/assessment-date section recovered.",
+      "candidateSourceUrl": "https://doi.org/10.2305/IUCN.UK.2019-3.RLTS.T41775A44141833.en",
+      "reviewDate": "2026-09-06"
+    },
+    {
+      "scientific": "Tragulus kanchil",
+      "reason": "IUCN-published GBIF dataset confirms Timmins & Duckworth 2015 exact DOI, but no accessible primary category/assessment-date section recovered. Do not confuse with T. javanicus.",
+      "candidateSourceUrl": "https://doi.org/10.2305/IUCN.UK.2015-2.RLTS.T136297A61978576.en",
+      "reviewDate": "2026-09-06"
+    },
+    {
+      "scientific": "Cynopterus brachyotis",
+      "reason": "IUCN-published GBIF dataset gives 2019 assessment DOI; category/assessment-date section not retrieved. Sri Lanka national EN is a different scope and must not be used as global status.",
+      "candidateSourceUrl": "https://doi.org/10.2305/IUCN.UK.2019-3.RLTS.T6103A22113381.en",
+      "reviewDate": "2026-09-06"
+    },
+    {
+      "scientific": "Naja sumatrana",
+      "reason": "2012 DOI found but no primary exact-taxon report text retrieved. Accessible Naja sputatrix report has confusing Equatorial Spitting Cobra common name; it is a different taxon and was rejected.",
+      "candidateSourceUrl": "https://doi.org/10.2305/IUCN.UK.2012-1.RLTS.T184073A1748598.en",
+      "reviewDate": "2026-09-06"
+    },
+    {
+      "scientific": "Hemidactylus frenatus",
+      "reason": "IUCN-published GBIF dataset confirms newer 2021 DOI, superseding common 2010 citation. Exact 2021 primary category/assessment-date text not retrieved.",
+      "candidateSourceUrl": "https://doi.org/10.2305/IUCN.UK.2021-3.RLTS.T99156022A1434103.en",
+      "reviewDate": "2026-09-06"
+    },
+    {
+      "scientific": "Kaloula pulchra",
+      "reason": "Newer assessment ID 88333729/63887207 found in secondary references, but primary category/date text not accessible. Old 2004/2016-errata broad taxon citation should not be silently substituted.",
+      "candidateSourceUrl": "https://www.iucnredlist.org/species/88333729/63887207",
+      "reviewDate": "2026-09-06"
+    },
+    {
+      "scientific": "Polypedates leucomystax",
+      "reason": "2023 DOI found through references but accessible primary category/date section not recovered. Species complex needs care; do not infer from older broad-taxon profiles or Indian P. maculatus.",
+      "candidateSourceUrl": "https://doi.org/10.2305/IUCN.UK.2023-1.RLTS.T73729553A63882856.en",
+      "reviewDate": "2026-09-06"
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+[
+  {
+    "scientific": "Ketupa ketupu",
+    "name": "Buffy fish owl",
+    "emoji": "🦉",
+    "habitat": "Forested waterways and mangroves",
+    "rarity": "Uncommon resident; often hidden by day",
+    "statusCode": "VU",
+    "sourceUrl": "https://www.nparks.gov.sg/florafaunaweb/fauna/6/3/631",
+    "statusSourceUrl": "https://www.nparks.gov.sg/nature/species-list/birds",
+    "globalStatus": "Dated assessment not verified in this edition",
+    "globalSourceUrl": "",
+    "profile": {
+      "id": "buffy-fish-owl",
+      "group": "Bird",
+      "family": "Strigidae",
+      "aliases": ["Malaysian fish owl", "Malay fish owl", "Buffy fish-owl"],
+      "origin": "Native",
+      "encounter": "Elusive",
+      "habitats": ["Forest", "Freshwater", "Mangrove"],
+      "summary": "A large owl adapted to hunting beside water. Singapore has a resident population, but daytime resting and night activity can make individual birds difficult to notice.",
+      "identification": "Look for yellow eyes, outward-pointing feather tufts and warm brown plumage with dark streaks. The tufts are not its actual ears. Bird Society of Singapore gives an adult length of about 46–47 cm.",
+      "diet": "Fish, crabs and frogs, with other small prey such as rats taken around banks.",
+      "activity": "Mostly nocturnal; rests among tree foliage during the day.",
+      "behaviour": "Often watches water from a low branch before swooping for prey. Its unfeathered lower legs and gripping feet suit this fishing lifestyle.",
+      "reproduction": "A documented Singapore nesting observation found a chick in a bird's-nest fern in 2016. Such records establish local breeding, but do not provide a complete island-wide breeding calendar.",
+      "singapore": "Associated with wooded streams, reservoirs and mangroves. NParks records it in the Central Catchment and Pulau Ubin; these are broad occurrence areas, not nest directions or guaranteed sightings.",
+      "ecologicalRole": "Its diet links aquatic prey and land animals to a nocturnal predator in the same wetland food web.",
+      "pressures": "NParks identifies illegal trapping as a threat. Keeping suitable trees and quiet water margins is a habitat-based conservation priority, not a measured population trend.",
+      "watch": "Watch from open paths using binoculars. Avoid flash, prolonged torchlight, playback or crowding a resting bird. Never approach a nest or publish its precise position.",
+      "funFacts": [
+        {"title": "Those ears are feathers", "text": "The pointed tufts on its head are feather ornaments, not exposed ears.", "sourceUrl": "https://biodiversitysg.nparks.gov.sg/our-biodiversity/birds/raptors/buffy-fish-owl/"},
+        {"title": "An owl with audible wings", "text": "Its flight is less silent than that of many other owls: fish owls lack the same degree of sound-muffling feather specialisation.", "sourceUrl": "https://biodiversitysg.nparks.gov.sg/our-biodiversity/birds/raptors/buffy-fish-owl/"}
+      ],
+      "sources": [
+        {"name": "NParks · BiodiversitySG", "url": "https://biodiversitysg.nparks.gov.sg/our-biodiversity/birds/raptors/buffy-fish-owl/", "supports": "Identification, nocturnal hunting, prey, feet and both fun facts; page updated 29 May 2026"},
+        {"name": "Bird Society of Singapore", "url": "https://singaporebirds.com/species/buffy-fish-owl", "supports": "Resident occurrence, qualitative encounter description and size"},
+        {"name": "Nature Society (Singapore) Bird Group · 2016 nesting observation", "url": "https://singaporebirdgroup.wordpress.com/2016/04/30/first-nesting-record-of-the-buffy-fish-owl/", "supports": "Direct local observation of a chick raised in a bird's-nest fern; historical evidence, not a current nest location"}
+      ],
+      "statusNote": "Singapore RDB3: Vulnerable; older RDB2: Critically Endangered. A qualitative encounter label is not a threat category."
+    },
+    "reviewNotes": [
+      "Checked on 2026-09-06. NParks bird table updated 30 January 2026, taxonomy information accurate as of November 2025. Use its RDB3 column, not the older FFWeb RDB2 category.",
+      "NParks describes this as one of Singapore's more common owls; Bird Society lists it as an uncommon resident. These describe relative encounter frequency, not contradictory Red List categories; use Elusive.",
+      "The 2016 nesting article misspells Ketupa ketupa in prose. Current NParks and Bird Society both use Ketupa ketupu; retain the latter.",
+      "BirdLife factsheet https://datazone.birdlife.org/species/factsheet/buffy-fish-owl-ketupa-ketupu resolves, and an indexed 2024 factsheet citation exists. Its dated assessment table did not load. Do not turn an undated secondary LC badge into a verified assessment.",
+      "Ecological role is an inference from documented prey. Habitat protection recommendation is an inference from habitat dependence. No population size, clutch size or incubation period is asserted."
+    ]
+  },
+  {
+    "scientific": "Alcedo meninting",
+    "name": "Blue-eared kingfisher",
+    "emoji": "🐦",
+    "habitat": "Shaded forest streams and mangroves",
+    "rarity": "Uncommon resident of wooded water margins",
+    "statusCode": "EN",
+    "sourceUrl": "https://singaporebirds.com/species/blue-eared-kingfisher",
+    "statusSourceUrl": "https://www.nparks.gov.sg/nature/species-list/birds",
+    "globalStatus": "Dated assessment not verified in this edition",
+    "globalSourceUrl": "",
+    "profile": {
+      "id": "blue-eared-kingfisher",
+      "group": "Bird",
+      "family": "Alcedinidae",
+      "aliases": ["Blue eared kingfisher"],
+      "origin": "Native",
+      "encounter": "Elusive",
+      "habitats": ["Forest", "Freshwater", "Mangrove"],
+      "summary": "A small resident kingfisher of shaded waterways. Its strong blue-and-rust colours can disappear surprisingly well against dark water and forest cover.",
+      "identification": "Around 16 cm long, with deep cobalt-blue upperparts and rich rusty underparts. Adult males have dark bills; females can show red on the lower bill or more extensively. It is smaller and darker blue than the Common Kingfisher.",
+      "diet": "Small fish and aquatic invertebrates caught around sheltered water.",
+      "activity": "Look for daytime perch-and-dive hunting beside shaded water; a full local daily activity pattern is not quantified here.",
+      "behaviour": "May bob its head and flick its tail while watching from a perch. After a dive, it can beat captured prey against a branch before swallowing.",
+      "reproduction": "Excavates a nesting tunnel in a forest-stream bank. This guide omits exact nest positions and does not extrapolate overseas clutch sizes or breeding months to Singapore.",
+      "singapore": "Bird Society of Singapore lists it as an uncommon resident that favours dense woodland and mangroves. NParks has also documented use of the Eco-Link@BKE wildlife bridge; the bridge is not a public viewing site.",
+      "ecologicalRole": "A small predator linking stream invertebrates and fish to the surrounding wooded food web.",
+      "pressures": "Maintaining shaded waterways and undisturbed banks follows from its documented feeding and nesting needs. This is a habitat-based conservation recommendation, not a quantified local decline claim.",
+      "watch": "Remain on public paths and give bank vegetation space. Do not clear branches for photographs, bait the bird, play calls or approach a burrow entrance.",
+      "funFacts": [
+        {"title": "A home under the bank", "text": "Its nest is reached through a tunnel it digs into a stream bank.", "sourceUrl": "https://singaporebirds.com/species/blue-eared-kingfisher"},
+        {"title": "A tiny bridge user", "text": "NParks lists this kingfisher among animals recorded using Eco-Link@BKE, the wildlife connection over the expressway.", "sourceUrl": "https://www.nparks.gov.sg/visit/parks/bukit-timah-nature-reserve/special-features/eco-link-bke"}
+      ],
+      "sources": [
+        {"name": "Bird Society of Singapore", "url": "https://singaporebirds.com/species/blue-eared-kingfisher", "supports": "Identification, resident occurrence, habitat, hunting and tunnel nesting"},
+        {"name": "NParks · Eco-Link@BKE", "url": "https://www.nparks.gov.sg/visit/parks/bukit-timah-nature-reserve/special-features/eco-link-bke", "supports": "Documented bridge use and research-only access; does not promise public sightings"}
+      ],
+      "statusNote": "Singapore RDB3: Endangered; older RDB2: Critically Endangered. Resident status describes occurrence, not extinction risk."
+    },
+    "reviewNotes": [
+      "Checked on 2026-09-06 against NParks RDB3 and the current Bird Society profile. No exact NParks FFWeb species page was confidently recovered; do not invent its numbered URL.",
+      "Do not confuse Alcedo meninting with Common Kingfisher Alcedo atthis or Malay Blue-banded Kingfisher Alcedo peninsulae.",
+      "BirdLife factsheet https://datazone.birdlife.org/species/factsheet/blue-eared-kingfisher-alcedo-meninting resolves, with an indexed 2024 factsheet citation, but the dated assessment table did not load. Global assessment remains explicitly unverified.",
+      "Ecological role and habitat priorities are inferences from documented diet, habitat and nesting. Daytime hunting is observational guidance, not an exhaustive daily activity schedule."
+    ]
+  },
+  {
+    "scientific": "Ardea sumatrana",
+    "name": "Great-billed heron",
+    "emoji": "🐦",
+    "habitat": "Coastal shallows, mangroves and islands",
+    "rarity": "Uncommon resident restricted to coastal habitat",
+    "statusCode": "CR",
+    "sourceUrl": "https://www.nparks.gov.sg/florafaunaweb/fauna/2/7/274",
+    "statusSourceUrl": "https://www.nparks.gov.sg/nature/species-list/birds",
+    "globalStatus": "Least Concern (IUCN assessment 22 Jul 2024)",
+    "globalSourceUrl": "https://heronconservation.org/conservation/red-list/",
+    "profile": {
+      "id": "great-billed-heron",
+      "group": "Bird",
+      "family": "Ardeidae",
+      "aliases": ["Great billed heron"],
+      "origin": "Native",
+      "encounter": "Rare or restricted",
+      "habitats": ["Mangrove", "Coast", "Marine"],
+      "summary": "A very large coastal heron with an imposing bill. Singapore's population has a Critically Endangered national assessment even though the species has a much wider international range.",
+      "identification": "An adult is mostly dusky grey, with a long neck and unusually heavy, dark pointed bill. Breeding birds develop elongated plumes. Young birds are warmer brown and more streaked. Bird Society of Singapore gives a length of about 114–115 cm.",
+      "diet": "Fish, crustaceans and other aquatic invertebrates.",
+      "activity": "Can be watched feeding at the shoreline by day. The sources used here do not establish an exclusively daytime activity cycle.",
+      "behaviour": "Usually feeds alone, waiting at the water's edge or moving slowly through the shallows before striking at prey.",
+      "reproduction": "NParks describes nesting in isolated mangrove stands. Protecting suitable nesting trees matters; this guide withholds precise breeding locations and gives no unverified local clutch size.",
+      "singapore": "Occurs in coastal settings, including mangroves, estuaries and offshore islands. Its association with specialised coastal habitat makes everyday inland sightings unlikely; a record at one shoreline is not a population estimate.",
+      "ecologicalRole": "Its prey connects intertidal and shallow-water animals to the coastal bird food web.",
+      "pressures": "NParks identifies loss or disturbance of suitable coastal feeding and nesting areas as conservation concerns. Old population estimates in the legacy profile are not presented as current counts.",
+      "watch": "Use coastal hides and public paths. Stay off restricted islands and mangrove nesting areas. Give a feeding bird space instead of following it along the waterline.",
+      "funFacts": [
+        {"title": "A metre of heron", "text": "This heron reaches roughly 1.15 metres in length—a striking contrast with Singapore's tiny kingfishers.", "sourceUrl": "https://singaporebirds.com/species/great-billed-heron"},
+        {"title": "Wait, step, strike", "text": "It hunts either by standing still at the edge or by taking slow steps through shallow water.", "sourceUrl": "https://www.nparks.gov.sg/florafaunaweb/fauna/2/7/274"}
+      ],
+      "sources": [
+        {"name": "Bird Society of Singapore", "url": "https://singaporebirds.com/species/great-billed-heron", "supports": "Size, identification, resident occurrence and coastal habitat"},
+        {"name": "IUCN SSC Heron Specialist Group · Heron Red List 2024-2", "url": "https://heronconservation.org/conservation/red-list/", "supports": "Dated global Least Concern assessment, 22 July 2024; separate from Singapore RDB3"}
+      ],
+      "statusNote": "Singapore RDB3: Critically Endangered. Global IUCN: Least Concern, assessed 22 July 2024; the two geographic scales answer different questions."
+    },
+    "reviewNotes": [
+      "Checked on 2026-09-06. National CR is unchanged between RDB2 and RDB3.",
+      "The 2019 FFWeb record retains an estimate of 20–50 and old 2012 planning references. Omit both as present-day statistics; omit named historic nest locations.",
+      "The IUCN SSC Heron Specialist Group says its version 2024-2 table is the same as the IUCN list. The Ardea sumatrana row falls under LC and is dated 22 Jul 2024. Direct IUCN link returned a tool error; specialist-group table is the successfully read primary verification source.",
+      "Body measurement is length, not a claim about fixed standing height. Ecological role is inferred from documented prey."
+    ]
+  },
+  {
+    "scientific": "Nisaetus cirrhatus",
+    "name": "Changeable hawk-eagle",
+    "emoji": "🦅",
+    "habitat": "Forest, woodland and wooded edges",
+    "rarity": "Resident; may be seen or heard near woodland",
+    "statusCode": "VU",
+    "sourceUrl": "https://www.nparks.gov.sg/florafaunaweb/fauna/6/9/697",
+    "statusSourceUrl": "https://www.nparks.gov.sg/nature/species-list/birds",
+    "globalStatus": "Least Concern (IUCN 2020 assessment; cited by The Peregrine Fund)",
+    "globalSourceUrl": "https://peregrinefund.org/explore-raptors-species/eagles/changeable-hawk-eagle",
+    "profile": {
+      "id": "changeable-hawk-eagle",
+      "group": "Bird",
+      "family": "Accipitridae",
+      "aliases": ["Crested hawk-eagle", "Spizaetus cirrhatus", "Changeable hawk eagle"],
+      "origin": "Native",
+      "encounter": "Commonly seen",
+      "habitats": ["Forest", "Woodland", "Parks"],
+      "summary": "A resident forest raptor whose plumage can look dramatically different between individuals. It can be conspicuous above woodland while still depending on places to hunt and nest.",
+      "identification": "Adults occur in pale and dark colour forms. Pale adults have streaked light underparts; dark adults are largely dark brown. Pale juveniles can show much cleaner white underparts. Its length is about 61–75 cm, so colour alone is insufficient for identification.",
+      "diet": "Birds, small mammals and reptiles such as snakes and lizards; it may occasionally scavenge.",
+      "activity": "Diurnal; hunts, perches and soars during the day.",
+      "behaviour": "Often hunts by waiting quietly on a concealed perch, then making a short attack when prey comes within reach. It may also soar above wooded areas.",
+      "reproduction": "Both partners construct a stick nest in a tall tree, lining it with greenery. Species accounts describe a single egg and prolonged care; breeding dates differ across its range and are not a Singapore schedule.",
+      "singapore": "NParks records it in forest reserves and Pulau Ubin and highlights it in woodland birdwatching at Kranji Marshes. Bird Society lists it as a common resident; frequency of observation does not remove its national Vulnerable status.",
+      "ecologicalRole": "A predator of several animal groups that links different parts of the woodland food web.",
+      "pressures": "The Peregrine Fund identifies habitat loss, fragmentation and persecution across the species' range. These are range-wide pressures, not a measured Singapore population trend.",
+      "watch": "Scan the canopy from public trails. Never bait a raptor or approach an occupied nest. Keep the bird's flight path clear and watch through binoculars.",
+      "funFacts": [
+        {"title": "One species, two looks", "text": "Pale and dark hawk-eagles can belong to the same species; these colour forms are called morphs.", "sourceUrl": "https://singaporebirds.com/species/changeable-hawk-eagle"},
+        {"title": "A nest-building team", "text": "Both members of a pair help build their large stick nest and finish it with green leaves.", "sourceUrl": "https://peregrinefund.org/explore-raptors-species/eagles/changeable-hawk-eagle"}
+      ],
+      "sources": [
+        {"name": "Bird Society of Singapore", "url": "https://singaporebirds.com/species/changeable-hawk-eagle", "supports": "Plumage morphs, juvenile identification, size, resident occurrence and concealed-perch hunting"},
+        {"name": "The Peregrine Fund", "url": "https://peregrinefund.org/explore-raptors-species/eagles/changeable-hawk-eagle", "supports": "Diurnal activity, prey, reproduction and range-wide threats; explicitly cites the 2020 IUCN assessment"},
+        {"name": "NParks · Birdwatching at Kranji Marshes", "url": "https://www.nparks.gov.sg/visit/parks/kranji-marshes/activities/birdwatching", "supports": "Present-day public woodland viewing context; no nest coordinates"},
+        {"name": "NParks · Rail Corridor biodiversity", "url": "https://railcorridor.nparks.gov.sg/biodiversity/", "supports": "Historical Spizaetus cirrhatus name in the May 2018 BioBlitz account; search alias only"}
+      ],
+      "taxonomyNote": "Older Singapore accounts may use Spizaetus cirrhatus. This guide follows Nisaetus cirrhatus as used in the current NParks table.",
+      "statusNote": "Singapore RDB3: Vulnerable; older RDB2: Endangered. The cited global Least Concern assessment is dated 2020, not a new 2026 assessment."
+    },
+    "reviewNotes": [
+      "Checked on 2026-09-06. Do not retain old Endangered from the 2016 Kranji checklist when presenting national status.",
+      "Global statement is explicitly historical and indirectly verified: Peregrine Fund cites BirdLife International 2020, e.T22732090A181767197, DOI 10.2305/IUCN.UK.2020-3.RLTS.T22732090A181767197.en. Direct DOI/IUCN fetch failed; do not label it latest verified.",
+      "The Peregrine Fund's regional range and nesting narrative is paraphrased as species biology; no India/Java breeding dates, nest dimensions or incubation duration are transplanted into a Singapore calendar.",
+      "Commonly seen is an editorial encounter group grounded in Bird Society's Common resident description, not a population count or guarantee. Ecological role is a diet-based inference."
+    ]
+  },
+  {
+    "scientific": "Ardea purpurea",
+    "name": "Purple heron",
+    "emoji": "🐦",
+    "habitat": "Vegetated wetlands and marshes",
+    "rarity": "Resident; easily hidden in dense wetland plants",
+    "statusCode": "EN",
+    "sourceUrl": "https://www.nparks.gov.sg/florafaunaweb/fauna/2/7/27",
+    "statusSourceUrl": "https://www.nparks.gov.sg/nature/species-list/birds",
+    "globalStatus": "Least Concern (IUCN assessment 14 Aug 2019)",
+    "globalSourceUrl": "https://heronconservation.org/conservation/red-list/",
+    "profile": {
+      "id": "purple-heron",
+      "group": "Bird",
+      "family": "Ardeidae",
+      "aliases": ["Purple heron Ardea purpurea"],
+      "origin": "Native",
+      "encounter": "Elusive",
+      "habitats": ["Freshwater", "Marsh", "Mangrove"],
+      "summary": "A slender heron adapted to wetland vegetation. Its chestnut neck, dark lines and patient stillness make it less obvious among stems than its name might suggest.",
+      "identification": "Adults have a long chestnut neck marked with dark stripes, a dark cap, greyish upperparts and a narrow pointed bill. Young birds are browner and lack the adult's strong neck markings. It is around 78–90 cm long.",
+      "diet": "Fish are important prey, alongside frogs, aquatic invertebrates and other small animals; diet varies with habitat and prey availability.",
+      "activity": "Often forages around morning and evening, but can also feed in daylight. Local observation times do not establish a fixed island-wide schedule.",
+      "behaviour": "Waits among dense plants or moves slowly through shallow water to catch prey. Long toes help it negotiate emergent and floating vegetation.",
+      "reproduction": "Builds a platform of reeds or sticks in wetland vegetation; trees and thickets can also be used. Both parents incubate and feed the young. Regional breeding seasons and clutch sizes vary, so none is presented here as a Singapore norm.",
+      "singapore": "A resident species recorded in freshwater wetlands and coastal vegetation. NParks lists the Central Catchment, Sungei Buloh and Pulau Ubin. It can be familiar at suitable wetlands while remaining nationally Endangered.",
+      "ecologicalRole": "A wetland predator linking small aquatic animals to the bird food web.",
+      "pressures": "The Heron Specialist Group identifies wetland alteration and disturbance as pressures across its range. Retaining suitable vegetated feeding and nesting habitat is a relevant local priority; no current Singapore decline rate is asserted.",
+      "watch": "Use hides and stay on public paths. Do not enter reedbeds, cut vegetation or flush a hidden bird into view. Keep nesting habitat undisturbed.",
+      "funFacts": [
+        {"title": "Feet for the reeds", "text": "Its elongated toes help it place careful steps on marsh plants and floating vegetation.", "sourceUrl": "https://heronconservation.org/herons-of-the-world/list/purple-heron/"},
+        {"title": "Young birds look different", "text": "A young Purple Heron is mostly brownish and lacks the bold neck stripes of an adult.", "sourceUrl": "https://singaporebirds.com/species/purple-heron"}
+      ],
+      "sources": [
+        {"name": "Bird Society of Singapore", "url": "https://singaporebirds.com/species/purple-heron", "supports": "Identification, size, resident status and dense wetland habitat"},
+        {"name": "IUCN SSC Heron Specialist Group · species account", "url": "https://heronconservation.org/herons-of-the-world/list/purple-heron/", "supports": "Diet, foraging, toes, nesting, parental care and range-wide habitat pressures; regional schedules are not Singapore forecasts"},
+        {"name": "IUCN SSC Heron Specialist Group · Heron Red List 2024-2", "url": "https://heronconservation.org/conservation/red-list/", "supports": "Global Least Concern assessment dated 14 August 2019; geographic scope kept separate from Singapore"}
+      ],
+      "statusNote": "Singapore RDB3: Endangered. Global IUCN: Least Concern, assessed 14 August 2019. Encounter frequency and extinction risk are different measures."
+    },
+    "reviewNotes": [
+      "Checked on 2026-09-06. National EN is unchanged between RDB2 and RDB3.",
+      "Bird Society calls it Common resident while the government assigns EN nationally. Neither implies the other is wrong: resident/encounter descriptors are not Red List categories.",
+      "Dated global LC is supported by the IUCN SSC Heron Specialist Group version 2024-2 list, Ardea purpurea row 14 Aug 2019. Do not label this a 2026 assessment; direct IUCN fetch failed.",
+      "The long specialist account contains old population estimates and differing subspecies/overseas life histories. These were omitted. Ecological role is inferred from documented diet.",
+      "Replaces proposed Blue-crowned Hanging Parrot in this expansion: that bird is now RDB3 LC, and its older NParks article contains outdated endangered/count wording and a sex-identification conflict. No unsupported parrot statements added."
+    ]
+  }
+]

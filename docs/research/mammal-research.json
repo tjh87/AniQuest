@@ -1,0 +1,244 @@
+[
+  {
+    "scientific": "Tragulus napu",
+    "name": "Greater mousedeer",
+    "emoji": "🐾",
+    "habitat": "Forest understorey",
+    "rarity": "Restricted and elusive",
+    "statusCode": "CR",
+    "sourceUrl": "https://www.nparks.gov.sg/florafaunaweb/fauna/1/1/11",
+    "statusSourceUrl": "https://www.nparks.gov.sg/nature/species-list/terrestrial-mammals",
+    "globalStatus": "Dated assessment not verified in this edition",
+    "globalSourceUrl": "",
+    "profile": {
+      "id": "greater-mousedeer",
+      "group": "Mammal",
+      "family": "Tragulidae",
+      "aliases": ["Greater mouse-deer", "Greater mouse deer", "Greater Malay chevrotain", "napu", "napuh"],
+      "origin": "Native",
+      "encounter": "Rare or restricted",
+      "habitats": ["Forest", "Offshore islands"],
+      "summary": "A small hoofed forest browser with a rounded body and very slender legs. Its rediscovery on Pulau Ubin shows why an animal missing from casual sightings is not necessarily gone.",
+      "identification": "Reddish-brown fur, pale underparts and contrasting throat markings. More robust than the lesser mousedeer; useful photographs show the neck and chest, not just apparent size. It has no antlers.",
+      "diet": "Fallen fruit, tender leaves and other low-growing plant material.",
+      "activity": "Mostly nocturnal; usually feeds quietly on the forest floor.",
+      "behaviour": "Typically encountered alone while browsing or resting under cover. A published Singapore survey also recorded more than one animal together, so solitary does not mean never seen with another.",
+      "reproduction": "Usually produces one well-developed young. Regional accounts describe a pregnancy of roughly five months; this is not a prediction of Singapore birth dates. Juveniles were documented during the Ubin rediscovery study.",
+      "singapore": "Confirmed on Pulau Ubin in 2008 after a long gap in verified records. NParks still includes the species in its 2025 Ubin conservation work. Its limited Singapore distribution does not mean every suitable mainland forest contains it.",
+      "ecologicalRole": "A forest-floor plant consumer and part of the food web linking vegetation to predators.",
+      "pressures": "Habitat disturbance and fragmentation can affect its restricted local habitat. Hunting is a pressure across its wider range. Protecting forest cover and limiting disturbance support its persistence.",
+      "watch": "Keep to permitted paths, observe quietly and never feed or pursue it. Leave dense undergrowth undisturbed and do not share exact resting locations.",
+      "funFacts": [
+        {"title": "A comeback in the records", "text": "The decisive 2008 rediscovery photographs showed the throat and chest markings needed to identify the species.", "sourceUrl": "https://lkcnhm.nus.edu.sg/wp-content/uploads/sites/11/app/uploads/2017/04/2009nis373-378.pdf"},
+        {"title": "Tiny hooves, no antlers", "text": "Despite the name, a mousedeer is a chevrotain. Males have enlarged canine teeth rather than antlers.", "sourceUrl": "https://animaldiversity.org/accounts/Tragulus_napu/"}
+      ],
+      "sources": [
+        {"name": "NUS · Greater mousedeer rediscovery study (2009)", "url": "https://lkcnhm.nus.edu.sg/wp-content/uploads/sites/11/app/uploads/2017/04/2009nis373-378.pdf", "supports": "Singapore occurrence, diagnostic markings, juveniles and conservation context"},
+        {"name": "NParks · Ubin conservation update (2025)", "url": "https://www.nparks.gov.sg/news/news-detail/the-next-bound-of-the-ubin-project-makes-headway-with-conservation--and-community-driven-initiatives", "supports": "Continued inclusion of greater mousedeer in local habitat conservation"},
+        {"name": "Animal Diversity Web · University of Michigan", "url": "https://animaldiversity.org/accounts/Tragulus_napu/", "supports": "General reproduction and absence of antlers; older taxonomy and global range text are not adopted"},
+        {"name": "NParks · wildlife encounters", "url": "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals", "supports": "No feeding or removal of wildlife"}
+      ],
+      "taxonomyNote": "A chevrotain in Tragulidae, distinct from true deer in Cervidae. Older sources include the Philippine mousedeer under Tragulus napu; no Philippine conservation label is transferred to Singapore animals.",
+      "statusNote": "Singapore: Critically Endangered in RDB3 (2024), checked 6 September 2026. The older NParks profile's 'Indeterminate' field is not used as the current national assessment. A dated global IUCN assessment could not be directly verified in this review."
+    },
+    "reviewNotes": [
+      "Use RDB3 CR, not the old Flora & Fauna 'Indeterminate' label.",
+      "Do not copy ADW's old Sri Lanka/Philippines range or 5–8 kg weight; Singapore and modern regional sources support a different taxonomic scope and smaller typical size.",
+      "NParks 2025 release explicitly names greater mousedeer among native Ubin beneficiaries. New 2026 Biological Conservation paper was found but full abstract could not be fetched; no population change percentage is adopted.",
+      "Direct global IUCN URL attempted: https://www.iucnredlist.org/species/41781/61978315 (fetch failure). Secondary MyBIS cites LC in 2015, but this is not represented as a freshly verified current assessment."
+    ]
+  },
+  {
+    "scientific": "Hystrix brachyura",
+    "name": "Malayan porcupine",
+    "emoji": "🐾",
+    "habitat": "Mature forest",
+    "rarity": "Rare and nocturnal",
+    "statusCode": "CR",
+    "sourceUrl": "https://www.nparks.gov.sg/florafaunaweb/fauna/2/3/238",
+    "statusSourceUrl": "https://www.nparks.gov.sg/nature/species-list/terrestrial-mammals",
+    "globalStatus": "Dated assessment not verified in this edition",
+    "globalSourceUrl": "",
+    "profile": {
+      "id": "malayan-porcupine",
+      "group": "Mammal",
+      "family": "Hystricidae",
+      "aliases": ["Himalayan porcupine", "East Asian porcupine"],
+      "origin": "Native",
+      "encounter": "Rare or restricted",
+      "habitats": ["Forest", "Offshore islands"],
+      "summary": "A large ground-dwelling rodent with striking defensive quills. Camera traps helped establish that this secretive native mammal still survived in Singapore after decades with few reports.",
+      "identification": "A blunt muzzle, stout body, short legs and a short tail. The longest back quills are strongly patterned in black and white. It is a porcupine, not a hedgehog.",
+      "diet": "Fruit, roots and stems, gathered while foraging on the ground.",
+      "activity": "Nocturnal; normally shelters in burrows during daylight.",
+      "behaviour": "Digs burrows and travels on land. A threatened animal can raise its quills, rattle its tail and back towards a threat; leave it room to retreat.",
+      "reproduction": "Gives birth to live young. The Singapore field sources reviewed here do not establish a local breeding season or typical litter size, so no exact reproductive timetable is claimed.",
+      "singapore": "Rediscovered on an offshore island in 2005. Later camera-trap records documented animals in mainland forest reserves and other wooded areas. RDB3 continues to recognise a native, nationally Critically Endangered population.",
+      "ecologicalRole": "Its plant feeding links roots, stems and fallen fruit to the forest food web; burrowing also disturbs small patches of soil.",
+      "pressures": "Forest loss and fragmentation reduce habitat. Hunting for meat and trade in body parts are documented regional pressures; the reviewed sources do not provide a current Singapore hunting rate.",
+      "watch": "Keep a generous distance and never block its path or approach a burrow. Do not attempt to handle an animal or remove its quills.",
+      "funFacts": [
+        {"title": "No quill launcher", "text": "Porcupines cannot shoot their quills. A quill can detach after contact, which helps explain the familiar myth.", "sourceUrl": "https://lkcnhm.nus.edu.sg/wp-content/uploads/sites/11/app/uploads/2017/06/2016nis063-068.pdf"},
+        {"title": "A warning with a rattle", "text": "Hollow quills on the short tail make a rattling sound when shaken.", "sourceUrl": "https://lkcnhm.nus.edu.sg/wp-content/uploads/sites/11/app/uploads/2017/06/2016nis063-068.pdf"}
+      ],
+      "sources": [
+        {"name": "NUS / NParks · Malayan porcupine records (2016)", "url": "https://lkcnhm.nus.edu.sg/wp-content/uploads/sites/11/app/uploads/2017/06/2016nis063-068.pdf", "supports": "Rediscovery, camera-trap occurrence, defensive behaviour, tail quills and pressures"},
+        {"name": "NParks · wildlife encounters", "url": "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals", "supports": "No feeding or removal of wildlife"}
+      ],
+      "statusNote": "Singapore: Critically Endangered in RDB3 (2024), checked 6 September 2026. This national category is separate from global risk. A dated global IUCN assessment could not be directly verified in this review."
+    },
+    "reviewNotes": [
+      "Confirmed RDB3 CR native; no population number inferred from the CR category.",
+      "The 2016 NUS paper supports the no-quill-shooting fact and rattle anatomy. Its historical legislation is not presented as current law.",
+      "Reproduction explicitly remains a documented knowledge gap for Singapore; do not fill it with conflicting 90–112 or 120-day gestation figures from unrelated porcupines.",
+      "Direct global IUCN URL attempted: https://www.iucnredlist.org/species/10749/115099298 (403)."
+    ]
+  },
+  {
+    "scientific": "Iomys horsfieldii",
+    "name": "Horsfield’s flying squirrel",
+    "emoji": "🐿️",
+    "habitat": "Forest canopy",
+    "rarity": "Elusive night-time glider",
+    "statusCode": "EN",
+    "sourceUrl": "https://www.nparks.gov.sg/florafaunaweb/fauna/2/3/236",
+    "statusSourceUrl": "https://www.nparks.gov.sg/nature/species-list/terrestrial-mammals",
+    "globalStatus": "Dated assessment not verified in this edition",
+    "globalSourceUrl": "",
+    "profile": {
+      "id": "horsfields-flying-squirrel",
+      "group": "Mammal",
+      "family": "Sciuridae",
+      "aliases": ["Horsfield's flying squirrel", "Javanese flying squirrel"],
+      "origin": "Native",
+      "encounter": "Rare or restricted",
+      "habitats": ["Forest", "Wooded parks"],
+      "summary": "A nocturnal squirrel that glides between trees on a membrane joining its limbs. Its quiet life above the ground makes it much less conspicuous than the daytime squirrels in parks.",
+      "identification": "Dark brown upperparts, a paler orange-buff or whitish underside and rusty edges to the gliding membrane. A rounded head, large eyes and long, flattened, feather-like tail complete its outline.",
+      "diet": "Mainly fruit, with insects also listed in the NParks species account.",
+      "activity": "Active at night; rests in a tree cavity by day.",
+      "behaviour": "Climbs using sharp claws and spreads its membrane to glide. It depends on trees for feeding, shelter and travel. Detailed social behaviour remains poorly studied.",
+      "reproduction": "Gives birth to live young, but the reviewed species account does not establish its mating system, breeding season or litter size. Values from larger flying squirrels are not substituted.",
+      "singapore": "Recorded in Singapore's central forest reserves and in a wooded nature park outside them. Local records require careful identification; difficulty seeing a nocturnal animal is not a population estimate.",
+      "ecologicalRole": "A canopy fruit consumer that also eats small invertebrates. Its precise contribution to seed dispersal in Singapore has not been quantified in the reviewed sources.",
+      "pressures": "Loss of forest and suitable cavity-bearing trees removes shelter and foraging areas. Maintaining connected wooded habitat is important for a species that travels between trees.",
+      "watch": "Observe from permitted routes and avoid flash, sustained spotlighting or disturbance of tree holes. Never lure an animal with food or enter closed areas to seek it.",
+      "funFacts": [
+        {"title": "A squirrel with a sail", "text": "Its gliding membrane stretches between all four limbs; the long tail is flattened rather than round and bushy.", "sourceUrl": "https://www.nparks.gov.sg/florafaunaweb/fauna/2/3/236"},
+        {"title": "Two names, one animal", "text": "Horsfield’s flying squirrel and Javanese flying squirrel are common names for the same species, Iomys horsfieldii.", "sourceUrl": "https://animaldiversity.org/accounts/Iomys_horsfieldii/"}
+      ],
+      "sources": [
+        {"name": "Animal Diversity Web · University of Michigan", "url": "https://animaldiversity.org/accounts/Iomys_horsfieldii/", "supports": "Alternative name, climbing anatomy and explicit reproductive knowledge gaps"},
+        {"name": "Nick Baker · published Singapore flying-squirrel study", "url": "https://www.ecologyasia.com/html-menu/eco-location.htm", "supports": "Author's abstract of Chua et al. (2013), documenting a record beyond the central reserves"},
+        {"name": "NUS · Nature in Singapore volume 6 (2013)", "url": "https://lkcnhm.nus.edu.sg/nis-volumes/volume-6-2013/", "supports": "Publication record for the Singapore locality study"},
+        {"name": "NParks · wildlife encounters", "url": "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals", "supports": "No feeding or removal of wildlife"}
+      ],
+      "taxonomyNote": "Use Iomys horsfieldii. 'Javanese' in a common name does not mean the species is introduced from Java; NParks lists Singapore animals as native.",
+      "statusNote": "Singapore: Endangered in RDB3 (2024), checked 6 September 2026. Older descriptions of the species as possibly extinct in Singapore are not used. A dated global IUCN assessment could not be directly verified in this review."
+    },
+    "reviewNotes": [
+      "Confirmed NParks RDB3 native EN. Avoid the ambiguous 'banded flying squirrel' label.",
+      "ADW's food section says unknown while NParks specifically documents fruit and insects; the direct local NParks account controls diet.",
+      "ADW reproduction prose speculates from Petaurista. No speculative litter, season, lifespan, group-size or glide-distance values are adopted.",
+      "The NUS locality PDF linked from the verified archive timed out; the coauthor's public abstract was successfully read, so no details beyond that abstract are used.",
+      "Direct global IUCN URL attempted: https://www.iucnredlist.org/species/10845/115099730 (fetch refusal)."
+    ]
+  },
+  {
+    "scientific": "Hylopetes spadiceus",
+    "name": "Red-cheeked flying squirrel",
+    "emoji": "🐿️",
+    "habitat": "Mature forest canopy",
+    "rarity": "Rare and restricted",
+    "statusCode": "CR",
+    "sourceUrl": "https://www.nparks.gov.sg/florafaunaweb/fauna/0/7/07",
+    "statusSourceUrl": "https://www.nparks.gov.sg/nature/species-list/terrestrial-mammals",
+    "globalStatus": "Dated assessment not verified in this edition",
+    "globalSourceUrl": "",
+    "profile": {
+      "id": "red-cheeked-flying-squirrel",
+      "group": "Mammal",
+      "family": "Sciuridae",
+      "aliases": ["Red-cheeked gliding squirrel"],
+      "origin": "Native",
+      "encounter": "Rare or restricted",
+      "habitats": ["Forest"],
+      "summary": "A tiny forest squirrel with warm-coloured cheeks and a broad gliding membrane. It is one of Singapore's least conspicuous mammals and needs careful observation to separate it from other gliders.",
+      "identification": "Grey-brown upperparts with rusty colouring, a pale underside, orange-brown cheeks and a flattened tail. NParks describes a narrow white edge along the side of the gliding membrane.",
+      "diet": "Regional observations describe fruit, flowers and leaves, with some insects.",
+      "activity": "Nocturnal and mainly active in trees.",
+      "behaviour": "Glides between trees and shelters in cavities in tall trunks. It appears largely solitary, but detailed social studies are limited.",
+      "reproduction": "Uses sheltered tree holes. Reliable species-specific breeding dates and litter sizes were not established in this review. Frequently repeated numbers in one educational account are actually attributed to a different Hylopetes species.",
+      "singapore": "Recorded from Bukit Timah and Central Catchment forests. The latter records were published in 2013, so the older statement that it occurs only in Bukit Timah is not retained.",
+      "ecologicalRole": "Connects canopy plant resources and small invertebrates with the forest food web. No measured Singapore seed-dispersal rate is claimed.",
+      "pressures": "Loss or degradation of mature forest can remove both food and cavity shelters. Its restricted habitat and small size also make monitoring difficult.",
+      "watch": "Watch quietly from open trails without flash or prolonged direct light. Do not inspect occupied tree cavities or publish exact shelter locations.",
+      "funFacts": [
+        {"title": "An arrow-shaped tail", "text": "Its broad, flattened tail gives the group its 'arrow-tailed flying squirrel' nickname.", "sourceUrl": "https://animaldiversity.org/accounts/Hylopetes_spadiceus/"},
+        {"title": "A pale edge to the sail", "text": "A thin white margin outlines the sides of the gliding membrane described by NParks.", "sourceUrl": "https://www.nparks.gov.sg/florafaunaweb/fauna/0/7/07"}
+      ],
+      "sources": [
+        {"name": "Animal Diversity Web · University of Michigan", "url": "https://animaldiversity.org/accounts/Hylopetes_spadiceus/", "supports": "Tail form, regional diet and the limits of reproductive evidence"},
+        {"name": "Nick Baker · published Singapore flying-squirrel study", "url": "https://www.ecologyasia.com/html-menu/eco-location.htm", "supports": "Author's abstract of the 2013 Central Catchment locality record"},
+        {"name": "NUS · Nature in Singapore volume 6 (2013)", "url": "https://lkcnhm.nus.edu.sg/nis-volumes/volume-6-2013/", "supports": "Publication record for the Singapore locality study"},
+        {"name": "NParks · wildlife encounters", "url": "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals", "supports": "No feeding or removal of wildlife"}
+      ],
+      "taxonomyNote": "Hylopetes species can look similar. Breeding figures attributed to Hylopetes lepidus in older literature must not be relabelled as measurements for H. spadiceus.",
+      "statusNote": "Singapore: Critically Endangered in RDB3 (2024), checked 6 September 2026. A dated global IUCN assessment could not be directly verified in this review."
+    },
+    "reviewNotes": [
+      "Corrected outdated NParks Flora & Fauna distribution 'only Bukit Timah' using the published 2013 Central Catchment record abstract.",
+      "ADW lists a 40-day pregnancy and 1–4 offspring but its full reproductive prose explicitly assigns these to Hylopetes lepidus. Those values are excluded.",
+      "The NUS locality PDF linked from the verified archive timed out; only the successfully read coauthor abstract supports the additional locality.",
+      "Direct global IUCN URL attempted: https://www.iucnredlist.org/species/10607/115098135 (fetch refusal)."
+    ]
+  },
+  {
+    "scientific": "Arctogalidia trivirgata",
+    "name": "Small-toothed palm civet",
+    "emoji": "🐾",
+    "habitat": "Forest canopy",
+    "rarity": "Rare and elusive",
+    "statusCode": "CR",
+    "sourceUrl": "https://lkcnhm.nus.edu.sg/wp-content/uploads/sites/10/2023/06/NIS-2023-0055.pdf",
+    "statusSourceUrl": "https://www.nparks.gov.sg/nature/species-list/terrestrial-mammals",
+    "globalStatus": "Dated assessment not verified in this edition",
+    "globalSourceUrl": "",
+    "profile": {
+      "id": "small-toothed-palm-civet",
+      "group": "Mammal",
+      "family": "Viverridae",
+      "aliases": ["Three-striped palm civet"],
+      "origin": "Native",
+      "encounter": "Rare or restricted",
+      "habitats": ["Forest"],
+      "summary": "A canopy-dwelling civet that is much less often seen than Singapore's familiar Sumatran palm civet. Published observations of adults and apparent young show how much remains to learn about its forest life.",
+      "identification": "Usually brownish-grey with a darker face and tail, pale forehead marking and three dark lines along the back. Markings vary, so a quick glimpse is insufficient to identify an unfamiliar civet confidently.",
+      "diet": "Fruit is important, alongside insects and small vertebrates. It belongs to the carnivore order but has an omnivorous diet.",
+      "activity": "Nocturnal and strongly arboreal; often rests high in vegetation.",
+      "behaviour": "Often described as solitary. Singapore observers have also recorded pairs resting close together, although their ages and relationship could not always be confirmed.",
+      "reproduction": "Females produce and nurse dependent young. Published Singapore sightings include an apparent juvenile, but those observations do not establish a breeding season or confirm that every pair is a mother and offspring.",
+      "singapore": "Associated with the central nature reserves. A 2023 NUS biodiversity record documents observations in secondary forest during 2022–2023. Exact resting trees are omitted from this guide.",
+      "ecologicalRole": "A fruit eater and predator of small animals. Seed transport is a plausible ecological contribution, but the profile does not claim a measured local dispersal rate or a demonstrated keystone role.",
+      "pressures": "Forest loss and degradation affect canopy habitat. The reviewed literature describes hunting and capture elsewhere in its range; it does not quantify current Singapore exploitation.",
+      "watch": "Use binoculars from permitted paths and leave resting animals undisturbed. Never bait, feed, touch or follow a civet into the forest.",
+      "funFacts": [
+        {"title": "A treetop cuddle", "text": "A published Singapore record describes two civets resting against each other in the canopy; the observers could not confirm their relationship.", "sourceUrl": "https://lkcnhm.nus.edu.sg/wp-content/uploads/sites/10/2023/06/NIS-2023-0055.pdf"},
+        {"title": "Carnivore, fruit included", "text": "Belonging to the order Carnivora does not mean an all-meat menu: fruit is an important food for this civet.", "sourceUrl": "https://animaldiversity.org/accounts/Arctogalidia_trivirgata/"}
+      ],
+      "sources": [
+        {"name": "Animal Diversity Web · University of Michigan", "url": "https://animaldiversity.org/accounts/Arctogalidia_trivirgata/", "supports": "Identification, diet, habitat and general maternal care; speculative keystone label is not adopted"},
+        {"name": "NParks · RDB3 terrestrial mammals (2024)", "url": "https://www.nparks.gov.sg/nature/species-list/terrestrial-mammals", "supports": "Native origin, family and national Critically Endangered status"},
+        {"name": "NParks · wildlife encounters", "url": "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals", "supports": "No feeding or removal of wildlife"}
+      ],
+      "taxonomyNote": "This is Arctogalidia trivirgata, distinct from the Sumatran palm civet Paradoxurus musangus. 'Three-striped palm civet' is an alternative common name, not another catalogue species.",
+      "statusNote": "Singapore: Critically Endangered in RDB3 (2024), checked 6 September 2026. The NUS occurrence paper cites the older RDB2 status, so the current badge uses the separate RDB3 table. A dated global IUCN assessment could not be directly verified in this review."
+    },
+    "reviewNotes": [
+      "Confirmed native CR in RDB3 and direct 2022–2023 observations in a NUS 2023 paper; not represented as locally extinct.",
+      "The two observed animals are not called a confirmed mother-and-young pair because the paper explicitly says their relationship was uncertain.",
+      "Avoid ADW's unsupported broad 'keystone species' claim and exact Singapore breeding schedule.",
+      "Direct global IUCN URL attempted: https://www.iucnredlist.org/species/41691/45217378 (fetch failure)."
+    ]
+  }
+]

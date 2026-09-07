@@ -1,0 +1,3922 @@
+{
+  "lesson-template:journey": {
+    "hash": "45167d67286e0b32e30d04d8afa4f8219a70aa5f7ffa253f2f5b6c96bf971751",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 4
+  },
+  "lesson:rainforest-01": {
+    "hash": "5b8b35fe5c1ec0609deee3132cc80a182a568b2a4acb05d5174e86cccaaef8e1",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 3
+  },
+  "lesson:smooth-coated-otter": {
+    "hash": "48c11e4aa8a39e4969b560177a3ed8b973a822e23c59fe6a94102766980ce6bf",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 4
+  },
+  "profile:asian-koel": {
+    "hash": "b8350ae0c8db4da25909c1646bf3b1e5c05adbb86baabecc73ce76cfd5c371d9",
+    "recordedAt": "2026-09-07T06:10:52.488Z",
+    "revision": 1
+  },
+  "profile:asian-leaf-turtle": {
+    "hash": "704a1133f75204ca6fb6cc2b0bd64842b7366e7440604692e5a4214129ffd514",
+    "recordedAt": "2026-09-07T08:11:24.916Z",
+    "revision": 2
+  },
+  "profile:banded-bullfrog": {
+    "hash": "652b6f59bc574d6d6e7dd6ef0e03687a534c2d929b6ba73d0d6aae2a1c8c7268",
+    "recordedAt": "2026-09-07T08:11:24.916Z",
+    "revision": 2
+  },
+  "profile:black-eyed-litter-frog": {
+    "hash": "63ae8311a967e1c1a7997679bb84e203e34669e57c02882900eb0f8251c058f8",
+    "recordedAt": "2026-09-07T08:11:24.916Z",
+    "revision": 2
+  },
+  "profile:black-naped-oriole": {
+    "hash": "bb24f70c70c8b428f5b2443a1b1066583038bc0ad7034f62acaf3503128ee6bd",
+    "recordedAt": "2026-09-07T08:11:24.916Z",
+    "revision": 2
+  },
+  "profile:blue-eared-kingfisher": {
+    "hash": "5abc7a78a73dcfdb4ea62ec0f49f391cdf27b464826543b0af17165a3ef6e89c",
+    "recordedAt": "2026-09-07T08:11:24.916Z",
+    "revision": 2
+  },
+  "profile:buffy-fish-owl": {
+    "hash": "859cb9099642eaf9b2517c559aa699fc072345600beb60f6b4cde7d26b3d9dcc",
+    "recordedAt": "2026-09-07T08:11:24.916Z",
+    "revision": 2
+  },
+  "profile:changeable-hawk-eagle": {
+    "hash": "0d1262d88ea21787804342933adea7ab5e44976da302e6e353f9d8b053d40ddc",
+    "recordedAt": "2026-09-07T06:10:52.488Z",
+    "revision": 1
+  },
+  "profile:clouded-monitor": {
+    "hash": "75e3dd60b1e8da850fbb03e5ef181c126adfe0bfc17accaca75f5486a676fdfb",
+    "recordedAt": "2026-09-07T08:14:41.045Z",
+    "revision": 3
+  },
+  "profile:collared-kingfisher": {
+    "hash": "3df25c5871dc307a52e423dfadeedd844424bc42dec7217a2de201e10339dfb3",
+    "recordedAt": "2026-09-07T08:11:24.916Z",
+    "revision": 2
+  },
+  "profile:common-house-gecko": {
+    "hash": "026c7eca3ea88a198f44d0fe8c95a8928b02ace7668a3e4e43b7d5bbed1eccae",
+    "recordedAt": "2026-09-07T08:11:24.916Z",
+    "revision": 2
+  },
+  "profile:dugong": {
+    "hash": "6f8ae7a94a71e6b093751e0612377098ecfcb1c9b9b89a7f3b47848df483d75f",
+    "recordedAt": "2026-09-07T08:11:24.916Z",
+    "revision": 2
+  },
+  "profile:equatorial-spitting-cobra": {
+    "hash": "9ce1795757da710b5b06da11be07f9a50cfdc1c0eb4b8cccbd7195e5ce3dff91",
+    "recordedAt": "2026-09-07T08:11:24.916Z",
+    "revision": 2
+  },
+  "profile:estuarine-crocodile": {
+    "hash": "4d0664d461ef027a9156934a7f79ee660447b1ea6f375e61fc555fd917bb4728",
+    "recordedAt": "2026-09-07T08:11:24.916Z",
+    "revision": 2
+  },
+  "profile:four-lined-tree-frog": {
+    "hash": "f827b69b19a59646df49493bbefba9ba3c5161d18b1968ab71bf3fd4d54b97e8",
+    "recordedAt": "2026-09-07T08:11:24.916Z",
+    "revision": 2
+  },
+  "profile:great-billed-heron": {
+    "hash": "a39c02fbae867851456998aa48333cf836582310a261092cee8bc72dc1d53033",
+    "recordedAt": "2026-09-07T08:11:24.916Z",
+    "revision": 2
+  },
+  "profile:greater-mousedeer": {
+    "hash": "3c5613eb47b7620d576cf1455b03207e3e008b95b8caaa36e2be6c2af52a5e46",
+    "recordedAt": "2026-09-07T08:14:41.045Z",
+    "revision": 3
+  },
+  "profile:green-turtle": {
+    "hash": "7dd1e48ffe1e9e324a7194f94dedae844a70204887e96c5c709aed89c63dc0d9",
+    "recordedAt": "2026-09-07T08:11:24.916Z",
+    "revision": 2
+  },
+  "profile:grey-heron": {
+    "hash": "30155926a4c9de215bb5a04eb342dbe49b04bc7ecccf0c4783e6367d76bb1e28",
+    "recordedAt": "2026-09-07T08:11:24.916Z",
+    "revision": 2
+  },
+  "profile:hawksbill-turtle": {
+    "hash": "951a348076effddb55b0cd1af187d5a62d0bc959cfdcf4b081db9b63a56d8af9",
+    "recordedAt": "2026-09-07T06:10:52.488Z",
+    "revision": 1
+  },
+  "profile:horsfields-flying-squirrel": {
+    "hash": "8a48cbd17384896e1349fcd2b7065b3d9d88cd5c8de918c1832e48127a1ebc16",
+    "recordedAt": "2026-09-07T08:14:41.045Z",
+    "revision": 3
+  },
+  "profile:house-crow": {
+    "hash": "8731c9ecfbb3c672f758c4d0dec12542f60fba0c2777ee9e41098c53dc7ceb96",
+    "recordedAt": "2026-09-07T08:11:24.916Z",
+    "revision": 2
+  },
+  "profile:indo-pacific-humpback-dolphin": {
+    "hash": "64be47680e77ed5d73fc4268c9b2ec6e35a3d283d96a53a7cff0f05e7c3b18ba",
+    "recordedAt": "2026-09-07T08:11:24.916Z",
+    "revision": 2
+  },
+  "profile:javan-myna": {
+    "hash": "b5671ab5d265d2e5de3959f0cc6ffe463ca41b918a8d967875405f06a91ba9e1",
+    "recordedAt": "2026-09-07T08:11:24.916Z",
+    "revision": 2
+  },
+  "profile:lesser-dog-faced-fruit-bat": {
+    "hash": "3e8b7d387feeeca3bdc1c40ddbb19800c4cf63060093161a3c2d3bc4a8acce9e",
+    "recordedAt": "2026-09-07T08:11:24.916Z",
+    "revision": 2
+  },
+  "profile:lesser-mousedeer": {
+    "hash": "19aa6e5fdabca0306463e831f6eb9a33014a7f3b093fca99babebc6a89e1572f",
+    "recordedAt": "2026-09-07T08:11:24.916Z",
+    "revision": 2
+  },
+  "profile:little-egret": {
+    "hash": "5bdfb4776a46f6b9e326ffe4366712bfb87ae3839c0c0bad4af1485e5ea1b821",
+    "recordedAt": "2026-09-07T08:11:24.916Z",
+    "revision": 2
+  },
+  "profile:long-tailed-macaque": {
+    "hash": "3b7ab57b18da30c8168bf5b982cdd01f3e28f88a6f8074b283c9b658531e87f5",
+    "recordedAt": "2026-09-07T08:11:24.916Z",
+    "revision": 2
+  },
+  "profile:mainland-leopard-cat": {
+    "hash": "0333e6d57035ce46cbc2f1bd94e81daeedc6d363760d77c1736d0f449dc65c05",
+    "recordedAt": "2026-09-07T06:10:52.488Z",
+    "revision": 1
+  },
+  "profile:malayan-horned-frog": {
+    "hash": "805679c7ca82a7ac3ae77702e0267713df7d1b3fd663226642bb06ab254f9fa7",
+    "recordedAt": "2026-09-07T08:11:24.916Z",
+    "revision": 2
+  },
+  "profile:malayan-porcupine": {
+    "hash": "e1aacf1521b69281bfde1614a272318a35e8244891e2b5d3c78148cf6c7873d1",
+    "recordedAt": "2026-09-07T08:14:41.045Z",
+    "revision": 3
+  },
+  "profile:malayan-water-monitor": {
+    "hash": "c7ff3480bfcf6ea3d8935dfd5787b2fc00b9a352536a67941b46f6a00cf0d578",
+    "recordedAt": "2026-09-07T08:11:24.916Z",
+    "revision": 2
+  },
+  "profile:oriental-pied-hornbill": {
+    "hash": "19204798a59a8f77c0d6920627b15ef27c1021f60cfc384b6995a5a73f494ba1",
+    "recordedAt": "2026-09-07T08:11:24.916Z",
+    "revision": 2
+  },
+  "profile:plantain-squirrel": {
+    "hash": "fc73e237abdfcf9afb0a597c9c37a8370e81f67ae8d8b8448c96bd8e558b6ff4",
+    "recordedAt": "2026-09-07T08:11:24.916Z",
+    "revision": 2
+  },
+  "profile:purple-heron": {
+    "hash": "c9de4bafaed1734ad406619ee30093068454b0ac1e3cd8a17f615bd1b82602ca",
+    "recordedAt": "2026-09-07T06:10:52.488Z",
+    "revision": 1
+  },
+  "profile:raffles-banded-langur": {
+    "hash": "bb81aecf162f8902839b291ace039c186c1e8b137572bd22dd117c14f059db65",
+    "recordedAt": "2026-09-07T06:10:52.488Z",
+    "revision": 1
+  },
+  "profile:red-cheeked-flying-squirrel": {
+    "hash": "0cec9813192e797f9ef6724e8f99cc4c8e22574a9acf642577abbda2702c49d6",
+    "recordedAt": "2026-09-07T08:14:41.045Z",
+    "revision": 3
+  },
+  "profile:red-junglefowl": {
+    "hash": "21e99aa9338bc800972965fba83ba32f70b501b739597b5ad78f534e6cdae7df",
+    "recordedAt": "2026-09-07T08:11:24.916Z",
+    "revision": 2
+  },
+  "profile:reticulated-python": {
+    "hash": "e26d99322b86d231c79e2761267226c1298860b3656b598682ba8cc7c371edcd",
+    "recordedAt": "2026-09-07T08:11:24.916Z",
+    "revision": 2
+  },
+  "profile:small-toothed-palm-civet": {
+    "hash": "77c784864793b77700069d5b17ff5a0931a768bd6c49035bea16f35207f680d1",
+    "recordedAt": "2026-09-07T08:14:41.045Z",
+    "revision": 3
+  },
+  "profile:smooth-coated-otter": {
+    "hash": "9bab972ad861c9315f7eae77d1038a38d6afc6e45a67ba2a8428dd3a678f26b1",
+    "recordedAt": "2026-09-07T06:10:52.488Z",
+    "revision": 1
+  },
+  "profile:spiny-hill-turtle": {
+    "hash": "938a34141dde9868685aacceb350fcddfb39a597acecb9104e2f6638248946cf",
+    "recordedAt": "2026-09-07T08:11:24.916Z",
+    "revision": 2
+  },
+  "profile:straw-headed-bulbul": {
+    "hash": "85bb7c9088211c51492b7639c6a2ceb30d228f8813be4cbae448ccc9a97fb672",
+    "recordedAt": "2026-09-07T08:11:24.916Z",
+    "revision": 2
+  },
+  "profile:sumatran-palm-civet": {
+    "hash": "95d88a35ed1c48714207d1084806f0438235d179cce544b6a8c6096d11043d75",
+    "recordedAt": "2026-09-07T08:11:24.916Z",
+    "revision": 2
+  },
+  "profile:sunda-colugo": {
+    "hash": "fb7dd9ef91e19aabd821f582d542a88355d6facb8629c28c08ba61e45c7a4652",
+    "recordedAt": "2026-09-07T06:10:52.488Z",
+    "revision": 1
+  },
+  "profile:sunda-pangolin": {
+    "hash": "f80ba0922eff9920dd0fde6940119f4911b32d1f628114bd82af26d6e22ef445",
+    "recordedAt": "2026-09-07T06:10:52.488Z",
+    "revision": 1
+  },
+  "profile:sunda-slow-loris": {
+    "hash": "390eec4207febb0a062216aca2ace0174332c08d768ba3b498d2f0ebeb39dc72",
+    "recordedAt": "2026-09-07T06:10:52.488Z",
+    "revision": 1
+  },
+  "profile:white-bellied-sea-eagle": {
+    "hash": "6cc234e5a555bd93cc736e3cf432f825de1674a4a83c04d637c18bfe3bcf2203",
+    "recordedAt": "2026-09-07T08:11:24.916Z",
+    "revision": 2
+  },
+  "profile:wild-boar": {
+    "hash": "3bd715c04a7905344c5f2924405ff6649537d89216d1176d6c5a7d12ff8fda86",
+    "recordedAt": "2026-09-07T08:11:24.916Z",
+    "revision": 2
+  },
+  "quiz:bats-count-02": {
+    "hash": "30f01a3a5011beaba71cb9e1c70509171e2b8b3b22a651090d078d7b9d865d9d",
+    "recordedAt": "2026-09-07T06:10:52.488Z",
+    "revision": 1
+  },
+  "quiz:bird-count-03": {
+    "hash": "1ea04f59394e2dd9a6912bd59e7a8f1e52560544e210fb584796eed4d1ca8c52",
+    "recordedAt": "2026-09-07T06:10:52.488Z",
+    "revision": 1
+  },
+  "quiz:bulbul-threat-03": {
+    "hash": "5e8446d306e8812763c71b95b4206b40588d74dbd3e9910d114713e3d53dabbc",
+    "recordedAt": "2026-09-07T06:10:52.488Z",
+    "revision": 1
+  },
+  "quiz:civet-relative-02": {
+    "hash": "120885203df0011117702c85511dbbf31e27c1bc3c78b911e80b18db0d918025",
+    "recordedAt": "2026-09-07T06:10:52.488Z",
+    "revision": 1
+  },
+  "quiz:coral-communities-02": {
+    "hash": "0b87e6d3384737256a875e1e8104769ac1afd4d9c2291bbec2d78262741f9068",
+    "recordedAt": "2026-09-07T06:10:52.488Z",
+    "revision": 1
+  },
+  "quiz:coral-count-03": {
+    "hash": "a063b0a7fd4e1dfbb7f4710ef0cd902f9ecde99108c6f4de38df715987f8c2ac",
+    "recordedAt": "2026-09-07T06:10:52.488Z",
+    "revision": 1
+  },
+  "quiz:freshwater-crab-endemic-01": {
+    "hash": "c30d516bd88a85a961bdabe68e96dad2edc01a856266dd943d9ce10c39fff977",
+    "recordedAt": "2026-09-07T06:10:52.488Z",
+    "revision": 1
+  },
+  "quiz:hawksbill-nesting-03": {
+    "hash": "ab9acdf6df542166c7fec2d9833d284b431a011430a634f0537515274af9d8f0",
+    "recordedAt": "2026-09-07T06:10:52.488Z",
+    "revision": 1
+  },
+  "quiz:hornbill-nest-02": {
+    "hash": "90ff37f83a86b8ad75638df15c673ebfb392287ef16f4ba1c170188a3ceb0f06",
+    "recordedAt": "2026-09-07T06:10:52.488Z",
+    "revision": 1
+  },
+  "quiz:hornbill-resident-01": {
+    "hash": "122f438b5efaca7d89da09ea406b1656aec6ce88dc450a3fad9c271fe2803fbb",
+    "recordedAt": "2026-09-07T06:10:52.488Z",
+    "revision": 1
+  },
+  "quiz:horseshoe-genomics-02": {
+    "hash": "b8adf7773d4c5543d8869fc925f69ff09467dc34b2b588150717d8d0e188040b",
+    "recordedAt": "2026-09-07T06:10:52.488Z",
+    "revision": 1
+  },
+  "quiz:horseshoe-group-02": {
+    "hash": "d79537cf85c8a2f685ed1baaed7a3885cebc0ff28779a506e3c66f236d1ce642",
+    "recordedAt": "2026-09-07T06:10:52.488Z",
+    "revision": 1
+  },
+  "quiz:koel-nest-01": {
+    "hash": "cff3ff1213109d8d67b167f6b39d0b8cdd8678f410551a9c0ba4338cda3f5425",
+    "recordedAt": "2026-09-07T06:10:52.488Z",
+    "revision": 1
+  },
+  "quiz:macaque-common-01": {
+    "hash": "9cd878b57d9b55439c7347544f9879b825386709326e237d6f5517d53b47fe9f",
+    "recordedAt": "2026-09-07T06:10:52.488Z",
+    "revision": 1
+  },
+  "quiz:macaque-habitat-02": {
+    "hash": "f7f3814b2ff366ef1fee9b4add17143ae0f50a38c44551c1b73fbc11c3bea3e2",
+    "recordedAt": "2026-09-07T06:10:52.488Z",
+    "revision": 1
+  },
+  "quiz:macaque-role-02": {
+    "hash": "f431b38b531cbff0c5f90354ca0b9570e26d1ca7c273ac107da9f7a89105bcb4",
+    "recordedAt": "2026-09-07T06:10:52.488Z",
+    "revision": 1
+  },
+  "quiz:macaque-seed-02": {
+    "hash": "36862187466e1d4390a346e92f8286dd8f86093d4babf0011d478f7551c257cd",
+    "recordedAt": "2026-09-07T06:10:52.488Z",
+    "revision": 1
+  },
+  "quiz:monitor-common-01": {
+    "hash": "afc98aa2d975e28c4ce42b982fe55ee3714333f3ea6edc1114e1b7364f2a09dd",
+    "recordedAt": "2026-09-07T06:10:52.488Z",
+    "revision": 1
+  },
+  "quiz:nature-reserves-03": {
+    "hash": "7ac761a36cd057f873a0cce10562851c5c5752fd6895cfd00e9f0d56b3fbaf60",
+    "recordedAt": "2026-09-07T06:10:52.488Z",
+    "revision": 1
+  },
+  "quiz:otter-dive-03": {
+    "hash": "5a0a5d8f1e03365a9a8bda2a59fc156683f63de3f6e4f5eafcf0b37c2f7b50b6",
+    "recordedAt": "2026-09-07T06:10:52.488Z",
+    "revision": 1
+  },
+  "quiz:otter-post-1": {
+    "hash": "4e99c99604b8aefadf885d942078807eb5ef2022edf04ce0cfba0a0ccafccc69",
+    "recordedAt": "2026-09-07T06:10:52.488Z",
+    "revision": 1
+  },
+  "quiz:otter-post-2": {
+    "hash": "45960d752e54995855e4d3890a32fe67177168083afb13d2114c5faa5f3aa0d8",
+    "recordedAt": "2026-09-07T06:10:52.488Z",
+    "revision": 1
+  },
+  "quiz:otter-post-3": {
+    "hash": "d417ea166f06ca40740b2e3e3a3948a055540b09d72eab45af25394e670e89c1",
+    "recordedAt": "2026-09-07T06:10:52.488Z",
+    "revision": 1
+  },
+  "quiz:otter-pre-1": {
+    "hash": "83357f537cbffa1d6ec50c72dc45747d765cec12ede7670ea2621c1b2c297d4c",
+    "recordedAt": "2026-09-07T06:10:52.488Z",
+    "revision": 1
+  },
+  "quiz:otter-pre-2": {
+    "hash": "85fa1724a0e7ea16d2e5a7b9a62327f621e97e21bbd9a1f0f416db9e3a20dac7",
+    "recordedAt": "2026-09-07T06:10:52.488Z",
+    "revision": 1
+  },
+  "quiz:otter-pre-3": {
+    "hash": "3d287e7356503ca41087e3f3f6916f27ed9580370e516505482f89a8a9829ee2",
+    "recordedAt": "2026-09-07T06:10:52.488Z",
+    "revision": 1
+  },
+  "quiz:otter-species-01": {
+    "hash": "e26397492584d1d13f73472f7c032fdb0475ef6a41b15475edfd4bf48d3b9d94",
+    "recordedAt": "2026-09-07T06:10:52.488Z",
+    "revision": 1
+  },
+  "quiz:pangolin-diet-03": {
+    "hash": "43796d5c27ba260813c9220394f538bb4eab935e542baef3fb39c016649ea729",
+    "recordedAt": "2026-09-07T06:10:52.488Z",
+    "revision": 1
+  },
+  "quiz:pangolin-scales-01": {
+    "hash": "274f4aa029b666a73a5eee04f3e11b5ec41884c1fb28b154947af4f47c52e6e4",
+    "recordedAt": "2026-09-07T06:10:52.488Z",
+    "revision": 1
+  },
+  "quiz:pangolin-status-03": {
+    "hash": "92e270b8f9e8109ef71a872a731f54fa0e01b3dfb2ecaf94e88d6366e5dbb433",
+    "recordedAt": "2026-09-07T06:10:52.488Z",
+    "revision": 1
+  },
+  "quiz:squirrel-common-01": {
+    "hash": "088df11ee05c92da560d075485c72102a7aa3f3aa4db02f5139c71804cb83fb9",
+    "recordedAt": "2026-09-07T06:10:52.488Z",
+    "revision": 1
+  },
+  "quiz:status-scope-03": {
+    "hash": "13efd822897e8c65c249e730cd9d7e960263759a6976d64db52e59074c28b0ae",
+    "recordedAt": "2026-09-07T06:10:52.488Z",
+    "revision": 1
+  },
+  "quiz:wild-boar-native-01": {
+    "hash": "0b51af4f74e6b6007979cf6426721f2ce6489e317c71775f3982c2c18b449eda",
+    "recordedAt": "2026-09-07T06:10:52.488Z",
+    "revision": 1
+  },
+  "lesson:asian-koel": {
+    "hash": "c708c00e557f63273756648df8fc40f767ebc88c434e5bf7dadb5d5ee70ede84",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 3
+  },
+  "lesson:asian-leaf-turtle": {
+    "hash": "46e249dd7a6334645a15a55f06c23b9719b28411c4f632ab755e4cd563d17b1e",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 4
+  },
+  "lesson:banded-bullfrog": {
+    "hash": "4672f4cdab414632b0e464885213b55e4a419f12826ab5d13daa7328f29a30c2",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 4
+  },
+  "lesson:black-eyed-litter-frog": {
+    "hash": "bb68568400a732a3535a231a2f60939cdd69b4098331d492a26d258ebe0cbcc5",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 4
+  },
+  "lesson:black-naped-oriole": {
+    "hash": "974541d40a196db6ce9843c98a6ab77657af0462a17e4d1af5ab9c8e7c6cdff1",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 4
+  },
+  "lesson:blue-eared-kingfisher": {
+    "hash": "8371bc19bdc9953bc718181f1aebac15fe81ccbac60c054cb4ffa4a40694e91c",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 4
+  },
+  "lesson:buffy-fish-owl": {
+    "hash": "0dfb888d89400c530d2225df00526b6090c5db21b74b73d1f6982f117aad19d0",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 4
+  },
+  "lesson:changeable-hawk-eagle": {
+    "hash": "d29f8cab08220efb6a8c63534cf82fd9791c9a4cb72ec60bcef02d3b781a0083",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 3
+  },
+  "lesson:clouded-monitor": {
+    "hash": "367ad80a19809ea6149651bf4498ba33b4e6d322e9d040d2713ea5e9ac9f726a",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 5
+  },
+  "lesson:collared-kingfisher": {
+    "hash": "bc682858034c399139bc2d4635e9dabc0e2dde24595b11908f3c1df2c9c5b58a",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 4
+  },
+  "lesson:common-house-gecko": {
+    "hash": "06b3ed4abac606036c44a3e9d0d96e55779a49d2cf4d462b9036d579e097f139",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 4
+  },
+  "lesson:dugong": {
+    "hash": "4495339eb4007092bc21d30d7f5030759076a742bb3d0415f818aa02b446c3c8",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 4
+  },
+  "lesson:equatorial-spitting-cobra": {
+    "hash": "789385f19f70c1700f3f4036c8c8ff6269ff9fcf3f1650bffc72974e9717e1b2",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 4
+  },
+  "lesson:estuarine-crocodile": {
+    "hash": "b3be3b6f8c083aa4bc822c2055f9f8182021838738af5dd1b45e3ae1f8195cbd",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 4
+  },
+  "lesson:four-lined-tree-frog": {
+    "hash": "c2f0c21611a355e655c0da55dec35874c79a454ed3b77eb0a14a58ff1ad69ba3",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 4
+  },
+  "lesson:great-billed-heron": {
+    "hash": "c29c8d11d388ae04f9b36118cb1ec59f4db3893d78d81077cc72be931dba06b8",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 4
+  },
+  "lesson:greater-mousedeer": {
+    "hash": "1dcf4c4445140e1543a5a69a4976faf4f5b27b917b3f8c2d3349bf3e5b60a692",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 5
+  },
+  "lesson:green-turtle": {
+    "hash": "8200428899167107995247bd381f03a2918fcb37ac5879abcc4bfee6a7bd64fd",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 4
+  },
+  "lesson:grey-heron": {
+    "hash": "a984ddc9842ffb4b1a1bfdde86557885ac0d0d494377e5b66029098fe9909414",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 4
+  },
+  "lesson:hawksbill-turtle": {
+    "hash": "5f8b9315447bbb905281a276ad2bd11ab855d5feadf51470ea4652cb9210add5",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 3
+  },
+  "lesson:horsfields-flying-squirrel": {
+    "hash": "bd46d2b13ba1e1cd224b0332eb9543c330a2e8baa13116edcbc9e69ad72e4fdc",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 5
+  },
+  "lesson:house-crow": {
+    "hash": "05cabf84c6fbc417d26826f3e12e802930ab0647ed1535d82c794c5eca6852fa",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 4
+  },
+  "lesson:indo-pacific-humpback-dolphin": {
+    "hash": "dc3b9ed60303498ba090ed690805a03c15695a42fe209b3308c5566ed2ea8c2f",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 4
+  },
+  "lesson:javan-myna": {
+    "hash": "7f362bfb56c152ad54092d3365cb192ccf94f8f1186fc89a7daeebcb35781af1",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 4
+  },
+  "lesson:lesser-dog-faced-fruit-bat": {
+    "hash": "358231abdbd7ff2219a9eca52dc560920defbba4991f2a47347900e0f1d81a5b",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 4
+  },
+  "lesson:lesser-mousedeer": {
+    "hash": "39c0fefdcee1d9daa1913f6169db07a37f198de1af8cbec8c50e77c6d94cc1e9",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 4
+  },
+  "lesson:little-egret": {
+    "hash": "2c1eaa9468aff9c37e3f1d4c79349109e7ceda0b481245fe2c265bfde99a006a",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 4
+  },
+  "lesson:long-tailed-macaque": {
+    "hash": "2f3b15210b56a187a793f799b3a6d24c48e78e6230dad6042e1bc3f1d25091a8",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 4
+  },
+  "lesson:mainland-leopard-cat": {
+    "hash": "5cb0423385077793d80c62b839880d349b72fc89c21b44c28a9be909e1c800b2",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 3
+  },
+  "lesson:malayan-horned-frog": {
+    "hash": "0182f8f076475594cfd7840d0c2e37ab9291e9dffc412ddbe7bf7afdb8f68c5a",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 4
+  },
+  "lesson:malayan-porcupine": {
+    "hash": "14c61638011fd4a330dd595be44bd8d9c6125c34bbf0e70f4ac7de19b8641fbd",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 5
+  },
+  "lesson:malayan-water-monitor": {
+    "hash": "17b86daaaab00ebe4203887c7cb85e31a0d23d1bac2bd595542da4b81e558798",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 4
+  },
+  "lesson:oriental-pied-hornbill": {
+    "hash": "778511050dadd34109dcff1a10d3b38735876b2c12c6d8d1ac0462c15d8041d8",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 4
+  },
+  "lesson:plantain-squirrel": {
+    "hash": "a75f341bd12cb22b8c5fe2a2187800499f2a0a4ca2faebc10f52941f4ac49f52",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 4
+  },
+  "lesson:purple-heron": {
+    "hash": "5b1f554d0f9ef14ebe1152072fcd0e2793a06eba588bd98042d11d11dbce1952",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 3
+  },
+  "lesson:raffles-banded-langur": {
+    "hash": "8b2b43ef9c1976a7a6f8d24de49b2988ec3da03ecabd25152a220f9b390b5972",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 3
+  },
+  "lesson:red-cheeked-flying-squirrel": {
+    "hash": "eb1bf9030e094454ec13fba2e58753ee73c7e77f9ac30260791f0baa32dd57e3",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 5
+  },
+  "lesson:red-junglefowl": {
+    "hash": "231b20f75258495006b349cc3015b9a54fa3cc8f86c06b7b8b584966faf6415c",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 4
+  },
+  "lesson:reticulated-python": {
+    "hash": "201b72216613680882bb1f951e6b04f828f1112327fed09945276cbab0ed0f4a",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 4
+  },
+  "lesson:small-toothed-palm-civet": {
+    "hash": "167df2ae05f836394b9ead4dcd3127ebdd47f6e3b18536a93f5cc88bc4a25484",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 5
+  },
+  "lesson:spiny-hill-turtle": {
+    "hash": "9c38c197ae3a6819bfdb9b0c593e2dc284da22814340a83edee12f92986f4b5a",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 4
+  },
+  "lesson:straw-headed-bulbul": {
+    "hash": "bbbc991dafde883acfdae1ddd37e25646da5bd7087e17a0476a51c52466d7632",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 4
+  },
+  "lesson:sumatran-palm-civet": {
+    "hash": "deddb0a7e842be05eaa69af7c81415c35c3e92d92d1ee6fff758a37e99de04f8",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 4
+  },
+  "lesson:sunda-colugo": {
+    "hash": "4f06ad84880356fe111f32c61323e7ec1420753578f0ac402a4120010413b31c",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 3
+  },
+  "lesson:sunda-pangolin": {
+    "hash": "e0c5d8b10121c121318e2df80703463b9851adf3f039a3b949ebba96c39aacf4",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 3
+  },
+  "lesson:sunda-slow-loris": {
+    "hash": "25e392d0e3eb13ae823237e26e5b27c66ddc45e47dcbfde59449c5f070be98a8",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 3
+  },
+  "lesson:white-bellied-sea-eagle": {
+    "hash": "cbcadfb43e8b64afae8cdddbc56330d997ec27c03efac2d761bc7ddfa340da73",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 4
+  },
+  "lesson:wild-boar": {
+    "hash": "eb3025596ea60117dfd31f4090fb910ae636c0469c180e9ed5d62e978cc8b5a7",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 4
+  },
+  "quiz:asian-koel-post-1": {
+    "hash": "b80ae3b0848a84d5378c0f84c070cd01a36ad1918d2aa4fe8798cfa2e66a61d9",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:asian-koel-post-2": {
+    "hash": "e850bccdbd8355d2cca3d7e780df66535e0e17825336ac20fa8ed30d46b1f9ad",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:asian-koel-post-3": {
+    "hash": "66c6369e56bf19bf886aec296af64b7142508477ae90e90b0b780deaf62a1b93",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:asian-koel-pre-1": {
+    "hash": "07a81a2f8559920497304e1594813b2d21ed329e37da76ce688144cc1332870d",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:asian-koel-pre-2": {
+    "hash": "a9aae8b8ea434db295ed69c01d285bb01832c6c20c3307fe86e6565c1d5a0bdc",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:asian-koel-pre-3": {
+    "hash": "01a77ac4a378858df8cfb5529b1773f9ec83f04add12b19537cee784a7e8565c",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:asian-leaf-turtle-post-1": {
+    "hash": "26a6da77dffe0ef47b227e0176cb52ad17ce65d9652288f63ec3945a1fbbfe3c",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:asian-leaf-turtle-post-2": {
+    "hash": "b283555cf8d7871fc0a888d15b0e7cac2fa94e10b66d3acdafd88a3f862dccf2",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:asian-leaf-turtle-post-3": {
+    "hash": "99716e7deae50d169f185f7236a70e71d1e50911124e2000c499628734667edc",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:asian-leaf-turtle-pre-1": {
+    "hash": "df7066f77305bed6deac6a609be99337bbbe75940aba5e319c13f60275133d7a",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:asian-leaf-turtle-pre-2": {
+    "hash": "c69cd4de6ba0f1475b2f1768e44d981497359c80115d31efd0b20c9b401692a0",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:asian-leaf-turtle-pre-3": {
+    "hash": "a21329e4cc79d75162e0150dec83c3ba7846493e503f4322ca259f3d5d718d91",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:banded-bullfrog-post-1": {
+    "hash": "1bc6eab219db7adaf3ce658fcac385bba68ba9364f67b1b2d2533f56da57f029",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:banded-bullfrog-post-2": {
+    "hash": "7fafa5bb10dac25328ab02b6e69f0293b8db92d0110c0c944f08a821a5bf5263",
+    "recordedAt": "2026-09-07T08:11:24.916Z",
+    "revision": 3
+  },
+  "quiz:banded-bullfrog-post-3": {
+    "hash": "0ced1e78ce7bac290a7e30369abfa57dbdc772600c8a0aebe0c4d28a4fb0cfbb",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:banded-bullfrog-pre-1": {
+    "hash": "2d4cb8490439c848ff066b92f78e593192a4dd26ec202f2775eeafc4da5d16d3",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:banded-bullfrog-pre-2": {
+    "hash": "6e0419f821f863c88cd7c9c673f29c8fb09a30ff1756f324e7c3c53d471f70a6",
+    "recordedAt": "2026-09-07T08:11:24.916Z",
+    "revision": 3
+  },
+  "quiz:banded-bullfrog-pre-3": {
+    "hash": "ce17a75b87dce703f69d3c6fecc3826375623e1efd5aa3379923b24d74dc7860",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:black-eyed-litter-frog-post-1": {
+    "hash": "eee2f4e0454feb71c15f2e2d4b84131394ce8b16adff6d6e3cba67b647faea01",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:black-eyed-litter-frog-post-2": {
+    "hash": "00ea736754f0f8133345e5f2e24ef0d086e1a00ac72a36094960887a12b508d5",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:black-eyed-litter-frog-post-3": {
+    "hash": "40d3b75c6ef3a205cb870128e609835d695777a3fdee890b3ed09dfae2db4174",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:black-eyed-litter-frog-pre-1": {
+    "hash": "506c2727952673e4f65fca8295420654e9b239686a0bab882cdd6944706ba72c",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:black-eyed-litter-frog-pre-2": {
+    "hash": "9bbe647ae4274509452bdcef81df05b76c4759d9587a7c27aabdba82ac146a3e",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:black-eyed-litter-frog-pre-3": {
+    "hash": "8286b25c20fed814d4917ecc7097baf5491267248ae38cb6de46ac5c12ff75ee",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:black-naped-oriole-post-1": {
+    "hash": "70389c8b4f30c2b300ab65f6ec723baeb09c937755bd68515213d9ffae3f16bc",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:black-naped-oriole-post-2": {
+    "hash": "5dfd7a3982ea7b3299a6f6e6ad83a6e06d98f47d58687ce79c63e9138dbfb203",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:black-naped-oriole-post-3": {
+    "hash": "8b77e7d8a32e8f4c298a15d83b05809e5e700866845f90f1c21157ba7a922c17",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:black-naped-oriole-pre-1": {
+    "hash": "870240e5306cac1a7815599fdc2b7805a994f7c0d912f51bd9c56abbda5ed960",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:black-naped-oriole-pre-2": {
+    "hash": "57ddac7712f0b6bacd03f6f04fd62163b341af21eed7ca7a4d49553f9401418f",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:black-naped-oriole-pre-3": {
+    "hash": "5c9e2342d79b9a9c492fd9d695efada82d695f7d04194469472d2c2d439ecb18",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:blue-eared-kingfisher-post-1": {
+    "hash": "3606aec10d385c3f0443e2995b053cfd7ffe7d521079b9103282ccc8f9dbb1a0",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:blue-eared-kingfisher-post-2": {
+    "hash": "8cdc512f77b6bd81d89d35ffe3ed6f289132df05149b22bebba8066c7d7773ce",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:blue-eared-kingfisher-post-3": {
+    "hash": "ed501f85bb9c642ee116eaab132cf1762c392f59dd3226f93af0da19a0f9a92b",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:blue-eared-kingfisher-pre-1": {
+    "hash": "1f32d2d92e49e6b5688b7c621dec83a27e69d555be2ab64a522fa74e41d95849",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:blue-eared-kingfisher-pre-2": {
+    "hash": "09d1d39837b2256c1d8b1d0c97c9115277e811ea81dda6d14e60c02729263602",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:blue-eared-kingfisher-pre-3": {
+    "hash": "8c040a27b0dc637300969d4dd6c3fd2a05877480d5c7a98781c8e4d68101057e",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:buffy-fish-owl-post-1": {
+    "hash": "c96cbcfb1aea5cfb0b4bf9ac4414711b337756b8cf794e5cbd33e5757216d1d0",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:buffy-fish-owl-post-2": {
+    "hash": "aa3a524e38bfb53fa5e7c439a17087631b5de2fb3b3f7018205ef4e508716b66",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:buffy-fish-owl-post-3": {
+    "hash": "2c37e8c13b0dc401fe65fbf87c6f01eafcdc99b622cd3b235d2a5ff49aa875db",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:buffy-fish-owl-pre-1": {
+    "hash": "01565ec80a29e41899133e3b72622308a9c44fde44c97443f8be0c9cc7cbf4e2",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:buffy-fish-owl-pre-2": {
+    "hash": "5897198773302b21e7f7f5aec21cfda23222a7d1914b9caa58ed176d852492b7",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:buffy-fish-owl-pre-3": {
+    "hash": "78cbac25b20c6983fd70a342725106730d815e4ca59f66072d94e7e564b92852",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:changeable-hawk-eagle-post-1": {
+    "hash": "51159f09ce645bd7b888b365964d20c913fec052a5348e1088129a3d70268a4b",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:changeable-hawk-eagle-post-2": {
+    "hash": "30fff19d656788e69767c46957731940792b08156b5c25b3daeb295622c415b4",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:changeable-hawk-eagle-post-3": {
+    "hash": "3efe828ebe967261f944edda6aaf4ac36be207f5074dfe31c71fbbf9cf51ad0e",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:changeable-hawk-eagle-pre-1": {
+    "hash": "2b96cbf805034508208a1fd468ce7bdbd3da489aa981a024aa15731a1dd4cfa1",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:changeable-hawk-eagle-pre-2": {
+    "hash": "37aaec40a9a78ceb1d2c54c38297129bcecf31b4db249ab59d5da975f8dc70ba",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:changeable-hawk-eagle-pre-3": {
+    "hash": "d655c5b47c873977df71d26673e56d1894cb9e71572e42247cb8f0d4ca49ae86",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:clouded-monitor-post-1": {
+    "hash": "a23480fa7c25dfee8fdfb56cc18809bb566cd31993cb029708a3206b6d30a7d9",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:clouded-monitor-post-2": {
+    "hash": "1c11eb5df1e43238f1e08fe129948b7da9aec2a8fa6195bd9dbf9d621eff2574",
+    "recordedAt": "2026-09-07T08:14:41.045Z",
+    "revision": 3
+  },
+  "quiz:clouded-monitor-post-3": {
+    "hash": "6548b186aaa742c6b2bc7abe7e0823a7e8bf5c7989f3d8c0afcefd7e86ba2857",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:clouded-monitor-pre-1": {
+    "hash": "e15b901d4cca959e496b6451dbce4456d30709c75bf125b83e8bf0c48c096fc1",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:clouded-monitor-pre-2": {
+    "hash": "d046eaad0bb8a03e6a12116ea85fb1a49c98aa36c35d6f672528ad5080648de0",
+    "recordedAt": "2026-09-07T08:14:41.045Z",
+    "revision": 3
+  },
+  "quiz:clouded-monitor-pre-3": {
+    "hash": "0d1a2eccc61ab45dbc5861f86b5b4af87893a40bd56cd40b43d16788bb5481fd",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:collared-kingfisher-post-1": {
+    "hash": "9d216f320194bf055728e7840c9ea61b233331456bb6f43edf1bae02fb56fb8e",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:collared-kingfisher-post-2": {
+    "hash": "0a21a91bc5e1ba49aec0e38180c854f379991052ff7b457ae526cab3f53d3bc1",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:collared-kingfisher-post-3": {
+    "hash": "107d6030d01cf3f4db9f67bd8a0b77c30c67df0bdfecde33919b4fceb99a1a3b",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:collared-kingfisher-pre-1": {
+    "hash": "d4a7564e185d4ea6746aa7b9b34d94e2fe96c8d2ad18f5915735aa83d220d1be",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:collared-kingfisher-pre-2": {
+    "hash": "07e4591661102279d017533b2cf29447a4974ce3bee6ab85d7fc9c7e69fabc0f",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:collared-kingfisher-pre-3": {
+    "hash": "0d3f22b29c23305f772fcaae60f03856691ae7f01d3888b4e458528a93f7876f",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:common-house-gecko-post-1": {
+    "hash": "d261bfd303038709f7c1235f0f85399be94bbdf5545b8500ee83c9c549da3c41",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:common-house-gecko-post-2": {
+    "hash": "26ad0aedd00bc40673e3e25b3cf343354d3c49d79b4b7f63b2574ab6d6309826",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:common-house-gecko-post-3": {
+    "hash": "c7a1f9425060ae28e34f138352b06402e6826b8f1f19f04c88a95fcdbd03d2ab",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:common-house-gecko-pre-1": {
+    "hash": "5429c7b95a1de24b7ae48f5b419dcb1a63a6f282ef6b1665e44f362d93068145",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:common-house-gecko-pre-2": {
+    "hash": "a43b5f47bb1ab1c7bfbe3b4cb299b39e156df3c2ba44be87a5e584f246c1d837",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:common-house-gecko-pre-3": {
+    "hash": "02a41f289f75002230646fd82234508075422eb1ea64c5ec5f510de0b7415596",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:dugong-post-1": {
+    "hash": "3880b9e7a1ba557a858684d55d29ffd4a83be38217b876b4c4315fb9da17d547",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:dugong-post-2": {
+    "hash": "a04c1824c6f24cf71242135410b232e6a4c748dfcf8b6c8223fc61b30d899e7a",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:dugong-post-3": {
+    "hash": "52756b1f017d589eb9fd3c85d8011dae9e059d4110df016d07b2254c79f436ba",
+    "recordedAt": "2026-09-07T08:11:24.916Z",
+    "revision": 3
+  },
+  "quiz:dugong-pre-1": {
+    "hash": "cac7692d57011c4c77f14ea156470a3984bdaf8dcb6c7d0dc55e3e119785b2c4",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:dugong-pre-2": {
+    "hash": "313af0d059ab4ec6d9e01834344c31d4141207f8ddb249bedcc848c8c0a4c49a",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:dugong-pre-3": {
+    "hash": "5dd9441c41bc2303bd229a5d3c29e331b528e091b3a77da8834ef2f455541f87",
+    "recordedAt": "2026-09-07T08:11:24.916Z",
+    "revision": 3
+  },
+  "quiz:equatorial-spitting-cobra-post-1": {
+    "hash": "789d279bb1d2f96be22d58f52c207b30d356af53da5b86920f53a99eadd4128c",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:equatorial-spitting-cobra-post-2": {
+    "hash": "0973b7742b220094991810a978be3cbd20cf8a22fe2f453b32cd26765a74e084",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:equatorial-spitting-cobra-post-3": {
+    "hash": "52a392099c0b926ed084d91f036684e1ab853309d0202c1f8b10b5dc939b8e50",
+    "recordedAt": "2026-09-07T08:11:24.916Z",
+    "revision": 3
+  },
+  "quiz:equatorial-spitting-cobra-pre-1": {
+    "hash": "1e17c159dc321c00897d8dca2cc6e5b47fadac6470d4e67e418597940bf7d27f",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:equatorial-spitting-cobra-pre-2": {
+    "hash": "b0e64426cc7ea799f3cdeada3e250936db24e55e265637dce0b1b3180731591a",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:equatorial-spitting-cobra-pre-3": {
+    "hash": "78e65ab27147c1d6cb9eeb7d2132c588ab52f4ce68c16bb373ff3df3df088504",
+    "recordedAt": "2026-09-07T08:11:24.916Z",
+    "revision": 3
+  },
+  "quiz:estuarine-crocodile-post-1": {
+    "hash": "8e3d6afb753a41042b21da794e404b11ca1d8fd11171b668c1c865d637993b79",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:estuarine-crocodile-post-2": {
+    "hash": "0a0106a3a4675fe7c73080bd13aee3dabda222616ecf035fba29e123cc547024",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:estuarine-crocodile-post-3": {
+    "hash": "dc07f149d268551adcc45eb0f465377f4a363ef8d8c3921e2396d03a1cafe057",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:estuarine-crocodile-pre-1": {
+    "hash": "d110c9d6538a00c2a32f8e0717a4091dbe0a35f388ec11d3cc6974adda3041b4",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:estuarine-crocodile-pre-2": {
+    "hash": "b2678f53cfe6a4891a37ee86a324bf64b80f268478dad1564d2585ad5431c2e4",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:estuarine-crocodile-pre-3": {
+    "hash": "2f37e4e1bf0f56c228d3626baea0af28fc4f79a49b00cb1b704410cb6f3f1c21",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:four-lined-tree-frog-post-1": {
+    "hash": "f800a53ca59980200012179912a6613716280a6dba42acbf2bb2c905930befcc",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:four-lined-tree-frog-post-2": {
+    "hash": "7d98f922f9bd8c9545924e3f76fc115f8d6d0ecef9c8861d6030fe1b69c18282",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:four-lined-tree-frog-post-3": {
+    "hash": "5361ab406d8cc1c07a1547d0f3cd8cc37547cbffde693f44938f13ac736ba479",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:four-lined-tree-frog-pre-1": {
+    "hash": "2adea212dc1d32914f5bae9957803723a10a000e38556f92ffabd02635d2797d",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:four-lined-tree-frog-pre-2": {
+    "hash": "85c3497143ab29a9d0fee6da490fdc94b44c74569403af4f5a83211f89d1cc42",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:four-lined-tree-frog-pre-3": {
+    "hash": "0236803f415580daf663a334d88675d7f0bfc475383d63e78810ab9aba1be936",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:great-billed-heron-post-1": {
+    "hash": "b4fb8e207771fc6b99c05d15eda4cafc2c840781757d6de9df7d6e3f3a58d2c0",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:great-billed-heron-post-2": {
+    "hash": "373a23739a8ab8bbbb71eba449815acb7b74c8a4837b434272eb1e4f34468b75",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:great-billed-heron-post-3": {
+    "hash": "ed3fa76eef4f129c41ecc8e314bc8a5ff3efcc83625643dad0baf8191208a186",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:great-billed-heron-pre-1": {
+    "hash": "d4c1e3229fa5cf7bec36df896f7476d023619c4e78ab059a882402ff6cf120a9",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:great-billed-heron-pre-2": {
+    "hash": "62f3ea55f6a48f2b4c7946e8a4fe708fe22c2ba27fffa412c2e266160dc6a35e",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:great-billed-heron-pre-3": {
+    "hash": "b3988271378e9cf4ddee52ac55908756df9035b9cd03f8f1488ae97c92363248",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:greater-mousedeer-post-1": {
+    "hash": "0de2f010b597bd8defcbfa4eab91732f46f8a0c1a74649b1c8df1a584e281b6f",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:greater-mousedeer-post-2": {
+    "hash": "d6f6739bbb9a0285729cf952abd6229796b26327a1d434698cfc2311757d7f30",
+    "recordedAt": "2026-09-07T08:14:41.045Z",
+    "revision": 3
+  },
+  "quiz:greater-mousedeer-post-3": {
+    "hash": "8fab9cd29ca6f777368137a4f97ad1e5a779a433ddc33d8fd8ddaabd2ba94a01",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:greater-mousedeer-pre-1": {
+    "hash": "fcec054e95f00abb66f55e5b42631de6fc250029dc566970dfd254fd1ecee832",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:greater-mousedeer-pre-2": {
+    "hash": "2a83be4e164b9a6d9ae3fcde06587640810eb96b28653e9b59b0211a3d953378",
+    "recordedAt": "2026-09-07T08:14:41.045Z",
+    "revision": 3
+  },
+  "quiz:greater-mousedeer-pre-3": {
+    "hash": "8e8949215c80ba55c97f405711ab5f1cfbcdb74c91f26dff8a880e5897416f28",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:green-turtle-post-1": {
+    "hash": "890244cf9fcf038b8623e9d24f1e959906a59422a0338c5d15ee0c91155b8e72",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:green-turtle-post-2": {
+    "hash": "c3ca5a6ecdf080b710879719ce7c25bfd964ea9a6126128160a9d97f94b3b37a",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:green-turtle-post-3": {
+    "hash": "d75206b05a397317ffbeefa82c8270b6bd4becb7aebf50b1fe1a87dc453f471e",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:green-turtle-pre-1": {
+    "hash": "6c619de8b7815dc589736e43588b12e7324d6635bb38e7eaca74d7d26f162cc9",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:green-turtle-pre-2": {
+    "hash": "27e55bd769b5d599011530202c3709297aa62b77d2cbde08355e70327f9ad658",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:green-turtle-pre-3": {
+    "hash": "31a3dd369620e6f8f25fcd743e1e3e933d01fd7036a4ea7d84dc7f82c23e84c6",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:grey-heron-post-1": {
+    "hash": "6fb3d7e588fc3acff78b240e8f3f1dc1000810107e8eda50595f28e79265b5eb",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:grey-heron-post-2": {
+    "hash": "d957a1bc506499690841bd699a8f5911b438364268e549b7dd50f65f37bdee8f",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:grey-heron-post-3": {
+    "hash": "1ee7739e6a98ee1754b163d65fe6ec9f5aaf3ae3b69e7231ee0a8602d5043567",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:grey-heron-pre-1": {
+    "hash": "538a7e77f5e438eefbe5b40beca8a0a91e5aa48d9abf801bd1769e95ec145f06",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:grey-heron-pre-2": {
+    "hash": "78eda9e01adf72301adbe9af60b74e580480bdbe431a924b0271a1be6a9cdbb5",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:grey-heron-pre-3": {
+    "hash": "2a7f66b77a354ee495d20f58f0ba238c94a1211e4a15c0601980fa13f6ba64dd",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:hawksbill-turtle-post-1": {
+    "hash": "ba17c778caf64d7ee39c51323e12ace832ea6e2a44a876a22faf87478bc7f917",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:hawksbill-turtle-post-2": {
+    "hash": "4e281155c0f587bac25ac7ed3489d46b9b0672bd0169f3534d8c1dd626abc337",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:hawksbill-turtle-post-3": {
+    "hash": "fef11d90444f739cfba3a5092ce4e9944c271d5b87df5676f3798948aa7f5571",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:hawksbill-turtle-pre-1": {
+    "hash": "19319a6432c34c7663cd341a8bd2d6909fc8b9ec9131768f7887b754949af370",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:hawksbill-turtle-pre-2": {
+    "hash": "98ed15ea6ed92ce3b1dece541758365c3c3f06d4d5fd7f305aeb5d93e12038b5",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:hawksbill-turtle-pre-3": {
+    "hash": "a782d570d8279f31bca80473bc685c97332c5c13387234d15b46d231acc00c16",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:horsfields-flying-squirrel-post-1": {
+    "hash": "af28b30c9a97c436c4048b97cfe169e25068af6310825acfe703b35d716196ba",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:horsfields-flying-squirrel-post-2": {
+    "hash": "d4cd7f48ca89d103dfdb5773d6d75960a2114dd65e1af89512e454f414a282ac",
+    "recordedAt": "2026-09-07T08:14:41.045Z",
+    "revision": 3
+  },
+  "quiz:horsfields-flying-squirrel-post-3": {
+    "hash": "20c46bee1ac3ec46ad0de50bd59497e1c8f183af502a9c4612785c49625fad7c",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:horsfields-flying-squirrel-pre-1": {
+    "hash": "72147c62e7501398eb0e6f0f0dc1326e5eaaaa2c96ce0d6fe035324bc2819365",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:horsfields-flying-squirrel-pre-2": {
+    "hash": "c74e0c801a9a045e1942f2a7bb9cbab6fc44687e94c552368ad8653568c7257e",
+    "recordedAt": "2026-09-07T08:14:41.045Z",
+    "revision": 3
+  },
+  "quiz:horsfields-flying-squirrel-pre-3": {
+    "hash": "6089a288ba3b1a9429490a0900b2c5ab0eba009ff960919aaab095e58c83f588",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:house-crow-post-1": {
+    "hash": "724313d7fb225e3d71afeece0d7fe3f3af88491ffce29d8d6e11d7b12fd64a08",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:house-crow-post-2": {
+    "hash": "01b3905df66e2a0d3d7410b00bffb4deda5f26a6de7b439ba068e0790c0e5065",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:house-crow-post-3": {
+    "hash": "b6dd4bbb58251bd54e2779440984a3fbdd5c603a001e210ae7a596da0a92349b",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:house-crow-pre-1": {
+    "hash": "aa99e783331abbd76cc6048a8f9256ef8206e9d8bfdf91e0100ee5f6ec58dc52",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:house-crow-pre-2": {
+    "hash": "6d8a3ad9d3abb974879623a967ed9182dc9d3de14ffc9fad0753b877b633a2df",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:house-crow-pre-3": {
+    "hash": "186d67d0d7274d65f0f81149750bf01f2bda9849d82d283a4f56ea88b5fd4c5e",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:indo-pacific-humpback-dolphin-post-1": {
+    "hash": "5bd88f1dc3d292659b3d2bf2b135e89f0138cfd5f62ae86019bd97fd843e09fb",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:indo-pacific-humpback-dolphin-post-2": {
+    "hash": "176a9cb219a70742664ef1f47e998ec3c91f55fa7e44a1df6b6135208fc65d4e",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:indo-pacific-humpback-dolphin-post-3": {
+    "hash": "15828bafd1c3380a94d4b939e9a701fbe27d62f2ca7797bffe86587813b81cbd",
+    "recordedAt": "2026-09-07T08:11:24.916Z",
+    "revision": 3
+  },
+  "quiz:indo-pacific-humpback-dolphin-pre-1": {
+    "hash": "3179f23ccd75edecf4f5c30784bcc435a83ce7cb288125f395eb6f3a61cb28d2",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:indo-pacific-humpback-dolphin-pre-2": {
+    "hash": "1565ad41da14d2468e25a1bc961dcaefca7688e000d5f092136f5ae0439065b6",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:indo-pacific-humpback-dolphin-pre-3": {
+    "hash": "d6d0dff440a23cabd2f6c27154bee187623c4ebe5323080aa1f5f389ee212123",
+    "recordedAt": "2026-09-07T08:11:24.916Z",
+    "revision": 3
+  },
+  "quiz:javan-myna-post-1": {
+    "hash": "c1b33833264f9d81c0dd58402ac0caa0ec41427d8d86d99fc91778104644d4f4",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:javan-myna-post-2": {
+    "hash": "4a0a9881c443cdc75a0acea7de8c877b8d8e22d10a8a1691e6d11f31f9e75997",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:javan-myna-post-3": {
+    "hash": "f0438aa3cc0c6b758aa20009e39df5d16a35dfa5cf7ebc243e644a9b17c3a6df",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:javan-myna-pre-1": {
+    "hash": "15b0a019238fd2ee38d8e97b48730d2fb00c18bd73cd0abecda751e947b7b653",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:javan-myna-pre-2": {
+    "hash": "2a3faf262226803756cfe1c4100289762e8aa89e617c382b733c6b74dacd6bc0",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:javan-myna-pre-3": {
+    "hash": "310fb616cf21ecb144fee0d9769901e4b2280b0c749ff048b3690e2c5fe2d078",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:lesser-dog-faced-fruit-bat-post-1": {
+    "hash": "dfac82e8b25c95af8913d5a29bba88dc2e41bb9989529753875ab23c0bd72264",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:lesser-dog-faced-fruit-bat-post-2": {
+    "hash": "57fd2ee51ba450ab85e49234b5bf94c4b12ffe86c3b568f0301a2601c95b1730",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:lesser-dog-faced-fruit-bat-post-3": {
+    "hash": "76d4a065e81b90e3520a58124ea994a84f8b7471d05c00722063cb4fa8c95bb3",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:lesser-dog-faced-fruit-bat-pre-1": {
+    "hash": "414c4b420f140a3abad81aae65351d5f4d2b72159809bec0f75016a3f0710190",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:lesser-dog-faced-fruit-bat-pre-2": {
+    "hash": "36a9c3b2c3dbd6c3f88681a82ff57f19043e6b072dfd274ce2fee18c7a629777",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:lesser-dog-faced-fruit-bat-pre-3": {
+    "hash": "04479ae6c476a0162ffc532969ba21d88bc51821c8c267c6ca67979e1842d30d",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:lesser-mousedeer-post-1": {
+    "hash": "8177a4d5fbc82679016a12660b7571b20dc72b0f32314f29a2562261a978989a",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:lesser-mousedeer-post-2": {
+    "hash": "c74dcf1ff333ec369d629b4f5cc2786e4fa527e19626db0396212c6edfa569a9",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:lesser-mousedeer-post-3": {
+    "hash": "62e794c15aed1fc9e7ef2f02f2aa18566d7c8d84784a7fcfe9d972709f1efdf2",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:lesser-mousedeer-pre-1": {
+    "hash": "ac4d5fd14e9399de1bc4890b15e5efb05881a74c791fad380fa2e97db8b445b1",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:lesser-mousedeer-pre-2": {
+    "hash": "4137c77334eefc0c07e7ccfed1baaa89e4b83ad341e9fa536f971dc04b956857",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:lesser-mousedeer-pre-3": {
+    "hash": "f589b51958c9bd1879e9a85ff9b0fee3c5ea428c5df3d69d3af11797af97fa43",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:little-egret-post-1": {
+    "hash": "938836f25fd57704645147e6a206fbdd36dd5dc6bff5cdf632080a54559be8cc",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:little-egret-post-2": {
+    "hash": "1ff1a6300ab0eda5cbca89ecbe6536a9d735d0ae84851dda48b24aca6f9bcf2d",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:little-egret-post-3": {
+    "hash": "58c12ff39a3296ceb30589ae4998bef14466bac06544f81c09226444e8bf876d",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:little-egret-pre-1": {
+    "hash": "4360f6c2ba63bf3e6583328d2012d810d11ec5a81442bf9a7ae9ed2eca746feb",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:little-egret-pre-2": {
+    "hash": "f648794e0526be4a316a1b13ab17323d1405d5ecb1d650171f40d04bb7a64df7",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:little-egret-pre-3": {
+    "hash": "73da4ab36910ae9d4525423dddbb9820d73c0b0b4329a9a3d46243421af8c618",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:long-tailed-macaque-post-1": {
+    "hash": "0ec8fcd304db3f0b1b9806b0e8c00fa4bdac83b9d051a372b3f2b60cb47703aa",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:long-tailed-macaque-post-2": {
+    "hash": "8a242962cea97616631129ad019789665f02a4e76e886e0ace8e17986d9eb688",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:long-tailed-macaque-post-3": {
+    "hash": "ccabc815ba12631a6720c0bbc2a3fa46cb8950d936ade746b6ebdd3f7e9c361e",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:long-tailed-macaque-pre-1": {
+    "hash": "5d733255118fef9012158b9a9aeb034c662c76033bf5b2af8d081fae01cce887",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:long-tailed-macaque-pre-2": {
+    "hash": "7cb9d41ce6ec02a5f747d1fe4e2fc957abf4e7051c6f8441ef8f69b3916656cb",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:long-tailed-macaque-pre-3": {
+    "hash": "63233352c5ccbcec6093b83deb7b052a457bfcf2ee4e7c74952e5763938edabc",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:mainland-leopard-cat-post-1": {
+    "hash": "246e67b247d3c9a8dd00f0077420572dc75ebb7d17e3937d89bafccb39bf2d2c",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:mainland-leopard-cat-post-2": {
+    "hash": "46d517fff528f55b0ef3dd7d9668974624ac96c4ad2658c29d0c21bef46110c8",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:mainland-leopard-cat-post-3": {
+    "hash": "d0bec63a6d2e5e65cdd453438ab7e3c3680d298ffa322463c689781484f37117",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:mainland-leopard-cat-pre-1": {
+    "hash": "42e5ee34d3c45dbec65e5fa86d0a58c6d09f6f258f42ba93f6fe001e416b5c97",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:mainland-leopard-cat-pre-2": {
+    "hash": "110f9592daaf0c8b3ed82bf8dd8dc630d49c5f89614e4a3f2fcd2317900bf439",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:mainland-leopard-cat-pre-3": {
+    "hash": "5308c9e667fbfac5d874e056d9fba75c579cf53b60256bc546e5c6cf8baa3386",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:malayan-horned-frog-post-1": {
+    "hash": "d5ef08a8122a6f07feeed23e1b6125b6822f4cbbbecb151601257231a3fafb18",
+    "recordedAt": "2026-09-07T08:11:24.916Z",
+    "revision": 3
+  },
+  "quiz:malayan-horned-frog-post-2": {
+    "hash": "78b103d0c9c0b326c44fd8346ecd258d6cf65ca45fffee174bf7a7348dad2b09",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:malayan-horned-frog-post-3": {
+    "hash": "7b9e78ef414d847098edd3f663acdc152f6bee2debd63e9c45d060fae5e91190",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:malayan-horned-frog-pre-1": {
+    "hash": "d38c2523fbb9e9fd444d5ed2704a45c274fbbfd6f16284e47a333546ee71d53d",
+    "recordedAt": "2026-09-07T08:11:24.916Z",
+    "revision": 3
+  },
+  "quiz:malayan-horned-frog-pre-2": {
+    "hash": "b2c5dc82664a07287316c4eb7b3360739c6858e8939bba763934089716a65912",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:malayan-horned-frog-pre-3": {
+    "hash": "e215a517331d386c8f38c7e5430fda0542bfc1f070e8b3b4179cde8c4caca636",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:malayan-porcupine-post-1": {
+    "hash": "4cb7e6f2c20da3c87b82a3b337b75fb76d6ae1a814afb1ca7f3b1a5481be0d6e",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:malayan-porcupine-post-2": {
+    "hash": "b892827a6fd50c3f434832d9e90f6f57049392061fb9a59549e2f0b271000f06",
+    "recordedAt": "2026-09-07T08:14:41.045Z",
+    "revision": 3
+  },
+  "quiz:malayan-porcupine-post-3": {
+    "hash": "e5269d8cb9bebaac2f6304645c86775c6b39fda6821605a1a2eefa09ae548a88",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:malayan-porcupine-pre-1": {
+    "hash": "a21056a20a66fd98e22b62a23ac0b5c0ffbf8b2b7cf48f1422c753953b682d79",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:malayan-porcupine-pre-2": {
+    "hash": "1d5fd77ffd33b72e972183d023cc80f81cc1dc1a1da5ebecaa7b93d728606ce6",
+    "recordedAt": "2026-09-07T08:14:41.045Z",
+    "revision": 3
+  },
+  "quiz:malayan-porcupine-pre-3": {
+    "hash": "16e2f1f67e688e270b8effb74f1b2d6f4a7658a4954c41e295e15864449031d5",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:malayan-water-monitor-post-1": {
+    "hash": "117e6e91e8ba82ac2babcd3fa843e5d3ff4d58092cbcd111118c29987b11f635",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:malayan-water-monitor-post-2": {
+    "hash": "8e8d8a2b99b718a56c82f81b45f67b2cd8ce6fc0d5722c63346dd6db7a09ddc2",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:malayan-water-monitor-post-3": {
+    "hash": "7bd3417098747a850286f74a1b8cb98db45cd3a3db952ffdc986a37bf2c78b4c",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:malayan-water-monitor-pre-1": {
+    "hash": "5ed817e9e8277782ff9a17ad63794ec7d1b507089f4818be69604ee41ce936c7",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:malayan-water-monitor-pre-2": {
+    "hash": "8366d4188834fb5af880695df7c0f0862d8c3941d01bd925f23417f72cf755f7",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:malayan-water-monitor-pre-3": {
+    "hash": "33d1e087ba01cca8bf1eb1dd3d36a116cee8e75b8c7cdb1397c7cffa0b1f9439",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:oriental-pied-hornbill-post-1": {
+    "hash": "2a538bcb0139dc0a4de7da6071727a285f33cb75dc2b87467d309d3460730ff6",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:oriental-pied-hornbill-post-2": {
+    "hash": "d3e0f2eb265ffd057b2ae4673eb197a7ea75e8afb88c01f0cbeae84b8333a380",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:oriental-pied-hornbill-post-3": {
+    "hash": "9827d5c53e7a255685561d88432c300ca6f6ae6583ba48eaf9f1cf16881ada7c",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:oriental-pied-hornbill-pre-1": {
+    "hash": "c5e44fa040e1fc1426f8ec495ce771927ea97cf47eaba07e20f149d1c9d78d11",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:oriental-pied-hornbill-pre-2": {
+    "hash": "856a88509955693dad2c03556fe551012094bf5a94c6d04defbcd722d732d2c6",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:oriental-pied-hornbill-pre-3": {
+    "hash": "927fd42bea8b0ce40d172552511cf9e9865495eaa908221d197b3e13ddeb817a",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:plantain-squirrel-post-1": {
+    "hash": "874cda60de8e32976012fa086ada797c52b860d2e470a40077a57778a15464c5",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:plantain-squirrel-post-2": {
+    "hash": "d9590ce7d74251abd003905d0037b8d89e03e132f1ce6f775fd73ecff5e589f7",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:plantain-squirrel-post-3": {
+    "hash": "17b35135b335960c9c69c3647ba6891c190e45e20e22ccac22700b81669958b4",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:plantain-squirrel-pre-1": {
+    "hash": "38360a3db0441f09bbf9361e0c2ac5bf77442148b33dbab7652cfb3e72415737",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:plantain-squirrel-pre-2": {
+    "hash": "a76d1368650a5e5908052a9520b0bf414aa33f02b8e77fd609f34b8844ee0185",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:plantain-squirrel-pre-3": {
+    "hash": "2dc0326fa57624be54eece5bcbc0fb8e4929bcd8672ebb60a8c2eec4f9cfc33b",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:purple-heron-post-1": {
+    "hash": "243e7723aa5430b135e8f00b74d921b6a4b7227a23db67bddb56092c94dfc48d",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:purple-heron-post-2": {
+    "hash": "8c0d38e71cf25c3d78891d680e608a330670096ef3721762083f6811c99338df",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:purple-heron-post-3": {
+    "hash": "771403e488663669c0198d7652f4b7651f7ed6bac42ffff7a443793270f9f859",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:purple-heron-pre-1": {
+    "hash": "3975487e1a02f7d802be486ffdb4b5b4cc4bf0202dee84be2f201453c86ee22c",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:purple-heron-pre-2": {
+    "hash": "c2f6cf5810fc5c694b1d7b75e7d12c04961d63e0a6cf7f1a6925aea573117fb3",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:purple-heron-pre-3": {
+    "hash": "1f3f11518cfb67b09a71165bae3de49c8eb2be95b652e2242fce8dffd63be7a5",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:raffles-banded-langur-post-1": {
+    "hash": "0d0d3ed1a9de4bc12952973d8bb3c56bc7b0081ee61aa30f41305302de2a9bd5",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:raffles-banded-langur-post-2": {
+    "hash": "08794fcbb6bae41e87a289505c41a877a596f5d3e59bb5820e73a65cafb8d3d4",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:raffles-banded-langur-post-3": {
+    "hash": "642af1af82f5f604eb6b28d2612ccd32ab38f2425ea6813a40c876dcfe10a522",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:raffles-banded-langur-pre-1": {
+    "hash": "7c53d28d41211ca6ea3ddc5aa02691081dcccf6f8bb3d25436726e5d6e117ebf",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:raffles-banded-langur-pre-2": {
+    "hash": "c9dbb7633c89ef17e181a24404c50531dfc75a1da5bab1ef27e8d509b5811439",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:raffles-banded-langur-pre-3": {
+    "hash": "6a50801f3fa57d87e637034069e1cd6da1be04297c5e8daf0bdc2e412e92c9ac",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:red-cheeked-flying-squirrel-post-1": {
+    "hash": "7af25aabee710c60710d9bec55c9e5b0f5be30756dcbf1271aba59d645bbbbbf",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:red-cheeked-flying-squirrel-post-2": {
+    "hash": "bdc8497619b553baa57f286fb2862df3e3cb30ab340b36e1da83b409d98bf7dc",
+    "recordedAt": "2026-09-07T08:14:41.045Z",
+    "revision": 3
+  },
+  "quiz:red-cheeked-flying-squirrel-post-3": {
+    "hash": "39ec5e70982ccd5a767103e6399e0cf0377b000469187edad58e97d413d76530",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:red-cheeked-flying-squirrel-pre-1": {
+    "hash": "77e8d30153d4e72693d9c628eae9f6bf116a267850e593c4802a2be85021bf9e",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:red-cheeked-flying-squirrel-pre-2": {
+    "hash": "d681da88ebdca7e9861a856ef2e11a63c4a2488eb807811e73192a0f8dafbf52",
+    "recordedAt": "2026-09-07T08:14:41.045Z",
+    "revision": 3
+  },
+  "quiz:red-cheeked-flying-squirrel-pre-3": {
+    "hash": "00982af1b9c8b5eb47aab1b4f4003b0933cfb4aa16c3a0183dfed9c88e94d3ba",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:red-junglefowl-post-1": {
+    "hash": "25caa28a3f61cb746451dacc90559d2d44d063ead3b35b375e1f6c32849f2bd8",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:red-junglefowl-post-2": {
+    "hash": "719e69f5ddb7e1165f75666af54b53ece68d57274a1390b83a10a190e5dc1b76",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:red-junglefowl-post-3": {
+    "hash": "c7b2b868c418f258e154d8f184113f64017d98a50bf3e640d96e505909d25d2e",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:red-junglefowl-pre-1": {
+    "hash": "7dc6bc0cc38ad2be98ead89411eb3f0579eb0bb1d904d8bacdb3e928c2ec1486",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:red-junglefowl-pre-2": {
+    "hash": "17da260ff58014bb1617fc47951d874115c503b98ad8cc5d7337b9fe37aea916",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:red-junglefowl-pre-3": {
+    "hash": "f997b42f6326467906c880ff75bea004170a36b4d1bb8eec6f4865d1c3a2e6c9",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:reticulated-python-post-1": {
+    "hash": "6f6c0df3a32a754c573c6da9845dda8ef85e1f4efa39ca07176140d32f6d9083",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:reticulated-python-post-2": {
+    "hash": "5fb7cd5415ba4e32b6116a907cd035464b5e852ecaf1c11e87a1f83dcdff90ce",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:reticulated-python-post-3": {
+    "hash": "402d0b27f0a9d02b726b8cc9784401240c80df6e998d2b324d29c31e4b28d5de",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:reticulated-python-pre-1": {
+    "hash": "264edb6e6f22ef1e988394aa7cdb6b1a6950b8731042af6c4fb47256e155f460",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:reticulated-python-pre-2": {
+    "hash": "7c339329b00f1b86bfdf50bce4801295ddcc66d5b2b5620d693add3e6c324869",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:reticulated-python-pre-3": {
+    "hash": "5433748d676201c049e0fe040b1bef7f3de9ccc3f33c199c26e2178a9a49538a",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:small-toothed-palm-civet-post-1": {
+    "hash": "df0378964cbd2bec50674e62e1ca48b8f7174f78e756bc3a9b725960c32782f0",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:small-toothed-palm-civet-post-2": {
+    "hash": "9a3ed5b4284cbcf3fe7fa94b4dd1c1241d70cf9f2fdcc6069005401ad71172c5",
+    "recordedAt": "2026-09-07T08:14:41.045Z",
+    "revision": 3
+  },
+  "quiz:small-toothed-palm-civet-post-3": {
+    "hash": "b8c499cba4aae2cbed239b60721d7585533c1e55785a4a5fb252433c602ab266",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:small-toothed-palm-civet-pre-1": {
+    "hash": "b2cf22425f20e6eca0eb6f12760a484ee7b51bf377c9e9c47c309cb73bf59e6d",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:small-toothed-palm-civet-pre-2": {
+    "hash": "d2ace31a6748c7097244437464ea9a1edbd9b0f61805aba7e6f701615ca34407",
+    "recordedAt": "2026-09-07T08:14:41.045Z",
+    "revision": 3
+  },
+  "quiz:small-toothed-palm-civet-pre-3": {
+    "hash": "6f51992df1d3816d868d3d66f6414eb53e69b7a4a0882012df5328a6938c5264",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:spiny-hill-turtle-post-1": {
+    "hash": "0651bf51a08a89b75a32cbada8416887de2160883754aa199ef205044c9658c6",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:spiny-hill-turtle-post-2": {
+    "hash": "02f5acf75dd8ed122923f47d07536f1e723944c055ff0ff3093aad12a62e77de",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:spiny-hill-turtle-post-3": {
+    "hash": "ac90c3a8998cc73018eda1efd4ffd456f62410eb04d6a238d92db68b1960acb2",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:spiny-hill-turtle-pre-1": {
+    "hash": "c59a80498729f172d203501a04129f1cf74b3c8f52a70372f2af0ef4a2d28570",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:spiny-hill-turtle-pre-2": {
+    "hash": "f6ff6ec45fa8e128468a9df4a19048d47f6f6bc7f84727fc433d27c2cd2f7f5c",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:spiny-hill-turtle-pre-3": {
+    "hash": "003bb7e1f08b98eb33fafb9d59d2770f0494dc8222d5519c2294aae86babee83",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:straw-headed-bulbul-post-1": {
+    "hash": "67baf327dee679467fbfa648d6f199c0cb57993ef3a154e72a97f862e6ef4b6b",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:straw-headed-bulbul-post-2": {
+    "hash": "ead100ba332aded81bffdc934477b16938dac47522a0f6a6f7e3d3addd42dd4b",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:straw-headed-bulbul-post-3": {
+    "hash": "517ce5241d7f1ea62ce3cfc76578598b861b53dbfc0106016637fc3a78f43f13",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:straw-headed-bulbul-pre-1": {
+    "hash": "475665329c89cc4421d3d12fe405a5cd12c8a816f76b621d619970af14bb8736",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:straw-headed-bulbul-pre-2": {
+    "hash": "ca76f45894f5b1f22b23d36f54beac1da7dc3bb3821e447b6519e744795aec75",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:straw-headed-bulbul-pre-3": {
+    "hash": "859b242cc9141b3e4a8bb20efb38fd6532279725ef9114dd9dcd0860301d397f",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:sumatran-palm-civet-post-1": {
+    "hash": "80e71300d081986ec291315e3ad85e526bf8bc324a2e9f483ca8a3589eacc5a8",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:sumatran-palm-civet-post-2": {
+    "hash": "551a7758f8036ed70a3d5272b7d01fbaaf9e865c970cdafc82b7facc6fefb336",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:sumatran-palm-civet-post-3": {
+    "hash": "a83c70df30a010d86d04c9d63541a7c4d0b37d5b0d2c782cfc80ed29d2e8c25d",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:sumatran-palm-civet-pre-1": {
+    "hash": "8fb563377e3ec5669500e9acc635627c02b58622c26245ad355f0a3ce0b0ce95",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:sumatran-palm-civet-pre-2": {
+    "hash": "2c7034793ab8b02f3d498640ef6df63b2c4642647eed2916169b6aa22ddeb3d3",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:sumatran-palm-civet-pre-3": {
+    "hash": "150df8e21b96e5d8bbcc436e494c779ec1e2b671a2ae6f00a7294399cc5355db",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:sunda-colugo-post-1": {
+    "hash": "9db57a17dd761bdac1e856be63ea22a6d10e9a43ffb14f605b3e6d93a8c5288e",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:sunda-colugo-post-2": {
+    "hash": "7cc20af9348185f6e5ecc641f59e730e6bb003b5c2e82c0eafb662585f16fc4e",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:sunda-colugo-post-3": {
+    "hash": "34d59a1618b19dbaf91f26497e3437bdc80ece8be5b59ad203c750a9169ee947",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:sunda-colugo-pre-1": {
+    "hash": "c47f51e2e4a5c3449363be613feeccc0c7f7b983f8a6d68405bbaa9ab771d73c",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:sunda-colugo-pre-2": {
+    "hash": "13f6310dd5e0b1047cfb2546b5c9a6542662f680daa3129e9052cb989caa48a0",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:sunda-colugo-pre-3": {
+    "hash": "14b206cee2344919e0aa6cc794dc014bcbcede6a403acdcccb02ea1248dbd529",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:sunda-pangolin-post-1": {
+    "hash": "b97b959f7d393db4e602a3378a52678ac7b0a2e94b71cf8f1d93e99fdc24aea3",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:sunda-pangolin-post-2": {
+    "hash": "5e90492a1eeab9964e302a6ed20ccf55634c86a03e8a35e9bbf15ec30204c7af",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:sunda-pangolin-post-3": {
+    "hash": "19c3bbf7d8b7ab0ea5c9005db150e22cae8ea4375ee476710140cb9cecc3fa8b",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:sunda-pangolin-pre-1": {
+    "hash": "7acc551c653730d526aa916945629aec4389534e0d6043af9a1f8519fca49cda",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:sunda-pangolin-pre-2": {
+    "hash": "d7652eda68f5348f9c8224b5924e9e868d607486fce2fe7c85b95497aa0073c6",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:sunda-pangolin-pre-3": {
+    "hash": "0f838b870aba2ece81c9f3d68f10242421d439828410be722ecc07b5ca8c68ca",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:sunda-slow-loris-post-1": {
+    "hash": "4f31aef84f03775ce1f2ddc5f1623d44fde171df8168f3ac547cb0de06b23120",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:sunda-slow-loris-post-2": {
+    "hash": "e76c3cd9b2474a75ee0a3f9dadfb79db84f3ae3779fa8fc9abeb6ba2fd34990e",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:sunda-slow-loris-post-3": {
+    "hash": "335a73e3e74f5f912297fad0064869006bd7d88fa38b6e599b4cdf23d4d680c6",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:sunda-slow-loris-pre-1": {
+    "hash": "b446856ed4df4f9ee344e882a8559db5b2b91a779cd2206a7fc3ee4c3970b9a0",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:sunda-slow-loris-pre-2": {
+    "hash": "abd8259f202db6d9072ed6faee2dcf0806cc84209485ecff3285581c1b952e1f",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:sunda-slow-loris-pre-3": {
+    "hash": "a40b0775522deffbffc1b7a6c130ca3e76a4861f0859f6d277ef1face86f6aba",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:white-bellied-sea-eagle-post-1": {
+    "hash": "457713aedb7f54a4ebf783a99ba84fccd48387c12c3e176855db2ea38f98918e",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:white-bellied-sea-eagle-post-2": {
+    "hash": "8ea572e78a424f40b04e06de666272ad7bca548349dfcea3d6274f8026171332",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:white-bellied-sea-eagle-post-3": {
+    "hash": "3485d81cb6d7b1cdb86e64bfd0e62318d7cd92936c502ad0001b0426e51b8e51",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:white-bellied-sea-eagle-pre-1": {
+    "hash": "7a611725bc87f7d7347955963af8f57ff0a1b1f01130ae313a307ce10017cdbd",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:white-bellied-sea-eagle-pre-2": {
+    "hash": "35490dd7039abfc822b73e2cc75d74cd5a87a2a78cbb56f2182cefdd55aa750e",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:white-bellied-sea-eagle-pre-3": {
+    "hash": "d74f1cefe19e7b77f050b89ac6f6c28401888c2b7c090c4f28f917e044bfd520",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:wild-boar-post-1": {
+    "hash": "d75f10c352aa009b280f7ead2d0415ee6d51a437c5e71b54be6c0787bb3c5921",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:wild-boar-post-2": {
+    "hash": "c030dcda393a1958ef951170d9659da0bd4ffbc06cab6257d6e9f7b005cc40d5",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:wild-boar-post-3": {
+    "hash": "0c104ff7896deeaced3f6dcd07dfade18a9092e9ae8a8822c532919d6c2cf677",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:wild-boar-pre-1": {
+    "hash": "5663a833ff56db25fd9d69ada278e17d1e5e2bba0905e5016b0b230351bf3130",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:wild-boar-pre-2": {
+    "hash": "c056b7d5fd27ab976b947f7a356821636717a87346c7bcced460a2d1e6679314",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "quiz:wild-boar-pre-3": {
+    "hash": "ed603ca38d9032340d6c2d0ca1f893556e57233e57d47ab4dd01aa887183f691",
+    "recordedAt": "2026-09-07T06:23:46.862Z",
+    "revision": 2
+  },
+  "guide:bird-directory-data": {
+    "hash": "f4e295e79104e67c3934ad2952cc8d2b204a5c17e2e1776b6fa6e56268289ef8",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 1
+  },
+  "guide:bird-directory.tsx": {
+    "hash": "35f88cbd5180a657477777c72a37bb208f7b27a7cfc1f33ee8cbd594c6fb1985",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 4
+  },
+  "guide:field-resources.tsx": {
+    "hash": "0751a0a91245c50b053f429c0adb4d5a256d891942d8fea5178e98888d74f587",
+    "recordedAt": "2026-09-07T08:36:55.832Z",
+    "revision": 1
+  },
+  "lesson:amur-falcon": {
+    "hash": "94c2344239161528a1d2c673685b9263bf192463647c8e5e1d815772a602a8d6",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:barred-eagle-owl": {
+    "hash": "528425c5b7681811c664a60d9b3a620a25234bed1783fab0edb7d71f0b6d9aa6",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:bat-hawk": {
+    "hash": "58515d529e66314c3671bff5b7704048a8c4091639b8722e8c3316a906546fe3",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:besra": {
+    "hash": "0f5ade3c106280873e0d2298e4ec7956db89356e9ec719b8cfe4762f134c4dcf",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:black-baza": {
+    "hash": "2caf5743a12140d23856dc05fcf73ccd51addc16bdbc7bcc5db987ac9c010f5b",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:black-kite": {
+    "hash": "35f6d17ed9b27316e7caa1d4e80f3932428d4a97a24ffb3b4ee129e544735b3b",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:black-thighed-falconet": {
+    "hash": "108cd565bff3f5d3202d52b8d3227db79598f2030b13914b55dde03f9202b265",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:black-winged-kite": {
+    "hash": "12d74f0559c8b94f1f6ceb19c67c3d9c99b2ed7dd73a833645bec5dd5ffcf3db",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:booted-eagle": {
+    "hash": "61a64280d257a44e87eaf00c7dcea039f39964b01e91032537043e90bc9b6667",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:brahminy-kite": {
+    "hash": "04fa29b2ea5172fe975f11e2ac216c262638f8912e1ecd781af3d0273f1817d9",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:brown-boobook": {
+    "hash": "8cff829be8731f5de44e9be814d0ba01eba4da0ea4f7e278a35ae41753b17cfb",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:brown-wood-owl": {
+    "hash": "86951b41b1074160ff41a08a101a10a74b1c6b9733561d3fc72c1e1ba5793fb9",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:chinese-sparrowhawk": {
+    "hash": "25c9734ea60d6bf50cde5408e3731ee3ffa7f28d2b60c4a3ed4ca8dc3b6ae238",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:cinereous-vulture": {
+    "hash": "b397ff8259c6f116b581036952dff4ae5bd13d563bfdccd92cb0667927a1d9ef",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:collared-scops-owl": {
+    "hash": "f1d4f055badd78df650ff4b40cc1df641861a440ca01f83a816b4edac5bfb17e",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:common-buzzard": {
+    "hash": "ee3cfb83e954a2595b7bb34a3018c512665484fc27fedab7a73950b00396c2a2",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:common-kestrel": {
+    "hash": "cc0d1094acf1ea41f53dc25d9b6225a05acbd0848edc8cc58d2266311db5d105",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:crested-goshawk": {
+    "hash": "1e57db0c9449052d8a6f07e7b00dd7189554e4c037c5cbdff98ff3c5461c7033",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:crested-honey-buzzard": {
+    "hash": "43e426f631e7c56c25ed5457a4b4a267dfb2836f929bc8dc9545afc6ebbaf2b9",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:crested-serpent-eagle": {
+    "hash": "617774f4a7341fd4c815308144f282820c85b9e0a05c4d30228985b69ee2cfd1",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:eastern-barn-owl": {
+    "hash": "f307ff952ad88b82c3e5cb8e10643cc509c30f451a062cfd487777a0fea37854",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:eastern-buzzard": {
+    "hash": "a7c9cb1279bb711ea0b89d6f5851a8af3b5f5a4f58646a7139e02d6b170f0cce",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:eastern-imperial-eagle": {
+    "hash": "ba72a20a2e524217332e7921b756d31920edd5839cfb96771dc869fd0ffc362e",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:eastern-marsh-harrier": {
+    "hash": "4f2c6309d2fb675ef4c0730eb20b712862a821c5279595e44ce9c7cb06337f2c",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:eurasian-hobby": {
+    "hash": "f213a151695d668bb37b1f5361fc079bba1c9677d97a818fc8f5e2ffc2fecda7",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:eurasian-sparrowhawk": {
+    "hash": "f6ff0fdf0b4523ef670680099209f683e830dd2d05bf74fe6234976e538c0621",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:greater-spotted-eagle": {
+    "hash": "8f47f5fc3c6a6b5667e1d179d5313f74be8ca11a5c9e660da87b9591535f97a8",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:grey-faced-buzzard": {
+    "hash": "da1699322e2427156162f24322cf50f208fecef7418818e5e4828d0797b7bae1",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:grey-headed-fish-eagle": {
+    "hash": "de298d31d830ccfab838f61e847172f4708a5481c62e56ac11e910a7faa5f2b5",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:himalayan-vulture": {
+    "hash": "a139bb4831a85ba90763c6ba47fafcc28814c3d01569c558db6ea02ab0e5b680",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:japanese-sparrowhawk": {
+    "hash": "590b4ab91f356f289c7edc473a32d273fc6b66b5d672c81ff6725b84b6b0f71f",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:jerdons-baza": {
+    "hash": "c22d058a5bac3c78cc1720a7225ae78eaeb74a2ad2b9f64536f1ae82b90dff8c",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:king-quail": {
+    "hash": "3bfd4090df7e08f6765c3dd8fe270df6cc0f0263e6d55e8b4cbf77aad31be559",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:lesser-kestrel": {
+    "hash": "98a90775a0028836a96bc2310a3a73ef17b4c5770426e069b6c767e43035d629",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:northern-boobook": {
+    "hash": "1e8dcecb294c1be9eee284ef80bf31539efd281388e2a5c54d44f7a11c034cca",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:oriental-scops-owl": {
+    "hash": "96dacfaa2c8ba892024e47acfc4e53ac2cd22ee481dde273fa21bc0f88106577",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:osprey": {
+    "hash": "4a2394de4b4cb004dabb2806580a1982e6aaa39322ddc40577f5fc6b1ab3ffff",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:peregrine-falcon": {
+    "hash": "ca0daadb4756b634a2f1722be53fa57571bc269306f66f4ae3d1c4fe41c4d72d",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:pied-harrier": {
+    "hash": "2ddc9382a367f16d44c688b5b6ce634bef49e3cd7276f5abf5d7ea7105f0eb80",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:rufous-bellied-eagle": {
+    "hash": "a87eeb677edce6d41525d0266e72038ad2d07f4c9a445aa96040c76375139af3",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:shikra": {
+    "hash": "d66fef7ec8b7998472a16d75f12ab1c00f988c2bd8f38c3d268d1fd38543bd31",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:short-eared-owl": {
+    "hash": "5c9660451eae4a1e1568893f8ad04d3fe67c51d99f7dfdfe7c5b8ebe5a2ff685",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:short-toed-snake-eagle": {
+    "hash": "c1227e0883fa8b2c004cab9aa279eb310501db812b0d0a6fd2ac019756944025",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:spotted-wood-owl": {
+    "hash": "63980ed9b349e157f942cc874f2bd9e9009ae8ee18eff35d8e3ee2bf7af0bca7",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "lesson:steppe-eagle": {
+    "hash": "573649e98d37b1e8d6f57fbd293b2d3365f929292e4cdc4203b6a9b93c51d150",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:amur-falcon": {
+    "hash": "ed8f0e78304dc9bccb80873bcae24a7b185ec2e8b8abf1a62d596a0048ed1162",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:barred-eagle-owl": {
+    "hash": "6c50d751ce7bf3d4cebf0a1400707a1a69efd43fb569ecae1f2a312725e2fa0a",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:bat-hawk": {
+    "hash": "63f951197ac823219e39899f45779ec443e52570007a2c7aaaf3432ccf975b3c",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:besra": {
+    "hash": "fd223dc232a169efd1611a3acc20a3135342fa11f522306ea7176944cf469e56",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:black-baza": {
+    "hash": "a8606c30b2f49fa14a5427979c86397597ad3928805e0059e491044026ac2273",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:black-kite": {
+    "hash": "da800aed68fcdcb2d1fbd960d57f4ce3d37295090e62179e5158979915ff7741",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:black-thighed-falconet": {
+    "hash": "bf2b336b4944910b7e956614644987e250876c8c5ac0f9e63be5c3dbae708ba7",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:black-winged-kite": {
+    "hash": "9a68ddd0d35d99dafe70258b649b7f7af0596336270a466587a221cb1b38219b",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:booted-eagle": {
+    "hash": "683e84eb2a66c9c1e9151666a4bb571c98de680f27aa05329e2b26b7bd14ef6f",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:brahminy-kite": {
+    "hash": "a52fd2d64ddcb1345577b7f8d083c032a0914523a299bbaaa9fa5d045a09407f",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:brown-boobook": {
+    "hash": "28c56542666b65a98e8c9f83259e6ab900852c058dd049cafaad2b12d6860ce9",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:brown-wood-owl": {
+    "hash": "936ce7c8c12851f2c0eef8943bc663a81f7409133ed17f24c51066ce25e38991",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:chinese-sparrowhawk": {
+    "hash": "8d9a387503c6b53dfac074fd56fdfedb5e3021c8783e9a3184a2d019fc25edc4",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:cinereous-vulture": {
+    "hash": "119d16d86195f47fa5d4c688f6e51c38cab80c62558807bd22a226e431dad2c1",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:collared-scops-owl": {
+    "hash": "9180e70bbef27ced9143434d1da1e9279673425330d06afcfd9bb5313edb5e67",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:common-buzzard": {
+    "hash": "1312268bd446e6044d4815dd322fc54c7a0b5b39ef2e6bf94b88defa28465539",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:common-kestrel": {
+    "hash": "6d9bf7ae8aa9ef2228f8338330fc365d8a3f914bc191d78fe21b985f5667269f",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:crested-goshawk": {
+    "hash": "846ee25461099c264a8b41cb3c3cec3e8c2a1e9578117eb6959a6dfdaefbb9fa",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:crested-honey-buzzard": {
+    "hash": "49e566cbe3a3d20772553aa635c5b76883fbcdcab2f6af63bbd5710ca6edda97",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:crested-serpent-eagle": {
+    "hash": "9a61edb2cd018eb066098e0014c43d0ba49ddce1fceb8788afa4e8f796aae1bc",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:eastern-barn-owl": {
+    "hash": "38e0fef3bce7d85bd6b940d1aa7f4bda45538a9b00e27491b1b546922bd4abdb",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:eastern-buzzard": {
+    "hash": "338071cce03e92daf3a062862bb3642e47077b0e5a46c34ca9fb73e2cfd3cc89",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:eastern-imperial-eagle": {
+    "hash": "fa6ccc0929978aa65fcd5f78a6bced7aebb35b051fc774ca8c14399863078696",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:eastern-marsh-harrier": {
+    "hash": "de51ea1ffa932896d473d03c06368215138ff0dad0e43375217b60b6484940f1",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:eurasian-hobby": {
+    "hash": "eb41f3a98712f427e45246e4a7867652a96966e3cd8b3e185a32d972d5f1db6d",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:eurasian-sparrowhawk": {
+    "hash": "02434be000633d2906d2733897934e2a5317592f001f737706b0b5ff6b32f88c",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:greater-spotted-eagle": {
+    "hash": "ef941067fbec34b8179f866f6328de7acd1a4e4408202fbfdcb6110e4fbfa155",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:grey-faced-buzzard": {
+    "hash": "8c8027a0ed325d6da7a630cd4d0d94f2d9aaebda9cb51ce5c5300decb9a50f91",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:grey-headed-fish-eagle": {
+    "hash": "0b9e5b60d9b87bba1773ebce2d5df89f1b09835a3a3de143f5aa449d47843371",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:himalayan-vulture": {
+    "hash": "d2ab17a5d096de262b93e63ae2e04b5e3ba3d987e4970a5a6efccf09081c09d9",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:japanese-sparrowhawk": {
+    "hash": "bb7d429a964a417d2305896d57da2568fb25bd316dcb147119cbfed8a0152a29",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:jerdons-baza": {
+    "hash": "370e7941aa7e0505b94d06357ff585e94ad61d3ef723a0febe0d6fdb0823abfb",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:king-quail": {
+    "hash": "c9df3c8fa885d7a4a9c6b2bc5aeada9aaa81717799852051aa05690f63978d9f",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:lesser-kestrel": {
+    "hash": "676d65caa64b232ea388d7dfcc8a8aa5feb7fd4a57b84df37d09a329e7059702",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:northern-boobook": {
+    "hash": "8af0d3e5975b009c52d2c3687808883365ebd0a3fa68c2573a9e7ce8a4d58b6b",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:oriental-scops-owl": {
+    "hash": "a10c3c8aaadcd1274cf40cfddb9f550ca65a313122ce10226a219d0cc3ef0db5",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:osprey": {
+    "hash": "0e0e9988e8f1b9fc8d978ddeb82fab7724963274891a7e8cd8aaae05d38b75ea",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:peregrine-falcon": {
+    "hash": "c4308357d0442aa4d7b59960c6c4906039f7b607e71ec540bc96259afbc7015f",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:pied-harrier": {
+    "hash": "fc9119461249c205e965e517b4f141eafddbf3473d664d9b4d350fca368e5054",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:rufous-bellied-eagle": {
+    "hash": "5dc6a3bef09663e278b134d8bdbf65f6f3a320aca06c30216ba12c331b3dce05",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:shikra": {
+    "hash": "0437e01b2873d025bfec7654b1dcc9a5011a46ae17481e951a2c12df233ebc09",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:short-eared-owl": {
+    "hash": "f518432190d2c0f6749259f03fc09cea38ff2d52b5ed684833c5c713251ebd3f",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:short-toed-snake-eagle": {
+    "hash": "08718258fa7c2f6bf04b7fa6752231d33826c1bd2cc88ecfacbb6e54795a9892",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:spotted-wood-owl": {
+    "hash": "01f1c00034dea8aee5df15ecef736a228680f2cb75c48931d82df7f0e5505467",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "profile:steppe-eagle": {
+    "hash": "fea380209c8dda65f037c758a1216e18ffdab897e274fd699b53ce9179fa414d",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:amur-falcon-post-1": {
+    "hash": "b04d781f96b3e982466f83d3ade564c257aa64ac8d95184da69b5e6fbcbac3b2",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:amur-falcon-post-2": {
+    "hash": "c995be5dc1c38d28ffdf70805e9eb0bccd8a975b8e5725d1b85fd8bc88cd4bf9",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:amur-falcon-post-3": {
+    "hash": "37421246188e4827b427bd17aa490c4804ee135a4c30ff6fc2ac087ff78f5876",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:amur-falcon-pre-1": {
+    "hash": "0cc74037b24ec6d3d8ff47707e14f382d3860605f892ca58b18761fd7e8e3192",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:amur-falcon-pre-2": {
+    "hash": "d08059a4748a26865454f08470f6564b042af9fff20e6dce8f8b0c9147c93f61",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:amur-falcon-pre-3": {
+    "hash": "3ec1ba58755d6651d988a91179301d90984a9956cf0821afaf8c40473e3ca398",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:barred-eagle-owl-post-1": {
+    "hash": "49a3297ae35fc6613b5b99fccb3b1ee89dd74831471eb7818d6f94fd15d1686b",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:barred-eagle-owl-post-2": {
+    "hash": "53666799078185a45676fa69941823c1fd4c9957a865f9888f9d2a92afdc460f",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:barred-eagle-owl-post-3": {
+    "hash": "6ed33751c6425947de4a2b7d42e5a69aa7ddb7ebd8b22b6878846265cfb92cdc",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:barred-eagle-owl-pre-1": {
+    "hash": "1d6dac6d7e1992a7736067be6f414134ef06564973ec90f27af19d0a95fdc036",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:barred-eagle-owl-pre-2": {
+    "hash": "8364ad3ef46fec3c6baf26c7bafb93efbec085fe864c992930e6a0bf73ff5136",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:barred-eagle-owl-pre-3": {
+    "hash": "849be2c8f2e888d1102ef44e570d2e9303d255d53657b03aff1c71f27d31b79f",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:bat-hawk-post-1": {
+    "hash": "3389ce67e9a7d917f91c78011234f68e7c809908f872041093d884db8fd25aae",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:bat-hawk-post-2": {
+    "hash": "afd9059fea8bf3a796a2cca6562f3baabdf3b14ec83913dffffc7c03c80fb733",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:bat-hawk-post-3": {
+    "hash": "02da32435d9e9481cc7d7be17379cd2b763a3025de16fa1ddb027ad3c6f5eb2e",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:bat-hawk-pre-1": {
+    "hash": "833016b532fcbc5dc9a7ebd025f79b7199cd8b347009c92fd8b663d1ca6e2732",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:bat-hawk-pre-2": {
+    "hash": "3fc4cfeccff864bf556c8cdbec7b5a45f1fdbc350a295f8842fa5d96a303a3ce",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:bat-hawk-pre-3": {
+    "hash": "17dccdfeff0ad787b83dfd4ee1b3e4e9833d61432fa2f0bf045c9dd37a31ff69",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:besra-post-1": {
+    "hash": "414658c6e406cb89437066232d470e14cc8652c2da25648d962efa466b302692",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:besra-post-2": {
+    "hash": "81e13aa1e2a42fb0de3b72fd6cc50a54e76c9946433cc161ffa19578ccfa37d2",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:besra-post-3": {
+    "hash": "a08249c9aa08c3bd93d330cc362f1588e29ff7576190cfa981403c4c62aa0120",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:besra-pre-1": {
+    "hash": "4b306d1baf5dfcd52b177870a5c160e155db6bd2706e037aacfd8cf459246338",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:besra-pre-2": {
+    "hash": "20005ac9289e5f34614a7fe1c668d843c2f40167b7d6c89d5466f98f8be4e744",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:besra-pre-3": {
+    "hash": "579adf809d864ac4caebe134c40500f7f32e3cbdf1d02e488ae43fa90237d700",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:black-baza-post-1": {
+    "hash": "d6c96debc056d596e8f418feded2afbb1ddf4e686883332f4760d745ed13428d",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:black-baza-post-2": {
+    "hash": "b5d70862a1b5f4b4ca8aa5d25e861cf777231690066680096489c35a727b15df",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:black-baza-post-3": {
+    "hash": "f14294ea90ec8642ae76cf27d08e969fff0823d50824c6eecd7dd8fe0bce033f",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:black-baza-pre-1": {
+    "hash": "295a1b95862e06d14b67d3e08c7ce6b3ed5ac8c857750061fa57a45718c2b406",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:black-baza-pre-2": {
+    "hash": "e159b7318449cd77d034029187034551ef61770d21e4b0a14be4fc50b47e72e3",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:black-baza-pre-3": {
+    "hash": "3e3067891ab0fb5286c9af845d5adecd215222b848496c39a2d8650f7ff5c0ec",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:black-kite-post-1": {
+    "hash": "204d67891e1d1618b9a000f5dfcc12afd77a1c8702edec58be19ef7e3ab6157a",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:black-kite-post-2": {
+    "hash": "2ed1ed256ac0c8796887effcdfa41a6a5f33ae1d0fe5f7f833d29740a299e231",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:black-kite-post-3": {
+    "hash": "4aba65b9ba70b28cb3133a29f96a7bce002b61ee4501c9189e93bd0f8790504d",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:black-kite-pre-1": {
+    "hash": "9e178efed631deacc42170bba4973a403fcf20499df1db04361b1a11d4dd2c3f",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:black-kite-pre-2": {
+    "hash": "851c3d3a55df56ef4cb2639c44b8d9269cbbaad088082726378e8f7b2b129a3f",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:black-kite-pre-3": {
+    "hash": "3743933d47819e05bf50b1729610e0ecf6436a2696d7a6b884c048a649e6ffa8",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:black-thighed-falconet-post-1": {
+    "hash": "345bd7422606c6d1dded4f766c62929a3b8f378f8b213973d47a69ad74ff65a2",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:black-thighed-falconet-post-2": {
+    "hash": "06e3ab9832798ca97e3cbed66751989b7892e83f973fb9a27558febbc9ccbcd3",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:black-thighed-falconet-post-3": {
+    "hash": "4b3315ced3540383faf8a6d9cbe9793df7ada142d18ec59536de0dee81b77fae",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:black-thighed-falconet-pre-1": {
+    "hash": "48a4297b4f79875c5c2967d4f49f32e97d0a16cd664915156e72f18a14a7a1dd",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:black-thighed-falconet-pre-2": {
+    "hash": "9771ab84099d7de33833e763595eda6dc83dbc25b9e47ccafdf0f7b8d2277477",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:black-thighed-falconet-pre-3": {
+    "hash": "3a180fbf809599cabcdf94eed9241f2b02534c17465c729ecfe2ecec7f689797",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:black-winged-kite-post-1": {
+    "hash": "ac63846dd96db47899f46c6fedd2e1ea2620b18207c9e0fb6486de8bc34443cd",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:black-winged-kite-post-2": {
+    "hash": "cf4ef26c0d5b59b4a5fed184982b9f19c84f7510a17cba8e0890296cdd4e96c2",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:black-winged-kite-post-3": {
+    "hash": "e74670f6f4b377733c9fe268708e20cea9804d6d19f95a7aa9f40f55d9972cc1",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:black-winged-kite-pre-1": {
+    "hash": "c90c55f4b419f826126fe098ec34d7c90883b6049410aa2dfa8b9421ef003f7b",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:black-winged-kite-pre-2": {
+    "hash": "47c4585719f7dae398ed6255395a9892047988da5cc9d21aed756de93db91156",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:black-winged-kite-pre-3": {
+    "hash": "443b6167426689e89bbc299781e272866a4c4c81f06bb7a890ba6d0dd65db672",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:booted-eagle-post-1": {
+    "hash": "eee080bae07dfbe801ecaa118e17ce6550434633e9b0aa4517d8e729619b6536",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:booted-eagle-post-2": {
+    "hash": "72060eaf9e6cde3d87ab07905544cb0e5fc7a922409bd5409e34838d4d2fdb1d",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:booted-eagle-post-3": {
+    "hash": "f647bd2cb0c7fc9350ee6c3bc003dbd736f9d3dad2028f908fd49b8fa9ac3801",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:booted-eagle-pre-1": {
+    "hash": "80860244b0b43e7bb71c07e7d7ca89280df0735e431fd83f50bc433a83653d46",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:booted-eagle-pre-2": {
+    "hash": "0b4e2e7399ab9d7eb6ee86d7597564811aa195007bbdaad9881de095c3492bda",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:booted-eagle-pre-3": {
+    "hash": "2f56e3572b500604a89e8da16f0de77c7e409ad79c8efa27fc5f265715614d72",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:brahminy-kite-post-1": {
+    "hash": "6aa7518a07daf64b9c571d5fca869cc9303e5353341cb9b40285b348e40b6390",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:brahminy-kite-post-2": {
+    "hash": "dc21937f0ca9c5212fb29fda3f2ef936da83b3274c182bfc5df0df3fc1df0178",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:brahminy-kite-post-3": {
+    "hash": "12fd2dc041fb4119399d151f50aa85504c58313ee4d8459faf76b793a4d56cb7",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:brahminy-kite-pre-1": {
+    "hash": "7963f329482bcd38398e8c71a461a65a4fba65b0e6041e848a48eebbbf89cf95",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:brahminy-kite-pre-2": {
+    "hash": "ba466c683d80b143036a42cb32e8d9ab10447b356fd82383a9767f79de7428ba",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:brahminy-kite-pre-3": {
+    "hash": "c325731c975ec82f8309ae65fdfc05a514707b5caaac9ad39a8dcd48302c8bf4",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:brown-boobook-post-1": {
+    "hash": "ca9318f2ae82750192aaf97e465813f5e8b76c9415272c4c42817142bd624629",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:brown-boobook-post-2": {
+    "hash": "f88349c1e2ee06369fc02b74a2af3057ec9d239f91dfa85f0e26d2ab275af406",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:brown-boobook-post-3": {
+    "hash": "0bd1d06369c5d4434d9d55b221a68f86409e22b59c3b3fe51f95ccd932fbfa17",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:brown-boobook-pre-1": {
+    "hash": "f32d03b8db41871ac8244b9db9ebaa25d464313468e4eb4acbf1230877babd29",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:brown-boobook-pre-2": {
+    "hash": "ee417d2eef316d8a439d081b8f5d165c66acc5fd58b96215a18893b25a029f83",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:brown-boobook-pre-3": {
+    "hash": "704da7601835d4724ce2fff6c990a2c787c6087b339adc1bc107480b19ba6796",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:brown-wood-owl-post-1": {
+    "hash": "c29eab3df84e35307ed218f53ba97941e884df750409b5fef40405c07a8d46a1",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:brown-wood-owl-post-2": {
+    "hash": "3410fec5f8a16a1faeaff4904336b7f2813962f908d48f5e1c7a74de213bedfb",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:brown-wood-owl-post-3": {
+    "hash": "2f9c8f7d5a4a1ba73613575837d4c15d3087072d2a7a688881357f8756a77ffa",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:brown-wood-owl-pre-1": {
+    "hash": "de36e324143f336858db7651428b3da765fc5df88795ed57b13226ea2aba42d8",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:brown-wood-owl-pre-2": {
+    "hash": "b4e2f44ff26cf53db2cf792c7ec0bcd15cd58313b5d558c27fc8666a3e4026c1",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:brown-wood-owl-pre-3": {
+    "hash": "0c5f73bc18d02652b89b1de6380e4d3168981414a46a41a5c81a71ee891fe339",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:chinese-sparrowhawk-post-1": {
+    "hash": "857d6cea107949e7a96d86ce1846dfe45d144c192bc17242b1127b4e283bea5a",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:chinese-sparrowhawk-post-2": {
+    "hash": "1aa924f968450b603ef382ac1f2a462afda3b1bc4427f10e1b4dd0c4d40561ad",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:chinese-sparrowhawk-post-3": {
+    "hash": "b703498a834089efeee456a56ba440f42b57e73751fd85e935f18a8aca9442bc",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:chinese-sparrowhawk-pre-1": {
+    "hash": "b7fd6f89b0a4bbcc22b9f823820e11b26c463f240824172c290831aabad4f052",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:chinese-sparrowhawk-pre-2": {
+    "hash": "c5f5e5a9f44488edc7348b9d552ed8554dda27a113414bb816def153b30e46e2",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:chinese-sparrowhawk-pre-3": {
+    "hash": "ac0ea5005e5104c6556c2bc30962567a93c6ae276c15804369637fe6028c3280",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:cinereous-vulture-post-1": {
+    "hash": "5828190da001e0663cc9e55b3bd7d1fe719088e80b56c26b3eca99307b59dd59",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:cinereous-vulture-post-2": {
+    "hash": "f26bc7ed9abf5dd68c185411887c701188fee1c6eaa53279b5f68fdd0f486bb0",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:cinereous-vulture-post-3": {
+    "hash": "8160df4154f7c9eeb26093497d55e00ceffe49c01c55dd47ea4cb91c997ac6fa",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:cinereous-vulture-pre-1": {
+    "hash": "9c42c94aa8f1ffbbafeb1739fc0be558bbd453a1b12a8a69e0337113c61bb124",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:cinereous-vulture-pre-2": {
+    "hash": "799b60fbd81867a9151aeb3960e860e7b56699e0bef2aaebb1ce3aa0ebd912af",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:cinereous-vulture-pre-3": {
+    "hash": "71f8c853ee87f5b606b607c2064ee348b4fafbe00574f49fa1ab2167b7ad6453",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:collared-scops-owl-post-1": {
+    "hash": "a9d88b38bc5bc2bb806cb16e10d0bb9e5dcb1dedf542da733b31c52010190dc1",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:collared-scops-owl-post-2": {
+    "hash": "9d4fa603d1415b015324c72c2204e4216d42b25174875bac84a487718c785d0d",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:collared-scops-owl-post-3": {
+    "hash": "71f8f2a7d45016081ecce8a0af599305cddf97bfe783b6118928ed5d17e30269",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:collared-scops-owl-pre-1": {
+    "hash": "28fb6032e844682df46574c579e7edfcf33cc88e5eec6b4053da02c53f9d6626",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:collared-scops-owl-pre-2": {
+    "hash": "45d34d41ed7dfe16f175d9a6d5757d03d94b1179f82e4db3411bf3852d3e2b3e",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:collared-scops-owl-pre-3": {
+    "hash": "24fd2b777a12d936e09efe9dfbfcb60ea018e7a632bb6a9179112fa6b83b6f01",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:common-buzzard-post-1": {
+    "hash": "a3d8c3f59c1203c2b2b0c28a62dcfa6da38bf80fff2e2c86a772f18ceb840d5e",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:common-buzzard-post-2": {
+    "hash": "b6e0906dbd0348a66e889a234a91c3315d082ebda6e9522fe83f0a3ff984a9ed",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:common-buzzard-post-3": {
+    "hash": "775e0654a179ea85ef9f2b0c141ba3d59125e58b461cace77d3b9ba569e096e4",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:common-buzzard-pre-1": {
+    "hash": "f88224b6adfb7cc8eceeda6ad0844f4f3e90f827b26b440a3132d14410104901",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:common-buzzard-pre-2": {
+    "hash": "125a296586b3cad3d88c4746fcf9910968497bc3c62da1bd9930ad4a30edf6ef",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:common-buzzard-pre-3": {
+    "hash": "474d14f45410f1777e250defd313a61f3a26077ec7c9404296b92543e89b07b4",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:common-kestrel-post-1": {
+    "hash": "d0c89563e66063baaa6a6fab28b0c6b1534361458f5e4344d883ccf311f7af53",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:common-kestrel-post-2": {
+    "hash": "a0a3e63123694591918cf82b68dde89514687d09864d9dbb86873cb30832fb29",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:common-kestrel-post-3": {
+    "hash": "9c58025fc8970fd392eb1bc340c68e99906a64846b14a9a4dbc69fd3decc7970",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:common-kestrel-pre-1": {
+    "hash": "625e752b9d345aacab7e4c885f19c0eac65665790aa4d19cd46c463d6c2dc7dd",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:common-kestrel-pre-2": {
+    "hash": "2071cb4d14bab98f58f72bcea81391d1c5b56a053df720a46b230187ab9c5e9f",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:common-kestrel-pre-3": {
+    "hash": "f00d1b8004735d7ac135813b0c8a88a82f8d5785ad944c0c7da4038047903f36",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:crested-goshawk-post-1": {
+    "hash": "097184ea43db745315b13eab7d15ac0e982041a5f5eed17deffa88025b4955f3",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:crested-goshawk-post-2": {
+    "hash": "8709da739a56d666951552280dc44063b468b68f2348d75cc7987cf97f5ac753",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:crested-goshawk-post-3": {
+    "hash": "f9369f2ea3a493287c6e07a28defe2a149903195237754e254d775c5d7aac99c",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:crested-goshawk-pre-1": {
+    "hash": "977072c5e75bc5abd6a69283c1ecdb27b3f8cb4713f198063c21da6b17cde825",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:crested-goshawk-pre-2": {
+    "hash": "358f47320d52df8700ac798a8b7b2ba1fb08b5d0edd588df5da001b6d7d23e3f",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:crested-goshawk-pre-3": {
+    "hash": "87d6c5e36caed4ee051165cf2cc4588d90eb20bc3984a04e6846f86f0b224aa6",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:crested-honey-buzzard-post-1": {
+    "hash": "fb5d2d87a263e2eb4e08da295f40ca94db72783453d6b65647f0e1375f9c4ace",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:crested-honey-buzzard-post-2": {
+    "hash": "35258edd44e544a757ca5ce3226388424751e65cf17f836384d6dce5e1c1746a",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:crested-honey-buzzard-post-3": {
+    "hash": "fe995c9ec6c965ad0825adc48d669b92e932eff074404695e52b1a4bd5587d2e",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:crested-honey-buzzard-pre-1": {
+    "hash": "426a73891cc367e332d3bc4b50251300e202d55b523c1e5b77ac6712df6d12c5",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:crested-honey-buzzard-pre-2": {
+    "hash": "a155c0b09c89339ede44eace4a3d94fa16f300fe3dad326f3f6f04a7590ff0f3",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:crested-honey-buzzard-pre-3": {
+    "hash": "f73e73b88b1b8f1ed1ad0beda532cf569a65fa3d1698ff3a9cbe466109df5857",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:crested-serpent-eagle-post-1": {
+    "hash": "339119241de821df987b0528bc9f38e7d58e5fde2bb727a5a6d22261636b94a8",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:crested-serpent-eagle-post-2": {
+    "hash": "73e9c4183ed98d58636ffa0ebafc1cf01c380222d9d4d10e286059cad9ec3dd6",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:crested-serpent-eagle-post-3": {
+    "hash": "f70ef9bb122a274fcecf00863c3257092c7006a18b03b7048de385de44c0e30a",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:crested-serpent-eagle-pre-1": {
+    "hash": "3945def27ee30cf09ca70afb339cac6d47cc2fd7bb2d954ae54dffa84087ed87",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:crested-serpent-eagle-pre-2": {
+    "hash": "7c40ac43d72f9c244c5c0df9c114a224745e31a9f2f397a1a49f41ac74e2d28a",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:crested-serpent-eagle-pre-3": {
+    "hash": "243a4b8baed2b073fa00fc4a7dfec039b501951e53c0fe398d2f03ae4b208c6a",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:eastern-barn-owl-post-1": {
+    "hash": "b5ea868a7611892c46f1faadf12a4faedb10b455ed862ecc880038673c74cae7",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:eastern-barn-owl-post-2": {
+    "hash": "37ad9f8e273337e3236a43dad24068590a2292990bc09b828580c524ba8cba5f",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:eastern-barn-owl-post-3": {
+    "hash": "0558dbd42de8fe40a5659c19849946795f9287b5f8a74f470f3bb3ea57cc9cdf",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:eastern-barn-owl-pre-1": {
+    "hash": "9f1c5749cec07bfeabe178331a655dd620605e6680d613a4746b792c10297a33",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:eastern-barn-owl-pre-2": {
+    "hash": "7c00b04b2207ed4bbe33f84404ab89e43c2ec7b51cefe4c867d4713be0cfb48c",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:eastern-barn-owl-pre-3": {
+    "hash": "e83d08d01f83d7ff7cf59da4b9240a598dc94dff2271723bcd2cc2b07f4e8736",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:eastern-buzzard-post-1": {
+    "hash": "c07b95757c50738a1050cadbb5a57baf02032604ec138e0ad7d020649ae467f4",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:eastern-buzzard-post-2": {
+    "hash": "faab768954082d01dbf5f9d081828f9a23988213c6a4007ca44af841acfe873e",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:eastern-buzzard-post-3": {
+    "hash": "7c177a1f942e112460bab6bd62e3ad522512cc485addec446500fcfb3aa9fb3d",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:eastern-buzzard-pre-1": {
+    "hash": "995d8ab757c2625ccf530b673c07c2eca373a251955daa1bb5c4efb7271a0e79",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:eastern-buzzard-pre-2": {
+    "hash": "b1d1ad9bafeaf33c34892bd3e5e3300c3125a029de5841838201ac7afd90ef13",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:eastern-buzzard-pre-3": {
+    "hash": "a72b8948966f8e27b2f44ec82e5e1bf65800ec2a9ad5c737529121f7f53351bc",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:eastern-imperial-eagle-post-1": {
+    "hash": "c395a06bdb09952f2358e67617238b7e163d9400f7ee0510392008f2623e8166",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:eastern-imperial-eagle-post-2": {
+    "hash": "338fb6648d245d90b69c1574346d7134b4177c830d0b07795f4a41dee1a304c4",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:eastern-imperial-eagle-post-3": {
+    "hash": "dbb8291c54753e2b8ca3adb0f9debb1b1f36352845ea88b5307b9ec643c2eee4",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:eastern-imperial-eagle-pre-1": {
+    "hash": "98b399abb3f1a3f97f0c0fdb8a7b85c95d033970416cb80ce88ece5839cd79f9",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:eastern-imperial-eagle-pre-2": {
+    "hash": "6ccb3b1142f6faa39dcba2e11ccc2d9981da0d22b37352bb715ac62f202c5645",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:eastern-imperial-eagle-pre-3": {
+    "hash": "e08a8056f28d5805427bb51198636cea0601234fed881caf0c635e5fb2d16cba",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:eastern-marsh-harrier-post-1": {
+    "hash": "1488c9948e551b3613e391c444ffd65faa84d0eb7d11007c4716a9eb67b9f167",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:eastern-marsh-harrier-post-2": {
+    "hash": "68e3e361aa5aaef6ae551fa8a3c0ba5ba909040de725f358d625009f39bceb16",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:eastern-marsh-harrier-post-3": {
+    "hash": "106189562244e6cff1821116a2b651bc9ffa4e33f328dcb3cc9825819641af63",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:eastern-marsh-harrier-pre-1": {
+    "hash": "af81899d92a4acc690e6c895495da69c1755042443195ff84a9fb80057f4c912",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:eastern-marsh-harrier-pre-2": {
+    "hash": "85800294d20b7900648990cc86f8b1c0081e3797f699320c2ff5adfe3073eaec",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:eastern-marsh-harrier-pre-3": {
+    "hash": "06828daf4160cfe03473545f30e9a817662bd1ed38cb228ebde33894204ce1e4",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:eurasian-hobby-post-1": {
+    "hash": "d31cac03f2270f2e54c78f4670cbfac9ea19d2bd1982a3798b786d750d0b4edb",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:eurasian-hobby-post-2": {
+    "hash": "18bd6885345eb69c0aac283f6d3497b0910647a0af40c949b73c7b728a7aa364",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:eurasian-hobby-post-3": {
+    "hash": "6043722682493bf994d512e41cd9a0feb623190f4c77db3a09effe9164eb0a9e",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:eurasian-hobby-pre-1": {
+    "hash": "086caf13cff45448f16cca419ee33153e3548bf2a63cbc9f7a4e61a68df1041f",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:eurasian-hobby-pre-2": {
+    "hash": "fa18ab987b16ac4de9f9ad44f4d5aed7c6a41db447578b410d86f2c02c5f30b2",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:eurasian-hobby-pre-3": {
+    "hash": "217abb052d293efba5dfdfc2bbf51c87cf9e2e5fa3ea4c858fdb1959df41837f",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:eurasian-sparrowhawk-post-1": {
+    "hash": "53427c116db289b10061031aab5a71cd6129172fb43b0bd04b87a84f04ce3964",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:eurasian-sparrowhawk-post-2": {
+    "hash": "8d593c9b8b688ab92cc8a4b97e8db16363a36e689174edb875b0eb24d0aa1243",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:eurasian-sparrowhawk-post-3": {
+    "hash": "75dde06ea4862be35eb8830def0247c52e440c1076507980fc11402f0b97dd16",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:eurasian-sparrowhawk-pre-1": {
+    "hash": "da8df5586ed55887f5c9fb6197bbd2a4d5e15b9d65578f649af803a3e2dbea53",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:eurasian-sparrowhawk-pre-2": {
+    "hash": "22952b6d5f92571a50a2add6da183286846687aeda888482dfd3217f9e80f56d",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:eurasian-sparrowhawk-pre-3": {
+    "hash": "e7017cfcee6f49468e3d73d6a9b3c679fd1564ba9edc0d1125673c7b53283768",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:greater-spotted-eagle-post-1": {
+    "hash": "8d220adbd52e40af867a5c97310349cfe99eb5237a9ca495377c2fb682c69265",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:greater-spotted-eagle-post-2": {
+    "hash": "cb9c8b8ff38041380d478ec836e7b16fce6dbac77156162a50a4770ac508c15a",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:greater-spotted-eagle-post-3": {
+    "hash": "7ca67acc693875d3be4fcd72ac6546115e60ca26e1be29685277006e2d412162",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:greater-spotted-eagle-pre-1": {
+    "hash": "ffdc13d949eabd5301c025f9c11af4dc05fae0a74b6850cefd5184c3d6f26072",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:greater-spotted-eagle-pre-2": {
+    "hash": "81878bb2b5311531fec31175ac865e8847ee9370b97156a965b603d05263471b",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:greater-spotted-eagle-pre-3": {
+    "hash": "2b79bcd0f9b2a8e4191572db1bb8e62a4b32c9563d399cec946f72756863e3a6",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:grey-faced-buzzard-post-1": {
+    "hash": "3f2744cfb620aa9a82984a4486938a963cccbcaed1362e265ec64aab8170fdc5",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:grey-faced-buzzard-post-2": {
+    "hash": "928f371414170014e120bb34e4ce192a4b7001b90747e7dab972129670373f9b",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:grey-faced-buzzard-post-3": {
+    "hash": "73e670c31d028fb069a9218baf0fd1a9f80d6cde6b37e2b95727f65d88ed1330",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:grey-faced-buzzard-pre-1": {
+    "hash": "b970c77ac5ca483ea51c8afe6b2ae0dfaced6fc8f702c5197b5040def0ac5f17",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:grey-faced-buzzard-pre-2": {
+    "hash": "3f4edbc0e93f7bedb1d3ef3a99e9956c72f8830d6e8d6198efa7c77f5f1cec7c",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:grey-faced-buzzard-pre-3": {
+    "hash": "83c5d803e4f43c9b7bf0a128dfccf9ec9dd6c2a6ff73f43c99779dded758322f",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:grey-headed-fish-eagle-post-1": {
+    "hash": "097e8e9a12ac4b15f6734d61f293d1652539be129e78affcf3dc6cfc4787e722",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:grey-headed-fish-eagle-post-2": {
+    "hash": "29125548fdffa87f7d2339e34d2bb4f3c41b8364288a817b796dffa6996564b3",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:grey-headed-fish-eagle-post-3": {
+    "hash": "292d34947d785aea332573b336ffad7a0a6355d1c7f2b0a3d238c429fc6c8d64",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:grey-headed-fish-eagle-pre-1": {
+    "hash": "aee8e1efb9b77d8ebbfa0315aae89054801256a78850f1e7557b0ab710b424ea",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:grey-headed-fish-eagle-pre-2": {
+    "hash": "4d8eb30e97436835b83108c7bb15700ea2d5b20010c99abc99288828a9b4c761",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:grey-headed-fish-eagle-pre-3": {
+    "hash": "7500acfdb7ea279b8193c209d3e298199bf1baedefcd349b9780e263be0b46e5",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:himalayan-vulture-post-1": {
+    "hash": "552252779cf5de82fe16ee162aaf710954ba043e0a022c803cd2b32eadbcd019",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:himalayan-vulture-post-2": {
+    "hash": "0c46137a57adfc7529b3d0ba46c499d9b0f5c3d8c27d8adff514dfc3355cb660",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:himalayan-vulture-post-3": {
+    "hash": "64ad8b05482b37be51b37bd89753d15ea1176cd2c6dc8761acb3955a03ec66b7",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:himalayan-vulture-pre-1": {
+    "hash": "5595dd38b3dbb58aa21b3b782631337e27b764320bb0fa2908741a516b6f464f",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:himalayan-vulture-pre-2": {
+    "hash": "8a8b4d77f1acd7065c00096de2303fcb3dc425a8054d5ed427c241b264dc9bfa",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:himalayan-vulture-pre-3": {
+    "hash": "acf60a99850f2e28a4ea063d0653df8a10d70eb62ce09fe3964d6a12f5cd6062",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:japanese-sparrowhawk-post-1": {
+    "hash": "81580216de0d74756e0e4de8b53320c108d5eab53eecf8f9e8c672fa70c6da9b",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:japanese-sparrowhawk-post-2": {
+    "hash": "3f3be7574f0d15df7dc15b67c2516b98431fbe2c46bdcd5f49d08ec59c0cda54",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:japanese-sparrowhawk-post-3": {
+    "hash": "b547d45456334828a8fd6aec5500d1dffe421cff5a7d760b75e61fbb3a950f04",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:japanese-sparrowhawk-pre-1": {
+    "hash": "04d38549ee4240d682688bc9106f2507f386b365949a23e949029e9d6d0c79b9",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:japanese-sparrowhawk-pre-2": {
+    "hash": "307379ff8aeaf9b1977171c0f7ba580c4aad23aca8c2645c9a91d3eb06873d88",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:japanese-sparrowhawk-pre-3": {
+    "hash": "e5be102480b9c85841e55e995da0dac8605542e5b2aac1ede5ce3a665e2ca84f",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:jerdons-baza-post-1": {
+    "hash": "d5e3db37f7c5d1b3db20abf1d63f56a65cd4fc71c918da57f6f9075a621f9214",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:jerdons-baza-post-2": {
+    "hash": "933a3ad54ff2e13bc207f125bb0781d3b7ef0632b22d42b9e3598bcb36ae83df",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:jerdons-baza-post-3": {
+    "hash": "199c302aad9f6bd949a630e4f4fae0092eaf7307599c74b25648478228a1db5e",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:jerdons-baza-pre-1": {
+    "hash": "2973c9d7214c44eb59c35985dd782fae0890ecaa789d227447f5b675bf0f60f2",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:jerdons-baza-pre-2": {
+    "hash": "9ef207018fb4d74789717cf2c8a4d44d4764a770927205ae6adbf539d952c361",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:jerdons-baza-pre-3": {
+    "hash": "6516d43a3a2fd8e658e7ebc04c3dccfa0dcc6645e992a21b7f6545904a04f272",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:king-quail-post-1": {
+    "hash": "3209e7a1f6d6a9661cdae994755ad8c40dd8a9d31ea824f5a20bd48b5dca985e",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:king-quail-post-2": {
+    "hash": "25914f14efbc64d194b53869a2c6bb69b1cba14b9449fd5fac393276f0ac2cb0",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:king-quail-post-3": {
+    "hash": "8728c0d9e6eaef1abb435411981d6fc37e995bc116b616f01e0f719d2a7b52a2",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:king-quail-pre-1": {
+    "hash": "34c577c55ce218648368bc0f5922c595ca7ba9625f90d2dd4b2e63a392697c89",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:king-quail-pre-2": {
+    "hash": "e3816504f5eacda44d3b853069e1a45d24d479b6eedd5cd5258971a0f2a3b5e8",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:king-quail-pre-3": {
+    "hash": "663dd34ea8bd8d2f24f534e1757249432f6eb78ce94955a244cd844d859dcfc1",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:lesser-kestrel-post-1": {
+    "hash": "384a0aa4ae6195f4a7f6d86041a7d7e2358e5485109f75135f8a9751c075b710",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:lesser-kestrel-post-2": {
+    "hash": "4bc71bda7f87ea27b087c98f43f680c9337092f4ba4b189108ce690a2346ce1f",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:lesser-kestrel-post-3": {
+    "hash": "2be25ff0b174e39f7108c964a38862a0e53719c82c2f6a294a0160ad1d70ad2f",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:lesser-kestrel-pre-1": {
+    "hash": "e5ddae3c56a7e32cacc7010754322d8872d7efd399ab908269e7daa46c5552d1",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:lesser-kestrel-pre-2": {
+    "hash": "ab5dd3c85905a4f14654508653eefdc0e49121a2f3497a293f337760174296be",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:lesser-kestrel-pre-3": {
+    "hash": "fb22633d9c9b691cc3c99c3d7451b296811a25dbe2de79b01443a520609685a6",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:northern-boobook-post-1": {
+    "hash": "eb5e724b673a8cfb76bd046f3a462c04e3c32f2cb61d69b9bc597d15b85e8207",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:northern-boobook-post-2": {
+    "hash": "01db70f3e98e44b7ca3d2a71365529bf9b3dc70525ca5017305d6fd7babf92d9",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:northern-boobook-post-3": {
+    "hash": "ccff0fb8f9190ff1648124326876082305f6ba30642e56582217d3c0135e1cd3",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:northern-boobook-pre-1": {
+    "hash": "5a6ab51fc40e34e9a432e21f669dbc6588ba07709d4ed5a0aa8b04c008632cb2",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:northern-boobook-pre-2": {
+    "hash": "e41945df02e2db9ab0be432f97b8a7a1e7164b4f17e4aef724cbd62000d433dc",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:northern-boobook-pre-3": {
+    "hash": "8ac7553da21778215358cf314336de41354e07714cae6c3f982937a8ef86bb12",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:oriental-scops-owl-post-1": {
+    "hash": "f1e4f5af798cbe80bda18d30020c2282952c66bbb85bc42db024ef66c74ebe6f",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:oriental-scops-owl-post-2": {
+    "hash": "75a73facdbe9618310ebdd432034b4ae9a6e807ab1d23847aacbf0b70a87d59b",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:oriental-scops-owl-post-3": {
+    "hash": "7b7cd8c4baf39705031f3317bbd4b90e62ebebe3fa29073a4e8a74547859a853",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:oriental-scops-owl-pre-1": {
+    "hash": "c7b20ee2648817e83e5b2671093378df3ca9bfc26b2e073ff4616632f37249c9",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:oriental-scops-owl-pre-2": {
+    "hash": "4098e890253810bca758b4e6b7f604b3f84d858f374477b901613a610fbd1c68",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:oriental-scops-owl-pre-3": {
+    "hash": "0c6093b9df03febf4f72058b5dc37993e2a5321ccc256d8befae3801e6607283",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:osprey-post-1": {
+    "hash": "6884d046e8311bf18bf18b3136a04c2c3db3595fb30ce0db3e84cf2f9b0b532c",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:osprey-post-2": {
+    "hash": "0485642ba3ce8b6b346480a4cd460130472800535bf058c86d0ef483e0d78be7",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:osprey-post-3": {
+    "hash": "c114081dcbb2d2b010092a62ad9576657f9533b2ec497dd6aaf2f5733a9dd19b",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:osprey-pre-1": {
+    "hash": "7c3c02dde2da488214850a70d20bfacc651736e7247abb3215a6a22670322ff8",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:osprey-pre-2": {
+    "hash": "488f06ce56e6d285488acb0ee8a1cff9afde10465bbf5601872a37a92d756dd3",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:osprey-pre-3": {
+    "hash": "0b9ecbd1394ef9bfa5f1933c915bc7d65da76f35de330c05a05061b1b662ffeb",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:peregrine-falcon-post-1": {
+    "hash": "25cb200d8960c652266b843529b6c2c7d5717a5a90f322829c8bd7eb60f250c9",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:peregrine-falcon-post-2": {
+    "hash": "35d36e606bf46dd49a9edd7ab4ed6b29d2eef9b4e6aa687ba3431b4bc39ca960",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:peregrine-falcon-post-3": {
+    "hash": "378a47aad3c30f95c7edc356833fedd40f27bd92d200ed05d4323ac0960821e4",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:peregrine-falcon-pre-1": {
+    "hash": "220ad02745e88c60285a13990307e9b69baba42f4a4ca5352fe7788ef2f0d14b",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:peregrine-falcon-pre-2": {
+    "hash": "0ebf80607b3a11e1cbe4bc227d1f028271fa942527b7f828913ff910a10bd9eb",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:peregrine-falcon-pre-3": {
+    "hash": "33910d75594b19fdc47b80189b7a81ebae858cc761614df4f94b135ab8ba2b7b",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:pied-harrier-post-1": {
+    "hash": "fff10c9f533a0ae1fd364c5ffd5573e6a1014118664f9d97ac1d3c5ffb933da2",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:pied-harrier-post-2": {
+    "hash": "912848b140c0deeb860fd13f61045c707cb017a2febe688d3fb936338bf9a862",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:pied-harrier-post-3": {
+    "hash": "0244604c975d0fefb78083ed2244a04b75a803320e91c51484c0aab43e499dda",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:pied-harrier-pre-1": {
+    "hash": "4e5d2141663feeed6e2351af98535d339e41e32c384352613a94b5c0a71e2c8a",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:pied-harrier-pre-2": {
+    "hash": "122373a689cf004a989b26ee7e44b9a18489f6136b448100a85c13baee9a208a",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:pied-harrier-pre-3": {
+    "hash": "b6bb2c0521f5b58e1ce07f3b33a19185936b2ea95ba279128dbd9d2403eff9b6",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:rufous-bellied-eagle-post-1": {
+    "hash": "fd844e1050aeb62b73c9df101a12fd9472713335fa04d7f21117386383b13c8b",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:rufous-bellied-eagle-post-2": {
+    "hash": "0e76e490e796260182aa9a95e73e1759aaad833a2037ae817a56b52529df574c",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:rufous-bellied-eagle-post-3": {
+    "hash": "477e84ab6ea7d7f1b9ddfb01e9da5e24a05b2da18e1d82be2c16a843f28402ad",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:rufous-bellied-eagle-pre-1": {
+    "hash": "7eb694af80cef4dd9bfcb775df4a67f3a6ae06c658e4a97e39fdb8c2804d6246",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:rufous-bellied-eagle-pre-2": {
+    "hash": "1e8a6489ed2953b676133bc3910ccd0bb942ac5e1f0903e84aa9c6be5a77cae0",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:rufous-bellied-eagle-pre-3": {
+    "hash": "6fca5005e661723c0f103db70b667ebfe18d52130f0a5b356a8cd57330639d16",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:shikra-post-1": {
+    "hash": "01dc517c6f539198bff3cdde89ea6d722c231af1916f19a0ffd03c44831e79b1",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:shikra-post-2": {
+    "hash": "7be49bdb401401d90ad08aeadc560fb4e7475679caf75894f7eb5c8c945df5f4",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:shikra-post-3": {
+    "hash": "19d71c43b33d7cea86db5b75bebee18ff1aea765ca01962c7c2bf52e390a05e9",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:shikra-pre-1": {
+    "hash": "d88c38c3909976f11e2453dcf52bf99ed8622189f01ffa87ea6d32b252ce37cc",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:shikra-pre-2": {
+    "hash": "b223e822527648986675bd78c3b846880e2d9a4a7ec22354dc2aacb143cd9cea",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:shikra-pre-3": {
+    "hash": "39c1a938157721f458d3278037f13e244a8782ed64aea25de7a884477fc93387",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:short-eared-owl-post-1": {
+    "hash": "f314ebdf2e4b3b4856fd5551fb2d30a84c31a65807f10eebdc6e40b54549585b",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:short-eared-owl-post-2": {
+    "hash": "4318c465007c9a8fbfcb099af0382f700c1bb9e0d8b7f7cadbb8a6e7fe98ee02",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:short-eared-owl-post-3": {
+    "hash": "1a87d1ee1a950055674335c9f128672d01217db608f937624274c5d356b2af8e",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:short-eared-owl-pre-1": {
+    "hash": "37bf9217648a2310d12848a8aa7494cdc53a1ca62b9e14f51d0fcd7f2d5b056a",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:short-eared-owl-pre-2": {
+    "hash": "fa8ddd157fa71adb5d118c821f8ed3c85b79205f9bf3f7ff537af2c656a83c07",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:short-eared-owl-pre-3": {
+    "hash": "1aaf4fd88b42abee7f2a16244dd7911456f992aa69bfde87ba763fc94fe471be",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:short-toed-snake-eagle-post-1": {
+    "hash": "87f14965fa317a8d8d9c9fcc0df519d85261460ede3779b9114595f05ef54174",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:short-toed-snake-eagle-post-2": {
+    "hash": "a29110ccf29e037f8e81adef6d4880a1ee8dde2dd2dae1ab392ba1a08d70a02e",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:short-toed-snake-eagle-post-3": {
+    "hash": "5b66fe40ba9a78e2a29f59f9d1042ce0fba4c09aed4ed559c5a3164dfd665a29",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:short-toed-snake-eagle-pre-1": {
+    "hash": "df8219b3367da544039ad789b2b44eab1d8060f6f334e96fe16b6459ce72131b",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:short-toed-snake-eagle-pre-2": {
+    "hash": "65605a6a935a66c2324a1b75f60e5758ad3fd1da01167f19109e17920ad5a0b9",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:short-toed-snake-eagle-pre-3": {
+    "hash": "7703023e3d5fd6c7b0f05da204f2db4e6a95ba48689426c067413380cb50b378",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:spotted-wood-owl-post-1": {
+    "hash": "a9e477b3ed438414b295e77840eec9d3bea72475d30864752d0e978502e9ac0f",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:spotted-wood-owl-post-2": {
+    "hash": "c9dba8815573e07f972a16f52962d95e59eda8af61c9b858275fa69e0ed0e599",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:spotted-wood-owl-post-3": {
+    "hash": "9a314ed5b7b3a759ae7a336379cd4ab4998cd84118ed8cb5102bd9d76f0eb08e",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:spotted-wood-owl-pre-1": {
+    "hash": "76eee84f22cf3c035f3f6d29af27e30fa3428f3d08d82f268fd38013cb0ffb96",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:spotted-wood-owl-pre-2": {
+    "hash": "2a6e265354381c98c2a8ebac3c0f9687d2f56e4203ee28b33817f7a8922217ed",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:spotted-wood-owl-pre-3": {
+    "hash": "cbcd383906d4d9772a4caf5ee997a217ec735dafe428be6fc2a28e4a3e4d41d0",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:steppe-eagle-post-1": {
+    "hash": "056fdaaed368092675c0702846e0b9a759c9a2a075918574440e8b0829749f66",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:steppe-eagle-post-2": {
+    "hash": "552ee4b786dcddc499809421daf40878add504aaef23e54884f3a18b0294bda7",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:steppe-eagle-post-3": {
+    "hash": "9a4ae1df3bc8946a75fe772c48b3f0c2501298005af1bda132589df312610d2a",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:steppe-eagle-pre-1": {
+    "hash": "86c4425438e1fdb63e6043da0c02c4b9c72cd5cc371941ea36a0c43e2edd2592",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:steppe-eagle-pre-2": {
+    "hash": "2b96bbdc6bce59b78b83eda863c07711213ba001bb18d99e9cc20a373717cdcf",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  },
+  "quiz:steppe-eagle-pre-3": {
+    "hash": "d26cf5aba2bbd57f413b3ce2f96630dc78a0fb7c2014983a50bff334d4566d0f",
+    "recordedAt": "2026-09-07T10:01:27.343Z",
+    "revision": 1
+  }
+}

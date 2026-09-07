@@ -1,0 +1,137 @@
+{
+  "scope": "Follow-up of the 200 incomplete profile claims",
+  "reviews": [
+    {
+      "contentId": "profile:plantain-squirrel",
+      "claim": "identification",
+      "claimText": "A bushy tail and a pale stripe above a darker stripe on each flank are useful clues. Check side markings, rather than relying on coat colour alone.",
+      "hash": "826a1c195c073d9f8276241336ab05501502fe702f52e849bf62cc8ad05ed76c",
+      "sourceUrl": "https://zenodo.org/records/6818736",
+      "additionalSources": [
+        "https://biodiversitysg.nparks.gov.sg/our-biodiversity/mammals/other-mammals/plantain-squirrel/"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The Handbook taxonomic treatment explicitly places the pale flank stripe above the black stripe and describes regional colour variation. NParks supplies the bushy tail.",
+      "reviewedAt": "2026-09-07T07:37:34.885Z"
+    },
+    {
+      "contentId": "profile:horsfields-flying-squirrel",
+      "claim": "identification",
+      "claimText": "Dark brown upperparts, a paler orange-buff or whitish underside and rusty edges to the gliding membrane. A rounded head, large eyes and long, flattened, feather-like tail complete its outline.",
+      "hash": "46ea3fedf7fa3f3455983fa8ccfd777a9f647b9852677a651d79b7a2bd76b9e7",
+      "sourceUrl": "https://www.nparks.gov.sg/florafaunaweb/fauna/2/3/236",
+      "additionalSources": [
+        "https://www.ecologyasia.com/verts/mammals/horsfield%27s-flying-squirrel.htm"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "NParks confirms both underside colours, rusty membrane edges, round head and flattened feather-like tail. The field account adds the large eyes.",
+      "reviewedAt": "2026-09-07T07:37:34.885Z"
+    },
+    {
+      "contentId": "profile:black-eyed-litter-frog",
+      "claim": "behaviour",
+      "claimText": "Lives among fallen leaves. Its rapid rattling call can be easier to notice than its camouflaged body.",
+      "hash": "18a50e31716339f64324064fca672764144f5be45a7b862dcfeedb15b0b4e479",
+      "sourceUrl": "https://www.nparks.gov.sg/florafaunaweb/fauna/5/0/5023",
+      "additionalSources": [
+        "https://www.ecologyasia.com/html-menu/frog-calls.htm"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "NParks supports leaf-litter habitat. The dated Singapore field recording documents the rapid rattling call; detectability is viewing advice, not a measured probability.",
+      "reviewedAt": "2026-09-07T07:37:34.885Z"
+    },
+    {
+      "contentId": "profile:common-house-gecko",
+      "claim": "watch",
+      "claimText": "Do not catch it by the tail. Avoid glue traps and let it move away normally.",
+      "hash": "c56c06a40433120def66731ddd349e6a584e6c7bd38912563ac0d95ecc6bb3f7",
+      "sourceUrl": "https://juronglakegardens.nparks.gov.sg/reptiles-and-amphibians/",
+      "additionalSources": [
+        "https://acres.org.sg/core/wp-content/uploads/2023/12/FYEMar2023_ACRES_Final_AnnualReport.pdf",
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "NParks documents defensive tail loss; ACRES records gecko rescue from glue traps. Non-handling and trap avoidance follow those risks.",
+      "reviewedAt": "2026-09-07T07:37:34.885Z"
+    },
+    {
+      "contentId": "profile:javan-myna",
+      "claim": "diet",
+      "claimText": "An adaptable omnivore eating insects, fruit and other available food.",
+      "hash": "a9ae6c3f891fb0e5a074d84687c1614d58eb17bff62c1381154d919118449ad7",
+      "sourceUrl": "https://besgroup.org/2018/08/07/how-the-urban-jungle-drives-evolution-2-javan-mynas/",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The observer documents fruit, insects and human food use with linked photographs. This supports the omnivore summary, not measured diet proportions.",
+      "reviewedAt": "2026-09-07T07:37:34.886Z"
+    },
+    {
+      "contentId": "profile:javan-myna",
+      "claim": "ecologicalRole",
+      "claimText": "An urban omnivore that also competes for food and nesting cavities.",
+      "hash": "a9ae6c3f891fb0e5a074d84687c1614d58eb17bff62c1381154d919118449ad7",
+      "sourceUrl": "https://www.nparks.gov.sg/publications-resources/articles/native-or-not",
+      "additionalSources": [
+        "https://besgroup.org/2018/08/07/how-the-urban-jungle-drives-evolution-2-javan-mynas/"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "NParks identifies competition for food and nesting resources; the direct observations confirm varied feeding and cavity use.",
+      "reviewedAt": "2026-09-07T07:37:34.886Z"
+    },
+    {
+      "contentId": "profile:house-crow",
+      "claim": "ecologicalRole",
+      "claimText": "A scavenger and omnivore, with possible effects on other birds’ eggs and young.",
+      "hash": "fb9eecc923999982bc42b1195e91adb1c24a0cbbe07a0a973e22aa38393609f3",
+      "sourceUrl": "https://lkcnhm.nus.edu.sg/wp-content/uploads/sites/10/2023/07/NIS-2023-0066.pdf",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The NUS record documents predation and reviews local egg and nestling records, alongside carrion and refuse feeding. No population effect is quantified.",
+      "reviewedAt": "2026-09-07T07:37:34.886Z"
+    },
+    {
+      "contentId": "profile:black-naped-oriole",
+      "claim": "reproduction",
+      "claimText": "Builds a cup-like nest suspended in a fork of branches. Eggs and young stay protected within the nest.",
+      "hash": "2ee10f8e050df2183f8f527d33337117c7db5ade481d9c00321d5ef2e744c3be",
+      "sourceUrl": "https://avifauna.hkbws.org.hk/species/0250/032400",
+      "additionalSources": [
+        "https://biodiversitysg.nparks.gov.sg/our-biodiversity/birds/other-birds/black-naped-oriole/"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The bird society describes the suspended cup nest and large-tree use. Retaining nesting trees and food plants is a habitat recommendation, not a Singapore decline estimate.",
+      "reviewedAt": "2026-09-07T07:37:34.886Z"
+    },
+    {
+      "contentId": "profile:black-naped-oriole",
+      "claim": "pressures",
+      "claimText": "Retention of mature trees and food plants supports nesting and foraging.",
+      "hash": "2ee10f8e050df2183f8f527d33337117c7db5ade481d9c00321d5ef2e744c3be",
+      "sourceUrl": "https://avifauna.hkbws.org.hk/species/0250/032400",
+      "additionalSources": [
+        "https://biodiversitysg.nparks.gov.sg/our-biodiversity/birds/other-birds/black-naped-oriole/"
+      ],
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "The bird society describes the suspended cup nest and large-tree use. Retaining nesting trees and food plants is a habitat recommendation, not a Singapore decline estimate.",
+      "reviewedAt": "2026-09-07T07:37:34.886Z"
+    },
+    {
+      "contentId": "profile:red-junglefowl",
+      "claim": "globalStatus",
+      "claimText": "Least Concern · 2024",
+      "hash": "33cddcc72930793400f2533bea86c99c100c3347bab12bd02f1a8a2a00ce3a4b",
+      "sourceUrl": "https://www.allaboutbirds.org/guide/Red_Junglefowl/lifehistory",
+      "status": "supported",
+      "reviewer": "Codex online source comparison",
+      "note": "Cornell explicitly gives Least Concern and cites BirdLife's 2024 IUCN record, e.T22679199A263732457. The year is the cited publication year.",
+      "reviewedAt": "2026-09-07T07:37:34.886Z"
+    }
+  ]
+}

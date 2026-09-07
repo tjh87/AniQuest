@@ -1,0 +1,969 @@
+{
+  "checkedAt": "2026-09-07T09:58:07.281Z",
+  "source": "Bird Society of Singapore",
+  "records": [
+    {
+      "id": "black-winged-kite",
+      "name": "Black-winged Kite",
+      "scientific": "Elanus caeruleus",
+      "family": "Accipitridae",
+      "occurrence": "Uncommon resident",
+      "status": "Least Concern",
+      "citation": "BirdLife International 2019",
+      "identification": "A white raptor with grey upperparts and black shoulders; adults have a red iris, yellow cere and legs. In flight, underparts and underwing coverts white with black primaries. Juvenile has white markings on upperparts, brown-washed head and breast, and pale yellow eyes.",
+      "habitat": "Grassland and open country.",
+      "behaviour": "Frequently seen hovering when hunting. Nests on trees in open habitat; adults often pass food to fledglings mid-air.",
+      "fact": "Frequently seen hovering when hunting. Nests on trees in open habitat; adults often pass food to fledglings mid-air.",
+      "sourceUrl": "https://singaporebirds.com/species/black-winged-kite",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/158/imageca59e422-6db7-480f-81a8-a77600fd69a4-fd70eccd-fbf2-4b44-a54f-e1923cc7ddaa/w400.webp",
+        "alt": "Juvenile Black-winged Kite at Tuas Grassland",
+        "photographer": "Francis Yap",
+        "sourceUrl": "https://singaporebirds.com/species/black-winged-kite"
+      },
+      "missing": []
+    },
+    {
+      "id": "jerdons-baza",
+      "name": "Jerdon's Baza",
+      "scientific": "Aviceda jerdoni",
+      "family": "Accipitridae",
+      "occurrence": "Uncommon migrant",
+      "status": "Least Concern",
+      "citation": "BirdLife International 2020",
+      "identification": "Has pale brown underparts with dense dark brown barring, darker brown upperparts, with distinct crest typically seen when perched. Underwing coverts strongly marked dark brown. Paddle-shaped wings are highly distinctive when seen in flight.",
+      "habitat": "Woodland, parkland, gardens, and open areas with scattered trees.",
+      "behaviour": "Wintering birds occasionally form small groups. Hunts from a concealed perch, making short sallies to ground or foliage for prey.",
+      "fact": "Wintering birds occasionally form small groups. Hunts from a concealed perch, making short sallies to ground or foliage for prey.",
+      "sourceUrl": "https://singaporebirds.com/species/jerdons-baza",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/159/imagec603a5b9-e9b1-47e0-9da4-c886bc59527f-bae967fc-6d61-474e-a34a-c6946a093765/w400.webp",
+        "alt": "Jerdon’s Baza at Bishan Park",
+        "photographer": "Francis Yap",
+        "sourceUrl": "https://singaporebirds.com/species/jerdons-baza"
+      },
+      "missing": []
+    },
+    {
+      "id": "black-baza",
+      "name": "Black Baza",
+      "scientific": "Aviceda leuphotes",
+      "family": "Accipitridae",
+      "occurrence": "Common migrant",
+      "status": "Least Concern",
+      "citation": "BirdLife International 2021",
+      "identification": "Distinctive small, black raptor with a white upper breast, a black band on the lower breast, and brown and white barring on the belly. Crest prominent when perched. Upperparts black with chestnut and white patches on secondaries. Males have fewer belly bands than females. Juvenile duller and browner.",
+      "habitat": "Woodland and wooded areas; also roosting communally in trees, particularly around wooded patches with dense vegetation, on passage and in winter.",
+      "behaviour": "Often migrates in large flocks. Hunts insects by sallying from a high perch.",
+      "fact": "Often migrates in large flocks. Hunts insects by sallying from a high perch.",
+      "sourceUrl": "https://singaporebirds.com/species/black-baza",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/160/image8d622eac-546e-4530-bc4c-696c3dcdf603-800d68e2-52a4-4cde-95df-13dd22da1a76/w400.webp",
+        "alt": "Black Baza at Faber Hill",
+        "photographer": "Francis Yap",
+        "sourceUrl": "https://singaporebirds.com/species/black-baza"
+      },
+      "missing": []
+    },
+    {
+      "id": "crested-honey-buzzard",
+      "name": "Crested Honey Buzzard",
+      "scientific": "Pernis ptilorhynchus",
+      "family": "Accipitridae",
+      "occurrence": "Very common migrant and uncommon visitor",
+      "status": "Least Concern",
+      "citation": "BirdLife International 2021",
+      "identification": "Has a small pigeon-like head, long slightly rectangular wings with six primary fingers, and long tail. Very variable plumage which ranges from white to rufous to black, with streaked or barred underside; upperparts brown to dark brown. For the migratory subspecies orientalis, male has dark reddish-brown iris and two thick dark tail bands; female has yellow iris and three thinner dark tail bands. The local torquatus race has a distinctive crest.",
+      "habitat": "Woodland; anywhere in Singapore including urban areas during migration.",
+      "behaviour": "One of the most common migrants in Singapore; often travels in large flocks. Raids bee and hornet hives for larvae, scanning from a perch before following insects to their nest.",
+      "fact": "One of the most common migrants in Singapore; often travels in large flocks. Raids bee and hornet hives for larvae, scanning from a perch before following insects to their nest.",
+      "sourceUrl": "https://singaporebirds.com/species/crested-honey-buzzard",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/161/image78ae342b-e6df-4c67-94dc-e980efa2718f-e27cf465-59b9-4102-bbb6-73ab0e3b0102/w400.webp",
+        "alt": "Crested Honey Buzzard at Jelutong Tower",
+        "photographer": "Francis Yap",
+        "sourceUrl": "https://singaporebirds.com/species/crested-honey-buzzard"
+      },
+      "missing": []
+    },
+    {
+      "id": "cinereous-vulture",
+      "name": "Cinereous Vulture",
+      "scientific": "Aegypius monachus",
+      "family": "Accipitridae",
+      "occurrence": "Vagrant",
+      "status": "Near Threatened",
+      "citation": "BirdLife International 2021",
+      "identification": "Large, uniformly dark brown vulture with a hefty bill and wedge-shaped tail. Adult has pale grey-brown crown with dark brown face and dark grey bill. Juvenile plumage is darker, almost black, with a dark bare-skin face mask and pink cere that gradually turns blue-grey with age. In flight, uniformly dark brown with very long, broad rectangular wings, a small protruding head, and a short wedge-shaped tail.",
+      "habitat": "Hill and mountain forests, scrub, meadows, and grasslands.",
+      "behaviour": "Feeds on carrion, foraging solitarily by soaring and gliding over wide areas; locates food largely by vision.",
+      "fact": "Feeds on carrion, foraging solitarily by soaring and gliding over wide areas; locates food largely by vision.",
+      "sourceUrl": "https://singaporebirds.com/species/cinereous-vulture",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/406/imagef8669784-d5ea-4cae-9204-3b79a00c078a-634f3d22-99a7-4000-88cf-af9b89b48cee/w400.webp",
+        "alt": "Cinereous Vulture at Singapore Botanic Gardens",
+        "photographer": "Francis Yap",
+        "sourceUrl": "https://singaporebirds.com/species/cinereous-vulture"
+      },
+      "missing": []
+    },
+    {
+      "id": "himalayan-vulture",
+      "name": "Himalayan Vulture",
+      "scientific": "Gyps himalayensis",
+      "family": "Accipitridae",
+      "occurrence": "Vagrant",
+      "status": "Near Threatened",
+      "citation": "BirdLife International 2021",
+      "identification": "Juvenile has pale cream head and long slender neck; dark brown upperparts and underparts with whitish streaks; black flight and tail feathers. In flight, very long broad wings and short wedge-shaped tail; whitish-streaked underwing coverts contrast with blackish flight feathers.",
+      "habitat": "Open country. May be encountered in flight anywhere in Singapore.",
+      "behaviour": "Feeds on carrion, soaring and gliding over wide areas to locate carcasses. Often travels in small groups.",
+      "fact": "Feeds on carrion, soaring and gliding over wide areas to locate carcasses. Often travels in small groups.",
+      "sourceUrl": "https://singaporebirds.com/species/himalayan-vulture",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/162/image975a3173-7ce8-4f5a-aaa8-b4c47719da2f-c2bf4307-33b4-402c-b98c-8f026758d54a/w400.webp",
+        "alt": "Himalayan Vulture at Hindhede Quarry",
+        "photographer": "Francis Yap",
+        "sourceUrl": "https://singaporebirds.com/species/himalayan-vulture"
+      },
+      "missing": []
+    },
+    {
+      "id": "crested-serpent-eagle",
+      "name": "Crested Serpent Eagle",
+      "scientific": "Spilornis cheela",
+      "family": "Accipitridae",
+      "occurrence": "Uncommon resident",
+      "status": "Least Concern",
+      "citation": "BirdLife International 2016",
+      "identification": "Adult has mostly dark greyish-brown plumage, black tail with broad white central band, prominent yellow cere, facial skin and eyes, short blackish crest, and whitish spots on the lower breast and belly. In flight, the broad white underwing band contrasts with broad black trailing edge. Juvenile has duller, whitish-fringed upperparts and whitish underparts with dark streaks.",
+      "habitat": "Forests, wooded areas, gardens, and parks.",
+      "behaviour": "Feeds primarily on reptiles like snakes, lizards and frogs.",
+      "fact": "Feeds primarily on reptiles like snakes, lizards and frogs.",
+      "sourceUrl": "https://singaporebirds.com/species/crested-serpent-eagle",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/164/imageca8cb724-5fc2-4778-bc6d-34fd67e1edcf-a056cfe7-2d4f-4210-8b16-3d4d182d2840/w400.webp",
+        "alt": "Juvenile Crested Serpent Eagle at Henderson Waves",
+        "photographer": "Jared Tan",
+        "sourceUrl": "https://singaporebirds.com/species/crested-serpent-eagle"
+      },
+      "missing": []
+    },
+    {
+      "id": "short-toed-snake-eagle",
+      "name": "Short-toed Snake Eagle",
+      "scientific": "Circaetus gallicus",
+      "family": "Accipitridae",
+      "occurrence": "Vagrant",
+      "status": "Least Concern",
+      "citation": "BirdLife International 2021",
+      "identification": "An eagle with a relatively large, owl-like head, broad wings, and variable plumage. Pale morph has greyish-brown upperparts, head and upper breast contrasting with pale whitish underparts, orange-yellow eyes, dark underwing barring, and a pale tail with three dark bands. Dark morph resembles pale morph but has a darker hood.",
+      "habitat": "Open country, wooded ridges, and forest edges. May also appear over reclaimed land.",
+      "behaviour": "Usually observed soaring and circling at great heights. Specialises on snakes and lizards, often hovering to survey terrain before parachuting onto prey.",
+      "fact": "Usually observed soaring and circling at great heights. Specialises on snakes and lizards, often hovering to survey terrain before parachuting onto prey.",
+      "sourceUrl": "https://singaporebirds.com/species/short-toed-snake-eagle",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/425/imagead9420d4-07b0-4969-85c6-c0b4d0dfaf1e-c78c3064-8b4b-44cb-a234-89e1ccc053e0/w400.webp",
+        "alt": "Short-toed Snake Eagle at Jelutong Tower",
+        "photographer": "Francis Yap",
+        "sourceUrl": "https://singaporebirds.com/species/short-toed-snake-eagle"
+      },
+      "missing": []
+    },
+    {
+      "id": "rufous-bellied-eagle",
+      "name": "Rufous-bellied Eagle",
+      "scientific": "Lophotriorchis kienerii",
+      "family": "Accipitridae",
+      "occurrence": "Rare migrant and rare visitor",
+      "status": "Near Threatened",
+      "citation": "BirdLife International 2020",
+      "identification": "Adult has a slight crest, blackish head-sides and upperparts, whitish throat and upper breast with a rufous-chestnut underwing coverts and belly to vent. Juvenile has browner upperparts, whitish head-sides with dark eyestripe, and mostly whitish underparts and wing-coverts.",
+      "habitat": "Forests and woodland.",
+      "behaviour": "When hunting, stoops from height or still-hunts from a perch.",
+      "fact": "When hunting, stoops from height or still-hunts from a perch.",
+      "sourceUrl": "https://singaporebirds.com/species/rufous-bellied-eagle",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/166/imaged5c5c8b8-e220-4e37-83c5-0d66028cf793-f4805d42-462b-4d1d-b026-bc3036d9757b/w400.webp",
+        "alt": "Rufous-bellied Eagle at Malaysia",
+        "photographer": "Keita Sin",
+        "sourceUrl": "https://singaporebirds.com/species/rufous-bellied-eagle"
+      },
+      "missing": []
+    },
+    {
+      "id": "greater-spotted-eagle",
+      "name": "Greater Spotted Eagle",
+      "scientific": "Clanga clanga",
+      "family": "Accipitridae",
+      "occurrence": "Rare migrant",
+      "status": "Vulnerable",
+      "citation": "BirdLife International 2021",
+      "identification": "A large eagle with overall dark brown plumage, dark brown underwing coverts, slightly pale primaries and secondaries with dark wingtips, distinctive patch at the base of outer primaries, and a white vent. There is also a rare fulvescens morph which has a mostly buffish to rufous body and wing coverts, and contrasting black flight feathers and tail.",
+      "habitat": "Open country.",
+      "behaviour": "Takes carrion; also forages opportunistically over open ground.",
+      "fact": "Takes carrion; also forages opportunistically over open ground.",
+      "sourceUrl": "https://singaporebirds.com/species/greater-spotted-eagle",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/167/imageeba0ad5e-1fd1-4e28-adaf-d80b3e600054-198f21f5-1101-47e6-8c15-c67d813cb785/w400.webp",
+        "alt": "Greater Spotted Eagle at Henderson Waves",
+        "photographer": "Adrian Silas Tay",
+        "sourceUrl": "https://singaporebirds.com/species/greater-spotted-eagle"
+      },
+      "missing": []
+    },
+    {
+      "id": "booted-eagle",
+      "name": "Booted Eagle",
+      "scientific": "Hieraaetus pennatus",
+      "family": "Accipitridae",
+      "occurrence": "Rare migrant",
+      "status": "Least Concern",
+      "citation": "BirdLife International 2021",
+      "identification": "A small crestless raptor with a long, square-cut tail and diagnostic pale shoulder spots ('headlights') on the upperwing; both morphs also show pale uppertail coverts. Dark morph has a uniform dark brown head and body, blackish flight feathers, and pale brown underwing coverts. Pale morph has mostly whitish underparts with fine brownish streaks, blackish flight feathers and whitish underwing coverts.",
+      "habitat": "Reclaimed land and open country.",
+      "behaviour": "Usually solitary, circling and soaring on thermals.",
+      "fact": "Usually solitary, circling and soaring on thermals.",
+      "sourceUrl": "https://singaporebirds.com/species/booted-eagle",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/426/image919e5148-435d-4b3c-8132-eeb070e8b748-17d6a725-04a2-4ab1-a202-781da9f56a66/w400.webp",
+        "alt": "Dark morph Booted Eagle at Punggol Barat",
+        "photographer": "Francis Yap",
+        "sourceUrl": "https://singaporebirds.com/species/booted-eagle"
+      },
+      "missing": []
+    },
+    {
+      "id": "steppe-eagle",
+      "name": "Steppe Eagle",
+      "scientific": "Aquila nipalensis",
+      "family": "Accipitridae",
+      "occurrence": "Vagrant",
+      "status": "Endangered",
+      "citation": "BirdLife International 2021",
+      "identification": "Adult resembles Eastern Imperial Eagle but is slightly duller, lacks prominent white markings on upper scapulars, and has a small rufous-buff neck patch, paler throat, and dark undertail-coverts. Juvenile also resembles juvenile Eastern Imperial Eagle but lacks dark streaks on nape, neck, breast, and wing coverts; underwing shows a broad whitish wingbar between coverts and flight feathers.",
+      "habitat": "Reclaimed land and open country.",
+      "behaviour": "Takes carrion.",
+      "fact": "Takes carrion.",
+      "sourceUrl": "https://singaporebirds.com/species/steppe-eagle",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/427/image49f68200-46b3-490e-aa4f-5a581f5b4069-c654c0b0-b384-4cfa-9151-76092fd4d85e/w400.webp",
+        "alt": "Juvenile Steppe Eagle at Batang Tiga, Malaysia",
+        "photographer": "Francis Yap",
+        "sourceUrl": "https://singaporebirds.com/species/steppe-eagle"
+      },
+      "missing": []
+    },
+    {
+      "id": "eastern-imperial-eagle",
+      "name": "Eastern Imperial Eagle",
+      "scientific": "Aquila heliaca",
+      "family": "Accipitridae",
+      "occurrence": "Vagrant",
+      "status": "Vulnerable",
+      "citation": "BirdLife International 2019",
+      "identification": "Adult has blackish brown plumage with a large head and bill, golden buff supercilium, ear-coverts, nape and hind neck, prominent white markings on upper scapulars, and pale undertail-coverts. Juvenile has buffish plumage with distinctive dark streaks on nape, neck, breast, and wing coverts (above and below) and dark flight feathers.",
+      "habitat": "Reclaimed land and open country near the coasts.",
+      "behaviour": "Takes carrion.",
+      "fact": "Takes carrion.",
+      "sourceUrl": "https://singaporebirds.com/species/eastern-imperial-eagle",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/168/imageb1cbf19c-3290-4875-9fe2-edf1198062df-ca24a574-9edb-43a7-9d5f-37aacfcbf3e4/w400.webp",
+        "alt": "Juvenile Eastern Imperial Eagle at Pulau Sekudu",
+        "photographer": "Francis Yap",
+        "sourceUrl": "https://singaporebirds.com/species/eastern-imperial-eagle"
+      },
+      "missing": []
+    },
+    {
+      "id": "bat-hawk",
+      "name": "Bat Hawk",
+      "scientific": "Macheiramphus alcinus",
+      "family": "Accipitridae",
+      "occurrence": "Very rare visitor",
+      "status": "Least Concern",
+      "citation": "BirdLife International 2016",
+      "identification": "A mostly black, falcon-like raptor with yellowish eyes, contrasting white throat to centre of upper breast, prominent mesial stripe, and yellow legs. Overall plumage colouration and long, pointed wings are distinctive. Juvenile is more extensively white below with a broad brown breast band.",
+      "habitat": "Open areas in or near forest, often near bat caves. Sometimes hunts over wetlands and waterbodies.",
+      "behaviour": "Crepuscular but also hunts throughout moonlit nights. Pursues bats and swiftlets aerially; also takes large insects.",
+      "fact": "Can capture and ingest a single bat in 6 seconds.",
+      "sourceUrl": "https://singaporebirds.com/species/bat-hawk",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/516/imagec733b5cf-8dcc-4a4b-87db-bb24b5248d6b-5e3a355b-d8a8-4951-b00a-dd4438337493/w400.webp",
+        "alt": "Bat Hawk at Mount Faber",
+        "photographer": "Adrian Silas Tay",
+        "sourceUrl": "https://singaporebirds.com/species/bat-hawk"
+      },
+      "missing": []
+    },
+    {
+      "id": "crested-goshawk",
+      "name": "Crested Goshawk",
+      "scientific": "Lophospiza trivirgata",
+      "family": "Accipitridae",
+      "occurrence": "Uncommon resident",
+      "status": "Least Concern",
+      "citation": "BirdLife International 2016",
+      "identification": "Adult has short crest (often depressed), slaty crown, broad dark mesial stripe, brown upperparts, bold rufous streaks on breast, and narrower dark bars on belly. Female larger, with browner-tinged crown and head-sides. Juvenile lacks mesial stripe, has browner upperparts, and plain underparts with scattered spotting. Distinguished from migratory sparrowhawks by bulging secondaries giving distinctly rounded wings and six fingers (vs. five or fewer); white undertail coverts often appear fluffy in flight.",
+      "habitat": "Forest, forest edge, and parkland.",
+      "behaviour": "Hunts from concealed perch in canopy and middle storey, launching short rapid attacks on birds, lizards, and large insects; has adapted well to disturbed parkland.",
+      "fact": "Hunts from concealed perch in canopy and middle storey, launching short rapid attacks on birds, lizards, and large insects; has adapted well to disturbed parkland.",
+      "sourceUrl": "https://singaporebirds.com/species/crested-goshawk",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/171/image07b0a16d-fc2e-4794-876f-e77b8b0992c0-9c01abef-ce08-4c1f-97c9-3406bb5ba2a2/w400.webp",
+        "alt": "Adult Crested Goshawk at Bedok North",
+        "photographer": "Francis Yap",
+        "sourceUrl": "https://singaporebirds.com/species/crested-goshawk"
+      },
+      "missing": []
+    },
+    {
+      "id": "besra",
+      "name": "Besra",
+      "scientific": "Tachyspiza virgata",
+      "family": "Accipitridae",
+      "occurrence": "Rare migrant",
+      "status": "Least Concern",
+      "citation": "BirdLife International 2021",
+      "identification": "Most Singapore records are of juveniles, which are most likely to be confused with Japanese Sparrowhawk and Shikra. Compared to juvenile Japanese Sparrowhawk, juvenile Besra has thicker dark undertail bands (visible when tail is spread), longer tail, more rounded wings, smaller head relative to body, and usually fewer primary bars. The yellow orbital ring and broader dark undertail bands separate it from juvenile Shikra. Adult plumages recall the Crested Goshawk, which is larger, shows six fingers in flight, and has more rounded wings. Male has cinnamon-rufous breast with a prominent dark mesial stripe; female is similar but is usually browner above.",
+      "habitat": "In Singapore, most likely to be seen migrating over raptor watch sites.",
+      "behaviour": "",
+      "fact": "During the fall migration, this species is much less numerous than Shikra at the raptor migration watch point in Khao Dinsor in Thailand. In Singapore, while both species are very rare, Besra is much more commonly recorded than Shikra.",
+      "sourceUrl": "https://singaporebirds.com/species/besra",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/517/image05007362-0b87-422a-9758-70175b21162a-a02aea85-7db0-4070-96a7-94099e302524/w400.webp",
+        "alt": "Besra at Mount Faber",
+        "photographer": "Jared Tan",
+        "sourceUrl": "https://singaporebirds.com/species/besra"
+      },
+      "missing": [
+        "behaviour"
+      ]
+    },
+    {
+      "id": "japanese-sparrowhawk",
+      "name": "Japanese Sparrowhawk",
+      "scientific": "Tachyspiza gularis",
+      "family": "Accipitridae",
+      "occurrence": "Common migrant",
+      "status": "Least Concern",
+      "citation": "BirdLife International 2021",
+      "identification": "Male has dark grey upperparts, pinkish-rufous barring on underparts, reddish eyes with yellow eyering, and yellow cere; mesial stripe faint or absent. Female about 15% larger, with browner upperparts, yellowish eyes, and grey-barred underparts. Juvenile has darker brown upperparts, white supercilium, streaked or spotted breast, and broken bars on flanks. In flight, shows five fingers and is broader-winged than Chinese Sparrowhawk (which has four fingers). Juveniles may be confused with juvenile Besra and juvenile Shikra, but those species have proportionally smaller heads, more rounded wings, and proportionally longer tail. Eurasian Sparrowhawk is larger, lacks mesial stripe, has six fingers, and a longer tail. Crested Goshawk differs by having six fingers, very prominent mesial stripe, and much more rounded wings.",
+      "habitat": "Forest, forest edge, wooded areas and open country. In Singapore, may be observed anywhere during the migratory season.",
+      "behaviour": "",
+      "fact": "",
+      "sourceUrl": "https://singaporebirds.com/species/japanese-sparrowhawk",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/172/image5f0ab58a-137a-4c9c-8901-33350f20c2c9-67bfc7f0-cb2c-4c39-9c8c-f522f0e03bc3/w400.webp",
+        "alt": "Female Japanese Sparrowhawk at Jelutong Tower",
+        "photographer": "Francis Yap",
+        "sourceUrl": "https://singaporebirds.com/species/japanese-sparrowhawk"
+      },
+      "missing": [
+        "behaviour"
+      ]
+    },
+    {
+      "id": "shikra",
+      "name": "Shikra",
+      "scientific": "Tachyspiza badia",
+      "family": "Accipitridae",
+      "occurrence": "Vagrant",
+      "status": "Least Concern",
+      "citation": "BirdLife International 2021 Accipiter badius",
+      "identification": "Juvenile birds are similar to Japanese Sparrowhawk and Besra. From juvenile Japanese Sparrowhawk, key differences include the proportionally longer tail, more rounded wings, often thicker and longer mesial stripe, and grey (not yellow) eyering. Juvenile Besra has broader dark undertail bands and a yellow (not grey) orbital ring. Adult male has red iris, orange-barred underparts, and plain grey upperparts with black wingtips; central tail feathers unbarred. Adult female similar but has yellow iris and browner upperparts. Differs from Chinese Sparrowhawk by having five fingers (vs. four) and broader, more rounded wings.",
+      "habitat": "In Singapore, most likely to be observed migrating over raptor watch sites during fall migration.",
+      "behaviour": "",
+      "fact": "During the fall migration, this species is much more numerous than Besra at the raptor migration watch point in Khao Dinsor in Thailand. In Singapore, while both species are very rare, Shikra is much less commonly recorded than Besra.",
+      "sourceUrl": "https://singaporebirds.com/species/shikra",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/428/image1ea4b0d6-3cf2-4d8b-864e-40ecc81968c1-58911ba1-ac2f-4c41-80f3-197c1be02609/w400.webp",
+        "alt": "Shikra at Khao Dinsor, Thailand",
+        "photographer": "Goh Cheng Teng",
+        "sourceUrl": "https://singaporebirds.com/species/shikra"
+      },
+      "missing": [
+        "behaviour"
+      ]
+    },
+    {
+      "id": "chinese-sparrowhawk",
+      "name": "Chinese Sparrowhawk",
+      "scientific": "Tachyspiza soloensis",
+      "family": "Accipitridae",
+      "occurrence": "Common migrant",
+      "status": "Least Concern",
+      "citation": "BirdLife International 2021",
+      "identification": "In all plumages, differs from other sparrowhawks by narrow pointed wings showing only four fingers in flight and nearly unmarked underwing-coverts. Adult male has uniform grey upperparts, red irides, dark grey orbital ring, orange-yellow cere, pinkish-orange breast, and obvious black wingtips. Female similar but with browner upperparts, yellow irides, and less uniform orange underparts. Juvenile has rufous-barred flanks and occasionally a mesial stripe, making them superficially similar to juvenile Grey-faced Buzzard, but that species has much longer and less pointed wings. Besra, Shikra, and Japanese Sparrowhawk have five fingers; Crested Goshawk and Eurasian Sparrowhawk have six.",
+      "habitat": "Forest, forest edge, secondary growth, wooded areas, open country, parks and gardens.",
+      "behaviour": "",
+      "fact": "",
+      "sourceUrl": "https://singaporebirds.com/species/chinese-sparrowhawk",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/174/image4529ebd8-bf36-40b1-9944-8d8b0ac3bfc0-601dca33-d63a-42e1-976c-d7eb3fbc8696/w400.webp",
+        "alt": "Chinese Sparrowhawk at Henderson Waves",
+        "photographer": "Francis Yap",
+        "sourceUrl": "https://singaporebirds.com/species/chinese-sparrowhawk"
+      },
+      "missing": [
+        "behaviour"
+      ]
+    },
+    {
+      "id": "eurasian-sparrowhawk",
+      "name": "Eurasian Sparrowhawk",
+      "scientific": "Accipiter nisus",
+      "family": "Accipitridae",
+      "occurrence": "Vagrant",
+      "status": "Least Concern",
+      "citation": "BirdLife International 2021",
+      "identification": "Male has slaty-grey upperparts, orange-rufous head-sides, faint orange-rufous bars on whitish underparts, and long slender tail. Female is larger, with brown-tinged upperparts, prominent whitish supercilium, and brown bars on underparts. Juvenile like female but lacks rufous wash on head-sides. In all plumages, separated from other sparrowhawks by large size (may not be apparent in the field), six fingers, broader wings, and longer tail. Japanese Sparrowhawk has five fingers and a mesial stripe; Chinese Sparrowhawk has only four fingers.",
+      "habitat": "Wooded and open areas.",
+      "behaviour": "",
+      "fact": "The female is up to 25% larger than the male, one of the largest differences between the sexes in any bird species.",
+      "sourceUrl": "https://singaporebirds.com/species/eurasian-sparrowhawk",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/175/image57d49405-6592-4f2f-8961-6ea6c6fec267-85d24e46-24da-456c-9355-17a000843a1c/w400.webp",
+        "alt": "Male Eurasian Sparrowhawk at Whelford Pools Reserve, Cotswold Water Park, Gloucestershire, UK",
+        "photographer": "Pete Blanchard",
+        "sourceUrl": "https://singaporebirds.com/species/eurasian-sparrowhawk"
+      },
+      "missing": [
+        "behaviour"
+      ]
+    },
+    {
+      "id": "pied-harrier",
+      "name": "Pied Harrier",
+      "scientific": "Circus melanoleucos",
+      "family": "Accipitridae",
+      "occurrence": "Rare migrant",
+      "status": "Least Concern",
+      "citation": "BirdLife International 2021",
+      "identification": "Male is distinctive; overall white with all-black head, upper breast, median coverts and outer primaries, a large white patch on lesser coverts, and black outer primaries contrasting with whitish wings in flight. Female has a brown head with streaking to the breast, white thighs and vent, and extensive barring on primaries and secondaries, white 'shoulders' contrasting with brown lesser coverts, dark-tipped primaries, white uppertail coverts and dark bands on the uppertail. Immature resembles female but has brown head, underparts, upperwing and underwing coverts. Separated from Eastern Marsh Harrier by more rounded head with steeper gradient of throat incline, slightly narrower and more pointed wings, and more slender body. Female and immature separated from female Eastern Marsh Harrier by lack of streaking across whole underside, from immature Eastern Marsh Harrier by lack of whitish face and white band across the breast. Female separated from male Eastern Marsh Harrier by brown hood (not grey/black) and more extensive markings on the underwing.",
+      "habitat": "Open country, reclaimed land, grasslands, and marshes.",
+      "behaviour": "Surveys terrain using low, buoyant flight typical of harriers, with short flaps interspersed by glides. Often perches on or near the ground where it may be hidden from view.",
+      "fact": "As suitable habitat is becoming more scarce in Singapore, wintering birds are not often encountered. This species may otherwise be seen at raptor-watch sites migrating over Singapore.",
+      "sourceUrl": "https://singaporebirds.com/species/pied-harrier",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/176/imagedc2c0eb4-7508-4454-afaa-2ecdd8d7d4a7-83ebca6f-a01c-4cff-bba5-79a18883fe1c/w400.webp",
+        "alt": "Immature Pied Harrier at Telok Blangah Hill",
+        "photographer": "Francis Yap",
+        "sourceUrl": "https://singaporebirds.com/species/pied-harrier"
+      },
+      "missing": []
+    },
+    {
+      "id": "eastern-marsh-harrier",
+      "name": "Eastern Marsh Harrier",
+      "scientific": "Circus spilonotus",
+      "family": "Accipitridae",
+      "occurrence": "Uncommon migrant",
+      "status": "Least Concern",
+      "citation": "BirdLife International 2021",
+      "identification": "Male generally white overall with a grey-black streaked head and upper breast, grey-black outer primaries, dark mantle, back, and lesser coverts. Female brown overall with streaked brown underparts, brown upperparts, streaked underwing coverts and pale barring on primaries. Immature is dark brown overall with white patches on face, white breast band and white streaked shoulders. Separated from Pied Harrier by more elongated head with gentler gradient of throat incline, broader and rounder wings, and more bulky body. Male separated from female Pied Harrier by cleaner underwing and grey/black hood (not brown). Female separated from female/immature Pied Harrier by fully streaked underparts. Immature separated from immature Pied Harrier by white on face and breast band.",
+      "habitat": "Open country, reclaimed land, grasslands, and marshes; occasionally over woodland on passage.",
+      "behaviour": "Surveys terrain using low, buoyant flight typical of harriers, with short flaps interspersed by glides. Often perches on or near the ground where it may be hidden from view.",
+      "fact": "As suitable habitat is becoming more scarce in Singapore, wintering birds are not often encountered. This species may otherwise be seen at raptor-watch sites migrating over Singapore.",
+      "sourceUrl": "https://singaporebirds.com/species/eastern-marsh-harrier",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/177/image25d1353a-78e8-43d9-89ad-5506b9e6e961-8a8a521c-420f-414d-948a-4264a8a8e956/w400.webp",
+        "alt": "Immature Eastern Marsh Harrier at Tuas South",
+        "photographer": "Francis Yap",
+        "sourceUrl": "https://singaporebirds.com/species/eastern-marsh-harrier"
+      },
+      "missing": []
+    },
+    {
+      "id": "brahminy-kite",
+      "name": "Brahminy Kite",
+      "scientific": "Haliastur indus",
+      "family": "Accipitridae",
+      "occurrence": "Very common resident",
+      "status": "Least Concern",
+      "citation": "BirdLife International 2016",
+      "identification": "Adults have chestnut-brown upperparts, belly, vent, and underwing-coverts, paler brown flight feathers with black wingtips, and a white breast and head. Juveniles have variably brownish underparts with white primary bases. In flight, wings held in an 'M' shape when soaring. Juveniles resemble Black Kite, which is more slender, with a longer forked or square-tipped tail and narrower, longer wings.",
+      "habitat": "Coasts, estuaries, mangroves, parks and gardens; in Singapore, can be seen almost anywher",
+      "behaviour": "Forages by soaring and quartering; snatches fish and other prey from the water surface; also a scavenger.",
+      "fact": "The Brahminy Kite is considered sacred by Hindus as a representation of Garuda, the divine king of birds.",
+      "sourceUrl": "https://singaporebirds.com/species/brahminy-kite",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/179/image405ea826-5254-40e6-a6eb-b3104ec53243-f14e263c-871b-4017-9129-88d91f0913e4/w400.webp",
+        "alt": "Adult Brahminy KIte at Pulau Ubin",
+        "photographer": "Keita Sin",
+        "sourceUrl": "https://singaporebirds.com/species/brahminy-kite"
+      },
+      "missing": []
+    },
+    {
+      "id": "black-kite",
+      "name": "Black Kite",
+      "scientific": "Milvus migrans",
+      "family": "Accipitridae",
+      "occurrence": "Rare migrant",
+      "status": "Not Evaluated",
+      "citation": "BirdLife International 2021",
+      "identification": "Adult resembles juvenile Brahminy Kite but has darker overall plumage, a distinctive forked tail that appears almost square-cut when broadly fanned in flight, and narrower, longer and more pointed wings. Juvenile resembles adult but has pale streaks on breast and belly. Separated from dark morph Booted Eagle by longer wings, lack of white 'landing lights' on shoulders, and forked rather than rounded tail.",
+      "habitat": "Open country, reclaimed land, coastal habitat and forest.",
+      "behaviour": "Forages opportunistically with slow, low surveying flight; scavenges along waterbodies and at refuse. In Singapore, most likely to be observed on passage although some birds may overwinter locally.",
+      "fact": "Forages opportunistically with slow, low surveying flight; scavenges along waterbodies and at refuse. In Singapore, most likely to be observed on passage although some birds may overwinter locally.",
+      "sourceUrl": "https://singaporebirds.com/species/black-kite",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/431/imagea13227c6-8156-4773-b5fb-5316ffdc09c5-6c89dbfc-cb2c-43fa-b2f3-a300f8f14289/w400.webp",
+        "alt": "Juvenile Black Kite in flight with the smaller size juvenile Brahminy Kite at Choa Chu Kang Christian Cemetery",
+        "photographer": "See Toh Yew Wai",
+        "sourceUrl": "https://singaporebirds.com/species/black-kite"
+      },
+      "missing": []
+    },
+    {
+      "id": "grey-headed-fish-eagle",
+      "name": "Grey-headed Fish Eagle",
+      "scientific": "Icthyophaga ichthyaetus",
+      "family": "Accipitridae",
+      "occurrence": "Common resident",
+      "status": "Near Threatened",
+      "citation": "BirdLife International 2017",
+      "identification": "Adults have a grey head and brown breast with white vent and undertail-coverts, and dark brown upperparts and underwings. Subadults and juveniles have buffish-brown underparts and underwing-coverts, barred flight feathers, with contrasting white vent and undertail-coverts; the barred flight feathers distinguish it from subadult White-bellied Sea Eagle. Told apart from the extirpated and highly unexpected Lesser Fish Eagl e(a species that still resides in Johor that is reliant on pristine forest and big streams) by its bigger size and white tail base.",
+      "habitat": "Woodland adjacent to waterbodies, including reservoirs, ponds and even canals.",
+      "behaviour": "Diet primarily consists of fish and is frequently observed hunting at various waterbodies across Singapore.",
+      "fact": "Diet primarily consists of fish and is frequently observed hunting at various waterbodies across Singapore.",
+      "sourceUrl": "https://singaporebirds.com/species/grey-headed-fish-eagle",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/182/image4ebddfd1-584b-4ff1-bf30-eff71f3ed8dc-1fb57be0-5626-4e90-9ec5-13f0bcbcf289/w400.webp",
+        "alt": "Juvenile Grey-headed Fish Eagle at Hindhede Quarry",
+        "photographer": "Francis Yap",
+        "sourceUrl": "https://singaporebirds.com/species/grey-headed-fish-eagle"
+      },
+      "missing": []
+    },
+    {
+      "id": "grey-faced-buzzard",
+      "name": "Grey-faced Buzzard",
+      "scientific": "Butastur indicus",
+      "family": "Accipitridae",
+      "occurrence": "Uncommon migrant",
+      "status": "Least Concern",
+      "citation": "BirdLife International 2021",
+      "identification": "Adult has plain greyish-brown upperparts and upper breast, white throat with striking black mesial stripe, and rufous bars on belly and vent. Juvenile has browner upperparts, broad white supercilium, less prominent mesial stripe, and dark streaks on underparts. Long-winged appearance distinguishes it from sparrowhawks and Crested Goshawk.",
+      "habitat": "Open country, lightly wooded areas and reclaimed land.",
+      "behaviour": "",
+      "fact": "",
+      "sourceUrl": "https://singaporebirds.com/species/grey-faced-buzzard",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/185/image9778d3be-2b49-4ffe-bfb3-a6adfbb0e349-74b2b3e9-c84a-4ebc-9af3-22d25783d6e9/w400.webp",
+        "alt": "Grey-faced Buzzard at Khao Dinsor, Thailand",
+        "photographer": "Goh Cheng Teng",
+        "sourceUrl": "https://singaporebirds.com/species/grey-faced-buzzard"
+      },
+      "missing": [
+        "behaviour"
+      ]
+    },
+    {
+      "id": "common-buzzard",
+      "name": "Common Buzzard",
+      "scientific": "Buteo buteo",
+      "family": "Accipitridae",
+      "occurrence": "Uncommon migrant",
+      "status": "Least Concern",
+      "citation": "BirdLife International 2021",
+      "identification": "The Buteo buzzards present a stocky body and broad wings when in flight. Difficult to distinguish from Eastern Buzzard, but said to be darker brown overall, with dark carpal patch not contrasting with the rest of the wing as strongly. Can come in three distinct morphs: brown, rufous and dark. Brown morph with solid, brown wing lining and often possessing a pale breast 'belt' that separates the dark plumage of the belly from the strong upper breast streaking; tail also strongly barred. Rufous morph has dark brown underparts of brown morph replaced by warm rufous brown and less distinct tail barring. Dark morph has blackish-brown body plumage with pale flight feathers and a dark trailing edge to the wing. Crested Honey Buzzard shows a small protruding head and longer tail; Changeable Hawk-Eagle is larger with a prominent crest; Jerdon's Baza has a long crest and strongly barred underparts.",
+      "habitat": "Open country; often observed at raptor migration sites.",
+      "behaviour": "",
+      "fact": "",
+      "sourceUrl": "https://singaporebirds.com/species/common-buzzard",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/188/image8cb1839d-7be5-4471-ab0a-0218ea5af422-24a8c51c-6f4e-41c5-9637-5afe4c829e0d/w400.webp",
+        "alt": "Common Buzzard at Changi Cove",
+        "photographer": "Francis Yap",
+        "sourceUrl": "https://singaporebirds.com/species/common-buzzard"
+      },
+      "missing": [
+        "behaviour"
+      ]
+    },
+    {
+      "id": "eastern-buzzard",
+      "name": "Eastern Buzzard",
+      "scientific": "Buteo japonicus",
+      "family": "Accipitridae",
+      "occurrence": "Rare migrant",
+      "status": "Least Concern",
+      "citation": "BirdLife International 2021",
+      "identification": "Stocky with round body, round wings, and proportionally short tail in flight. Adults darker than juveniles; juvenile shows pale underparts with brown breast band and dark carpal patches, while adult has darker, more uniform plumage, the wings and tail marked with diffuse, dark subterminal banding. Very difficult to distinguish from Common Buzzard; birds with paler underparts, more strongly contrasting carpal patch, and less well-defined black trailing edge are thought to be this species. Crested Honey Buzzard shows a small protruding head and longer tail; Changeable Hawk-Eagle is larger with a prominent crest; Jerdon's Baza has a long crest and strongly barred underparts.",
+      "habitat": "Open country.",
+      "behaviour": "",
+      "fact": "",
+      "sourceUrl": "https://singaporebirds.com/species/eastern-buzzard",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/189/imagec138b992-8421-4f02-83b4-c64972f661af-a0d6ed29-352b-4008-8f5d-195c7a47d0f3/w400.webp",
+        "alt": "Eastern Buzzard at Changi",
+        "photographer": "Francis Yap",
+        "sourceUrl": "https://singaporebirds.com/species/eastern-buzzard"
+      },
+      "missing": [
+        "behaviour"
+      ]
+    },
+    {
+      "id": "osprey",
+      "name": "Osprey",
+      "scientific": "Pandion haliaetus",
+      "family": "Pandionidae",
+      "occurrence": "Uncommon migrant and uncommon visitor",
+      "status": "Least Concern",
+      "citation": "BirdLife International 2021",
+      "identification": "Large raptor with dark brown upperparts, brown breast band, white underparts, and a thick dark eye-stripe. In flight, long slender wings are bent at the carpals into an \"M\" shape, with dark patches on the underwing near the carpal joints. Juvenile has white-fringed upperparts and buffish underwing coverts.",
+      "habitat": "Coastal and freshwater areas; forages over open water.",
+      "behaviour": "Almost exclusively fish-eating; plunges feet-first into the water to catch fish.",
+      "fact": "The sole member of the family Pandionidae, reflecting its distinctiveness from all other raptors.",
+      "sourceUrl": "https://singaporebirds.com/species/osprey",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/521/imagee0ef8a1a-f7b2-4d8a-b662-0e51f735478a-311ac586-7f45-4ced-8cb5-38b153aa0cb4/w400.webp",
+        "alt": "Osprey at Punggol",
+        "photographer": "Francis Yap",
+        "sourceUrl": "https://singaporebirds.com/species/osprey"
+      },
+      "missing": []
+    },
+    {
+      "id": "black-thighed-falconet",
+      "name": "Black-thighed Falconet",
+      "scientific": "Microhierax fringillarius",
+      "family": "Falconidae",
+      "occurrence": "Former resident and very rare visitor",
+      "status": "Least Concern",
+      "citation": "BirdLife International 2016",
+      "identification": "Adult has blackish crown, nape, and upperparts; whitish forehead, supercilium, throat, and breast; chestnut belly to vent; diagnostic black flanks and outer thighs. Female similar to male but slightly larger. Juvenile resembles adult but with chestnut supercilium and rufous fringes on the upperpart feathers when plumage is fresh.",
+      "habitat": "Forest and forest edge, including clearings; often found near streams and rivers.",
+      "behaviour": "Hunts from an exposed perch, darting out rapidly to snatch flying insects; will also take small birds. Perched birds frequently bob the tail.",
+      "fact": "Has been recorded capturing and preying on Long-tailed Parakeet in Malaysia – a bird nearly three times its size.",
+      "sourceUrl": "https://singaporebirds.com/species/black-thighed-falconet",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/224/image02e56df4-3b5c-4227-8902-2488ffa086fa-5f66abd6-c505-412b-ab24-427767c2018e/w400.webp",
+        "alt": "Black-thighed Falconet at National Equestrian Centre",
+        "photographer": "Francis Yap",
+        "sourceUrl": "https://singaporebirds.com/species/black-thighed-falconet"
+      },
+      "missing": []
+    },
+    {
+      "id": "lesser-kestrel",
+      "name": "Lesser Kestrel",
+      "scientific": "Falco naumanni",
+      "family": "Falconidae",
+      "occurrence": "Vagrant",
+      "status": "Least Concern",
+      "citation": "BirdLife International 2021",
+      "identification": "Good views are needed to separate this species from Common Kestrel. Male has grey head, plain rufous-chestnut mantle and median coverts, grey upperwing coverts and tertials, and buffish underparts with fewer, rounder spots than Common Kestrel. Female is brownish with barred upperparts, indistinct moustachial/cheek stripe and no dark line behind eye; juvenile almost identical to female. Differences from Common Kestrel: pale yellow claws (Common Kestrel has black claws), proportionately longer central tail feathers, and proportionately shorter outermost primary – p10 shorter than p8 (in Common Kestrel, p10 is as long as p8).",
+      "habitat": "Open country, reclaimed land and grasslands; most likely on passage during raptor migration.",
+      "behaviour": "Typically hovers while hunting over open habitat such as grasslands.",
+      "fact": "Typically hovers while hunting over open habitat such as grasslands.",
+      "sourceUrl": "https://singaporebirds.com/species/lesser-kestrel",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/225/image67284303-e1be-408a-91c8-a8b7a81ee121-5348212f-f139-4a93-b2cd-40f9cade2eb9/w400.webp",
+        "alt": "Subadult male Lesser Kestrel at Changi Cove",
+        "photographer": "Nicholas Tan",
+        "sourceUrl": "https://singaporebirds.com/species/lesser-kestrel"
+      },
+      "missing": []
+    },
+    {
+      "id": "common-kestrel",
+      "name": "Common Kestrel",
+      "scientific": "Falco tinnunculus",
+      "family": "Falconidae",
+      "occurrence": "Rare migrant",
+      "status": "Not Evaluated",
+      "citation": "BirdLife International 2021",
+      "identification": "Male has slaty-grey crown, nape, rump to uppertail, broad black subterminal tail-band, rufous rest of upperparts and wing-coverts with blackish markings, dark moustachial/cheek stripe and pale buffish underparts with dark streaks/spots on breast, belly and flanks. Female resembles male but has dark-streaked warm brown crown/nape and duller rufous upperparts with dark bars. Similar looking Lesser Kestrel is smaller, has yellow instead of black claws, proportionally longer central tail feathers, and proportionally shorter outermost primary (p10 shorter than p8 in Lesser Kestrel; while p10 is as long as p8 in Common Kestrel). Adult male Lesser Kestrels have less spotted upperparts and grey upperwing coverts and tertials.",
+      "habitat": "Open country, reclaimed land and grasslands; most likely on passage during raptor migration.",
+      "behaviour": "Hunts by hovering low over open ground or from a perch, scanning for small mammals, lizards, and insects.",
+      "fact": "Hunts by hovering low over open ground or from a perch, scanning for small mammals, lizards, and insects.",
+      "sourceUrl": "https://singaporebirds.com/species/common-kestrel",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/413/imagef20366db-a1b2-4264-bb27-980bb7e46e6d-929f017b-c274-48ee-a1bf-838a265e1a5e/w400.webp",
+        "alt": "Female Common Kestrel at Tuas South",
+        "photographer": "Francis Yap",
+        "sourceUrl": "https://singaporebirds.com/species/common-kestrel"
+      },
+      "missing": []
+    },
+    {
+      "id": "amur-falcon",
+      "name": "Amur Falcon",
+      "scientific": "Falco amurensis",
+      "family": "Falconidae",
+      "occurrence": "Vagrant",
+      "status": "Least Concern",
+      "citation": "BirdLife International 2021",
+      "identification": "Smaller, narrower-winged, and slimmer overall than Peregrine Falcon. Male is distinctive with pale grey upperparts, strikingly white underwing-coverts, rufous-chestnut vent, and diagnostic red eyering, cere and feet. Female and juvenile best distinguished from Eurasian Hobby by the pale, two-toned underwing with pronounced dark trailing edge. Female has dark streaked underparts, barred uppertail-coverts, buffy-white vent and grey upperparts. Juvenile has pale yellow eyering and cere, and shows a distinct pale neck-band and barred underwing, separating it from juvenile Eurasian Hobby, which lacks the pale collar (thus appearing darker-faced) and has a uniformly dark underwing.",
+      "habitat": "Reclaimed land and open habitats near the coast; most likely on passage during raptor migration.",
+      "behaviour": "Hunts insects on the wing or from a perch; also hovers while hunting. Outside the breeding season often occurs in flocks.",
+      "fact": "Amur Falcon undertakes one of the longest transoceanic migrations of any raptor, crossing the Indian Ocean nonstop between India and East Africa. On this journey of over 3,000 kilometres, they feed on migratory Globe Skimmer dragonflies, which migrates over the Indian Ocean at the same time each year.",
+      "sourceUrl": "https://singaporebirds.com/species/amur-falcon",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/414/image2280b8b4-90b5-46b8-a760-55eae7a097f8-3a3b9069-9782-4429-a6e4-57066726cf62/w400.webp",
+        "alt": "Female Amur Falcon at Changi Reclaimed Land",
+        "photographer": "Con Foley",
+        "sourceUrl": "https://singaporebirds.com/species/amur-falcon"
+      },
+      "missing": []
+    },
+    {
+      "id": "eurasian-hobby",
+      "name": "Eurasian Hobby",
+      "scientific": "Falco subbuteo",
+      "family": "Falconidae",
+      "occurrence": "Vagrant",
+      "status": "Least Concern",
+      "citation": "BirdLife International 2021",
+      "identification": "Adult has slate-blue upperparts, heavily streaked underparts on a whitish background, reddish-rufous thighs and vent, and a dark moustachial stripe set off by white cheeks and throat. Shows more slender wings and body than Peregrine Falcon, with a darker crown, narrower moustachial stripe, unbarred uppertail and uniformly dark underwing; the latter also separates it from Amur Falcon, which shows a dark trailing edge to the otherwise pale or spotted underwing. Juvenile has brown upperparts and buffish vent; can resemble juvenile Amur Falcon but shows a uniformly dark underwing and lacks the pale collar which gives it a darker-headed appearance.",
+      "habitat": "Open country, reclaimed land and wooded areas; most likely on passage during raptor migration.",
+      "behaviour": "",
+      "fact": "",
+      "sourceUrl": "https://singaporebirds.com/species/eurasian-hobby",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/530/imageafd5e24b-5037-404a-8b23-5f4b4fe22e3a-49017624-1733-44c8-8b1d-a71477a414ca/w400.webp",
+        "alt": "Eurasian Hobby at Henderson Waves",
+        "photographer": "Mohamad Zahidi Hamid",
+        "sourceUrl": "https://singaporebirds.com/species/eurasian-hobby"
+      },
+      "missing": [
+        "behaviour"
+      ]
+    },
+    {
+      "id": "peregrine-falcon",
+      "name": "Peregrine Falcon",
+      "scientific": "Falco peregrinus",
+      "family": "Falconidae",
+      "occurrence": "Uncommon migrant and very rare resident",
+      "status": "Least Concern",
+      "citation": "BirdLife International 2021",
+      "identification": "The migratory subspecies calidus has slaty-grey upperparts, white or buffish underparts with dark bars, broad blackish moustachial streak and white ear coverts. Larger than Eurasian Hobby and Amur Falcon; the broad moustachial streak, barred underparts, broader wings, and bulkier build separate it from both. Juvenile has browner upperparts and underparts with dark streaks instead of bars. Subspecies ernesti is darker overall with a complete black hood, and sometimes has a strong orange suffusion on underparts.",
+      "habitat": "Open country, secondary growth, farmland, mangroves and urban areas.",
+      "behaviour": "While it typically nests on cliffs, it has adapted to tolerate high-rise buildings in cities. First confirmed local breeding record was in 2025, when a pair successfully nested on the OCBC Centre in the Central Business District.",
+      "fact": "The Peregrine Falcon is considered to be among the fastest diving birds in the world and can reach a top speed exceeding 300 km/h when pursuing prey.",
+      "sourceUrl": "https://singaporebirds.com/species/peregrine-falcon",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/226/image0ec72055-14c3-44a9-95fa-727611dca77f-39323f3a-2704-4879-a7e7-00f8127c2ec2/w400.webp",
+        "alt": "Montage of a flying Peregrine Falcon over Bukit Timah",
+        "photographer": "Francis Yap",
+        "sourceUrl": "https://singaporebirds.com/species/peregrine-falcon"
+      },
+      "missing": []
+    },
+    {
+      "id": "eastern-barn-owl",
+      "name": "Eastern Barn Owl",
+      "scientific": "Tyto javanica",
+      "family": "Tytonidae",
+      "occurrence": "Uncommon resident",
+      "status": "Not Evaluated",
+      "citation": null,
+      "identification": "A medium-sized owl with a distinctive white, heart-shaped facial disk and pale underparts. Proportionally large head, lacking ear tufts, with relatively small, dark-coloured eyes. Upperparts gold to buff, heavily marked with white and black. In flight, long legs and feet extend past the tail tip. Female is larger than the male with typically darker and more heavily spotted underparts.",
+      "habitat": "Urban structures including under bridges and abandoned buildings, and open-country habitats such as grassland and farmland.",
+      "behaviour": "Normally solitary. Hunts mostly at night; preys mainly on small mammals, especially rats.",
+      "fact": "Until recently, treated as part of a single cosmopolitan species. The Eastern Barn Owl was split from Western and American Barn Owls based on genetic evidence.",
+      "sourceUrl": "https://singaporebirds.com/species/eastern-barn-owl",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/147/imageb4843937-c489-4930-b7e0-a4d3da97a86d-7ed59272-e1ca-45f0-a6d7-de05cda793c2/w400.webp",
+        "alt": "Eastern Barn Owl at Marina Barrage",
+        "photographer": "Francis Yap",
+        "sourceUrl": "https://singaporebirds.com/species/eastern-barn-owl"
+      },
+      "missing": []
+    },
+    {
+      "id": "brown-boobook",
+      "name": "Brown Boobook",
+      "scientific": "Ninox scutulata",
+      "family": "Strigidae",
+      "occurrence": "Uncommon resident",
+      "status": "Least Concern",
+      "citation": "BirdLife International 2021",
+      "identification": "Has an overall dark brown coloration, large yellow eyes, small white patch above the bill, and whitish underparts with brown heart-shaped blotches. Separated from Northern Boobook by rounder, heart-shaped blotches on the underparts compared to the more teardrop-shaped blotches in Northern. When in hand, Northern Boobook has a longer wing-to-tail ratio. Calls are diagnostic.",
+      "habitat": "Forested areas. It is rarely encountered out of the central forests in Singapore.",
+      "behaviour": "Forages at dusk and nocturnally, hunting from a perch and pouncing on prey along forest edges. Pairs often duet.",
+      "fact": "Forages at dusk and nocturnally, hunting from a perch and pouncing on prey along forest edges. Pairs often duet.",
+      "sourceUrl": "https://singaporebirds.com/species/brown-boobook",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/149/imagee6793d22-7907-48fa-8eb9-d2a7adbd1921-0cc8ec09-cddf-49a6-a0fe-a935b09ba987/w400.webp",
+        "alt": "Brown Boobook at Bukit Timah Nature Reserve",
+        "photographer": "Jared Tan",
+        "sourceUrl": "https://singaporebirds.com/species/brown-boobook"
+      },
+      "missing": []
+    },
+    {
+      "id": "northern-boobook",
+      "name": "Northern Boobook",
+      "scientific": "Ninox japonica",
+      "family": "Strigidae",
+      "occurrence": "Rare migrant",
+      "status": "Least Concern",
+      "citation": "BirdLife International 2016",
+      "identification": "Has an overall dark brown coloration, large yellow eyes, small white patch above the bill, and whitish underparts with brown teardrop-shaped blotches. Separated from Brown Boobook by teardrop-shaped blotches on the underparts compared to rounder, heart-shaped blotches in Brown (heart-shaped markings in Northern may also be observed along the flanks). When in hand, Northern Boobook has a longer wing-to-tail ratio. Calls are diagnostic.",
+      "habitat": "While on migration, will make use of any habitat with trees, including parks, gardens and scrubland. In comparison, Brown Boobook is rarely encountered outside of the central forests in Singapore.",
+      "behaviour": "Hunts nocturnally from a perch, taking prey on the ground and in foliage. Rarely calls on migration.",
+      "fact": "Hunts nocturnally from a perch, taking prey on the ground and in foliage. Rarely calls on migration.",
+      "sourceUrl": "https://singaporebirds.com/species/northern-boobook",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/150/image35862b47-44fe-4662-a4f5-5460daf8956b-9000f91e-9f4a-47ac-b150-757a20206eb2/w400.webp",
+        "alt": "Northern Boobook at Tuas South",
+        "photographer": "Francis Yap",
+        "sourceUrl": "https://singaporebirds.com/species/northern-boobook"
+      },
+      "missing": []
+    },
+    {
+      "id": "collared-scops-owl",
+      "name": "Collared Scops Owl",
+      "scientific": "Otus lettia",
+      "family": "Strigidae",
+      "occurrence": "Common resident",
+      "status": "Not Evaluated",
+      "citation": "BirdLife International 2016",
+      "identification": "Adult has dark eyes with reddish eye-ring, small but conspicuous ear tufts, brownish vermiculated upperparts, a pale collar on the back of the neck, and pale sandy-buffish underparts with fine blackish streaks. Juvenile is paler overall with fine barring.",
+      "habitat": "Forests, mangroves, parks and gardens.",
+      "behaviour": "Geckos are favoured prey in Singapore; diet also includes insects, small rodents, and other small vertebrates.",
+      "fact": "Split from Sunda Scops Owl following a study due to genetic differences and differences in vocalisations.",
+      "sourceUrl": "https://singaporebirds.com/species/collared-scops-owl",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/152/image3a6cf3f6-5c42-4dce-8572-c7b79cc87bd5-f0d9ef8d-68cb-4b04-8b76-3874ddf8d5e5/w400.webp",
+        "alt": "Collared Scops Owl at Lower Pierce Reservoir",
+        "photographer": "Adrian Silas Tay",
+        "sourceUrl": "https://singaporebirds.com/species/collared-scops-owl"
+      },
+      "missing": []
+    },
+    {
+      "id": "oriental-scops-owl",
+      "name": "Oriental Scops Owl",
+      "scientific": "Otus sunia",
+      "family": "Strigidae",
+      "occurrence": "Uncommon migrant",
+      "status": "Least Concern",
+      "citation": "BirdLife International 2021",
+      "identification": "Occurs in grey and rufous morphs, both recorded in Singapore. Grey morph has greyish-brown upperparts and head, bold dark streaks on whitish underparts, yellow eyes, and blackish bill. Rufous morph is similar but with orange-rufous upperparts and head.",
+      "habitat": "Forests, mangroves, parks and gardens.",
+      "behaviour": "Forages mainly on insects and spiders; hunts from a perch along forest edges, dropping onto prey or pursuing in flight.",
+      "fact": "Forages mainly on insects and spiders; hunts from a perch along forest edges, dropping onto prey or pursuing in flight.",
+      "sourceUrl": "https://singaporebirds.com/species/oriental-scops-owl",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/153/image22a2d14d-5dcb-43a6-9735-15cdd287e6c3-a24919f0-3264-4c4c-90c3-6b591cdd0ca6/w400.webp",
+        "alt": "Greyish morph Oriental Scops Owl at Bidadari",
+        "photographer": "Raymond Siew",
+        "sourceUrl": "https://singaporebirds.com/species/oriental-scops-owl"
+      },
+      "missing": []
+    },
+    {
+      "id": "short-eared-owl",
+      "name": "Short-eared Owl",
+      "scientific": "Asio flammeus",
+      "family": "Strigidae",
+      "occurrence": "Vagrant",
+      "status": "Least Concern",
+      "citation": "BirdLife International 2021",
+      "identification": "Has a pale greyish-white facial disc with conspicuous white eyebrows and dark orbital rings around yellow eyes creating a \"black-eye\" effect; ear tufts very small and usually not visible. Upperparts mottled brown and buff; underparts whitish to buff with dense vertical streaking on the breast, thinning on the flanks. In flight, shows dark wrist markings on the underwing, a white trailing edge, and blackish primary tips. Separated from Long-eared Owl by yellow (not orange) iris, white trailing edge on the wings, and black primary tips in flight.",
+      "habitat": "Open areas including grassland, marshes, and open scrub.",
+      "behaviour": "Crepuscular to diurnal; hunts in buoyant, moth-like low flight over open ground, hovering at times.",
+      "fact": "Crepuscular to diurnal; hunts in buoyant, moth-like low flight over open ground, hovering at times.",
+      "sourceUrl": "https://singaporebirds.com/species/short-eared-owl",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/411/imaged410686d-1134-443e-a776-18f4e3296971-0a417d1f-c797-498c-93ff-0a0360bb666c/w400.webp",
+        "alt": "Short-eared Owl at Changi Cove",
+        "photographer": "Eric Tan",
+        "sourceUrl": "https://singaporebirds.com/species/short-eared-owl"
+      },
+      "missing": []
+    },
+    {
+      "id": "barred-eagle-owl",
+      "name": "Barred Eagle-Owl",
+      "scientific": "Ketupa sumatrana",
+      "family": "Strigidae",
+      "occurrence": "Rare resident",
+      "status": "Near Threatened",
+      "citation": "BirdLife International 2022",
+      "identification": "Adult has brown-and-buff bars on its upperparts, blackish-and-whitish bars on its underparts, pitch black eyes, yellow bill and outward facing ear tufts. Juvenile has an overall white plumage with dark bars over the upperparts and underparts.",
+      "habitat": "Found in forested areas.",
+      "behaviour": "Diet includes grasshoppers, beetles, rodents, birds and snakes. Had been observed to prey on Long-tailed Macaque.",
+      "fact": "Diet includes grasshoppers, beetles, rodents, birds and snakes. Had been observed to prey on Long-tailed Macaque.",
+      "sourceUrl": "https://singaporebirds.com/species/barred-eagle-owl",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/155/imagebeedd550-e2cb-4226-a01f-efe16cddc62f-5e9f352d-2ced-47fb-81dd-2fe6d95717a5/w400.webp",
+        "alt": "Barred Eagle-Owl at Rifle Range Link",
+        "photographer": "Francis Yap",
+        "sourceUrl": "https://singaporebirds.com/species/barred-eagle-owl"
+      },
+      "missing": []
+    },
+    {
+      "id": "spotted-wood-owl",
+      "name": "Spotted Wood Owl",
+      "scientific": "Strix seloputo",
+      "family": "Strigidae",
+      "occurrence": "Uncommon resident",
+      "status": "Least Concern",
+      "citation": "BirdLife International 2016",
+      "identification": "A medium-sized owl with orange facial disc, dark eyes, and no ear tufts. Back dark brown; entire upperparts covered in white spots. Head blackish, barred white. Underparts white, thickly barred with dark brown; breast has a rusty wash. Juvenile resembles adult but with an overall whitish plumage. Separated from Brown Wood Owl by orange facial disc, lack of dark border around the face and eyes, and much bolder, broader barring on underparts.",
+      "habitat": "Forest edge, wooded areas, and parks; urban-tolerant and found in parkland with large trees.",
+      "behaviour": "Hunts from a low perch, preying on rodents, small birds, and large insects.",
+      "fact": "Hunts from a low perch, preying on rodents, small birds, and large insects.",
+      "sourceUrl": "https://singaporebirds.com/species/spotted-wood-owl",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/156/image653ec0c2-2e47-4a77-9ee7-5b14d76f7ff2-dfe5778c-4d22-4613-861a-366fd19097eb/w400.webp",
+        "alt": "Juvenile Spotted Wood Owl at Pasir Ris Park",
+        "photographer": "Adrian Silas Tay",
+        "sourceUrl": "https://singaporebirds.com/species/spotted-wood-owl"
+      },
+      "missing": []
+    },
+    {
+      "id": "brown-wood-owl",
+      "name": "Brown Wood Owl",
+      "scientific": "Strix leptogrammica",
+      "family": "Strigidae",
+      "occurrence": "Very rare visitor",
+      "status": "Least Concern",
+      "citation": "BirdLife International 2016",
+      "identification": "A medium-sized owl with a buffy-brown facial disc with a broad dark border around the face and eyes, dark-brown mantle, and buffy underparts with thin brownish bars and a brown breast. Juvenile is overall whitish-buff with a dark border around the face and eyes.",
+      "habitat": "Forests or any suitable wooded area.",
+      "behaviour": "Hunts small mammals, lizards, large insects, and birds; also reported to take small bats.",
+      "fact": "Hunts small mammals, lizards, large insects, and birds; also reported to take small bats.",
+      "sourceUrl": "https://singaporebirds.com/species/brown-wood-owl",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/157/image855635b4-3714-4f28-b1e6-7197d28da355-750e7ba5-dff3-4065-936f-06ad0c9013e1/w400.webp",
+        "alt": "Brown Wood Owl at Bukit Batok Nature Park",
+        "photographer": "Jonathan Cheah",
+        "sourceUrl": "https://singaporebirds.com/species/brown-wood-owl"
+      },
+      "missing": []
+    },
+    {
+      "id": "king-quail",
+      "name": "King Quail",
+      "scientific": "Synoicus chinensis",
+      "family": "Phasianidae",
+      "occurrence": "Uncommon resident",
+      "status": "Least Concern",
+      "citation": "BirdLife International 2016",
+      "identification": "Male has slaty-blue head, breast and flanks, blackish throat with enclosed white malar and throat patches, chestnut lower breast to vent, and yellowish-orange legs; distinctive blue-and-chestnut pattern separates it immediately from Barred Buttonquail. Female is larger than male and has buff-orange supercilium and brownish overall plumage with blackish bars on breast and flanks; separated from female Barred Buttonquail by the dark iris and finer barring on underparts rather than bold black-and-white bars. Juvenile resembles female, with juvenile male possessing darker markings above.",
+      "habitat": "Dry to slightly marshy grassland and scrub.",
+      "behaviour": "Ground-dwelling and skulking; forages on the ground for grass seeds and small insects. Mostly encountered when flushed from the grass and rarely seen out in the open.",
+      "fact": "Ground-dwelling and skulking; forages on the ground for grass seeds and small insects. Mostly encountered when flushed from the grass and rarely seen out in the open.",
+      "sourceUrl": "https://singaporebirds.com/species/king-quail",
+      "photo": {
+        "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/4/image17d95d85-f659-4dc3-89cf-19c5f22b968b-4df5c8c4-d4da-45ac-b2e6-56fb3de86c5b/w400.webp",
+        "alt": "Male King Quail at Pasir Ris Farmway 3",
+        "photographer": "Vincent Yip",
+        "sourceUrl": "https://singaporebirds.com/species/king-quail"
+      },
+      "missing": []
+    }
+  ]
+}

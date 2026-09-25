@@ -49,5 +49,7 @@ next-env.d.ts
 /releases/
 /portable-stage/
 /backups/
+aniquest-progress-*.json
+aniquest-before-import-*.json
 /git-export/
 !/.env.example

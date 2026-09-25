@@ -921,6 +921,31 @@ button, input, select, textarea { font: inherit; }
 .aq-animal-profile .aq-related-card-grid { margin-top: .375rem; }
 .aq-animal-profile .aq-related-tags { margin-top: .625rem; padding-top: .5rem; }
 
+.aq-progress-backup { display: grid; gap: 1rem; min-width: 0; margin-bottom: 1rem; }
+.aq-progress-backup :is(h2, h3, p) { margin: 0; }
+.aq-progress-backup h2 { font-size: 1.25rem; }
+.aq-progress-backup h3 { font-size: 1.125rem; }
+.aq-progress-backup p { line-height: 1.6; }
+.aq-backup-actions { display: flex; flex-wrap: wrap; align-items: end; gap: .75rem; }
+.aq-backup-actions button { min-height: 44px; height: auto; white-space: normal; }
+.aq-backup-file { display: grid; gap: .25rem; flex: 1 1 18rem; max-width: 100%; min-width: 0; font-size: .875rem; font-weight: 600; }
+.aq-backup-file input { width: 100%; min-width: 0; padding: .375rem; border: 1px solid var(--border); border-radius: var(--radius); background: var(--card); color: var(--foreground); font: inherit; }
+.aq-backup-file input::file-selector-button { min-height: 36px; margin-right: .5rem; padding: .375rem .75rem; border: 1px solid var(--border); border-radius: var(--radius); background: var(--secondary); color: var(--secondary-foreground); font: inherit; cursor: pointer; }
+.aq-backup-file input:disabled { opacity: .5; }
+.aq-backup-preview { display: grid; gap: 1rem; min-width: 0; padding: 1rem; border: 1px solid var(--border); border-radius: var(--radius); background: var(--card); color: var(--foreground); }
+.aq-backup-filename { overflow-wrap: anywhere; font-weight: 600; }
+.aq-backup-counts { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 10rem), 1fr)); gap: .75rem; margin: 0; }
+.aq-backup-counts dt { color: var(--muted-foreground); font-size: .875rem; }
+.aq-backup-counts dd { margin: .25rem 0 0; font-size: 1.25rem; font-weight: 700; }
+.aq-backup-choice { display: grid; gap: .5rem; min-width: 0; margin: 0; padding: .75rem; border: 1px solid var(--border); border-radius: var(--radius); }
+.aq-backup-choice legend { padding-inline: .25rem; font-weight: 600; }
+.aq-backup-choice label, .aq-backup-check { display: flex; align-items: start; gap: .75rem; min-height: 44px; padding-block: .5rem; cursor: pointer; line-height: 1.5; }
+.aq-backup-choice input, .aq-backup-check input { flex: 0 0 auto; width: 1.125rem; height: 1.125rem; margin-top: .2rem; accent-color: var(--primary); }
+.aq-backup-choice span { min-width: 0; overflow-wrap: anywhere; }
+.aq-backup-choice strong { display: block; }
+.aq-progress-backup :is(input, button, h3):focus-visible { outline: 3px solid var(--ring); outline-offset: 3px; }
+.aq-backup-preview ul { margin: 0; padding-left: 1.25rem; }
+
 /* Cytoscape draws the graph. HTML labels keep every profile keyboard accessible. */
 .aq-related-views > [data-slot="tabs-list"] { width: fit-content; max-width: 100%; margin-top: .375rem; }
 .aq-related-views > [data-slot="tabs-list"] [data-slot="tabs-trigger"] { min-height: 44px; gap: .375rem; overflow-wrap: normal; }

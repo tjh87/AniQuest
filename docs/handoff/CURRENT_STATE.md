@@ -6,6 +6,7 @@ An offline Windows export of the latest recovered AniQuest source, with enough f
 
 - Repository: https://github.com/tjh87/AniQuest (`main`).
 - GitHub baseline: `4660f5cc9986cd10e6a6a0fe4ff2d0d0134ab237`.
+- Source and README screenshot published at `03cd8be0f905dc0fe6356123be120c19912573a4`. The progress backup increment below builds on that published baseline.
 - Recovered source: `91af695b4c87cd0f13898dcf7bded1fe147d4ade`, hosted version 23.
 - Export does not change the hosted deployment.
 - The first GitHub attempt returned HTTP 403. Write access was later confirmed, and the user authorized the prepared source update with a screenshot near the README's top. See `GITHUB_HANDOFF.md` and `GITHUB_UPDATE_2026-09-25.md`; verify the remote commit when resuming.
@@ -47,9 +48,15 @@ Restored the newer profile, lesson, calendar, source, PhotoSwipe and Cytoscape w
 - Sign-in, shared progress, cross-user statistics and protected admin remain separate server features, not migrated local features.
 - Live source checks and fresh news/events need internet. Existing editorial dates are preserved.
 - All 90 linked photo records currently lack a declared reuse licence. Obtain permission or correctly identified licensed alternatives before bundling their bytes.
-- There is no progress export/import UI yet; browser storage is the save mechanism.
+- Local progress now has export/import controls in Collection, including preview, Merge/Replace, optional appearance and a previous-save download. Browser storage remains the save mechanism; this does not transfer account saves automatically.
 - Codex and model weights are not bundled.
 - The main JS chunk remains about 3.25 MB before gzip; optimise later without losing records or changing identities.
 - Native Windows and browser visual verification are not claimed complete; consult `TEST_REPORT.md`.
 
 Older `docs/` files can mention 94 profiles, 591 questions and previous UI states. Retain them as history; use this handover and generated inventory for the current baseline.
+
+## Progress backup increment — 25 September 2026
+
+The local source/build adds versioned JSON downloads and strict imports capped at 2 MiB. Existing `aniquest-local-progress-v1` saves stay compatible. Merge combines activity IDs, keeps the higher XP total and deduplicates a chronological history capped at 500 records. Replace requires confirmation. Invalid records, conflicting IDs and unsupported file versions fail visibly. A recovery snapshot is written before progress changes; interrupted multi-key appearance writes are rolled back where storage permits. Unknown question versions remain outside current scores.
+
+The earlier Windows ZIP and its frozen source bundle do not include this increment. Rebuild the updated source before using the new controls. Browser interaction and native Windows checks remain open; automated results are in `TEST_REPORT.md`.

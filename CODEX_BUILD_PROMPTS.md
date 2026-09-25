@@ -305,20 +305,23 @@ question revisions and persistence cases pass; every current profile has six
 valid checks; all progress UI describes actual recorded evidence.
 ```
 
-## Prompt 10 — add robust local progress backup/import
+## Prompt 10 — verify and extend local progress backup/import
 
 ```text
-This is future work; the current app has no backup/import UI. Build it around
-local-progress.ts and learning-records.ts without replacing the existing storage
-key or forcing users to reset. Preserve version 1 saves and explicit failure
-messages. Keep data on the device unless the user deliberately exports a file.
+The local source now has backup/import controls in Collection. Read
+progress-backup.ts, progress-backup-controls.tsx and their tests alongside
+local-progress.ts and learning-records.ts. The older Windows ZIP predates these
+controls. Preserve the storage key, version 1 saves and explicit failure messages.
+Keep data on the device unless the user deliberately exports a file.
 
-Add Export progress to a versioned JSON download with an app/schema identifier,
-export date and validated progress/settings. Add Import with a size limit, JSON
-parsing, strict schema/type/bounds validation and a preview of compatible records.
+Verify Export progress produces a usable versioned JSON download with an
+app/schema identifier, export date and validated progress/settings. Verify Import
+enforces its 2 MiB limit, strict schema/type/bounds validation and record preview.
 Reject malformed/oversized/incompatible payloads safely. Treat all file contents
 as data, never HTML or executable code. Use a deliberate replace/merge choice and
-back up the current save before replacement; explain the result in ordinary words.
+back up the current save before every import; explain the result in ordinary words.
+Merge keeps the higher XP total because legacy saves have no reward ledger.
+Check Download previous save and restore with Replace in a real browser.
 Do not silently clear existing progress on failed parsing or storage quota errors.
 
 Preserve known question versions, cap record history, deduplicate IDs and recompute

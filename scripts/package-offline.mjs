@@ -13,7 +13,7 @@ const excluded = new Set([".git", "node_modules", ".npm-cache", ".sites-runtime"
 const manifest = [];
 async function copy(dir, relative = "") {
   for (const entry of await readdir(dir, { withFileTypes: true })) {
-    if ((!relative && excluded.has(entry.name)) || entry.name === ".git" || (entry.name.startsWith(".env") && entry.name !== ".env.example") || /\.(pem|key|log|tsbuildinfo)$/.test(entry.name)) continue;
+    if ((!relative && excluded.has(entry.name)) || entry.name === ".git" || (entry.name.startsWith(".env") && entry.name !== ".env.example") || /\.(pem|key|log|tsbuildinfo)$/.test(entry.name) || /^aniquest-(progress|before-import)-.*\.json$/i.test(entry.name)) continue;
     const rel = path.join(relative, entry.name);
     if (entry.isSymbolicLink()) throw new Error(`Unexpected symlink: ${rel}`);
     if (entry.isDirectory()) await copy(path.join(dir, entry.name), rel);

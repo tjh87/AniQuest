@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import {
   Bird, BookOpen, Bot, CalendarDays, CloudRain, Compass, ExternalLink, Feather, FlaskConical,
   Home, Library, LogIn, LogOut, Map, Megaphone, Moon, Newspaper, PawPrint, Pencil,
@@ -31,6 +31,8 @@ import { AnimalEventsCalendar } from "./animal-events-calendar";
 import { AniQuestLogo } from "./aniquest-logo";
 import { AnimalAtlas, SpeciesLibrary } from "./animal-atlas";
 import { readLocalProgress, writeLocalProgress } from "./local-progress";
+import { ProgressBackupControls } from "./progress-backup-controls";
+import { applyProgressImport, type ImportMode, type ProgressBackup } from "./progress-backup";
 import { appendRecord, gradeAnswer, type AttemptContext, type ActionRecord, type LearningRecord, type AnswerFeedback } from "./learning-records";
 import { QuizArena } from "./quiz-arena";
 import { SpeciesJourney } from "./species-journey";
@@ -103,6 +105,7 @@ export function AniQuestApp({
   const [localReady, setLocalReady] = useState(false);
   const [preferencesReady, setPreferencesReady] = useState(false);
   const [progress, setProgress] = useState<ProgressState>(EMPTY_PROGRESS);
+  const localSaveFrame = useRef<number | null>(null);
   const [saveMessage, setSaveMessage] = useState(localMode ? "Loading this device’s progress…" : user ? "Loading saved progress…" : "Sign in to save progress");
 
   useEffect(() => {
@@ -158,13 +161,36 @@ export function AniQuestApp({
   useEffect(() => {
     if (!localMode || !localReady) return;
     const frame = window.requestAnimationFrame(() => {
+      localSaveFrame.current = null;
       try {
         const error = writeLocalProgress(window.localStorage, progress);
         setSaveMessage(error ?? "Progress saved on this device");
       } catch { setSaveMessage("Progress is not saved: browser storage is blocked."); }
     });
-    return () => window.cancelAnimationFrame(frame);
+    localSaveFrame.current = frame;
+    return () => {
+      window.cancelAnimationFrame(frame);
+      if (localSaveFrame.current === frame) localSaveFrame.current = null;
+    };
   }, [progress, localMode, localReady]);
+
+  const importLocalProgress = (backup: ProgressBackup, mode: ImportMode, includeAppearance: boolean, expectedRaw: string | null) => {
+    if (!localMode || !localReady || !preferencesReady) throw new Error("Wait for this device’s progress to finish loading.");
+    const imported = applyProgressImport(window.localStorage, progress, backup, mode, includeAppearance, expectedRaw);
+    // An older queued autosave must not overwrite the imported save.
+    if (localSaveFrame.current !== null) {
+      window.cancelAnimationFrame(localSaveFrame.current);
+      localSaveFrame.current = null;
+    }
+    setProgress(imported.progress);
+    if (imported.preferences) {
+      setDark(imported.preferences.theme === "dark");
+      setDensity(imported.preferences.density);
+      setUiStyle(imported.preferences.uiStyle);
+      setPixelPalette(imported.preferences.pixelPalette);
+    }
+    setSaveMessage("Progress imported and saved on this device");
+  };
 
   const availableNavItems = useMemo(() => settings.newsEnabled ? navItems : navItems.filter((item) => item.id !== "news"), [settings.newsEnabled]);
   const mobileNavItems = useMemo(() => availableNavItems.filter((item) => ["home", "learn", "quiz", "calendar", settings.newsEnabled ? "news" : "singapore"].includes(item.id)), [availableNavItems, settings.newsEnabled]);
@@ -360,7 +386,8 @@ export function AniQuestApp({
           {view === "news" && settings.newsEnabled && <NewsView reviewDays={settings.contentReviewDays} feeds={settings.newsFeeds} />}
           {view === "singapore" && <SingaporeView query={speciesQuery} onOpen={(id) => { setSelectedAnimalId(id); changeView("atlas"); }} onClear={() => { setSpeciesQuery(""); setAnimalSearch(""); }} />}
           {view === "calendar" && <Tabs defaultValue="events" className="aq-calendar-tabs"><TabsList aria-label="Calendar type"><TabsTrigger value="events">Animal events</TabsTrigger><TabsTrigger value="seasons">Seasonal wildlife</TabsTrigger></TabsList><TabsContent value="events"><AnimalEventsCalendar /></TabsContent><TabsContent value="seasons"><SeasonalCalendarView /></TabsContent></Tabs>}
-          {view === "collection" && <CollectionView progress={progress} onNavigate={changeView} />}
+          {view === "collection" && <CollectionView progress={progress} onNavigate={changeView}
+            backup={localMode ? <ProgressBackupControls progress={progress} preferences={{ theme: dark ? "dark" : "light", density, uiStyle, pixelPalette }} ready={localReady && preferencesReady} onImport={importLocalProgress} /> : undefined} />}
           <SiteMapNav onNavigate={changeView} newsEnabled={settings.newsEnabled} />
           {uiStyle === "cute" && <nav className="aq-book-pagination" aria-label="Turn book pages">
             <button type="button" disabled={availableNavItems.findIndex((item) => item.id === view) <= 0} onClick={() => changeView(availableNavItems[availableNavItems.findIndex((item) => item.id === view) - 1].id)}>← Previous chapter</button>
@@ -628,7 +655,7 @@ function SingaporeView({ query = "", onClear, onOpen }: { query?: string; onClea
   </SimpleView>;
 }
 
-function CollectionView({ progress, onNavigate }: { progress: ProgressState; onNavigate: (view: ViewId) => void }) {
+function CollectionView({ progress, onNavigate, backup }: { progress: ProgressState; onNavigate: (view: ViewId) => void; backup?: React.ReactNode }) {
   const activityCount = progress.completedLessons.length + progress.answeredQuizzes.length;
   const correctIds = new Set(progress.answeredQuizzes);
   const correctByDifficulty = (difficulty: QuizDifficulty) => QUIZ_QUESTIONS.filter((question) => question.difficulty === difficulty && correctIds.has(question.id)).length;
@@ -647,6 +674,6 @@ function CollectionView({ progress, onNavigate }: { progress: ProgressState; onN
     { name: "All-Round Explorer", task: "Complete the lesson and answer one question at each difficulty", emoji: "🦜", unlocked: progress.completedLessons.includes("rainforest-01") && beginnerCorrect >= 1 && intermediateCorrect >= 1 && advancedCorrect >= 1 },
   ];
   const unlockedCount = cards.filter((badge) => badge.unlocked).length;
-  return <SimpleView eyebrow="🏅 Collection" title="Your discoveries"><div className="aq-collection-layout"><Panel className="aq-collection-summary"><span className="aq-collection-icon">{activityCount ? "🧭" : "🌱"}</span><div><span className="aq-eyebrow">Trail progress</span><h2>{activityCount ? `${activityCount} learning ${activityCount === 1 ? "activity" : "activities"} completed` : "Your collection starts here"}</h2><p>Every badge can be earned with the lesson and quiz activities available now.</p><Progress value={(unlockedCount / cards.length) * 100} /><small>{unlockedCount} of {cards.length} available badges unlocked</small></div><Button onClick={() => onNavigate("learn")}>{activityCount ? "Continue learning" : "Start first lesson"}</Button></Panel><div className="aq-badge-grid">{cards.map((badge) => <Panel key={badge.name} className={badge.unlocked ? "aq-badge unlocked" : "aq-badge"}><span>{badge.unlocked ? badge.emoji : "🔒"}</span><div><h3>{badge.name}</h3><p>{badge.task}</p><small>{badge.unlocked ? "Unlocked" : "Not earned yet"}</small></div></Panel>)}</div></div></SimpleView>;
+  return <SimpleView eyebrow="🏅 Collection" title="Your discoveries">{backup}<div className="aq-collection-layout"><Panel className="aq-collection-summary"><span className="aq-collection-icon">{activityCount ? "🧭" : "🌱"}</span><div><span className="aq-eyebrow">Trail progress</span><h2>{activityCount ? `${activityCount} learning ${activityCount === 1 ? "activity" : "activities"} completed` : "Your collection starts here"}</h2><p>Every badge can be earned with the lesson and quiz activities available now.</p><Progress value={(unlockedCount / cards.length) * 100} /><small>{unlockedCount} of {cards.length} available badges unlocked</small></div><Button onClick={() => onNavigate("learn")}>{activityCount ? "Continue learning" : "Start first lesson"}</Button></Panel><div className="aq-badge-grid">{cards.map((badge) => <Panel key={badge.name} className={badge.unlocked ? "aq-badge unlocked" : "aq-badge"}><span>{badge.unlocked ? badge.emoji : "🔒"}</span><div><h3>{badge.name}</h3><p>{badge.task}</p><small>{badge.unlocked ? "Unlocked" : "Not earned yet"}</small></div></Panel>)}</div></div></SimpleView>;
 }
 function SimpleView({ eyebrow, title, children }: { eyebrow: string; title: string; children: React.ReactNode }) { return <div className="aq-view"><div className="aq-page-title"><div><span className="aq-eyebrow">{eyebrow}</span><h1>{title}</h1></div></div>{children}</div>; }

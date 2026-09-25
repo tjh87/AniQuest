@@ -11,6 +11,7 @@ AniQuest is a wildlife learning app for Singapore, with **141 animal profiles**,
 - 91 birds, 29 mammals, 14 reptiles and 7 amphibians, with search and catalogue filters.
 - Recognition clues, diet, activity, habitat, encounter guidance, source-linked profile text and conservation evidence.
 - Six guided checks per profile, plus 27 practice questions; browser-saved answers, XP and adaptive review.
+- Local progress export/import with a preview, Merge or Replace, optional appearance settings and a recovery copy.
 - Expand/minimise controls on profiles, initially expanded; choices persist on this browser.
 - Cytoscape relationship graphs with curved connectors, independent line/outline colours, visible arrowheads, keyboard controls, zoom/reset and profile navigation.
 - PhotoSwipe enlargement for bundled photographs, with full image framing and credits.
@@ -37,6 +38,19 @@ All profile text, questions, graphs, progress and **51 local profile photographs
 External sources, fresh news/events, first-time development installation, GitHub operations and cloud-backed Codex assistance need internet. A separately prepared compatible local model can be used with Codex CLI; no AI model is bundled. The app itself does not use AI services.
 
 Progress belongs to the browser and origin. Clearing browser data removes it. Use the same `127.0.0.1:5173` address, port and browser profile.
+
+## Back up or move your progress
+
+Open **Collection → Back up your progress** in the local edition.
+
+1. Choose **Export progress** and keep the downloaded JSON file outside the app folder.
+2. On the destination browser or computer, choose that file and review its counts.
+3. **Merge** combines completed activities, keeps the higher XP total and retains the latest 500 learning records. **Replace** uses the backup's progress and requires confirmation. Appearance settings are optional.
+4. Each import saves one recovery copy on that browser. To undo it, choose **Download previous save**, import that file and select **Replace**. Select appearance settings too if you want to restore them.
+
+Imports accept AniQuest backup schema 1 and older local version 1 saves, up to 2 MiB. Invalid files and failed recovery writes leave existing progress intact. Other question versions remain outside current scores; unavailable activity IDs are listed in the preview. Private progress downloads are excluded from Git and portable packages.
+
+This feature is in the current source/build. The earlier Windows ZIP from 25 September predates it; rebuild updated source to use it.
 
 ## Development and checks
 

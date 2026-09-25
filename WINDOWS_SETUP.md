@@ -103,7 +103,11 @@ Official references checked 25 September 2026:
 
 `aniquest-local-progress-v1` stores progress under the browser origin. Other `aniquest-` keys store preferences. These values are not in the app folder/ZIP and do not transfer automatically from the hosted Site.
 
-Clearing browser data or private browsing can remove saves. Use the same browser profile and address. A validated export/import UI is future work (Prompt 10). For a manual private backup, copy AniQuest key values from the browser's Application/Storage tools. Do not publish learning records to GitHub or include them in release packages.
+Clearing browser data or private browsing can remove saves. Use the same browser profile and address. In the updated source/build, open **Collection → Back up your progress → Export progress** and keep the JSON file outside the app folder. The earlier Windows ZIP from 25 September predates these controls; rebuild the updated source first.
+
+To move progress, select the exported file on the destination browser. Review the counts, then choose **Merge** or confirm **Replace**. Merge keeps the higher XP total and the latest 500 learning records; it does not add XP totals. Importing appearance settings is optional. Files must use AniQuest schema 1 or the older local save version 1 and be no larger than 2 MiB.
+
+Each import preserves one previous save in browser storage. **Download previous save** creates a file you can import with **Replace** to undo the last import. This recovery copy is also lost if browser data is cleared, so keep a separate export. Do not publish learning records to GitHub or include them in release packages. Recognised progress download filenames and the root `backups/` folder are excluded automatically.
 
 ## Package again
 

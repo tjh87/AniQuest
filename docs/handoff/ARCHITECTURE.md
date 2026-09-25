@@ -20,6 +20,7 @@ The entrypoint supplies `OfflineContext=true`, default settings, no user and no 
 | Practice/answers | `app/quiz-data.ts`, `app/quiz-arena.tsx`, `app/question-challenge.tsx` |
 | Grading/history/review | `app/learning-records.ts`, `app/learning-summary.tsx`, `app/client-id.ts` |
 | Local save validation | `app/local-progress.ts` |
+| Backup schema, import planning/recovery and controls | `app/progress-backup.ts`, `app/progress-backup-controls.tsx` |
 | Observation/resources | `app/field-resources.tsx`, `app/singapore-insights.tsx`, `app/water-species.ts` |
 | Calendar/ICS/seasons | `app/animal-events-data.ts`, `app/animal-events-calendar.tsx`, `app/seasonal-data.ts` |
 | News/daily facts | `app/news-data.ts`, `app/daily-fact.ts` |
@@ -44,6 +45,7 @@ The entrypoint supplies `OfflineContext=true`, default settings, no user and no 
 | Key | Meaning |
 | --- | --- |
 | `aniquest-local-progress-v1` | Version 1 validated progress envelope, up to 500 learning records |
+| `aniquest-progress-recovery-v1` | One previous progress/appearance snapshot, written before each import |
 | `aniquest-profile-sections-v2` | Shared expanded/minimised choices |
 | `aniquest-profile-sections-v1` | Legacy migration input |
 | `aniquest-theme` | Light/dark |
@@ -52,6 +54,12 @@ The entrypoint supplies `OfflineContext=true`, default settings, no user and no 
 | `aniquest-pixel-palette` | Pixelated palette |
 
 The source archive does not contain browser saves. Preserve malformed-save error handling rather than overwriting unreadable data.
+
+Collection exposes backup controls only in local mode. Export uses `app: "aniquest-progress"`, `schemaVersion: 1`, an ISO export date, validated progress and four appearance settings. Import also accepts the older `{version: 1, progress}` envelope. Files are capped at 2 MiB. Parse/preview never writes storage. Replace requires confirmation; Merge unions activities and deduplicates records by ID, keeping the higher XP total because legacy saves lack a reward ledger. Conflicting records with the same ID cancel merging. Current question metadata comes from the catalogue; historical question versions remain outside current scores.
+
+The importer checks that the stored progress has not changed since preview, rejects an unreadable existing save, writes a recovery snapshot, then writes optional appearance and finally progress. Failed writes roll back earlier appearance writes and report any rollback failure. The app cancels an older queued autosave before installing imported state. `Download previous save` converts the recovery snapshot to an importable backup; it retains only the most recent pre-import save. Profile section choices and other browser keys are not part of the transfer.
+
+Keep private JSON files outside the repository. Git and the package script exclude `aniquest-progress-*.json` and `aniquest-before-import-*.json` at any depth, plus the existing root `backups/` folder.
 
 ## Graph design
 

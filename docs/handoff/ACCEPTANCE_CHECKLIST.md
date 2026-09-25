@@ -35,6 +35,9 @@ Mark passed, failed or not run with environment/evidence. An unchecked list is n
 - [ ] Wrong/right/hinted answers retain evidence; duplicate submissions do not duplicate XP.
 - [ ] Incomplete checks do not fabricate comparisons; local saves survive restart.
 - [ ] Old saves and storage failures remain handled.
+- [ ] Collection exports a real JSON file; import preview, Merge/Replace and appearance opt-in work by keyboard.
+- [ ] Import survives reload; previous-save download can restore progress with Replace.
+- [ ] Invalid/oversized imports and storage failures do not wipe the current save; private downloads are excluded from packages.
 - [ ] Dated sessions, seasonal patterns and undated listings stay distinct; ICS times/escaping work.
 - [ ] Local `/room` explanation remains; protected APIs are not exposed.
 - [ ] No credentials, private browser data or hosted-site tokens in ZIP/Git.

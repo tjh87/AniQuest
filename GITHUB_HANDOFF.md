@@ -1,10 +1,24 @@
 # GitHub publication handoff
 
-## Status of this export
+## Current publication status
 
-The first publication attempt on 25 September 2026 failed with **HTTP 403: Resource not accessible by integration**. A later check confirmed write access. The user authorized publication of the prepared source and a README screenshot in this session. See `docs/handoff/GITHUB_UPDATE_2026-09-25.md` for the checks and source provenance. Confirm the remote branch before treating any local copy as published.
+The complete source is published on `tjh87/AniQuest`, branch `main`. The current repository includes all 367 files from the prepared source, plus four later files. The later files add progress backup/restore code, its tests and the publication record.
 
-The prepared ZIP is usable independently. Its `git-export/AniQuest-source.bundle` contains the repository history and prepared source commit `c46435139fcd122b6a9c143730ed7ec6384c4b5e`. It predates the README screenshot and later publication notes. `git-export/COMMIT.txt` identifies that frozen commit. The bundle contains Git objects, not credentials or local Git configuration. It does not include generated runtime/build files; those are separately included in the ZIP.
+| Published change | Commit |
+| --- | --- |
+| Recovered source, 141 profiles and 873 questions | `03cd8be0f905dc0fe6356123be120c19912573a4` |
+| Local progress export/import and recovery | `b1885db04ad4521ad54137c207e8aeec74fbcfa8` |
+| README with ten feature entries and four dated screenshots | `4c4d09e8929637ed1eff27b43a069aa2db47c8d6` |
+
+See `docs/handoff/GITHUB_UPDATE_2026-09-25.md` for the file comparison. Fetch `main` before continuing work so that later changes are retained.
+
+## Source downloads and portable ZIPs
+
+GitHub contains source, bundled photographs, screenshots, tests, the dependency lockfile, Windows scripts and development prompts. GitHub's **Code → Download ZIP** is a source archive; follow `WINDOWS_SETUP.md` to build it. Generated `dist-local/`, the Windows runtime and installed development dependencies are not tracked in Git. No ready-built Windows ZIP is attached to a GitHub Release as of this check.
+
+The separately prepared Windows ZIPs remain usable independently. Read each package's `git-export/COMMIT.txt` to identify its frozen source. The original ZIP contained `c46435139fcd122b6a9c143730ed7ec6384c4b5e`; the refreshed README package contained `1d41e4b620bc7127caec845fe93be837d931c199`. Both predate the published progress backup feature. Use current GitHub source and rebuild for that feature.
+
+The bundle contains Git objects, not credentials or local Git configuration. It excludes generated runtime/build files; those are separately included in the portable ZIP.
 
 ## Continue from the bundle without internet
 
@@ -19,7 +33,7 @@ git log -1 --oneline
 
 Use a different destination if that folder already exists. This restores source history offline. To run the ready-built app immediately, continue using the original extracted ZIP folder; a source checkout needs the documented build/runtime preparation. To develop offline, retain development dependencies previously installed on the target Windows computer.
 
-## Publish when write access is available
+## Publish future local changes
 
 In the cloned source repository, while connected:
 
@@ -38,7 +52,7 @@ git ls-remote origin refs/heads/main
 
 The returned remote SHA should match the prepared commit. No force push is needed. If ancestry fails, the remote has diverged: preserve both histories and review/merge those changes before pushing. Do not overwrite newer work or change repository visibility.
 
-Alternatively reconnect the GitHub integration with write access to `tjh87/AniQuest`, then ask Codex to publish this exact prepared update. Do not share passwords or access tokens in chat or add them to project files.
+An authorized GitHub connection can also publish reviewed changes. Do not share passwords or access tokens in chat or add them to project files.
 
 ## Future packages
 

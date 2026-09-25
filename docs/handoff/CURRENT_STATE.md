@@ -7,9 +7,10 @@ An offline Windows export of the latest recovered AniQuest source, with enough f
 - Repository: https://github.com/tjh87/AniQuest (`main`).
 - GitHub baseline: `4660f5cc9986cd10e6a6a0fe4ff2d0d0134ab237`.
 - Source and README screenshot published at `03cd8be0f905dc0fe6356123be120c19912573a4`. The progress backup increment below builds on that published baseline.
+- Progress backup/restore published at `b1885db04ad4521ad54137c207e8aeec74fbcfa8`. The ten-feature README and four dated screenshots published at `4c4d09e8929637ed1eff27b43a069aa2db47c8d6`.
 - Recovered source: `91af695b4c87cd0f13898dcf7bded1fe147d4ade`, hosted version 23.
 - Export does not change the hosted deployment.
-- The first GitHub attempt returned HTTP 403. Write access was later confirmed, and the user authorized the prepared source update with a screenshot near the README's top. See `GITHUB_HANDOFF.md` and `GITHUB_UPDATE_2026-09-25.md`; verify the remote commit when resuming.
+- The current GitHub audit verified all 371 tracked files, with no files missing from the 367-file prepared source. See `GITHUB_HANDOFF.md` and `GITHUB_UPDATE_2026-09-25.md` for the current state and historical checks.
 - `.openai/hosting.json` is absent from this standalone checkout. No credentials, remote database data or account exports are included.
 
 ## Measured inventory

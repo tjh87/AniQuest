@@ -1,5 +1,24 @@
 # GitHub continuation — 25 September 2026
 
+## Current completeness check
+
+The current GitHub source is published. At the start of this check, `main` pointed to `4c4d09e8929637ed1eff27b43a069aa2db47c8d6`. All 371 tracked files matched the latest local working source by Git object hash.
+
+| Check | Result |
+| --- | --- |
+| Prepared source coverage | All 367 prepared files remain present; 0 missing |
+| Later files | 4: backup logic, backup controls, backup tests and this publication record |
+| Later updates | 13 prepared files have newer content for progress backup, documentation or README presentation |
+| README links | All 26 local link occurrences resolve to tracked files |
+| README screenshots | All 4 dated JPEG files are tracked |
+| Bundled profile photographs | All 51 inventory paths are tracked |
+| Current catalogue inventory | 141 profiles and 873 questions; 90 photos remain credited external references |
+| Private/generated files | Runtime, build output, development dependencies and private progress downloads remain excluded |
+
+This documentation follow-up corrects stale publication wording and identifies both older portable ZIP source versions. It changes no application code. The existing 77-test result remains in `TEST_REPORT.md`; this file audit did not rerun that suite. GitHub has the full source and build instructions, but no ready-built Windows release asset. The older portable ZIP predates progress backup/restore.
+
+The following sections record the earlier source publication. Their package hash, screenshot count and test scope are historical.
+
 ## Starting state
 
 - GitHub `main`: `4660f5cc9986cd10e6a6a0fe4ff2d0d0134ab237`.

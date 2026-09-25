@@ -1,6 +1,6 @@
 # Development roadmap
 
-Implemented locally on 25 September 2026: validated progress export/import in Collection, with a review step, Merge/Replace, appearance opt-in, recovery copies and private-file exclusions. Automated round-trip and failure checks pass; browser interaction and native Windows acceptance remain open. The earlier Windows ZIP predates this increment.
+Published to GitHub on 25 September 2026: validated progress export/import in Collection, with a review step, Merge/Replace, appearance opt-in, recovery copies and private-file exclusions. Automated round-trip and failure checks pass; browser interaction and native Windows acceptance remain open. The earlier Windows ZIP predates this increment.
 
 ## Remaining work
 

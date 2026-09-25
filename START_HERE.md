@@ -2,7 +2,7 @@
 
 Package date: 25 September 2026. Repository: https://github.com/tjh87/AniQuest
 
-GitHub publication was blocked by integration write permissions. The complete prepared source is here; `GITHUB_HANDOFF.md` explains the bundled Git history and how to publish it later.
+The current source is published on GitHub, including progress backup/restore, the Windows tools and the README screenshot gallery. Use the repository's `main` branch for continued development. `GITHUB_HANDOFF.md` explains the difference between current source and older portable ZIPs.
 
 ## Run the prepared ZIP
 

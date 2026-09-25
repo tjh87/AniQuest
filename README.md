@@ -1,23 +1,39 @@
-# AniQuest — Singapore wildlife on your own computer
+# 🐾 AniQuest — Discover Singapore's wildlife
 
-AniQuest is a wildlife learning app for Singapore, with **141 animal profiles**, **873 learning questions** and progress saved on your computer. Explore animals, follow guided lessons, practise quizzes and browse source-linked wildlife information.
+Explore Singapore's animals, learn how they live, and test your knowledge. AniQuest runs on your computer and saves learning progress in your browser.
 
-![AniQuest desktop home screen in the Pixelated dark theme](docs/ui/aniquest-ui-mode-and-fact.jpg)
+**141 animal profiles · 873 learning questions · 3 themes · Windows offline edition**
 
-*Saved app screenshot from 6 September 2026. It shows earlier counts and labels; the current release has 141 profiles and 873 questions. [More interface screenshots](docs/ui/README.md).*
+[Windows setup](WINDOWS_SETUP.md) · [Start here](START_HERE.md) · [Codex development prompts](CODEX_BUILD_PROMPTS.md)
 
-## Included features
+## 🌿 Features
 
-- 91 birds, 29 mammals, 14 reptiles and 7 amphibians, with search and catalogue filters.
-- Recognition clues, diet, activity, habitat, encounter guidance, source-linked profile text and conservation evidence.
-- Six guided checks per profile, plus 27 practice questions; browser-saved answers, XP and adaptive review.
-- Local progress export/import with a preview, Merge or Replace, optional appearance settings and a recovery copy.
-- Expand/minimise controls on profiles, initially expanded; choices persist on this browser.
-- Cytoscape relationship graphs with curved connectors, independent line/outline colours, visible arrowheads, keyboard controls, zoom/reset and profile navigation.
-- PhotoSwipe enlargement for bundled photographs, with full image framing and credits.
-- Classic, Book and Pixelated themes, light/dark palettes and density controls.
-- Wildlife news, seasonal guidance, dated event records and `.ics` export from the included snapshot.
-- Windows launch/build/setup/package scripts and detailed continuation prompts.
+| Feature | What you can do |
+| --- | --- |
+| 🦉 **Animal guide** | Browse 91 birds, 29 mammals, 14 reptiles and 7 amphibians. Search and filter the catalogue. |
+| 📖 **Detailed profiles** | Read identification clues, diet, activity, habitat, fun facts, conservation evidence and safe encounter guidance. Follow source links. |
+| 🧠 **Lessons and quizzes** | Answer six guided questions per profile and 27 practice questions. Review missed or hinted answers. |
+| 🏆 **Learning progress** | Earn XP and save answers, learning records, badges and progress. Export or import saves with Merge/Replace and a recovery copy. |
+| 🕸️ **Interactive relationships** | Explore Cytoscape graphs with curved lines, distinct line and border colours, arrowheads, zoom and keyboard controls. Switch to photo cards. |
+| 🔍 **Photo viewer** | Open bundled photos with PhotoSwipe. Zoom, pan or fit the complete image while retaining credits. |
+| 🎨 **Choose your style** | Select Classic, Book or Pixelated, with light/dark palettes and density controls. Photographs remain unchanged. |
+| ↕️ **Compact profiles** | Minimise or expand seven sections. All start expanded; later choices are saved. |
+| 🗓️ **News and calendar** | Read the included wildlife news and seasonal guidance. Export dated events to `.ics` calendar files. |
+| 🪟 **Portable Windows edition** | Run the prepared ZIP without installation. Continue development with full source and a master prompt plus 14 focused prompts. |
+
+The offline edition includes **51 local profile photos**. The other **90 profiles** show credited source-link placeholders.
+
+## 📸 Screenshots
+
+These real app captures date from **5–6 September 2026**. They show earlier layouts, counts and labels, before the latest profile graphs and photo viewer. The feature table above describes the current **141-profile** source. No generated interface images are used.
+
+| Home and guided discovery | Singapore wildlife guide |
+| --- | --- |
+| [![AniQuest home in Pixelated dark mode, captured 6 September 2026](docs/ui/aniquest-ui-mode-and-fact.jpg)](docs/ui/aniquest-ui-mode-and-fact.jpg) | [![Singapore wildlife guide with real photos, captured 6 September 2026](docs/ui/aniquest-expansion-classic-light.jpg)](docs/ui/aniquest-expansion-classic-light.jpg) |
+| **Animal profile in dark mode** | **Quiz Arena** |
+| [![Four-lined tree frog profile in dark mode, captured 5 September 2026](docs/ui/aniquest-profile-classic-dark.jpg)](docs/ui/aniquest-profile-classic-dark.jpg) | [![Quiz Arena with question difficulty and hints, captured 5 September 2026](docs/ui/aniquest-quiz-classic-light.jpg)](docs/ui/aniquest-quiz-classic-light.jpg) |
+
+Select an image to open it at full size. [Screenshot dates and context](docs/ui/README.md).
 
 **Start with [START_HERE.md](START_HERE.md).** The prepared Windows ZIP includes the compiled app and Node.js runtime. A GitHub source download needs the build steps in [WINDOWS_SETUP.md](WINDOWS_SETUP.md).
 

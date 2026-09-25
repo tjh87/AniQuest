@@ -11,19 +11,20 @@ export function claimReviewStatus(review: ClaimReview | undefined, hash: string 
 }
 const titleCase = (value: string) => value.replace(/([A-Z])/g, " $1").trim().replace(/\b\w/g, letter => letter.toUpperCase());
 
-export function ContentReviewNote({ contentId, claims = ["question", "explanation"] }: { contentId: string; claims?: string[] }) {
+export function ContentReviewNote({ contentId, claims = ["question", "explanation"], embedded = false }: { contentId: string; claims?: string[]; embedded?: boolean }) {
   const record = (contentIndex as Record<string, { hash: string; revision: number; recordedAt: string }>)[contentId];
   const reviews = reviewData as ClaimReview[];
   const outcomes = claims.map(claim => claimReviewStatus(reviews.findLast(r => r.contentId === contentId && r.claim === claim), record?.hash));
   const supported = outcomes.filter(status => status === "Source support recorded").length;
   const unreviewed = outcomes.filter(status => status === "Not reviewed").length;
-  return <details className="aq-content-review"><summary>Content Record and Factual Review</summary>
+  const content = <>
     <p>{claims.length - unreviewed} of {claims.length} claims reviewed · {supported} supported · {claims.length - supported - unreviewed} need evidence or a new review.</p>
     <p>{record ? `Editorial revision ${record.revision}. Snapshot: ${record.recordedAt.slice(0, 10)}.` : "Editorial snapshot pending the next build."}</p>
     <p>A working link shows availability, not factual accuracy. These claim checks are separate from automated link checks.</p>
     <ul>{claims.map(claim => { const review = reviews.findLast(r => r.contentId === contentId && r.claim === claim); return <li key={claim}><strong>{titleCase(claim)}: {titleCase(claimReviewStatus(review, record?.hash))}</strong>{review && <><p>{review.note}</p><small>Reviewed: {review.reviewedAt.slice(0, 10)}</small>{[review.sourceUrl, ...(review.additionalSources ?? [])].map((url, index) => <a key={url} href={url} target="_blank" rel="noreferrer">Review source{index ? ` ${index + 1}` : ""} ↗</a>)}</>}</li>; })}</ul>
     <p>Support not confirmed means more evidence is needed. Reviews apply to the recorded content and source dates.</p>
-  </details>;
+  </>;
+  return embedded ? <div className="aq-content-review aq-content-review-embedded">{content}</div> : <details className="aq-content-review"><summary>Content Record and Factual Review</summary>{content}</details>;
 }
 
 export function EditorialOverview() {

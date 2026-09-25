@@ -1,0 +1,162 @@
+import type { SingaporeSpecies } from './species-data';
+
+const birdList = 'https://www.nparks.gov.sg/nature/species-list/birds';
+const guidance = 'https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals';
+const chartEvidence = 'The Bird Society weekly chart uses eBird records from July 2016 through June 2026. The period is a guide, not a fixed annual schedule.';
+
+type Entry = Pick<SingaporeSpecies, 'id'|'name'|'scientific'|'family'|'aliases'|'habitats'|'summary'|'identification'|'diet'|'activity'|'behaviour'|'reproduction'|'singapore'|'ecologicalRole'|'pressures'> & {
+  statusCode: 'LC'|'NT'|'VU'; localStatus: 'Very common migrant'|'Common migrant'; biologyUrl: string;
+  facts: [{ title:string; text:string }, { title:string; text:string }];
+};
+
+const entries: Entry[] = [
+  {
+    id:'common-sandpiper', name:'Common sandpiper', scientific:'Actitis hypoleucos', family:'Scolopacidae', aliases:[], statusCode:'VU', localStatus:'Very common migrant',
+    habitats:['Canals','Reservoirs','Ponds','Mudflats','Coast','Mangroves'],
+    summary:'A small migrant shorebird that walks along water edges with a repeated tail-bobbing motion.',
+    identification:'Brown upperparts, clean white underparts, short greenish legs and a brown breast patch. In flight, look for a white wing bar and dark rump.',
+    diet:'Aquatic insects, worms, small crustaceans, molluscs and other invertebrates taken from wet surfaces and shallow water.',
+    activity:'Feeds by day and around suitable tidal conditions, usually along open water edges.',
+    behaviour:'Usually forages alone. It walks with a repeated tail bob and flies low with stiff, shallow wingbeats when disturbed.',
+    reproduction:'Breeds outside Singapore. It makes a shallow ground nest near freshwater in its northern breeding range.',
+    singapore:`A very common migrant across Singapore canals, ponds, reservoirs, mudflats and shores. Its main chart period runs from about early August to mid-April. ${chartEvidence}`,
+    ecologicalRole:'Transfers energy from aquatic invertebrates to predators across freshwater and coastal food webs.',
+    pressures:'Disturbance and loss of quiet feeding edges can reduce the time available to rest and refuel during migration.',
+    biologyUrl:'https://doi.org/10.2173/bow.comsan.01',
+    facts:[{title:'The bobbing clue',text:'It repeatedly moves its tail up and down while walking.'},{title:'Check the rump',text:'Its rump looks dark in flight, unlike the white rump of the Green sandpiper.'}],
+  },
+  {
+    id:'barn-swallow', name:'Barn swallow', scientific:'Hirundo rustica', family:'Hirundinidae', aliases:[], statusCode:'NT', localStatus:'Very common migrant',
+    habitats:['Open country','Wetlands','Coast','Grassland','Fields'],
+    summary:'A fast aerial migrant with a deeply forked tail that sweeps over open areas for flying insects.',
+    identification:'Glossy blue-black upperparts, rufous forehead and throat, a complete dark breast band and a deeply forked tail. Adults can have long outer tail streamers.',
+    diet:'Flying insects caught in the air.', activity:'Feeds by day in swift, sweeping flight and rests on wires or other open perches.',
+    behaviour:'Often feeds and roosts in groups. It changes direction quickly while hunting insects above land and water.',
+    reproduction:'Breeds outside Singapore. It builds an open cup from mud and plant material on sheltered ledges in its breeding range.',
+    singapore:`A very common migrant over Singapore wetlands, coasts, grasslands and other open ground. Its main chart period runs from about mid-September to late March. ${chartEvidence}`,
+    ecologicalRole:'Consumes large numbers of flying insects and provides prey for larger birds.',
+    pressures:'Loss of insect-rich open habitat and disturbance at communal roosts can reduce safe feeding and resting space.',
+    biologyUrl:'https://doi.org/10.2173/bow.barswa.01',
+    facts:[{title:'A deep tail fork',text:'Its long, deeply forked tail helps separate it from the resident Pacific swallow.'},{title:'Meals in mid-air',text:'It catches flying insects without landing.'}],
+  },
+  {
+    id:'asian-brown-flycatcher', name:'Asian brown flycatcher', scientific:'Muscicapa dauurica', family:'Muscicapidae', aliases:[], statusCode:'LC', localStatus:'Very common migrant',
+    habitats:['Forest','Parks','Gardens','Woodland','Mangroves'],
+    summary:'A small plain-coloured migrant that waits on a perch, then flies out to catch an insect.',
+    identification:'Plain ash-brown upperparts, whitish underparts and a broad pale base to the lower bill. Faint grey-brown marks can appear on the upper breast.',
+    diet:'Small flying insects and other invertebrates; some fruit may also be taken.', activity:'Feeds by day from exposed or partly hidden perches.',
+    behaviour:'Uses short flights from a lookout perch to catch prey, then often returns to the same branch or a nearby perch.',
+    reproduction:'Breeds outside Singapore. It places a small cup nest in a tree cavity, broken trunk or other sheltered site in its breeding range.',
+    singapore:`A very common migrant in Singapore forests, parks, gardens, wooded areas and mangroves. Its main chart period runs from about late September to early April. ${chartEvidence}`,
+    ecologicalRole:'Consumes insects in wooded habitats and links seasonal visitors to local food webs.',
+    pressures:'Removal of layered woodland and insect-rich resting habitat can reduce feeding cover during migration.',
+    biologyUrl:'https://doi.org/10.2173/bow.asbfly.01.1',
+    facts:[{title:'Look at the lower bill',text:'An extensive pale base on the lower bill is a useful identification clue.'},{title:'Perch, chase, return',text:'It watches from a branch and makes short flights to catch insects.'}],
+  },
+  {
+    id:'arctic-warbler', name:'Arctic warbler', scientific:'Phylloscopus borealis', family:'Phylloscopidae', aliases:[], statusCode:'LC', localStatus:'Very common migrant',
+    habitats:['Forest','Forest edge','Woodland','Mangroves','Parks','Gardens'],
+    summary:'A small leaf warbler that travels from northern breeding grounds to spend the non-breeding season in Southeast Asia.',
+    identification:'Dull brown-grey or olive upperparts, a long pale eyebrow, dirty-white underparts and one or two narrow wing bars. The lower bill has a dark tip.',
+    diet:'Small insects, spiders and other invertebrates picked from foliage.', activity:'Feeds by day, mainly in the canopy and outer leaves.',
+    behaviour:'Moves actively through foliage and searches leaves and twigs for small prey.',
+    reproduction:'Breeds outside Singapore. It builds a domed nest on or close to the ground in northern scrub and tundra vegetation.',
+    singapore:`A very common migrant in Singapore forests, mangroves, parks and gardens. Its main chart period runs from about late September to early May. ${chartEvidence}`,
+    ecologicalRole:'Consumes foliage-dwelling invertebrates and becomes part of Singapore forest food webs during migration.',
+    pressures:'Loss of wooded stopover habitat can reduce feeding and shelter options during its long journey.',
+    biologyUrl:'https://doi.org/10.2173/bow.arcwar1.01',
+    facts:[{title:'A bill-tip clue',text:'A dark tip on the lower bill helps separate it from the similar Two-barred warbler.'},{title:'Canopy traveller',text:'It searches actively among leaves high in trees.'}],
+  },
+  {
+    id:'brown-shrike', name:'Brown shrike', scientific:'Lanius cristatus', family:'Laniidae', aliases:[], statusCode:'VU', localStatus:'Common migrant',
+    habitats:['Parks','Grassland','Open country','Scrub'],
+    summary:'A masked migrant hunter that watches open ground from a clear perch.',
+    identification:'Brown upperparts, pale underparts, a dark eye mask and a pale eyebrow. Colour varies between the subspecies recorded in Singapore.',
+    diet:'Large insects, lizards, small birds and small mammals.', activity:'Hunts by day from exposed perches in open habitats.',
+    behaviour:'Scans from a lookout, then drops or flies out to seize prey. It prefers more open ground than the Tiger shrike.',
+    reproduction:'Breeds outside Singapore. It builds an open cup nest in a shrub or small tree in its northern breeding range.',
+    singapore:`A common migrant in Singapore parks, grasslands and other open habitats. Its main chart period runs from about late September to late April. ${chartEvidence}`,
+    ecologicalRole:'A small predator that links insects and small vertebrates to larger predators.',
+    pressures:'Loss of scrub edges and safe open feeding areas can reduce suitable migration habitat.',
+    biologyUrl:'https://doi.org/10.2173/bow.brnshr.01',
+    facts:[{title:'A bandit mask',text:'A dark stripe passes through each eye.'},{title:'Small bird, varied prey',text:'Its diet can include insects, reptiles, small birds and rodents.'}],
+  },
+  {
+    id:'blue-tailed-bee-eater', name:'Blue-tailed bee-eater', scientific:'Merops philippinus', family:'Meropidae', aliases:[], statusCode:'LC', localStatus:'Common migrant',
+    habitats:['Open country','Urban','Marshes','Grassland','Forest edge','Wetlands'],
+    summary:'A colourful migrant that launches from exposed perches to catch flying insects.',
+    identification:'Green body, deep orange throat, dark eye stripe and blue rump and tail. Adults have narrow central tail streamers; juveniles lack them.',
+    diet:'Flying insects, including dragonflies, bees and hornets.', activity:'Hunts by day over open areas and water.',
+    behaviour:'Catches prey in flight from an exposed perch and may strike the insect against the perch before swallowing it.',
+    reproduction:'Breeds outside Singapore. It digs a long nesting tunnel into a sandy bank in its breeding range.',
+    singapore:`A common migrant around Singapore marshes, grasslands, forest edges and open areas near water. Its main chart period runs from about mid-October to early April. ${chartEvidence}`,
+    ecologicalRole:'Consumes flying insects above wetlands, grasslands and forest edges.',
+    pressures:'Loss of open insect-rich habitat and heavy disturbance at resting sites can reduce feeding opportunities.',
+    biologyUrl:'https://doi.org/10.2173/bow.btbeat1.01',
+    facts:[{title:'Orange, not blue',text:'Its orange throat separates it from the Blue-throated bee-eater.'},{title:'A perch as a tool',text:'It can beat captured prey against a perch before swallowing it.'}],
+  },
+  {
+    id:'pacific-golden-plover', name:'Pacific golden plover', scientific:'Pluvialis fulva', family:'Charadriidae', aliases:['Pacific golden-plover'], statusCode:'VU', localStatus:'Common migrant',
+    habitats:['Fields','Freshwater marshes','Beaches','Mudflats','Coast'],
+    summary:'A long-distance migrant whose gold-spotted non-breeding plumage blends with mud, grass and shorelines.',
+    identification:'Non-breeding birds are brown with gold or buff spots above and pale buff underparts. Breeding birds have black underparts bordered by a broad white band.',
+    diet:'Insects, worms, molluscs, crustaceans and other small invertebrates found on open ground and shores.', activity:'Feeds by day and around suitable tidal conditions.',
+    behaviour:'Often gathers in large flocks. Individuals run, stop and pick prey from the surface.',
+    reproduction:'Breeds outside Singapore on Arctic tundra, where it makes a shallow ground scrape.',
+    singapore:`A common migrant in Singapore fields, marshes, beaches and mudflats. Its main chart period runs from about mid-August to early April. ${chartEvidence}`,
+    ecologicalRole:'Consumes invertebrates across coastal and open-land food webs and carries nutrients between distant regions.',
+    pressures:'Disturbance on feeding flats and loss of open coastal habitat can reduce time available to refuel.',
+    biologyUrl:'https://doi.org/10.2173/bow.pagplo.02',
+    facts:[{title:'Golden camouflage',text:'Gold and buff spots break up its outline in non-breeding plumage.'},{title:'An Arctic nest',text:'It breeds far north on tundra and visits Singapore during migration.'}],
+  },
+  {
+    id:'common-redshank', name:'Common redshank', scientific:'Tringa totanus', family:'Scolopacidae', aliases:[], statusCode:'VU', localStatus:'Common migrant',
+    habitats:['Mudflats','Sandflats','Brackish lagoons','Coast'],
+    summary:'An active migrant wader with bright orange-red legs and a strong white wing pattern.',
+    identification:'Medium-sized with orange-red legs and a straight bill that is dark with red near the base. In flight, it shows broad white on the rear wing.',
+    diet:'Worms, insects, molluscs, crustaceans and other small wetland animals.', activity:'Feeds by day and at night, often as tides expose feeding ground.',
+    behaviour:'Usually social and highly active while feeding. It runs after surface prey and also probes soft mud.',
+    reproduction:'Breeds outside Singapore. It makes a shallow ground nest hidden in wet grass in its breeding range.',
+    singapore:`A common migrant on Singapore mudflats, sandflats and brackish lagoons. Its main chart period runs from about early August to mid-April. ${chartEvidence}`,
+    ecologicalRole:'Consumes coastal invertebrates and provides prey for larger wetland predators.',
+    pressures:'Loss and disturbance of intertidal feeding and roosting places can reduce safe refuelling habitat.',
+    biologyUrl:'https://doi.org/10.2173/bow.comred1.01',
+    facts:[{title:'Red legs, clear clue',text:'Bright orange-red legs give this wader its English name.'},{title:'Day and night diner',text:'It can feed during daylight and darkness.'}],
+  },
+  {
+    id:'yellow-rumped-flycatcher', name:'Yellow-rumped flycatcher', scientific:'Ficedula zanthopygia', family:'Muscicapidae', aliases:['Korean flycatcher','Tricolour flycatcher'], statusCode:'LC', localStatus:'Common migrant',
+    habitats:['Forest','Parks','Gardens','Woodland','Mangroves'],
+    summary:'A passage migrant that brings flashes of yellow and white to wooded Singapore habitats.',
+    identification:'Males have black upperparts, a broad white eyebrow and wing patch, plus a yellow rump and underparts. Females are grey-olive but keep the yellow rump and white wing marks.',
+    diet:'Mainly insects and other small invertebrates taken from foliage or caught during short flights.', activity:'Feeds by day from canopy branches and lower lookout perches.',
+    behaviour:'Searches mainly in tree crowns but can use low perches in open woodland.',
+    reproduction:'Breeds outside Singapore. It uses a tree cavity or similar sheltered hole in its northern breeding range.',
+    singapore:'A common passage migrant in Singapore forests, parks, gardens and mangroves. Bird Society data show most records from late August to mid-November, with another passage in March and April. These periods are guides, not fixed annual dates.',
+    ecologicalRole:'Consumes insects in wooded habitats during its seasonal passage.',
+    pressures:'Loss of layered woodland and insect-rich stopover sites can reduce feeding and resting habitat.',
+    biologyUrl:'https://doi.org/10.2173/bow.korfly1.01',
+    facts:[{title:'A bright rear marker',text:'Both sexes show a yellow rump, an important clue among similar flycatchers.'},{title:'Two passage periods',text:'Most Singapore records occur during southbound and northbound migration periods.'}],
+  },
+];
+
+export const MIGRATORY_BIRD_EXPANSION: SingaporeSpecies[] = entries.map(entry => {
+  const { facts, biologyUrl, localStatus, ...fields } = entry;
+  const sourceUrl = `https://singaporebirds.com/species/${entry.id}/`;
+  const singaporeStatus = {LC:'Least Concern',NT:'Near Threatened',VU:'Vulnerable'}[entry.statusCode];
+  return {
+    ...fields, group:'Bird', origin:'Native', tags:['Migratory'], emoji:'🐦', encounter:'Commonly seen',
+    habitat:entry.habitats.join(', '), rarity:`${localStatus}; seasonal abundance and site use vary`,
+    fact:facts[0].text, funFacts:facts.map(fact => ({...fact,sourceUrl})),
+    singaporeStatus, statusSourceUrl:birdList,
+    statusNote:`Singapore RDB3: ${singaporeStatus}. “Native” means naturally occurring in Singapore and does not imply a breeding resident population.`,
+    globalStatus:'Dated global assessment not verified in this edition', globalSourceUrl:'', reviewedAt:'2026-09-14',
+    watch:'Watch from paths or hides. Keep away from feeding and roosting groups. Do not flush birds for a photograph.',
+    sourceUrl, sourceName:'Bird Society of Singapore',
+    sources:[
+      {name:'Bird Society of Singapore · species account and migrant chart',url:sourceUrl,supports:'Identification, Singapore migrant status, habitats, behaviour and eBird-derived seasonal pattern'},
+      {name:'Cornell Lab · Birds of the World',url:biologyUrl,supports:'Diet, behaviour and breeding biology outside Singapore'},
+      {name:'NParks · Singapore Red Data Book 3',url:birdList,supports:'National conservation category and natural Singapore occurrence'},
+      {name:'NParks · responsible wildlife observation',url:guidance,supports:'Safe encounters and avoiding disturbance'},
+    ],
+  };
+});

@@ -1,0 +1,101 @@
+{
+  "ornate-sunbird": {
+    "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/364/imaged4acfb9d-e673-4000-85f2-f52551cd28c2-687a0cea-f6a8-4eb4-8073-c235899ac191/w400.webp",
+    "width": 267,
+    "height": 400,
+    "name": "Ornate Sunbird",
+    "alt": "Ornate Sunbird. Female Ornate Sunbird at SBTB",
+    "photographer": "Francis Yap",
+    "location": "Bird Society of Singapore reference photograph",
+    "sourceUrl": "https://singaporebirds.com/species/ornate-sunbird/",
+    "position": "50% 50%"
+  },
+  "eurasian-tree-sparrow": {
+    "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/375/image3063e5b5-729b-4f90-b989-cfafad6c4084-66ec2aea-c37b-4896-a230-6b7244e86f59/w400.webp",
+    "width": 400,
+    "height": 267,
+    "name": "Eurasian Tree Sparrow",
+    "alt": "Eurasian Tree Sparrow. Eurasian Tree Sparrow at Yishun Dam",
+    "photographer": "Francis Yap",
+    "location": "Bird Society of Singapore reference photograph",
+    "sourceUrl": "https://singaporebirds.com/species/eurasian-tree-sparrow/",
+    "position": "50% 50%"
+  },
+  "scaly-breasted-munia": {
+    "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/369/imagee7506c04-3baf-4535-bcbb-5b76e6d91a9c-0598ca8b-0088-4886-849c-1e2098439021/w400.webp",
+    "width": 267,
+    "height": 400,
+    "name": "Scaly-breasted Munia",
+    "alt": "Scaly-breasted Munia. Scaly-breasted Munia (subspecies topela) at Punggol",
+    "photographer": "Francis Yap",
+    "location": "Bird Society of Singapore reference photograph",
+    "sourceUrl": "https://singaporebirds.com/species/scaly-breasted-munia/",
+    "position": "50% 50%"
+  },
+  "pacific-swallow": {
+    "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/538/image3e0f95f7-d80a-4e85-b481-ba6adc9b2b1b-1ea580ab-1fce-4565-9be2-37a660b8274f/w400.webp",
+    "width": 400,
+    "height": 267,
+    "name": "Pacific Swallow",
+    "alt": "Pacific Swallow. Pacific Swallow",
+    "photographer": "Francis Yap",
+    "location": "Bird Society of Singapore reference photograph",
+    "sourceUrl": "https://singaporebirds.com/species/pacific-swallow/",
+    "position": "50% 50%"
+  },
+  "sunda-pied-fantail": {
+    "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/255/imageb4f8caa3-2b18-401f-9638-b31cb30ae92a-5e068b08-ddc3-40a0-a88d-2c9a42e6892f/w400.webp",
+    "width": 400,
+    "height": 267,
+    "name": "Sunda Pied Fantail",
+    "alt": "Sunda Pied Fantail. Sunda Pied Fantail at Pasir Ris Park",
+    "photographer": "Francis Yap",
+    "location": "Bird Society of Singapore reference photograph",
+    "sourceUrl": "https://singaporebirds.com/species/sunda-pied-fantail/",
+    "position": "50% 50%"
+  },
+  "ashy-tailorbird": {
+    "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/274/imagec1ee324b-a7c7-4080-b1e2-bb6f9f328a4e-6d7858ba-b875-4356-9697-39dc406883ce/w400.webp",
+    "width": 400,
+    "height": 267,
+    "name": "Ashy Tailorbird",
+    "alt": "Ashy Tailorbird. Ashy Tailorbird at Chinese Garden",
+    "photographer": "Francis Yap",
+    "location": "Bird Society of Singapore reference photograph",
+    "sourceUrl": "https://singaporebirds.com/species/ashy-tailorbird/",
+    "position": "50% 50%"
+  },
+  "olive-winged-bulbul": {
+    "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/306/image0e44557a-8e50-4e9a-b954-7404cce18b95-fc952fd7-e91c-4705-8c3d-526c81701f4d/w400.webp",
+    "width": 267,
+    "height": 400,
+    "name": "Olive-winged Bulbul",
+    "alt": "Olive-winged Bulbul. Olive-winged Bulbul at Jelutong Tower",
+    "photographer": "Francis Yap",
+    "location": "Bird Society of Singapore reference photograph",
+    "sourceUrl": "https://singaporebirds.com/species/olive-winged-bulbul/",
+    "position": "50% 50%"
+  },
+  "oriental-magpie-robin": {
+    "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/338/image4a4c0efd-d74c-4a0f-adbb-6fe4dfcbf037-351dd43b-69a2-48a4-8827-38b5f65700e9/w400.webp",
+    "width": 400,
+    "height": 267,
+    "name": "Oriental Magpie-Robin",
+    "alt": "Oriental Magpie-Robin. Oriental Magpie-Robin at SBG",
+    "photographer": "Francis Yap",
+    "location": "Bird Society of Singapore reference photograph",
+    "sourceUrl": "https://singaporebirds.com/species/oriental-magpie-robin/",
+    "position": "50% 50%"
+  },
+  "common-flameback": {
+    "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/219/imagee73e6e7e-6c3f-4159-81e2-cf16a386c194-3ba217e0-e414-4d2e-8bb0-f64bc856340e/w400.webp",
+    "width": 267,
+    "height": 400,
+    "name": "Common Flameback",
+    "alt": "Common Flameback. Male Common Flameback at Jelutong Tower",
+    "photographer": "Francis Yap",
+    "location": "Bird Society of Singapore reference photograph",
+    "sourceUrl": "https://singaporebirds.com/species/common-flameback/",
+    "position": "50% 50%"
+  }
+}

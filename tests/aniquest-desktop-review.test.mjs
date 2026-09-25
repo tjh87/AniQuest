@@ -27,8 +27,9 @@ test("core text, controls and focus meet contrast targets in every theme palette
     ":root", ".dark", ':root[data-ui-style="retro"]', ':root.dark[data-ui-style="retro"]',
     ':root[data-ui-style="retro"][data-pixel-palette="forest"]', ':root.dark[data-ui-style="retro"][data-pixel-palette="forest"]',
     ':root[data-ui-style="retro"][data-pixel-palette="sunset"]', ':root.dark[data-ui-style="retro"][data-pixel-palette="sunset"]',
+    ':root[data-ui-style="cute"]', ':root.dark[data-ui-style="cute"]',
   ]) {
-    const source = selector.includes("retro") ? designCss : css;
+    const source = selector.includes("retro") || selector.includes("cute") ? designCss : css;
     const block = source.slice(source.indexOf(`${selector} {`)).split("}")[0];
     const tokens = Object.fromEntries([...block.matchAll(/--([a-z-]+):\s*(#[0-9a-f]{6});/g)].map((m) => [m[1], m[2]]));
     const pairs = [
@@ -49,22 +50,17 @@ test("core text, controls and focus meet contrast targets in every theme palette
   }
 });
 
-test("random facts stay in range and do not repeat the previous fact", async () => {
-  const { randomFactIndex } = await vite.ssrLoadModule("/app/daily-fact.ts");
+test("daily facts stay stable through the Singapore calendar day", async () => {
+  const { dailyFactIndex } = await vite.ssrLoadModule("/app/daily-fact.ts");
   const { DEFAULT_SITE_SETTINGS } = await vite.ssrLoadModule("/app/default-settings.ts");
   assert.equal(DEFAULT_SITE_SETTINGS.dailyFacts.length, 17);
   assert.ok(DEFAULT_SITE_SETTINGS.dailyFacts.every((fact) => fact.sourceUrl.startsWith("https://")));
-  assert.equal(randomFactIndex(0), 0);
-  assert.equal(randomFactIndex(1), 0);
-  assert.equal(randomFactIndex(5, undefined, () => 0.8), 4);
+  assert.equal(dailyFactIndex(0, new Date("2026-09-07T00:00:00Z")), 0);
+  assert.equal(dailyFactIndex(1, new Date("2026-09-07T00:00:00Z")), 0);
+  assert.equal(dailyFactIndex(7, new Date("2026-09-07T00:00:00Z")), dailyFactIndex(7, new Date("2026-09-07T15:00:00Z")));
   for (let length = 2; length <= 14; length++) {
-    for (let previous = 0; previous < length; previous++) {
-      for (const value of [0, 0.5, 0.999999]) {
-        const index = randomFactIndex(length, previous, () => value);
-        assert.ok(Number.isInteger(index) && index >= 0 && index < length);
-        assert.notEqual(index, previous);
-      }
-    }
+    const index = dailyFactIndex(length, new Date("2026-09-07T00:00:00Z"));
+    assert.ok(Number.isInteger(index) && index >= 0 && index < length);
   }
 });
 
@@ -114,18 +110,30 @@ test("all teaching photos are local WebP assets with real-photo credits", async 
 test("desktop discovery, theme and source affordances stay visible", async () => {
   const { DEFAULT_SITE_SETTINGS } = await vite.ssrLoadModule("/app/default-settings.ts");
   const app = await readFile(`${root}/app/aniquest-app.tsx`, "utf8");
+  const layout = await readFile(`${root}/app/layout.tsx`, "utf8");
+  const localIndex = await readFile(`${root}/local/index.html`, "utf8");
   const calendar = await readFile(`${root}/app/animal-events-calendar.tsx`, "utf8");
   const css = await readFile(`${root}/app/globals.css`, "utf8");
   const designCss = await readFile(`${root}/app/interface-design.css`, "utf8");
   assert.equal(DEFAULT_SITE_SETTINGS.defaultTheme, "light");
-  assert.match(app, />Random fact</);
-  assert.doesNotMatch(app, /Fact of the day|Singapore fact of the day|Sources checked/);
+  assert.match(app, />Fact of the day</);
+  assert.doesNotMatch(app, /Random fact|Singapore fact of the day|Sources checked/);
   assert.match(app, /Pixelated/);
+  assert.match(app, />Book<\/button>/);
+  assert.match(app, /useState<"classic" \| "cute" \| "retro">\("cute"\)/);
+  assert.match(app, /storedUiStyle === "retro" \|\| storedUiStyle === "classic"/);
+  assert.match(layout, /dataset\.uiStyle=u==='retro'\|\|u==='classic'\?u:'cute'/);
+  assert.doesNotMatch(layout, /prefers-color-scheme/);
+  assert.match(localIndex, /dataset\.uiStyle=u==='retro'\|\|u==='classic'\?u:'cute'/);
+  assert.doesNotMatch(localIndex, /prefers-color-scheme/);
   assert.match(app, /Pixel palette/);
   assert.match(app, /Forest green/);
   assert.match(app, /Sunset amber/);
   assert.match(designCss, /data-pixel-palette="forest"/);
   assert.match(designCss, /data-pixel-palette="sunset"/);
+  assert.match(designCss, /data-ui-style="cute"/);
+  assert.match(designCss, /"Trebuchet MS"/);
+  assert.match(designCss, /\[data-ui-style="cute"\] \.aq-photo img \{[^}]*image-rendering: auto;[^}]*filter: none;/s);
   assert.match(app, /Rainforest Ranger/);
   assert.match(app, /All-Round Explorer/);
   assert.match(app, /AniQuest site map/);

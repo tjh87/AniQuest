@@ -25,7 +25,7 @@ const facts = {
   },
 };
 
-export function SingaporeInsights({ species }: { species?: SingaporeSpecies }) {
+export function SingaporeInsights({ species, embedded = false }: { species?: SingaporeSpecies; embedded?: boolean }) {
   const selected = species
     ? (species.habitats.some(h => ['Marine', 'Coast', 'Seagrass', 'Estuary', 'Mangrove', 'Mudflat'].includes(h))
       ? [facts.coast]
@@ -34,7 +34,7 @@ export function SingaporeInsights({ species }: { species?: SingaporeSpecies }) {
         : [facts.reserves])
     : Object.values(facts);
   return <section className="aq-singapore-insights" aria-label="Singapore habitat facts">
-    <div className="aq-insight-heading"><span>Singapore in focus</span><small>NParks public data · Checked 7 Sep 2026</small></div>
+    <div className="aq-insight-heading">{!embedded && <span>Singapore in focus</span>}<small>NParks public data · Checked 7 Sep 2026</small></div>
     <div className="aq-insight-grid">{selected.map(fact => <article key={fact.id}>
       <h2>{fact.title}</h2><p>{fact.text}</p>
       <a href={`https://data.gov.sg/datasets/${fact.id}/view`} target="_blank" rel="noreferrer">NParks · {fact.source} ↗</a>

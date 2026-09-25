@@ -19,7 +19,7 @@ import type { SiteSettingsValues } from "./default-settings";
 import { QUIZ_QUESTIONS, type QuizDifficulty, type QuizQuestion } from "./quiz-data";
 import { SINGAPORE_SPECIES, getSpeciesStatusCounts } from "./species-data";
 import { WildlifePhoto } from "./wildlife-photos";
-import { randomFactIndex } from "./daily-fact";
+import { dailyFactIndex } from "./daily-fact";
 import { SINGAPORE_NEWS_STORIES, WORLD_NEWS_STORIES } from "./news-data";
 import {
   CALENDAR_MONTHS, CLIMATE_SOURCE, SEASONAL_CATEGORY_LABELS, SEASONAL_EVENTS,
@@ -37,6 +37,7 @@ import { SpeciesJourney } from "./species-journey";
 import { LearningSummary } from "./learning-summary";
 import { FieldResources } from "./field-resources";
 import { BirdDirectory, ChickenGuide } from "./bird-directory";
+import { createClientId } from "./client-id";
 
 type User = { displayName: string; email: string } | null;
 type ProgressState = {
@@ -97,17 +98,12 @@ export function AniQuestApp({
   const [journeyId, setJourneyId] = useState("smooth-coated-otter");
   const [dark, setDark] = useState(settings.defaultTheme === "dark");
   const [density, setDensity] = useState(settings.defaultDensity);
-  const [uiStyle, setUiStyle] = useState<"classic" | "retro">("classic");
+  const [uiStyle, setUiStyle] = useState<"classic" | "cute" | "retro">("cute");
   const [pixelPalette, setPixelPalette] = useState<"arcade" | "forest" | "sunset">("arcade");
   const [localReady, setLocalReady] = useState(false);
   const [preferencesReady, setPreferencesReady] = useState(false);
   const [progress, setProgress] = useState<ProgressState>(EMPTY_PROGRESS);
   const [saveMessage, setSaveMessage] = useState(localMode ? "Loading this device’s progress…" : user ? "Loading saved progress…" : "Sign in to save progress");
-  const [factIndex, setFactIndex] = useState(0);
-
-  useEffect(() => {
-    setFactIndex(randomFactIndex(settings.dailyFacts.length));
-  }, [settings.dailyFacts.length]);
 
   useEffect(() => {
     const stored = (key: string) => { try { return window.localStorage.getItem(key); } catch { return null; } };
@@ -118,7 +114,8 @@ export function AniQuestApp({
     const storedDensity = storedDensityValue === null ? settings.defaultDensity : Number(storedDensityValue);
     const frame = window.requestAnimationFrame(() => {
       setDark(shouldUseDark);
-      setUiStyle(stored("aniquest-ui-style") === "retro" ? "retro" : "classic");
+      const storedUiStyle = stored("aniquest-ui-style");
+      setUiStyle(storedUiStyle === "retro" || storedUiStyle === "classic" ? storedUiStyle : "cute");
       setPixelPalette(stored("aniquest-pixel-palette") === "forest" ? "forest" : stored("aniquest-pixel-palette") === "sunset" ? "sunset" : "arcade");
       setDensity(Number.isFinite(storedDensity) ? Math.max(0, Math.min(2, storedDensity)) as 0 | 1 | 2 : settings.defaultDensity);
       setPreferencesReady(true);
@@ -142,25 +139,31 @@ export function AniQuestApp({
 
   useEffect(() => {
     if (!localMode) return;
-    try {
-      const result = readLocalProgress(window.localStorage);
-      if (result.progress) {
-        setProgress(result.progress);
-        const lastLesson = result.progress.learningRecords?.findLast(r => r.kind === "attempt" && r.phase !== "practice");
-        if (lastLesson?.kind === "attempt" && lastLesson.speciesIds[0]) setJourneyId(lastLesson.speciesIds[0]);
-        if (navItems.some((item) => item.id === result.progress?.lastView)) setView(result.progress.lastView as ViewId);
-      }
-      setSaveMessage(result.error ?? "Progress saved on this device");
-      setLocalReady(!result.error);
-    } catch { setSaveMessage("Progress is not saved: browser storage is blocked."); }
+    const frame = window.requestAnimationFrame(() => {
+      try {
+        const result = readLocalProgress(window.localStorage);
+        if (result.progress) {
+          setProgress(result.progress);
+          const lastLesson = result.progress.learningRecords?.findLast(r => r.kind === "attempt" && r.phase !== "practice");
+          if (lastLesson?.kind === "attempt" && lastLesson.speciesIds[0]) setJourneyId(lastLesson.speciesIds[0]);
+          if (navItems.some((item) => item.id === result.progress?.lastView)) setView(result.progress.lastView as ViewId);
+        }
+        setSaveMessage(result.error ?? "Progress saved on this device");
+        setLocalReady(!result.error);
+      } catch { setSaveMessage("Progress is not saved: browser storage is blocked."); }
+    });
+    return () => window.cancelAnimationFrame(frame);
   }, [localMode]);
 
   useEffect(() => {
     if (!localMode || !localReady) return;
-    try {
-      const error = writeLocalProgress(window.localStorage, progress);
-      setSaveMessage(error ?? "Progress saved on this device");
-    } catch { setSaveMessage("Progress is not saved: browser storage is blocked."); }
+    const frame = window.requestAnimationFrame(() => {
+      try {
+        const error = writeLocalProgress(window.localStorage, progress);
+        setSaveMessage(error ?? "Progress saved on this device");
+      } catch { setSaveMessage("Progress is not saved: browser storage is blocked."); }
+    });
+    return () => window.cancelAnimationFrame(frame);
   }, [progress, localMode, localReady]);
 
   const availableNavItems = useMemo(() => settings.newsEnabled ? navItems : navItems.filter((item) => item.id !== "news"), [settings.newsEnabled]);
@@ -218,7 +221,6 @@ export function AniQuestApp({
 
   const changeView = (next: ViewId) => {
     const allowedView = availableNavItems.some((item) => item.id === next) ? next : "home";
-    if (allowedView === "home") setFactIndex((current) => randomFactIndex(settings.dailyFacts.length, current));
     setView(allowedView);
     if (localMode) setProgress((current) => ({ ...current, lastView: allowedView }));
     window.scrollTo({ top: 0, behavior: "smooth" });
@@ -255,7 +257,7 @@ export function AniQuestApp({
       const result = await postProgress({ action: "answer_quiz", quizId: question.id, questionVersion: question.version, answer, hintUsed: context.hintUsed, phase: context.phase ?? "practice", sessionId: context.sessionId ?? "", submissionId: context.submissionId });
       return result?.feedback ?? null;
     }
-    const feedback = gradeAnswer(question, answer, context, context.submissionId ?? crypto.randomUUID());
+    const feedback = gradeAnswer(question, answer, context, context.submissionId ?? createClientId());
     const reward = feedback.correct && feedback.attempt.phase === "practice" && !progress.answeredQuizzes.includes(question.id);
     const xp = progress.xp + (reward ? settings.quizRewardXp : 0);
     return saveLearningProgress({ ...progress, xp, level: Math.floor(xp / 250) + 1,
@@ -281,13 +283,14 @@ export function AniQuestApp({
           </button>
         </SidebarHeader>
         <SidebarContent>
+          {uiStyle === "cute" && <div className="aq-book-contents-title"><span>ANIQUEST FIELD GUIDE</span><h2>Contents</h2><p>Wildlife of Singapore</p></div>}
           <SidebarGroup>
             <SidebarGroupContent>
               <SidebarMenu>
-                {availableNavItems.map((item) => (
+                {availableNavItems.map((item, index) => (
                   <SidebarMenuItem key={item.id}>
                     <SidebarMenuButton tooltip={item.label} aria-label={item.label} isActive={view === item.id} onClick={() => changeView(item.id)}>
-                      <item.icon /><span>{item.label}</span>
+                      <item.icon /><span>{item.label}</span>{uiStyle === "cute" && <span className="aq-book-chapter-number" aria-hidden="true">{String(index + 1).padStart(2, "0")}</span>}
                     </SidebarMenuButton>
                   </SidebarMenuItem>
                 ))}
@@ -302,7 +305,7 @@ export function AniQuestApp({
           </div>
           <Progress value={(progress.xp % 250) / 2.5} aria-label="Level progress" />
           <small className="aq-muted">{progress.xp % 250} / 250 XP</small>
-          {localMode && <small className="aq-muted aq-device-note" role="status">{saveMessage}. No cloud sync.</small>}
+          {localMode && <small className="aq-muted aq-device-note" role="status">Offline edition. {saveMessage}. Sources and new events need internet access.</small>}
         </SidebarFooter>
       </Sidebar>
 
@@ -321,6 +324,7 @@ export function AniQuestApp({
               <span className="aq-control-label">UI mode</span>
               <div className="aq-style-options" role="group" aria-label="UI mode">
                 <button type="button" aria-pressed={uiStyle === "classic"} onClick={() => setUiStyle("classic")}><span className="aq-style-swatch classic" aria-hidden="true" />Classic</button>
+                <button type="button" aria-label="Book UI mode" aria-pressed={uiStyle === "cute"} onClick={() => setUiStyle("cute")}><span className="aq-style-swatch cute" aria-hidden="true" />Book</button>
                 <button type="button" aria-pressed={uiStyle === "retro"} onClick={() => setUiStyle("retro")}><span className="aq-style-swatch retro" aria-hidden="true" />Pixelated</button>
               </div>
             </div>
@@ -344,9 +348,10 @@ export function AniQuestApp({
         {settings.announcementEnabled && settings.announcementText && <div className="aq-global-announcement" role="status"><Megaphone /><span>{settings.announcementText}</span></div>}
 
         <div className="aq-content">
+          {uiStyle === "cute" && <nav className="aq-book-folio" aria-label="Book pages"><span>AniQuest · Field companion</span><span>Page {Math.max(1, availableNavItems.findIndex((item) => item.id === view) + 1)} · {availableNavItems.find((item) => item.id === view)?.label ?? "Animal journey"}</span></nav>}
           {localMode && /not saved|could not|blocked/i.test(saveMessage) && <p role="alert" className="aq-hint-copy">{saveMessage}</p>}
           {!localMode && !user && <p className="aq-muted">Guest answers stay in this session only. Sign in to save your learning records.</p>}
-          {view === "home" && <HomeView progress={progress} onJourney={openJourney} onNavigate={changeView} settings={settings} isAdmin={isAdmin} factIndex={factIndex} />}
+          {view === "home" && <HomeView progress={progress} onJourney={openJourney} onNavigate={changeView} settings={settings} isAdmin={isAdmin} />}
           {view === "learn" && <LearnView progress={progress} onJourney={openJourney} onComplete={completeLesson} user={user} signInPath={signInPath} saveMessage={saveMessage} rewardXp={settings.lessonRewardXp} localMode={localMode} />}
           {view === "atlas" && <AnimalAtlas onJourney={openJourney} selectedId={selectedAnimalId} onSelect={setSelectedAnimalId} onBrowse={() => { setSpeciesQuery(""); setAnimalSearch(""); changeView("singapore"); }} />}
           {view === "quiz" && <QuizArena onAnswer={answerQuiz} records={progress.learningRecords ?? []} level={progress.level} xp={progress.xp} answeredQuizzes={progress.answeredQuizzes} hintsEnabled={settings.quizHintsEnabled} rewardXp={settings.quizRewardXp} />}
@@ -357,6 +362,11 @@ export function AniQuestApp({
           {view === "calendar" && <Tabs defaultValue="events" className="aq-calendar-tabs"><TabsList aria-label="Calendar type"><TabsTrigger value="events">Animal events</TabsTrigger><TabsTrigger value="seasons">Seasonal wildlife</TabsTrigger></TabsList><TabsContent value="events"><AnimalEventsCalendar /></TabsContent><TabsContent value="seasons"><SeasonalCalendarView /></TabsContent></Tabs>}
           {view === "collection" && <CollectionView progress={progress} onNavigate={changeView} />}
           <SiteMapNav onNavigate={changeView} newsEnabled={settings.newsEnabled} />
+          {uiStyle === "cute" && <nav className="aq-book-pagination" aria-label="Turn book pages">
+            <button type="button" disabled={availableNavItems.findIndex((item) => item.id === view) <= 0} onClick={() => changeView(availableNavItems[availableNavItems.findIndex((item) => item.id === view) - 1].id)}>← Previous chapter</button>
+            <BookOpen aria-hidden="true" />
+            <button type="button" disabled={availableNavItems.findIndex((item) => item.id === view) < 0 || availableNavItems.findIndex((item) => item.id === view) >= availableNavItems.length - 1} onClick={() => changeView(availableNavItems[availableNavItems.findIndex((item) => item.id === view) + 1].id)}>Next chapter →</button>
+          </nav>}
         </div>
 
         <nav className="aq-mobile-nav" aria-label="Main navigation">
@@ -392,13 +402,13 @@ function SiteMapNav({ onNavigate, newsEnabled }: { onNavigate: (view: ViewId) =>
   </nav>;
 }
 
-function HomeView({ progress, onNavigate, onJourney, settings, isAdmin, factIndex }: { onJourney: (id: string) => void; progress: ProgressState; onNavigate: (view: ViewId) => void; settings: SiteSettingsValues; isAdmin: boolean; factIndex: number }) {
+function HomeView({ progress, onNavigate, onJourney, settings, isAdmin }: { onJourney: (id: string) => void; progress: ProgressState; onNavigate: (view: ViewId) => void; settings: SiteSettingsValues; isAdmin: boolean }) {
   const lessonDone = progress.completedLessons.includes("rainforest-01");
   const quizCorrect = progress.answeredQuizzes.length;
   const quizProgress = Math.round((quizCorrect / QUIZ_QUESTIONS.length) * 100);
   const [clock, setClock] = useState(() => new Date());
   useEffect(() => { const timer = window.setInterval(() => setClock(new Date()), 60_000); return () => window.clearInterval(timer); }, []);
-  const dailyFact = settings.dailyFacts[factIndex] ?? { text: "Singapore's green spaces support wildlife in forests, wetlands, parks and along the coast.", sourceName: "NParks BiodiversitySG", sourceUrl: "https://biodiversitysg.nparks.gov.sg/our-biodiversity/" };
+  const dailyFact = settings.dailyFacts[dailyFactIndex(settings.dailyFacts.length, clock)] ?? { text: "Singapore's green spaces support wildlife in forests, wetlands, parks and along the coast.", sourceName: "NParks BiodiversitySG", sourceUrl: "https://biodiversitysg.nparks.gov.sg/our-biodiversity/" };
   const currentMonth = getSingaporeMonth(clock);
   const currentMonthEvent = eventsForMonth(currentMonth).find((event) => event.months.length < 12) ?? eventsForMonth(currentMonth)[0];
   const activeFeedIds = new Set(settings.newsFeeds.map((feed) => feed.id));
@@ -442,7 +452,7 @@ function HomeView({ progress, onNavigate, onJourney, settings, isAdmin, factInde
           <Button variant="outline" onClick={() => onNavigate("quiz")}>Open Quiz Arena</Button>
           <small className="aq-reward-note">First completions earn {settings.lessonRewardXp} XP per lesson or {settings.quizRewardXp} XP per question. Suggested daily goal: {settings.dailyGoalXp} XP; daily tracking is planned.</small>
         </Panel>
-        <div className="aq-daily-fact aq-side-fact" role="status"><span className="aq-daily-fact-icon" aria-hidden="true">🐾</span><div><small>Random fact</small><strong>{dailyFact.text}</strong><a href={dailyFact.sourceUrl} target="_blank" rel="noreferrer">Source: {dailyFact.sourceName} <ExternalLink /></a></div>{isAdmin && <a className="aq-fact-edit" href="/room#daily-facts"><Pencil /> Edit fact pool</a>}</div>
+        <div className="aq-daily-fact aq-side-fact" role="status"><span className="aq-daily-fact-icon" aria-hidden="true">🐾</span><div><small>Fact of the day</small><strong>{dailyFact.text}</strong><a href={dailyFact.sourceUrl} target="_blank" rel="noreferrer">Source: {dailyFact.sourceName} <ExternalLink /></a></div>{isAdmin && <a className="aq-fact-edit" href="/room#daily-facts"><Pencil /> Edit fact pool</a>}</div>
         {currentMonthEvent && <Panel className="aq-calendar-preview"><SectionHead title="In the field this month" action="Calendar" onAction={() => onNavigate("calendar")} /><div className="aq-season-label"><CalendarDays /><span>{CALENDAR_MONTHS[currentMonth - 1]}<small>Singapore wildlife calendar</small></span></div><h3>{currentMonthEvent.title}</h3><p>{currentMonthEvent.summary}</p><div className="aq-callout"><strong>Typical window</strong><span>{currentMonthEvent.typicalWindow}. Sightings are not guaranteed.</span></div><a className="aq-guidance-link" href={currentMonthEvent.sourceUrl} target="_blank" rel="noreferrer">Calendar source <ExternalLink /></a></Panel>}
         <Panel className="aq-mastery"><SectionHead title="Build your learning trail" /><div className="aq-guide-list"><div><span>1</span><div><strong>Learn one idea</strong><small>{lessonDone ? "Rainforest lesson complete." : "Begin with the rainforest lesson."}</small></div></div><div><span>2</span><div><strong>Check its source</strong><small>Read the linked NParks or research page.</small></div></div><div><span>3</span><div><strong>Test your understanding</strong><small>{progress.answeredQuizzes.length} of {QUIZ_QUESTIONS.length} questions answered correctly.</small></div></div></div><div className="aq-verification-note"><ShieldCheck /><span>Lesson completion and correct answers are recorded. Wider habitat mastery is still planned.</span></div></Panel>
         <LearningSummary records={progress.learningRecords ?? []} />
@@ -611,9 +621,9 @@ function SingaporeView({ query = "", onClear, onOpen }: { query?: string; onClea
     {!query && <><section className="aq-wild-gallery" aria-label="Animals photographed in Singapore"><WildlifePhoto animal="colugo" /><WildlifePhoto animal="hornbill" /><WildlifePhoto animal="otter" /></section><SpeciesStatistics /></>}
     {!query && <details className="aq-guide-overview" onToggle={(event) => setOverviewOpen(event.currentTarget.open)}><summary>Habitat & conservation overview <span>Open the photo guide and status chart</span></summary>{overviewOpen && <div className="aq-guide-overview-content"><Panel className="aq-local-photo-feature"><WildlifePhoto animal="otter" /><div><span className="aq-eyebrow">Wildlife in shared spaces</span><h2>Meet your wild neighbours</h2><p>Smooth-coated otters use mangroves, ponds and urban canals. Seeing an animal often does not mean it is secure across Singapore.</p><a className="aq-guidance-link" href="https://avs.nparks.gov.sg/wildlife/encountering-wildlife/otters/" target="_blank" rel="noreferrer">NParks / AVS otter guidance <ExternalLink /></a></div></Panel><Panel className="aq-habitat-strip"><SectionHead title="Look by habitat" /><div className="aq-habitat-grid"><div><span>🌳</span><strong>Rainforest</strong><small>Canopy, understory and forest floor</small></div><div><span>🦦</span><strong>Freshwater</strong><small>Streams, reservoirs and urban canals</small></div><div><span>🌱</span><strong>Mangrove</strong><small>Tidal roots, mudflats and channels</small></div><div><span>🪸</span><strong>Coast and reef</strong><small>Sandy shores, seagrass and coral</small></div></div></Panel>
     <Panel className="aq-conservation-chart"><div className="aq-chart-heading"><div><span className="aq-eyebrow">Visual guide</span><h2>National status in this {SINGAPORE_SPECIES.length}-animal collection</h2><p>Counts describe this guide, not Singapore’s whole fauna. Non-assessed categories are shown separately from threat levels.</p></div><span className="aq-source-chip">RDB3 · 2024</span></div><div className="aq-chart-wrap" role="img" aria-label={`Featured species grouped by Singapore Red List status. ${statusSummary}.`}><span className="sr-only">{statusSummary}</span><ResponsiveContainer width="100%" height="100%" minWidth={0} initialDimension={{ width: 480, height: 280 }}><BarChart data={statusData} layout="vertical" margin={{ top: 4, right: 28, bottom: 4, left: 16 }}><CartesianGrid stroke="var(--border)" horizontal={false} /><XAxis type="number" domain={[0, statusMax]} allowDecimals={false} tick={{ fill: "var(--muted-foreground)", fontSize: 12 }} axisLine={{ stroke: "var(--border)" }} /><YAxis dataKey="name" type="category" width={145} tick={{ fill: "var(--foreground)", fontSize: 12 }} axisLine={false} tickLine={false} /><Tooltip cursor={{ fill: "var(--muted)" }} contentStyle={{ background: "var(--popover)", border: "1px solid var(--border)", borderRadius: ".5rem", color: "var(--popover-foreground)" }} formatter={(value) => [`${value} species`, "Featured count"]} /><Bar dataKey="count" radius={[0, 5, 5, 0]}>{statusData.map((entry) => <Cell key={entry.code} fill={entry.color} />)}</Bar></BarChart></ResponsiveContainer></div><a className="aq-chart-source" href="https://www.nparks.gov.sg/resources/singapore-species-red-data-book" target="_blank" rel="noreferrer">Read the Singapore Red Data Book methodology <ExternalLink /></a></Panel></div>}</details>}
-    <BirdDirectory onOpen={onOpen} initialQuery={query} />
-    <ChickenGuide onOpen={onOpen} />
-    <SpeciesLibrary query={query} onOpen={onOpen} onClear={onClear} />
+    {!query && <BirdDirectory onOpen={onOpen} />}
+    {!query && <ChickenGuide onOpen={onOpen} />}
+    <SpeciesLibrary key={query || "all-animals"} query={query} onOpen={onOpen} onClear={onClear} />
     <Panel><SectionHead title="When you meet wildlife" /><div className="aq-three-notes"><div><strong>Observe</strong><span>Keep a respectful distance and watch normal behaviour.</span></div><div><strong>Do not feed</strong><span>Feeding wildlife is harmful and generally illegal in Singapore.</span></div><div><strong>Report safely</strong><span>Use the relevant local service for injured wildlife or immediate danger.</span></div></div><a className="aq-guidance-link" href="https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals" target="_blank" rel="noreferrer">Read official NParks encounter guidance <ExternalLink /></a></Panel>
   </SimpleView>;
 }

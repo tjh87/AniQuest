@@ -20,7 +20,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
-        <script dangerouslySetInnerHTML={{ __html: `try{var t=localStorage.getItem('aniquest-theme');document.documentElement.classList.toggle('dark',t?t==='dark':matchMedia('(prefers-color-scheme: dark)').matches);var d=localStorage.getItem('aniquest-density');if(d!==null)document.documentElement.dataset.density=d;document.documentElement.dataset.uiStyle=localStorage.getItem('aniquest-ui-style')==='retro'?'retro':'classic';var p=localStorage.getItem('aniquest-pixel-palette');document.documentElement.dataset.pixelPalette=p==='forest'||p==='sunset'?p:'arcade'}catch(e){}` }} />
+        <script dangerouslySetInnerHTML={{ __html: `try{var t=localStorage.getItem('aniquest-theme');document.documentElement.classList.toggle('dark',t==='dark');var d=localStorage.getItem('aniquest-density');if(d!==null)document.documentElement.dataset.density=d;var u=localStorage.getItem('aniquest-ui-style');document.documentElement.dataset.uiStyle=u==='retro'||u==='classic'?u:'cute';var p=localStorage.getItem('aniquest-pixel-palette');document.documentElement.dataset.pixelPalette=p==='forest'||p==='sunset'?p:'arcade'}catch(e){}` }} />
       </head>
       <body className="antialiased">{children}</body>
     </html>

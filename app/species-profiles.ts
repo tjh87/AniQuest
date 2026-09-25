@@ -5,6 +5,7 @@ export type AnimalProfile = {
   group: AnimalGroup;
   family: string;
   aliases: string[];
+  tags?: string[];
   origin: "Native" | "Introduced";
   encounter: "Commonly seen" | "Elusive" | "Rare or restricted";
   habitats: string[];

@@ -34,6 +34,8 @@ export async function createLocalServer({ root = buildRoot } = {}) {
   const server = http.createServer(async (request, response) => {
     response.setHeader("X-Content-Type-Options", "nosniff");
     response.setHeader("Cache-Control", "no-store");
+    // Runtime assets cannot silently reach a CDN. Reference links still open normally.
+    response.setHeader("Content-Security-Policy", "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self'; connect-src 'self'; media-src 'self' blob:; object-src 'none'; frame-src 'none'; base-uri 'self'");
     const send = (status, message) => {
       response.writeHead(status, { "Content-Type": "text/plain; charset=utf-8" });
       response.end(request.method === "HEAD" ? undefined : message);

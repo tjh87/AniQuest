@@ -1,9 +1,61 @@
 import fullBirdProfiles from "./full-bird-profiles.json";
+import commonBirdPhotos from "./common-bird-photos.json";
+import additionalCommonPhotos from "./additional-common-photos.json";
+import migratoryBirdPhotos from "./migratory-bird-photos.json";
 
 /** Real reference photographs. Source and licence data are retained when published. */
 export type WildlifePhotoRecord = { src: string; width: number; height: number; alt: string; name: string; location: string; date?: string; photographer: string; license?: string; licenseUrl?: string; sourceUrl: string; position: string };
 
 export const PROFILE_PHOTOS: Record<string, WildlifePhotoRecord> = {
+  ...commonBirdPhotos,
+  ...additionalCommonPhotos,
+  ...migratoryBirdPhotos,
+  "oriental-whip-snake": {
+    src:"https://juronglakegardens.nparks.gov.sg/images/Fauna/Ahaetulla_20prasina_Bigeye_20green_20whip_20snake_Daniel_20Ng.jpg",
+    width:800,height:520,name:"Oriental whip snake",alt:"Oriental whip snake in green foliage, NParks reference photograph",
+    photographer:"Daniel Ng / NParks",location:"NParks Jurong Lake Gardens reference photograph",
+    sourceUrl:"https://juronglakegardens.nparks.gov.sg/reptiles-and-amphibians/",position:"50% 50%"
+  },
+  "green-paddy-frog": {
+    src:"https://juronglakegardens.nparks.gov.sg/images/Fauna/Hylarana_20erythraea_Common_20Greenback_Daniel_20Ng.jpg",
+    width:3872,height:2592,name:"Green paddy frog",alt:"Green paddy frog beside freshwater vegetation, NParks reference photograph",
+    photographer:"Daniel Ng / NParks",location:"NParks Jurong Lake Gardens reference photograph",
+    sourceUrl:"https://juronglakegardens.nparks.gov.sg/reptiles-and-amphibians/",position:"50% 50%"
+  },
+  "red-eared-slider": {
+    src:"https://juronglakegardens.nparks.gov.sg/images/Fauna/Red_eared_slider_Cai_YX.jpg",
+    width:500,height:335,name:"Red-eared slider",alt:"Red-eared slider freshwater turtle, NParks reference photograph",
+    photographer:"Cai Yixiong / NParks",location:"NParks Jurong Lake Gardens reference photograph",
+    sourceUrl:"https://juronglakegardens.nparks.gov.sg/reptiles-and-amphibians/",position:"50% 50%"
+  },
+  "common-sun-skink": {
+    src: "https://www.nparks.gov.sg/-/media/ffw/migrated/round2/fauna/324/6414a53dab7c48cebd7291d2b75f4aa1.jpg",
+    width: 500, height: 375, name: "Common sun skink",
+    alt: "Common sun skink, NParks reference photograph", photographer: "Cheryl Chia",
+    location: "NParks reference photograph", date: "18 Oct 2009",
+    sourceUrl: "https://www.nparks.gov.sg/florafaunaweb/fauna/3/2/324", position: "50% 50%"
+  },
+  "field-frog": {
+    src: "https://juronglakegardens.nparks.gov.sg/images/Fauna/Fejervarya_20limnocharis_Field_20Frog_Daniel_20Ng.jpg",
+    width: 3872, height: 2592, name: "Field frog",
+    alt: "Field frog, NParks Jurong Lake Gardens reference photograph", photographer: "Daniel Ng / NParks",
+    location: "NParks Jurong Lake Gardens reference photograph",
+    sourceUrl: "https://juronglakegardens.nparks.gov.sg/reptiles-and-amphibians/", position: "50% 50%"
+  },
+  "changeable-lizard": {
+    src: "https://juronglakegardens.nparks.gov.sg/images/Fauna/changeable_lizard_male_crop_rt.jpg",
+    width: 2341, height: 1560, name: "Changeable lizard",
+    alt: "Male changeable lizard, NParks Jurong Lake Gardens reference photograph", photographer: "Ruth Tan / NParks",
+    location: "NParks Jurong Lake Gardens reference photograph",
+    sourceUrl: "https://juronglakegardens.nparks.gov.sg/reptiles-and-amphibians/", position: "50% 50%"
+  },
+  "asian-toad": {
+    src: "https://isomer-user-content.by.gov.sg/283/d1ac93d5-2781-488a-a844-77cc14e95d6a/Common%20Asian%20Toad%20%282%29.jpg",
+    width: 1920, height: 1080, name: "Asian toad",
+    alt: "Common Asian toad, NParks BiodiversitySG reference photograph", photographer: "Raphael Moey / NParks BiodiversitySG",
+    location: "NParks reference photograph",
+    sourceUrl: "https://biodiversitysg.nparks.gov.sg/our-biodiversity/amphibians/common-asian-toad/", position: "50% 50%"
+  },
   "sunda-colugo": {
     "src": "/wildlife/sunda-colugo.webp",
     "width": 1200,
@@ -643,6 +695,103 @@ export const PROFILE_PHOTOS: Record<string, WildlifePhotoRecord> = {
     "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
     "sourceUrl": "https://www.gbif.org/occurrence/6413844541",
     "position": "50% 50%"
+  },
+  "irrawaddy-dolphin": {
+    src: "https://www.wwf.or.jp/image/Sub1_rev.jpg",
+    width: 1200, height: 800,
+    alt: "Reference photograph of an Irrawaddy dolphin",
+    name: "Irrawaddy dolphin", location: "Myanmar waters reference photograph",
+    photographer: "WWF Japan; see source",
+    sourceUrl: "https://www.wwf.or.jp/press/5952.html",
+    position: "50% 50%",
+  },
+  "false-killer-whale": {
+    src: "/wildlife/profiles/false-killer-whale.jpg",
+    width: 800, height: 640,
+    alt: "False killer whale surfacing in the sea, NOAA reference photograph",
+    name: "False killer whale", location: "Species reference photograph",
+    photographer: "NOAA / Southwest Fisheries Science Center",
+    license: "Public domain",
+    licenseUrl: "https://commons.wikimedia.org/wiki/File:False_killer_whale_890002.jpg",
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:False_killer_whale_890002.jpg",
+    position: "50% 50%",
+  },
+  "indo-pacific-bottlenose-dolphin": {
+    src: "https://upload.wikimedia.org/wikipedia/commons/8/87/Tursiops_aduncus%2C_Port_River%2C_Adelaide%2C_Australia_-_2003.jpg",
+    width: 1200, height: 800,
+    alt: "Reference photograph of an Indo-Pacific bottlenose dolphin",
+    name: "Indo-Pacific bottlenose dolphin", location: "Port River, Adelaide, Australia",
+    photographer: "Wikimedia Commons contributor",
+    license: "CC BY-SA 3.0", licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/",
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Tursiops_aduncus,_Port_River,_Adelaide,_Australia_-_2003.jpg",
+    position: "50% 50%",
+  },
+  "indo-pacific-finless-porpoise": {
+    src: "https://www.nhptv.org/wild/images/finlessporpoise.jpg",
+    width: 1200, height: 800,
+    alt: "Reference photograph of an Indo-Pacific finless porpoise",
+    name: "Indo-Pacific finless porpoise", location: "Species reference photograph",
+    photographer: "New Hampshire PBS Wildlife Journal",
+    sourceUrl: "https://www.nhptv.org/wild/phocoenidae.asp",
+    position: "50% 50%",
+  },
+  "sperm-whale": {
+    src: "https://marilles.org/storage/media/2022/12/1581/d080479-at-jordichias.jpg",
+    width: 1200, height: 800,
+    alt: "Reference photograph of a Sperm whale",
+    name: "Sperm whale", location: "Mediterranean reference photograph",
+    photographer: "Jordi Chías",
+    sourceUrl: "https://marilles.org/en/post/cachalotes-desprotegidos",
+    position: "50% 50%",
+  },
+  "common-treeshrew": {
+    src: "/wildlife/profiles/common-treeshrew.jpg",
+    width: 1800, height: 1200,
+    alt: "Common treeshrew on a moss-covered log, reference photograph",
+    name: "Common treeshrew", location: "Thailand · species reference photograph",
+    photographer: "Wich’yanan L",
+    license: "CC BY 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by/4.0/",
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Tupaia_glis_306726877.jpg",
+    position: "50% 50%",
+  },
+  "cave-nectar-bat": {
+    src: "https://www.merlintuttle.org/wp-content/uploads/2015/04/MDT_TH4_C3_6885.jpg",
+    width: 1200, height: 800,
+    alt: "Reference photograph of a Cave nectar bat",
+    name: "Cave nectar bat", location: "Species reference photograph",
+    photographer: "Merlin Tuttle",
+    sourceUrl: "https://www.merlintuttle.org/documenting-billion-dollar-bats/",
+    position: "50% 50%",
+  },
+  "lesser-long-tongued-nectar-bat": {
+    src: "https://inaturalist-open-data.s3.amazonaws.com/photos/254533/original.jpg",
+    width: 1200, height: 800,
+    alt: "Reference photograph of a Lesser long-tongued nectar bat",
+    name: "Lesser long-tongued nectar bat", location: "Species reference photograph",
+    photographer: "Chien Lee",
+    license: "CC BY-SA 3.0", licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/",
+    sourceUrl: "https://www.inaturalist.org/taxa/40946-Macroglossus-minimus",
+    position: "50% 50%",
+  },
+  "large-flying-fox": {
+    src: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Pteropus_vampyrus_435399917.jpg/1280px-Pteropus_vampyrus_435399917.jpg",
+    width: 1280, height: 853,
+    alt: "Reference photograph of a Large flying fox",
+    name: "Large flying fox", location: "Species reference photograph",
+    photographer: "Justin Philbois",
+    license: "CC BY-SA 4.0", licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/",
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Pteropus_vampyrus_435399917.jpg",
+    position: "50% 50%",
+  },
+  "asian-small-clawed-otter": {
+    src: "https://www.hkzbg.gov.hk/assets/images/animals/cover/Mammals/Asian_small_clawed_otter.jpg",
+    width: 1200, height: 800,
+    alt: "Reference photograph of an Asian small-clawed otter",
+    name: "Asian small-clawed otter", location: "Hong Kong Zoological and Botanical Gardens reference photograph",
+    photographer: "Hong Kong Zoological and Botanical Gardens",
+    sourceUrl: "https://www.hkzbg.gov.hk/en/animals/mammals/animals_15.html",
+    position: "50% 50%",
   },
   ...Object.fromEntries((fullBirdProfiles as Array<{ id: string; name: string; photo: { src: string; alt: string; photographer: string; sourceUrl: string } | null }>).flatMap((bird) => bird.photo ? [[bird.id, {
     src: bird.photo.src,

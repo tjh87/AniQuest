@@ -231,7 +231,7 @@ Before each request and redirect, resolve and validate all addresses. Reject loo
 
 Use HEAD first, with a small ranged GET only when HEAD is unsupported. Limit redirects to two, use short timeouts and at most eight concurrent checks. Store status metadata, not article bodies. The retained hosted checker already checks the full registry without the former 96-link cap and guards writes/releases by its owning start timestamp. Preserve this fix. For the new local-server checker, use persisted batches and a cursor that continue until every registry URL is checked; add restart/resume and renewable leases.
 
-Classify 2xx as reachable, 404/410 as broken, authentication/rate-limit blocks as review, and repeated network/5xx failures as review then broken after the configured threshold. Offline runs remain deferred and must not make every source broken. Reachable is not fact-verified.
+Classify 2xx as reachable, 404/410 as broken, and authentication/rate-limit blocks as review. Keep DNS, timeout and other network failures in review even when they repeat because automated access failure does not prove that a page is dead. Repeated 5xx responses can move from review to broken after the configured threshold. Offline runs remain deferred and must not make every source broken. Reachable is not fact-verified.
 
 Use a unique scan owner, renewable lease, heartbeat, cooldown and owner-checked release. Test expired-worker/new-worker races. Show processed/total, the last full completion, next due time, review reasons and a safe retry action. Never delete or unpublish content automatically.
 

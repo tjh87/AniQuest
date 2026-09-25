@@ -1,26 +1,25 @@
 @echo off
 setlocal
-title AniQuest - Local
+title AniQuest - Offline
 pushd "%~dp0"
 if errorlevel 1 goto folder_error
-where node.exe >nul 2>nul
+set "ANIQUEST_NODE=node.exe"
+if exist "runtime\windows-x64\node.exe" set "ANIQUEST_NODE=%CD%\runtime\windows-x64\node.exe"
+"%ANIQUEST_NODE%" "scripts\serve-local.mjs" --check >nul 2>nul
 if errorlevel 1 goto missing_node
-node.exe "scripts\serve-local.mjs" --open
+"%ANIQUEST_NODE%" "scripts\serve-local.mjs" --open
 set "ANIQUEST_EXIT=%ERRORLEVEL%"
 if not "%ANIQUEST_EXIT%"=="0" pause
 popd
 exit /b %ANIQUEST_EXIT%
-
 :missing_node
-echo Install Node.js 22 LTS for Windows, then open this file again.
-echo Choose the x64 installer for a standard 64-bit Windows 10 PC.
-echo https://nodejs.org/download/release/latest-v22.x/
-echo.
+echo Extract the complete Windows offline ZIP. It includes Node.js.
+echo For a source checkout, run Prepare-Windows-Runtime.ps1 while connected.
+echo Or install Node.js 22.13 or later from https://nodejs.org/.
 pause
 popd
 exit /b 1
-
 :folder_error
-echo Extract the complete AniQuest ZIP to a folder on this PC first.
+echo Extract the complete ZIP to a local folder first.
 pause
 exit /b 1

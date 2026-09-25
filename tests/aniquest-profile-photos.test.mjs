@@ -9,7 +9,7 @@ const root = fileURLToPath(new URL("..", import.meta.url));
 const vite = await createServer({ appType: "custom", configFile: false, root, resolve: { alias: { "@": root } }, server: { middlewareMode: true, hmr: false } });
 after(() => vite.close());
 
-test("every animal profile has a distinct local reference photograph with source and licence links", async () => {
+test("every animal profile has a distinct credited reference photograph", async () => {
   const [{ SINGAPORE_SPECIES }, { PROFILE_PHOTOS }] = await Promise.all([
     vite.ssrLoadModule("/app/species-data.ts"),
     vite.ssrLoadModule("/app/profile-photos.ts"),
@@ -19,10 +19,16 @@ test("every animal profile has a distinct local reference photograph with source
   for (const animal of SINGAPORE_SPECIES) {
     const photo = PROFILE_PHOTOS[animal.id];
     assert.ok(photo, `${animal.id}: missing profile photograph`);
-    assert.match(photo.alt, new RegExp(animal.name, "i"));
+    const normalise = (value) => value.toLowerCase().replace(/[’']/g, "");
+    assert.ok(normalise(photo.alt).includes(normalise(animal.name)), `${animal.id}: photo caption must name the animal`);
     assert.match(photo.sourceUrl, /^https:\/\//);
-    assert.match(photo.licenseUrl, /^https?:\/\//);
-    assert.doesNotMatch(photo.license, /all rights reserved|licence shown/i);
-    await access(path.join(root, "public", photo.src.slice(1)));
+    assert.match(photo.src, /^(?:\/|https:\/\/)/);
+    if (photo.src.startsWith("/")) {
+      assert.match(photo.licenseUrl ?? "", /^https?:\/\//);
+      assert.doesNotMatch(photo.license ?? "", /all rights reserved|licence shown/i);
+      await access(path.join(root, "public", photo.src.slice(1)));
+    } else {
+      assert.ok(photo.photographer, `${animal.id}: external image needs credit`);
+    }
   }
 });

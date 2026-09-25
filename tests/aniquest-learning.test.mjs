@@ -13,6 +13,14 @@ const q = QUIZ_QUESTIONS[0];
 const wrong = q.answers.find(a => a.value !== q.correctAnswer).value;
 const attempt = (question, correct, id, hintUsed = false) => learning.gradeAnswer(question, correct ? question.correctAnswer : question.answers.find(a => a.value !== question.correctAnswer).value, { hintUsed }, id).attempt;
 
+test("client record IDs work without secure-context randomUUID", async () => {
+  const { createClientId } = await vite.ssrLoadModule("/app/client-id.ts");
+  assert.equal(createClientId({ randomUUID: () => "native-id" }), "native-id");
+  const fallback = createClientId({ getRandomValues: (bytes) => { bytes.fill(0); return bytes; } });
+  assert.equal(fallback, "00000000-0000-4000-8000-000000000000");
+  assert.match(createClientId(null), /^aq-[a-z0-9]+-[a-z0-9]+$/);
+});
+
 test("wrong answers disclose the correct answer and retain attempt evidence", () => {
   const result = learning.gradeAnswer(q, wrong, { hintUsed: true }, "wrong-1");
   assert.equal(result.correct, false);

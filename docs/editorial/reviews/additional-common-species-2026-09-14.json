@@ -1,0 +1,1904 @@
+{
+  "reviewedAt": "2026-09-14T11:24:39.573Z",
+  "scope": "Second batch of 12 common Singapore animals",
+  "profileCount": 12,
+  "reviewCount": 156,
+  "limitations": [
+    "Global assessments remain unverified for this batch.",
+    "The ornate sunbird exact post-split national category remains unverified.",
+    "The red-eared slider has no verified RDB3 category.",
+    "Habitat and food-web interpretations are labelled and make no numerical claims."
+  ],
+  "records": [
+    {
+      "contentId": "profile:ornate-sunbird",
+      "claim": "identification",
+      "claimText": "Males have olive upperparts, a glossy blue-black forehead, throat and breast, and a yellow belly. Females have yellow underparts, a curved bill and white in the tail.",
+      "hash": "0111b52d5940c0012fa2c0a71fc0c4bcbe3d42b7d528e2fca145393069625501",
+      "sourceUrl": "https://singaporebirds.com/species/ornate-sunbird/",
+      "additionalSources": [
+        "https://juronglakegardens.nparks.gov.sg/birds/"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared identification with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.538Z"
+    },
+    {
+      "contentId": "profile:ornate-sunbird",
+      "claim": "diet",
+      "claimText": "Nectar and small insects, especially when feeding young.",
+      "hash": "0111b52d5940c0012fa2c0a71fc0c4bcbe3d42b7d528e2fca145393069625501",
+      "sourceUrl": "https://singaporebirds.com/species/ornate-sunbird/",
+      "additionalSources": [
+        "https://juronglakegardens.nparks.gov.sg/birds/"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared diet with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.539Z"
+    },
+    {
+      "contentId": "profile:ornate-sunbird",
+      "claim": "activity",
+      "claimText": "Feeds by day among flowering shrubs and trees.",
+      "hash": "0111b52d5940c0012fa2c0a71fc0c4bcbe3d42b7d528e2fca145393069625501",
+      "sourceUrl": "https://singaporebirds.com/species/ornate-sunbird/",
+      "additionalSources": [
+        "https://juronglakegardens.nparks.gov.sg/birds/"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared activity with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.539Z"
+    },
+    {
+      "contentId": "profile:ornate-sunbird",
+      "claim": "behaviour",
+      "claimText": "Moves quickly between flowers, sometimes hovering briefly before perching to feed.",
+      "hash": "0111b52d5940c0012fa2c0a71fc0c4bcbe3d42b7d528e2fca145393069625501",
+      "sourceUrl": "https://singaporebirds.com/species/ornate-sunbird/",
+      "additionalSources": [
+        "https://juronglakegardens.nparks.gov.sg/birds/"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared behaviour with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.539Z"
+    },
+    {
+      "contentId": "profile:ornate-sunbird",
+      "claim": "singapore",
+      "claimText": "Recorded in Singapore in gardens, parks, mangroves, forest edge. Use public paths and do not disturb nests or shelter sites.",
+      "hash": "0111b52d5940c0012fa2c0a71fc0c4bcbe3d42b7d528e2fca145393069625501",
+      "sourceUrl": "https://singaporebirds.com/species/ornate-sunbird/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "The species account and national list support Singapore occurrence. Mixed-origin and uncertain-origin cases remain explicit.",
+      "reviewedAt": "2026-09-14T11:24:39.539Z"
+    },
+    {
+      "contentId": "profile:ornate-sunbird",
+      "claim": "reproduction",
+      "claimText": "Builds a hanging pouch nest from leaves, grass and spider web.",
+      "hash": "0111b52d5940c0012fa2c0a71fc0c4bcbe3d42b7d528e2fca145393069625501",
+      "sourceUrl": "https://juronglakegardens.nparks.gov.sg/birds/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "The linked biology source supports the nest or reproductive mode. No overseas breeding season was applied to Singapore.",
+      "reviewedAt": "2026-09-14T11:24:39.539Z"
+    },
+    {
+      "contentId": "profile:ornate-sunbird",
+      "claim": "ecologicalRole",
+      "claimText": "Carries pollen between flowers and consumes small insects.",
+      "hash": "0111b52d5940c0012fa2c0a71fc0c4bcbe3d42b7d528e2fca145393069625501",
+      "sourceUrl": "https://singaporebirds.com/species/ornate-sunbird/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "This is a qualitative food-web interpretation of the documented diet. It does not claim a measured ecological effect.",
+      "reviewedAt": "2026-09-14T11:24:39.539Z"
+    },
+    {
+      "contentId": "profile:ornate-sunbird",
+      "claim": "pressures",
+      "claimText": "Habitat considerations: Loss of flowering plants removes food. Pruning can disturb occupied hanging nests.",
+      "hash": "0111b52d5940c0012fa2c0a71fc0c4bcbe3d42b7d528e2fca145393069625501",
+      "sourceUrl": "https://singaporebirds.com/species/ornate-sunbird/",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "This is a labelled habitat-care interpretation based on the animal’s stated habitat needs and NParks viewing guidance. It is not a measured population trend.",
+      "reviewedAt": "2026-09-14T11:24:39.539Z"
+    },
+    {
+      "contentId": "profile:ornate-sunbird",
+      "claim": "watch",
+      "claimText": "Watch quietly from a distance. Do not feed, catch or handle wildlife. Leave the animal an open escape route.",
+      "hash": "0111b52d5940c0012fa2c0a71fc0c4bcbe3d42b7d528e2fca145393069625501",
+      "sourceUrl": "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "NParks guidance supports distant observation, no feeding or handling, and an open escape route.",
+      "reviewedAt": "2026-09-14T11:24:39.539Z"
+    },
+    {
+      "contentId": "profile:ornate-sunbird",
+      "claim": "singaporeStatus",
+      "claimText": "Not assessed here",
+      "hash": "0111b52d5940c0012fa2c0a71fc0c4bcbe3d42b7d528e2fca145393069625501",
+      "sourceUrl": "https://singaporebirds.com/species/ornate-sunbird/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "No exact current RDB3 category was verified. The profile displays Not assessed here and explains the taxonomic or listing gap.",
+      "reviewedAt": "2026-09-14T11:24:39.539Z"
+    },
+    {
+      "contentId": "profile:ornate-sunbird",
+      "claim": "globalStatus",
+      "claimText": "Dated global assessment not verified in this edition",
+      "hash": "0111b52d5940c0012fa2c0a71fc0c4bcbe3d42b7d528e2fca145393069625501",
+      "sourceUrl": "https://singaporebirds.com/species/ornate-sunbird/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "The text records only that a dated taxon-matched global assessment was not verified. It does not turn national or encounter data into global risk.",
+      "reviewedAt": "2026-09-14T11:24:39.540Z"
+    },
+    {
+      "contentId": "profile:ornate-sunbird",
+      "claim": "funFacts.0.text",
+      "claimText": "Its down-curved bill reaches nectar inside narrow flowers.",
+      "hash": "0111b52d5940c0012fa2c0a71fc0c4bcbe3d42b7d528e2fca145393069625501",
+      "sourceUrl": "https://singaporebirds.com/species/ornate-sunbird/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Checked “A curved drinking straw” against its linked identification, behaviour or Singapore reference.",
+      "reviewedAt": "2026-09-14T11:24:39.541Z"
+    },
+    {
+      "contentId": "profile:ornate-sunbird",
+      "claim": "funFacts.1.text",
+      "claimText": "The male has a glossy dark throat, while the female is olive and yellow.",
+      "hash": "0111b52d5940c0012fa2c0a71fc0c4bcbe3d42b7d528e2fca145393069625501",
+      "sourceUrl": "https://singaporebirds.com/species/ornate-sunbird/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Checked “Two different outfits” against its linked identification, behaviour or Singapore reference.",
+      "reviewedAt": "2026-09-14T11:24:39.541Z"
+    },
+    {
+      "contentId": "profile:eurasian-tree-sparrow",
+      "claim": "identification",
+      "claimText": "Chestnut crown, white cheeks with a black cheek spot, black throat patch and brown streaked wings. Both sexes look alike.",
+      "hash": "19931e5df294be4f92bccaae755def98b8b42375fe74090977a27bd2723520c7",
+      "sourceUrl": "https://singaporebirds.com/species/eurasian-tree-sparrow/",
+      "additionalSources": [
+        "https://doi.org/10.2173/bow.eutspa.01"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared identification with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.541Z"
+    },
+    {
+      "contentId": "profile:eurasian-tree-sparrow",
+      "claim": "diet",
+      "claimText": "Seeds, grains and small invertebrates; chicks receive more animal food.",
+      "hash": "19931e5df294be4f92bccaae755def98b8b42375fe74090977a27bd2723520c7",
+      "sourceUrl": "https://singaporebirds.com/species/eurasian-tree-sparrow/",
+      "additionalSources": [
+        "https://doi.org/10.2173/bow.eutspa.01"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared diet with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.541Z"
+    },
+    {
+      "contentId": "profile:eurasian-tree-sparrow",
+      "claim": "activity",
+      "claimText": "Feeds by day, often in active groups.",
+      "hash": "19931e5df294be4f92bccaae755def98b8b42375fe74090977a27bd2723520c7",
+      "sourceUrl": "https://singaporebirds.com/species/eurasian-tree-sparrow/",
+      "additionalSources": [
+        "https://doi.org/10.2173/bow.eutspa.01"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared activity with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.541Z"
+    },
+    {
+      "contentId": "profile:eurasian-tree-sparrow",
+      "claim": "behaviour",
+      "claimText": "Forages mainly on the ground and gathers in flocks near people.",
+      "hash": "19931e5df294be4f92bccaae755def98b8b42375fe74090977a27bd2723520c7",
+      "sourceUrl": "https://singaporebirds.com/species/eurasian-tree-sparrow/",
+      "additionalSources": [
+        "https://doi.org/10.2173/bow.eutspa.01"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared behaviour with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.541Z"
+    },
+    {
+      "contentId": "profile:eurasian-tree-sparrow",
+      "claim": "singapore",
+      "claimText": "A very common Singapore resident around open urban areas, parks, grassland and fields. NParks records uncertainty about its historical origin.",
+      "hash": "19931e5df294be4f92bccaae755def98b8b42375fe74090977a27bd2723520c7",
+      "sourceUrl": "https://singaporebirds.com/species/eurasian-tree-sparrow/",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/nature/species-list/birds"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "The species account and national list support Singapore occurrence. Mixed-origin and uncertain-origin cases remain explicit.",
+      "reviewedAt": "2026-09-14T11:24:39.541Z"
+    },
+    {
+      "contentId": "profile:eurasian-tree-sparrow",
+      "claim": "reproduction",
+      "claimText": "Uses sheltered cavities in trees and buildings, where it builds a grass-lined nest.",
+      "hash": "19931e5df294be4f92bccaae755def98b8b42375fe74090977a27bd2723520c7",
+      "sourceUrl": "https://doi.org/10.2173/bow.eutspa.01",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "The linked biology source supports the nest or reproductive mode. No overseas breeding season was applied to Singapore.",
+      "reviewedAt": "2026-09-14T11:24:39.541Z"
+    },
+    {
+      "contentId": "profile:eurasian-tree-sparrow",
+      "claim": "ecologicalRole",
+      "claimText": "Eats seeds and invertebrates and provides prey for urban predators.",
+      "hash": "19931e5df294be4f92bccaae755def98b8b42375fe74090977a27bd2723520c7",
+      "sourceUrl": "https://singaporebirds.com/species/eurasian-tree-sparrow/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "This is a qualitative food-web interpretation of the documented diet. It does not claim a measured ecological effect.",
+      "reviewedAt": "2026-09-14T11:24:39.541Z"
+    },
+    {
+      "contentId": "profile:eurasian-tree-sparrow",
+      "claim": "pressures",
+      "claimText": "Habitat considerations: Sealed building cavities and loss of seed-rich open ground can reduce nesting and feeding spaces.",
+      "hash": "19931e5df294be4f92bccaae755def98b8b42375fe74090977a27bd2723520c7",
+      "sourceUrl": "https://singaporebirds.com/species/eurasian-tree-sparrow/",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "This is a labelled habitat-care interpretation based on the animal’s stated habitat needs and NParks viewing guidance. It is not a measured population trend.",
+      "reviewedAt": "2026-09-14T11:24:39.541Z"
+    },
+    {
+      "contentId": "profile:eurasian-tree-sparrow",
+      "claim": "watch",
+      "claimText": "Watch quietly from a distance. Do not feed, catch or handle wildlife. Leave the animal an open escape route.",
+      "hash": "19931e5df294be4f92bccaae755def98b8b42375fe74090977a27bd2723520c7",
+      "sourceUrl": "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "NParks guidance supports distant observation, no feeding or handling, and an open escape route.",
+      "reviewedAt": "2026-09-14T11:24:39.541Z"
+    },
+    {
+      "contentId": "profile:eurasian-tree-sparrow",
+      "claim": "singaporeStatus",
+      "claimText": "Least Concern",
+      "hash": "19931e5df294be4f92bccaae755def98b8b42375fe74090977a27bd2723520c7",
+      "sourceUrl": "https://www.nparks.gov.sg/nature/species-list/birds",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Matched the NParks RDB3 entry for the stated Singapore category LC. Origin notes preserve any uncertainty or mixed populations.",
+      "reviewedAt": "2026-09-14T11:24:39.542Z"
+    },
+    {
+      "contentId": "profile:eurasian-tree-sparrow",
+      "claim": "globalStatus",
+      "claimText": "Dated global assessment not verified in this edition",
+      "hash": "19931e5df294be4f92bccaae755def98b8b42375fe74090977a27bd2723520c7",
+      "sourceUrl": "https://www.nparks.gov.sg/nature/species-list/birds",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "The text records only that a dated taxon-matched global assessment was not verified. It does not turn national or encounter data into global risk.",
+      "reviewedAt": "2026-09-14T11:24:39.542Z"
+    },
+    {
+      "contentId": "profile:eurasian-tree-sparrow",
+      "claim": "funFacts.0.text",
+      "claimText": "Adult males and females have similar plumage.",
+      "hash": "19931e5df294be4f92bccaae755def98b8b42375fe74090977a27bd2723520c7",
+      "sourceUrl": "https://singaporebirds.com/species/eurasian-tree-sparrow/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Checked “Matching pair” against its linked identification, behaviour or Singapore reference.",
+      "reviewedAt": "2026-09-14T11:24:39.542Z"
+    },
+    {
+      "contentId": "profile:eurasian-tree-sparrow",
+      "claim": "funFacts.1.text",
+      "claimText": "The black spot on each white cheek helps identify this sparrow.",
+      "hash": "19931e5df294be4f92bccaae755def98b8b42375fe74090977a27bd2723520c7",
+      "sourceUrl": "https://singaporebirds.com/species/eurasian-tree-sparrow/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Checked “Cheek check” against its linked identification, behaviour or Singapore reference.",
+      "reviewedAt": "2026-09-14T11:24:39.542Z"
+    },
+    {
+      "contentId": "profile:scaly-breasted-munia",
+      "claim": "identification",
+      "claimText": "Adults have a brown head and upperparts, a thick grey bill and dark scale-like marks below. Juveniles are plain brown and lack strong scaling.",
+      "hash": "e68e220c3e932e42517e9e2d7aeeacd8bd6f9844a9011974f4cd9e8515abb57a",
+      "sourceUrl": "https://singaporebirds.com/species/scaly-breasted-munia/",
+      "additionalSources": [
+        "https://doi.org/10.2173/bow.nutman.01"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared identification with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.542Z"
+    },
+    {
+      "contentId": "profile:scaly-breasted-munia",
+      "claim": "diet",
+      "claimText": "Grass seeds and other small seeds.",
+      "hash": "e68e220c3e932e42517e9e2d7aeeacd8bd6f9844a9011974f4cd9e8515abb57a",
+      "sourceUrl": "https://singaporebirds.com/species/scaly-breasted-munia/",
+      "additionalSources": [
+        "https://doi.org/10.2173/bow.nutman.01"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared diet with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.542Z"
+    },
+    {
+      "contentId": "profile:scaly-breasted-munia",
+      "claim": "activity",
+      "claimText": "Feeds by day, often in small groups.",
+      "hash": "e68e220c3e932e42517e9e2d7aeeacd8bd6f9844a9011974f4cd9e8515abb57a",
+      "sourceUrl": "https://singaporebirds.com/species/scaly-breasted-munia/",
+      "additionalSources": [
+        "https://doi.org/10.2173/bow.nutman.01"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared activity with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.544Z"
+    },
+    {
+      "contentId": "profile:scaly-breasted-munia",
+      "claim": "behaviour",
+      "claimText": "Forms social flocks and can forage with other munias on grass stems or the ground.",
+      "hash": "e68e220c3e932e42517e9e2d7aeeacd8bd6f9844a9011974f4cd9e8515abb57a",
+      "sourceUrl": "https://singaporebirds.com/species/scaly-breasted-munia/",
+      "additionalSources": [
+        "https://doi.org/10.2173/bow.nutman.01"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared behaviour with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.544Z"
+    },
+    {
+      "contentId": "profile:scaly-breasted-munia",
+      "claim": "singapore",
+      "claimText": "NParks lists the species as native and LC. Bird Society of Singapore records both a native resident and an introduced resident population.",
+      "hash": "e68e220c3e932e42517e9e2d7aeeacd8bd6f9844a9011974f4cd9e8515abb57a",
+      "sourceUrl": "https://singaporebirds.com/species/scaly-breasted-munia/",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/nature/species-list/birds"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "The species account and national list support Singapore occurrence. Mixed-origin and uncertain-origin cases remain explicit.",
+      "reviewedAt": "2026-09-14T11:24:39.544Z"
+    },
+    {
+      "contentId": "profile:scaly-breasted-munia",
+      "claim": "reproduction",
+      "claimText": "Builds a rounded grass nest with a side entrance in dense vegetation.",
+      "hash": "e68e220c3e932e42517e9e2d7aeeacd8bd6f9844a9011974f4cd9e8515abb57a",
+      "sourceUrl": "https://doi.org/10.2173/bow.nutman.01",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "The linked biology source supports the nest or reproductive mode. No overseas breeding season was applied to Singapore.",
+      "reviewedAt": "2026-09-14T11:24:39.545Z"
+    },
+    {
+      "contentId": "profile:scaly-breasted-munia",
+      "claim": "ecologicalRole",
+      "claimText": "Transfers energy from grass seeds into the food web and may move some seeds between feeding sites.",
+      "hash": "e68e220c3e932e42517e9e2d7aeeacd8bd6f9844a9011974f4cd9e8515abb57a",
+      "sourceUrl": "https://singaporebirds.com/species/scaly-breasted-munia/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "This is a qualitative food-web interpretation of the documented diet. It does not claim a measured ecological effect.",
+      "reviewedAt": "2026-09-14T11:24:39.545Z"
+    },
+    {
+      "contentId": "profile:scaly-breasted-munia",
+      "claim": "pressures",
+      "claimText": "Habitat considerations: Frequent mowing and clearing of dense grass can remove feeding and nesting cover.",
+      "hash": "e68e220c3e932e42517e9e2d7aeeacd8bd6f9844a9011974f4cd9e8515abb57a",
+      "sourceUrl": "https://singaporebirds.com/species/scaly-breasted-munia/",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "This is a labelled habitat-care interpretation based on the animal’s stated habitat needs and NParks viewing guidance. It is not a measured population trend.",
+      "reviewedAt": "2026-09-14T11:24:39.545Z"
+    },
+    {
+      "contentId": "profile:scaly-breasted-munia",
+      "claim": "watch",
+      "claimText": "Watch quietly from a distance. Do not feed, catch or handle wildlife. Leave the animal an open escape route.",
+      "hash": "e68e220c3e932e42517e9e2d7aeeacd8bd6f9844a9011974f4cd9e8515abb57a",
+      "sourceUrl": "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "NParks guidance supports distant observation, no feeding or handling, and an open escape route.",
+      "reviewedAt": "2026-09-14T11:24:39.545Z"
+    },
+    {
+      "contentId": "profile:scaly-breasted-munia",
+      "claim": "singaporeStatus",
+      "claimText": "Least Concern",
+      "hash": "e68e220c3e932e42517e9e2d7aeeacd8bd6f9844a9011974f4cd9e8515abb57a",
+      "sourceUrl": "https://www.nparks.gov.sg/nature/species-list/birds",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Matched the NParks RDB3 entry for the stated Singapore category LC. Origin notes preserve any uncertainty or mixed populations.",
+      "reviewedAt": "2026-09-14T11:24:39.545Z"
+    },
+    {
+      "contentId": "profile:scaly-breasted-munia",
+      "claim": "globalStatus",
+      "claimText": "Dated global assessment not verified in this edition",
+      "hash": "e68e220c3e932e42517e9e2d7aeeacd8bd6f9844a9011974f4cd9e8515abb57a",
+      "sourceUrl": "https://www.nparks.gov.sg/nature/species-list/birds",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "The text records only that a dated taxon-matched global assessment was not verified. It does not turn national or encounter data into global risk.",
+      "reviewedAt": "2026-09-14T11:24:39.545Z"
+    },
+    {
+      "contentId": "profile:scaly-breasted-munia",
+      "claim": "funFacts.0.text",
+      "claimText": "Singapore records include a native subspecies and an introduced subspecies.",
+      "hash": "e68e220c3e932e42517e9e2d7aeeacd8bd6f9844a9011974f4cd9e8515abb57a",
+      "sourceUrl": "https://singaporebirds.com/species/scaly-breasted-munia/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Checked “One species, two arrivals” against its linked identification, behaviour or Singapore reference.",
+      "reviewedAt": "2026-09-14T11:24:39.545Z"
+    },
+    {
+      "contentId": "profile:scaly-breasted-munia",
+      "claim": "funFacts.1.text",
+      "claimText": "Young birds are plain brown before their scale-like breast pattern develops.",
+      "hash": "e68e220c3e932e42517e9e2d7aeeacd8bd6f9844a9011974f4cd9e8515abb57a",
+      "sourceUrl": "https://singaporebirds.com/species/scaly-breasted-munia/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Checked “Juvenile disguise” against its linked identification, behaviour or Singapore reference.",
+      "reviewedAt": "2026-09-14T11:24:39.545Z"
+    },
+    {
+      "contentId": "profile:pacific-swallow",
+      "claim": "identification",
+      "claimText": "Glossy dark-blue upperparts, rufous forehead and throat, grey underparts and a short, shallowly forked tail.",
+      "hash": "55592199e57d1217bd02c8c045a3f2ffaee86b7ffb94e07ca3c02fb100240723",
+      "sourceUrl": "https://singaporebirds.com/species/pacific-swallow/",
+      "additionalSources": [
+        "https://juronglakegardens.nparks.gov.sg/birds/"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared identification with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.546Z"
+    },
+    {
+      "contentId": "profile:pacific-swallow",
+      "claim": "diet",
+      "claimText": "Flying insects caught in the air.",
+      "hash": "55592199e57d1217bd02c8c045a3f2ffaee86b7ffb94e07ca3c02fb100240723",
+      "sourceUrl": "https://singaporebirds.com/species/pacific-swallow/",
+      "additionalSources": [
+        "https://juronglakegardens.nparks.gov.sg/birds/"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared diet with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.546Z"
+    },
+    {
+      "contentId": "profile:pacific-swallow",
+      "claim": "activity",
+      "claimText": "Feeds by day in fast, low flight over open areas.",
+      "hash": "55592199e57d1217bd02c8c045a3f2ffaee86b7ffb94e07ca3c02fb100240723",
+      "sourceUrl": "https://singaporebirds.com/species/pacific-swallow/",
+      "additionalSources": [
+        "https://juronglakegardens.nparks.gov.sg/birds/"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared activity with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.546Z"
+    },
+    {
+      "contentId": "profile:pacific-swallow",
+      "claim": "behaviour",
+      "claimText": "Often feeds in small groups and rests on wires, railings and exposed perches.",
+      "hash": "55592199e57d1217bd02c8c045a3f2ffaee86b7ffb94e07ca3c02fb100240723",
+      "sourceUrl": "https://singaporebirds.com/species/pacific-swallow/",
+      "additionalSources": [
+        "https://juronglakegardens.nparks.gov.sg/birds/"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared behaviour with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.546Z"
+    },
+    {
+      "contentId": "profile:pacific-swallow",
+      "claim": "singapore",
+      "claimText": "Recorded in Singapore in open country, coast, wetlands, forest edge, urban. Use public paths and do not disturb nests or shelter sites.",
+      "hash": "55592199e57d1217bd02c8c045a3f2ffaee86b7ffb94e07ca3c02fb100240723",
+      "sourceUrl": "https://singaporebirds.com/species/pacific-swallow/",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/nature/species-list/birds"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "The species account and national list support Singapore occurrence. Mixed-origin and uncertain-origin cases remain explicit.",
+      "reviewedAt": "2026-09-14T11:24:39.546Z"
+    },
+    {
+      "contentId": "profile:pacific-swallow",
+      "claim": "reproduction",
+      "claimText": "Builds a neat cup from mud pellets under cliffs, bridges, towers and sheltered building ledges.",
+      "hash": "55592199e57d1217bd02c8c045a3f2ffaee86b7ffb94e07ca3c02fb100240723",
+      "sourceUrl": "https://juronglakegardens.nparks.gov.sg/birds/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "The linked biology source supports the nest or reproductive mode. No overseas breeding season was applied to Singapore.",
+      "reviewedAt": "2026-09-14T11:24:39.546Z"
+    },
+    {
+      "contentId": "profile:pacific-swallow",
+      "claim": "ecologicalRole",
+      "claimText": "Consumes flying insects over land, freshwater and coastal habitats.",
+      "hash": "55592199e57d1217bd02c8c045a3f2ffaee86b7ffb94e07ca3c02fb100240723",
+      "sourceUrl": "https://singaporebirds.com/species/pacific-swallow/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "This is a qualitative food-web interpretation of the documented diet. It does not claim a measured ecological effect.",
+      "reviewedAt": "2026-09-14T11:24:39.546Z"
+    },
+    {
+      "contentId": "profile:pacific-swallow",
+      "claim": "pressures",
+      "claimText": "Habitat considerations: Removing active mud nests or sealing sheltered ledges during breeding can destroy nesting sites.",
+      "hash": "55592199e57d1217bd02c8c045a3f2ffaee86b7ffb94e07ca3c02fb100240723",
+      "sourceUrl": "https://singaporebirds.com/species/pacific-swallow/",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "This is a labelled habitat-care interpretation based on the animal’s stated habitat needs and NParks viewing guidance. It is not a measured population trend.",
+      "reviewedAt": "2026-09-14T11:24:39.546Z"
+    },
+    {
+      "contentId": "profile:pacific-swallow",
+      "claim": "watch",
+      "claimText": "Watch quietly from a distance. Do not feed, catch or handle wildlife. Leave the animal an open escape route.",
+      "hash": "55592199e57d1217bd02c8c045a3f2ffaee86b7ffb94e07ca3c02fb100240723",
+      "sourceUrl": "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "NParks guidance supports distant observation, no feeding or handling, and an open escape route.",
+      "reviewedAt": "2026-09-14T11:24:39.546Z"
+    },
+    {
+      "contentId": "profile:pacific-swallow",
+      "claim": "singaporeStatus",
+      "claimText": "Least Concern",
+      "hash": "55592199e57d1217bd02c8c045a3f2ffaee86b7ffb94e07ca3c02fb100240723",
+      "sourceUrl": "https://www.nparks.gov.sg/nature/species-list/birds",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Matched the NParks RDB3 entry for the stated Singapore category LC. Origin notes preserve any uncertainty or mixed populations.",
+      "reviewedAt": "2026-09-14T11:24:39.547Z"
+    },
+    {
+      "contentId": "profile:pacific-swallow",
+      "claim": "globalStatus",
+      "claimText": "Dated global assessment not verified in this edition",
+      "hash": "55592199e57d1217bd02c8c045a3f2ffaee86b7ffb94e07ca3c02fb100240723",
+      "sourceUrl": "https://www.nparks.gov.sg/nature/species-list/birds",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "The text records only that a dated taxon-matched global assessment was not verified. It does not turn national or encounter data into global risk.",
+      "reviewedAt": "2026-09-14T11:24:39.547Z"
+    },
+    {
+      "contentId": "profile:pacific-swallow",
+      "claim": "funFacts.0.text",
+      "claimText": "It catches insects without landing.",
+      "hash": "55592199e57d1217bd02c8c045a3f2ffaee86b7ffb94e07ca3c02fb100240723",
+      "sourceUrl": "https://singaporebirds.com/species/pacific-swallow/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Checked “Dinner on the wing” against its linked identification, behaviour or Singapore reference.",
+      "reviewedAt": "2026-09-14T11:24:39.547Z"
+    },
+    {
+      "contentId": "profile:pacific-swallow",
+      "claim": "funFacts.1.text",
+      "claimText": "It presses mud pellets together to make a cup-shaped nest.",
+      "hash": "55592199e57d1217bd02c8c045a3f2ffaee86b7ffb94e07ca3c02fb100240723",
+      "sourceUrl": "https://juronglakegardens.nparks.gov.sg/birds/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Checked “Tiny mason” against its linked identification, behaviour or Singapore reference.",
+      "reviewedAt": "2026-09-14T11:24:39.547Z"
+    },
+    {
+      "contentId": "profile:sunda-pied-fantail",
+      "claim": "identification",
+      "claimText": "Blackish head, white eyebrow and throat, black breast band, pale belly and a broad fan-shaped tail with white outer tips.",
+      "hash": "fc063b207eedaf1ee2c9102ea92ad89328b46e72e88897906b76a8607e1f91ba",
+      "sourceUrl": "https://singaporebirds.com/species/sunda-pied-fantail/",
+      "additionalSources": [
+        "https://besgroup.org/2024/07/25/aberrant-nesting-site-and-nest-structure-of-the-malaysian-pied-fantail/"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared identification with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.547Z"
+    },
+    {
+      "contentId": "profile:sunda-pied-fantail",
+      "claim": "diet",
+      "claimText": "Small flying and foliage-dwelling insects.",
+      "hash": "fc063b207eedaf1ee2c9102ea92ad89328b46e72e88897906b76a8607e1f91ba",
+      "sourceUrl": "https://singaporebirds.com/species/sunda-pied-fantail/",
+      "additionalSources": [
+        "https://besgroup.org/2024/07/25/aberrant-nesting-site-and-nest-structure-of-the-malaysian-pied-fantail/"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared diet with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.547Z"
+    },
+    {
+      "contentId": "profile:sunda-pied-fantail",
+      "claim": "activity",
+      "claimText": "Feeds by day in low and middle vegetation.",
+      "hash": "fc063b207eedaf1ee2c9102ea92ad89328b46e72e88897906b76a8607e1f91ba",
+      "sourceUrl": "https://singaporebirds.com/species/sunda-pied-fantail/",
+      "additionalSources": [
+        "https://besgroup.org/2024/07/25/aberrant-nesting-site-and-nest-structure-of-the-malaysian-pied-fantail/"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared activity with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.547Z"
+    },
+    {
+      "contentId": "profile:sunda-pied-fantail",
+      "claim": "behaviour",
+      "claimText": "Forages actively in pairs or mixed flocks and darts from perches to catch insects.",
+      "hash": "fc063b207eedaf1ee2c9102ea92ad89328b46e72e88897906b76a8607e1f91ba",
+      "sourceUrl": "https://singaporebirds.com/species/sunda-pied-fantail/",
+      "additionalSources": [
+        "https://besgroup.org/2024/07/25/aberrant-nesting-site-and-nest-structure-of-the-malaysian-pied-fantail/"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared behaviour with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.547Z"
+    },
+    {
+      "contentId": "profile:sunda-pied-fantail",
+      "claim": "singapore",
+      "claimText": "Recorded in Singapore in gardens, forest, scrub, mangroves, wetlands. Use public paths and do not disturb nests or shelter sites.",
+      "hash": "fc063b207eedaf1ee2c9102ea92ad89328b46e72e88897906b76a8607e1f91ba",
+      "sourceUrl": "https://singaporebirds.com/species/sunda-pied-fantail/",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/nature/species-list/birds"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "The species account and national list support Singapore occurrence. Mixed-origin and uncertain-origin cases remain explicit.",
+      "reviewedAt": "2026-09-14T11:24:39.547Z"
+    },
+    {
+      "contentId": "profile:sunda-pied-fantail",
+      "claim": "reproduction",
+      "claimText": "Builds a small woven cup from fine plant material, bound with spider web on a branch.",
+      "hash": "fc063b207eedaf1ee2c9102ea92ad89328b46e72e88897906b76a8607e1f91ba",
+      "sourceUrl": "https://besgroup.org/2024/07/25/aberrant-nesting-site-and-nest-structure-of-the-malaysian-pied-fantail/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "The linked biology source supports the nest or reproductive mode. No overseas breeding season was applied to Singapore.",
+      "reviewedAt": "2026-09-14T11:24:39.547Z"
+    },
+    {
+      "contentId": "profile:sunda-pied-fantail",
+      "claim": "ecologicalRole",
+      "claimText": "Consumes insects in gardens, mangroves and forest understorey.",
+      "hash": "fc063b207eedaf1ee2c9102ea92ad89328b46e72e88897906b76a8607e1f91ba",
+      "sourceUrl": "https://singaporebirds.com/species/sunda-pied-fantail/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "This is a qualitative food-web interpretation of the documented diet. It does not claim a measured ecological effect.",
+      "reviewedAt": "2026-09-14T11:24:39.547Z"
+    },
+    {
+      "contentId": "profile:sunda-pied-fantail",
+      "claim": "pressures",
+      "claimText": "Habitat considerations: Loss of dense waterside shrubs removes feeding cover and nest sites.",
+      "hash": "fc063b207eedaf1ee2c9102ea92ad89328b46e72e88897906b76a8607e1f91ba",
+      "sourceUrl": "https://singaporebirds.com/species/sunda-pied-fantail/",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "This is a labelled habitat-care interpretation based on the animal’s stated habitat needs and NParks viewing guidance. It is not a measured population trend.",
+      "reviewedAt": "2026-09-14T11:24:39.547Z"
+    },
+    {
+      "contentId": "profile:sunda-pied-fantail",
+      "claim": "watch",
+      "claimText": "Watch quietly from a distance. Do not feed, catch or handle wildlife. Leave the animal an open escape route.",
+      "hash": "fc063b207eedaf1ee2c9102ea92ad89328b46e72e88897906b76a8607e1f91ba",
+      "sourceUrl": "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "NParks guidance supports distant observation, no feeding or handling, and an open escape route.",
+      "reviewedAt": "2026-09-14T11:24:39.548Z"
+    },
+    {
+      "contentId": "profile:sunda-pied-fantail",
+      "claim": "singaporeStatus",
+      "claimText": "Least Concern",
+      "hash": "fc063b207eedaf1ee2c9102ea92ad89328b46e72e88897906b76a8607e1f91ba",
+      "sourceUrl": "https://www.nparks.gov.sg/nature/species-list/birds",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Matched the NParks RDB3 entry for the stated Singapore category LC. Origin notes preserve any uncertainty or mixed populations.",
+      "reviewedAt": "2026-09-14T11:24:39.548Z"
+    },
+    {
+      "contentId": "profile:sunda-pied-fantail",
+      "claim": "globalStatus",
+      "claimText": "Dated global assessment not verified in this edition",
+      "hash": "fc063b207eedaf1ee2c9102ea92ad89328b46e72e88897906b76a8607e1f91ba",
+      "sourceUrl": "https://www.nparks.gov.sg/nature/species-list/birds",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "The text records only that a dated taxon-matched global assessment was not verified. It does not turn national or encounter data into global risk.",
+      "reviewedAt": "2026-09-14T11:24:39.548Z"
+    },
+    {
+      "contentId": "profile:sunda-pied-fantail",
+      "claim": "funFacts.0.text",
+      "claimText": "White-tipped outer feathers become conspicuous when the tail spreads.",
+      "hash": "fc063b207eedaf1ee2c9102ea92ad89328b46e72e88897906b76a8607e1f91ba",
+      "sourceUrl": "https://singaporebirds.com/species/sunda-pied-fantail/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Checked “Portable fan” against its linked identification, behaviour or Singapore reference.",
+      "reviewedAt": "2026-09-14T11:24:39.548Z"
+    },
+    {
+      "contentId": "profile:sunda-pied-fantail",
+      "claim": "funFacts.1.text",
+      "claimText": "It launches from a perch to catch insects and often returns to nearby cover.",
+      "hash": "fc063b207eedaf1ee2c9102ea92ad89328b46e72e88897906b76a8607e1f91ba",
+      "sourceUrl": "https://singaporebirds.com/species/sunda-pied-fantail/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Checked “Dash and return” against its linked identification, behaviour or Singapore reference.",
+      "reviewedAt": "2026-09-14T11:24:39.548Z"
+    },
+    {
+      "contentId": "profile:ashy-tailorbird",
+      "claim": "identification",
+      "claimText": "Slate-grey upperparts, white belly and a chestnut forehead, crown and face. Females have duller colours.",
+      "hash": "8dc19a1f6560abd3411a933518968385776d68f1992fbab35d58bc0b377d72f7",
+      "sourceUrl": "https://singaporebirds.com/species/ashy-tailorbird/",
+      "additionalSources": [
+        "https://juronglakegardens.nparks.gov.sg/birds/"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared identification with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.548Z"
+    },
+    {
+      "contentId": "profile:ashy-tailorbird",
+      "claim": "diet",
+      "claimText": "Small insects and other invertebrates picked from vegetation.",
+      "hash": "8dc19a1f6560abd3411a933518968385776d68f1992fbab35d58bc0b377d72f7",
+      "sourceUrl": "https://singaporebirds.com/species/ashy-tailorbird/",
+      "additionalSources": [
+        "https://juronglakegardens.nparks.gov.sg/birds/"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared diet with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.548Z"
+    },
+    {
+      "contentId": "profile:ashy-tailorbird",
+      "claim": "activity",
+      "claimText": "Feeds by day, usually inside shrubs and low trees.",
+      "hash": "8dc19a1f6560abd3411a933518968385776d68f1992fbab35d58bc0b377d72f7",
+      "sourceUrl": "https://singaporebirds.com/species/ashy-tailorbird/",
+      "additionalSources": [
+        "https://juronglakegardens.nparks.gov.sg/birds/"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared activity with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.550Z"
+    },
+    {
+      "contentId": "profile:ashy-tailorbird",
+      "claim": "behaviour",
+      "claimText": "Moves quietly through cover and is often detected by its repeated call.",
+      "hash": "8dc19a1f6560abd3411a933518968385776d68f1992fbab35d58bc0b377d72f7",
+      "sourceUrl": "https://singaporebirds.com/species/ashy-tailorbird/",
+      "additionalSources": [
+        "https://juronglakegardens.nparks.gov.sg/birds/"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared behaviour with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.550Z"
+    },
+    {
+      "contentId": "profile:ashy-tailorbird",
+      "claim": "singapore",
+      "claimText": "Recorded in Singapore in mangroves, coastal forest, wetlands, gardens, forest edge. Use public paths and do not disturb nests or shelter sites.",
+      "hash": "8dc19a1f6560abd3411a933518968385776d68f1992fbab35d58bc0b377d72f7",
+      "sourceUrl": "https://singaporebirds.com/species/ashy-tailorbird/",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/nature/species-list/birds"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "The species account and national list support Singapore occurrence. Mixed-origin and uncertain-origin cases remain explicit.",
+      "reviewedAt": "2026-09-14T11:24:39.550Z"
+    },
+    {
+      "contentId": "profile:ashy-tailorbird",
+      "claim": "reproduction",
+      "claimText": "Joins leaves around a concealed nest using plant fibres or spider silk.",
+      "hash": "8dc19a1f6560abd3411a933518968385776d68f1992fbab35d58bc0b377d72f7",
+      "sourceUrl": "https://juronglakegardens.nparks.gov.sg/birds/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "The linked biology source supports the nest or reproductive mode. No overseas breeding season was applied to Singapore.",
+      "reviewedAt": "2026-09-14T11:24:39.551Z"
+    },
+    {
+      "contentId": "profile:ashy-tailorbird",
+      "claim": "ecologicalRole",
+      "claimText": "Consumes small invertebrates in mangrove, wetland and garden vegetation.",
+      "hash": "8dc19a1f6560abd3411a933518968385776d68f1992fbab35d58bc0b377d72f7",
+      "sourceUrl": "https://singaporebirds.com/species/ashy-tailorbird/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "This is a qualitative food-web interpretation of the documented diet. It does not claim a measured ecological effect.",
+      "reviewedAt": "2026-09-14T11:24:39.551Z"
+    },
+    {
+      "contentId": "profile:ashy-tailorbird",
+      "claim": "pressures",
+      "claimText": "Habitat considerations: Mangrove loss and heavy pruning of dense shrubs remove cover and may disturb nests.",
+      "hash": "8dc19a1f6560abd3411a933518968385776d68f1992fbab35d58bc0b377d72f7",
+      "sourceUrl": "https://singaporebirds.com/species/ashy-tailorbird/",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "This is a labelled habitat-care interpretation based on the animal’s stated habitat needs and NParks viewing guidance. It is not a measured population trend.",
+      "reviewedAt": "2026-09-14T11:24:39.551Z"
+    },
+    {
+      "contentId": "profile:ashy-tailorbird",
+      "claim": "watch",
+      "claimText": "Watch quietly from a distance. Do not feed, catch or handle wildlife. Leave the animal an open escape route.",
+      "hash": "8dc19a1f6560abd3411a933518968385776d68f1992fbab35d58bc0b377d72f7",
+      "sourceUrl": "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "NParks guidance supports distant observation, no feeding or handling, and an open escape route.",
+      "reviewedAt": "2026-09-14T11:24:39.551Z"
+    },
+    {
+      "contentId": "profile:ashy-tailorbird",
+      "claim": "singaporeStatus",
+      "claimText": "Least Concern",
+      "hash": "8dc19a1f6560abd3411a933518968385776d68f1992fbab35d58bc0b377d72f7",
+      "sourceUrl": "https://www.nparks.gov.sg/nature/species-list/birds",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Matched the NParks RDB3 entry for the stated Singapore category LC. Origin notes preserve any uncertainty or mixed populations.",
+      "reviewedAt": "2026-09-14T11:24:39.551Z"
+    },
+    {
+      "contentId": "profile:ashy-tailorbird",
+      "claim": "globalStatus",
+      "claimText": "Dated global assessment not verified in this edition",
+      "hash": "8dc19a1f6560abd3411a933518968385776d68f1992fbab35d58bc0b377d72f7",
+      "sourceUrl": "https://www.nparks.gov.sg/nature/species-list/birds",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "The text records only that a dated taxon-matched global assessment was not verified. It does not turn national or encounter data into global risk.",
+      "reviewedAt": "2026-09-14T11:24:39.551Z"
+    },
+    {
+      "contentId": "profile:ashy-tailorbird",
+      "claim": "funFacts.0.text",
+      "claimText": "It was chiefly associated with mangroves before it spread into more urban wetlands.",
+      "hash": "8dc19a1f6560abd3411a933518968385776d68f1992fbab35d58bc0b377d72f7",
+      "sourceUrl": "https://juronglakegardens.nparks.gov.sg/birds/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Checked “Mangrove beginnings” against its linked identification, behaviour or Singapore reference.",
+      "reviewedAt": "2026-09-14T11:24:39.551Z"
+    },
+    {
+      "contentId": "profile:ashy-tailorbird",
+      "claim": "funFacts.1.text",
+      "claimText": "Dense leaves can hide this bird even when it calls nearby.",
+      "hash": "8dc19a1f6560abd3411a933518968385776d68f1992fbab35d58bc0b377d72f7",
+      "sourceUrl": "https://singaporebirds.com/species/ashy-tailorbird/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Checked “Often heard first” against its linked identification, behaviour or Singapore reference.",
+      "reviewedAt": "2026-09-14T11:24:39.551Z"
+    },
+    {
+      "contentId": "profile:olive-winged-bulbul",
+      "claim": "identification",
+      "claimText": "Brown upperparts, pale streaked ear coverts, dark red eyes, dark bill and yellow-olive edges to the wing feathers.",
+      "hash": "8c9a073f332de11b97d51bd2c82e6b4f4e673247a5752e4411df01d4540140bf",
+      "sourceUrl": "https://singaporebirds.com/species/olive-winged-bulbul/",
+      "additionalSources": [
+        "https://doi.org/10.2173/bow.olwbul1.01"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared identification with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.551Z"
+    },
+    {
+      "contentId": "profile:olive-winged-bulbul",
+      "claim": "diet",
+      "claimText": "Fruit and small invertebrates.",
+      "hash": "8c9a073f332de11b97d51bd2c82e6b4f4e673247a5752e4411df01d4540140bf",
+      "sourceUrl": "https://singaporebirds.com/species/olive-winged-bulbul/",
+      "additionalSources": [
+        "https://doi.org/10.2173/bow.olwbul1.01"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared diet with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.551Z"
+    },
+    {
+      "contentId": "profile:olive-winged-bulbul",
+      "claim": "activity",
+      "claimText": "Feeds by day in shrubs and trees.",
+      "hash": "8c9a073f332de11b97d51bd2c82e6b4f4e673247a5752e4411df01d4540140bf",
+      "sourceUrl": "https://singaporebirds.com/species/olive-winged-bulbul/",
+      "additionalSources": [
+        "https://doi.org/10.2173/bow.olwbul1.01"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared activity with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.551Z"
+    },
+    {
+      "contentId": "profile:olive-winged-bulbul",
+      "claim": "behaviour",
+      "claimText": "Moves through wooded edges alone, in pairs or with other fruit-eating birds.",
+      "hash": "8c9a073f332de11b97d51bd2c82e6b4f4e673247a5752e4411df01d4540140bf",
+      "sourceUrl": "https://singaporebirds.com/species/olive-winged-bulbul/",
+      "additionalSources": [
+        "https://doi.org/10.2173/bow.olwbul1.01"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared behaviour with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.551Z"
+    },
+    {
+      "contentId": "profile:olive-winged-bulbul",
+      "claim": "singapore",
+      "claimText": "Recorded in Singapore in forest, forest edge, woodland, mangroves. Use public paths and do not disturb nests or shelter sites.",
+      "hash": "8c9a073f332de11b97d51bd2c82e6b4f4e673247a5752e4411df01d4540140bf",
+      "sourceUrl": "https://singaporebirds.com/species/olive-winged-bulbul/",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/nature/species-list/birds"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "The species account and national list support Singapore occurrence. Mixed-origin and uncertain-origin cases remain explicit.",
+      "reviewedAt": "2026-09-14T11:24:39.551Z"
+    },
+    {
+      "contentId": "profile:olive-winged-bulbul",
+      "claim": "reproduction",
+      "claimText": "Builds a cup nest from plant material in a shrub or small tree.",
+      "hash": "8c9a073f332de11b97d51bd2c82e6b4f4e673247a5752e4411df01d4540140bf",
+      "sourceUrl": "https://doi.org/10.2173/bow.olwbul1.01",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "The linked biology source supports the nest or reproductive mode. No overseas breeding season was applied to Singapore.",
+      "reviewedAt": "2026-09-14T11:24:39.552Z"
+    },
+    {
+      "contentId": "profile:olive-winged-bulbul",
+      "claim": "ecologicalRole",
+      "claimText": "Disperses seeds from fruit and consumes small invertebrates.",
+      "hash": "8c9a073f332de11b97d51bd2c82e6b4f4e673247a5752e4411df01d4540140bf",
+      "sourceUrl": "https://singaporebirds.com/species/olive-winged-bulbul/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "This is a qualitative food-web interpretation of the documented diet. It does not claim a measured ecological effect.",
+      "reviewedAt": "2026-09-14T11:24:39.552Z"
+    },
+    {
+      "contentId": "profile:olive-winged-bulbul",
+      "claim": "pressures",
+      "claimText": "Habitat considerations: Loss of forest edges, fruiting shrubs and mangroves reduces feeding and nesting habitat.",
+      "hash": "8c9a073f332de11b97d51bd2c82e6b4f4e673247a5752e4411df01d4540140bf",
+      "sourceUrl": "https://singaporebirds.com/species/olive-winged-bulbul/",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "This is a labelled habitat-care interpretation based on the animal’s stated habitat needs and NParks viewing guidance. It is not a measured population trend.",
+      "reviewedAt": "2026-09-14T11:24:39.552Z"
+    },
+    {
+      "contentId": "profile:olive-winged-bulbul",
+      "claim": "watch",
+      "claimText": "Watch quietly from a distance. Do not feed, catch or handle wildlife. Leave the animal an open escape route.",
+      "hash": "8c9a073f332de11b97d51bd2c82e6b4f4e673247a5752e4411df01d4540140bf",
+      "sourceUrl": "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "NParks guidance supports distant observation, no feeding or handling, and an open escape route.",
+      "reviewedAt": "2026-09-14T11:24:39.552Z"
+    },
+    {
+      "contentId": "profile:olive-winged-bulbul",
+      "claim": "singaporeStatus",
+      "claimText": "Least Concern",
+      "hash": "8c9a073f332de11b97d51bd2c82e6b4f4e673247a5752e4411df01d4540140bf",
+      "sourceUrl": "https://www.nparks.gov.sg/nature/species-list/birds",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Matched the NParks RDB3 entry for the stated Singapore category LC. Origin notes preserve any uncertainty or mixed populations.",
+      "reviewedAt": "2026-09-14T11:24:39.552Z"
+    },
+    {
+      "contentId": "profile:olive-winged-bulbul",
+      "claim": "globalStatus",
+      "claimText": "Dated global assessment not verified in this edition",
+      "hash": "8c9a073f332de11b97d51bd2c82e6b4f4e673247a5752e4411df01d4540140bf",
+      "sourceUrl": "https://www.nparks.gov.sg/nature/species-list/birds",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "The text records only that a dated taxon-matched global assessment was not verified. It does not turn national or encounter data into global risk.",
+      "reviewedAt": "2026-09-14T11:24:39.552Z"
+    },
+    {
+      "contentId": "profile:olive-winged-bulbul",
+      "claim": "funFacts.0.text",
+      "claimText": "Yellow-olive flight-feather edges give the folded wing a muted green tone.",
+      "hash": "8c9a073f332de11b97d51bd2c82e6b4f4e673247a5752e4411df01d4540140bf",
+      "sourceUrl": "https://singaporebirds.com/species/olive-winged-bulbul/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Checked “Quiet olive wings” against its linked identification, behaviour or Singapore reference.",
+      "reviewedAt": "2026-09-14T11:24:39.552Z"
+    },
+    {
+      "contentId": "profile:olive-winged-bulbul",
+      "claim": "funFacts.1.text",
+      "claimText": "Adults have dark red eyes, while juveniles have browner eyes.",
+      "hash": "8c9a073f332de11b97d51bd2c82e6b4f4e673247a5752e4411df01d4540140bf",
+      "sourceUrl": "https://singaporebirds.com/species/olive-winged-bulbul/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Checked “Red-eyed adult” against its linked identification, behaviour or Singapore reference.",
+      "reviewedAt": "2026-09-14T11:24:39.552Z"
+    },
+    {
+      "contentId": "profile:oriental-magpie-robin",
+      "claim": "identification",
+      "claimText": "Males are glossy black above with a white belly and bold white wing stripe. Females replace the black areas with slate grey.",
+      "hash": "7a7e098c819880068afd3429c86241d738a0167a4fc77020354f981923f922a0",
+      "sourceUrl": "https://singaporebirds.com/species/oriental-magpie-robin/",
+      "additionalSources": [
+        "https://juronglakegardens.nparks.gov.sg/birds/"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared identification with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.552Z"
+    },
+    {
+      "contentId": "profile:oriental-magpie-robin",
+      "claim": "diet",
+      "claimText": "Mainly insects and other small invertebrates gathered from the ground and vegetation.",
+      "hash": "7a7e098c819880068afd3429c86241d738a0167a4fc77020354f981923f922a0",
+      "sourceUrl": "https://singaporebirds.com/species/oriental-magpie-robin/",
+      "additionalSources": [
+        "https://juronglakegardens.nparks.gov.sg/birds/"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared diet with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.552Z"
+    },
+    {
+      "contentId": "profile:oriental-magpie-robin",
+      "claim": "activity",
+      "claimText": "Feeds and sings by day.",
+      "hash": "7a7e098c819880068afd3429c86241d738a0167a4fc77020354f981923f922a0",
+      "sourceUrl": "https://singaporebirds.com/species/oriental-magpie-robin/",
+      "additionalSources": [
+        "https://juronglakegardens.nparks.gov.sg/birds/"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared activity with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.552Z"
+    },
+    {
+      "contentId": "profile:oriental-magpie-robin",
+      "claim": "behaviour",
+      "claimText": "Hops with its tail raised and searches both trees and open ground.",
+      "hash": "7a7e098c819880068afd3429c86241d738a0167a4fc77020354f981923f922a0",
+      "sourceUrl": "https://singaporebirds.com/species/oriental-magpie-robin/",
+      "additionalSources": [
+        "https://juronglakegardens.nparks.gov.sg/birds/"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared behaviour with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.553Z"
+    },
+    {
+      "contentId": "profile:oriental-magpie-robin",
+      "claim": "singapore",
+      "claimText": "Recorded in Singapore in parks, gardens, forest edge, mangroves, woodland. Use public paths and do not disturb nests or shelter sites.",
+      "hash": "7a7e098c819880068afd3429c86241d738a0167a4fc77020354f981923f922a0",
+      "sourceUrl": "https://singaporebirds.com/species/oriental-magpie-robin/",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/nature/species-list/birds"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "The species account and national list support Singapore occurrence. Mixed-origin and uncertain-origin cases remain explicit.",
+      "reviewedAt": "2026-09-14T11:24:39.553Z"
+    },
+    {
+      "contentId": "profile:oriental-magpie-robin",
+      "claim": "reproduction",
+      "claimText": "Nests in sheltered holes and cavities, where the pair raises its young.",
+      "hash": "7a7e098c819880068afd3429c86241d738a0167a4fc77020354f981923f922a0",
+      "sourceUrl": "https://juronglakegardens.nparks.gov.sg/birds/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "The linked biology source supports the nest or reproductive mode. No overseas breeding season was applied to Singapore.",
+      "reviewedAt": "2026-09-14T11:24:39.553Z"
+    },
+    {
+      "contentId": "profile:oriental-magpie-robin",
+      "claim": "ecologicalRole",
+      "claimText": "Consumes ground and plant-dwelling invertebrates.",
+      "hash": "7a7e098c819880068afd3429c86241d738a0167a4fc77020354f981923f922a0",
+      "sourceUrl": "https://singaporebirds.com/species/oriental-magpie-robin/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "This is a qualitative food-web interpretation of the documented diet. It does not claim a measured ecological effect.",
+      "reviewedAt": "2026-09-14T11:24:39.553Z"
+    },
+    {
+      "contentId": "profile:oriental-magpie-robin",
+      "claim": "pressures",
+      "claimText": "Habitat considerations: Past cage-bird trapping reduced the local population. Nest disturbance and loss of wooded park habitat remain concerns.",
+      "hash": "7a7e098c819880068afd3429c86241d738a0167a4fc77020354f981923f922a0",
+      "sourceUrl": "https://singaporebirds.com/species/oriental-magpie-robin/",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "This is a labelled habitat-care interpretation based on the animal’s stated habitat needs and NParks viewing guidance. It is not a measured population trend.",
+      "reviewedAt": "2026-09-14T11:24:39.553Z"
+    },
+    {
+      "contentId": "profile:oriental-magpie-robin",
+      "claim": "watch",
+      "claimText": "Watch quietly from a distance. Do not feed, catch or handle wildlife. Leave the animal an open escape route.",
+      "hash": "7a7e098c819880068afd3429c86241d738a0167a4fc77020354f981923f922a0",
+      "sourceUrl": "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "NParks guidance supports distant observation, no feeding or handling, and an open escape route.",
+      "reviewedAt": "2026-09-14T11:24:39.553Z"
+    },
+    {
+      "contentId": "profile:oriental-magpie-robin",
+      "claim": "singaporeStatus",
+      "claimText": "Vulnerable",
+      "hash": "7a7e098c819880068afd3429c86241d738a0167a4fc77020354f981923f922a0",
+      "sourceUrl": "https://www.nparks.gov.sg/nature/species-list/birds",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Matched the NParks RDB3 entry for the stated Singapore category VU. Origin notes preserve any uncertainty or mixed populations.",
+      "reviewedAt": "2026-09-14T11:24:39.553Z"
+    },
+    {
+      "contentId": "profile:oriental-magpie-robin",
+      "claim": "globalStatus",
+      "claimText": "Dated global assessment not verified in this edition",
+      "hash": "7a7e098c819880068afd3429c86241d738a0167a4fc77020354f981923f922a0",
+      "sourceUrl": "https://www.nparks.gov.sg/nature/species-list/birds",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "The text records only that a dated taxon-matched global assessment was not verified. It does not turn national or encounter data into global risk.",
+      "reviewedAt": "2026-09-14T11:24:39.553Z"
+    },
+    {
+      "contentId": "profile:oriental-magpie-robin",
+      "claim": "funFacts.0.text",
+      "claimText": "It often raises its tail while hopping across the ground.",
+      "hash": "7a7e098c819880068afd3429c86241d738a0167a4fc77020354f981923f922a0",
+      "sourceUrl": "https://singaporebirds.com/species/oriental-magpie-robin/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Checked “Tail held high” against its linked identification, behaviour or Singapore reference.",
+      "reviewedAt": "2026-09-14T11:24:39.553Z"
+    },
+    {
+      "contentId": "profile:oriental-magpie-robin",
+      "claim": "funFacts.1.text",
+      "claimText": "NParks reports recovery after heavy historical trapping in Singapore.",
+      "hash": "7a7e098c819880068afd3429c86241d738a0167a4fc77020354f981923f922a0",
+      "sourceUrl": "https://juronglakegardens.nparks.gov.sg/birds/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Checked “A recovering voice” against its linked identification, behaviour or Singapore reference.",
+      "reviewedAt": "2026-09-14T11:24:39.553Z"
+    },
+    {
+      "contentId": "profile:common-flameback",
+      "claim": "identification",
+      "claimText": "Golden-yellow back, black hindneck and scaled pale underparts. Males have a red crown; females have a black crown with pale streaks.",
+      "hash": "8a1deaac0d9e742c5dd299976911162c08a57bc7d0db6021ecbc33323ac46576",
+      "sourceUrl": "https://singaporebirds.com/species/common-flameback/",
+      "additionalSources": [
+        "https://juronglakegardens.nparks.gov.sg/birds/"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared identification with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.554Z"
+    },
+    {
+      "contentId": "profile:common-flameback",
+      "claim": "diet",
+      "claimText": "Wood-dwelling insects and some fruit.",
+      "hash": "8a1deaac0d9e742c5dd299976911162c08a57bc7d0db6021ecbc33323ac46576",
+      "sourceUrl": "https://singaporebirds.com/species/common-flameback/",
+      "additionalSources": [
+        "https://juronglakegardens.nparks.gov.sg/birds/"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared diet with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.554Z"
+    },
+    {
+      "contentId": "profile:common-flameback",
+      "claim": "activity",
+      "claimText": "Feeds by day on trunks, branches and fruiting trees.",
+      "hash": "8a1deaac0d9e742c5dd299976911162c08a57bc7d0db6021ecbc33323ac46576",
+      "sourceUrl": "https://singaporebirds.com/species/common-flameback/",
+      "additionalSources": [
+        "https://juronglakegardens.nparks.gov.sg/birds/"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared activity with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.554Z"
+    },
+    {
+      "contentId": "profile:common-flameback",
+      "claim": "behaviour",
+      "claimText": "Usually seen in pairs. Uses a strong bill to probe bark and excavate wood.",
+      "hash": "8a1deaac0d9e742c5dd299976911162c08a57bc7d0db6021ecbc33323ac46576",
+      "sourceUrl": "https://singaporebirds.com/species/common-flameback/",
+      "additionalSources": [
+        "https://juronglakegardens.nparks.gov.sg/birds/"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared behaviour with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.554Z"
+    },
+    {
+      "contentId": "profile:common-flameback",
+      "claim": "singapore",
+      "claimText": "Recorded in Singapore in forest edge, parks, gardens, mangroves, woodland. Use public paths and do not disturb nests or shelter sites.",
+      "hash": "8a1deaac0d9e742c5dd299976911162c08a57bc7d0db6021ecbc33323ac46576",
+      "sourceUrl": "https://singaporebirds.com/species/common-flameback/",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/nature/species-list/birds"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "The species account and national list support Singapore occurrence. Mixed-origin and uncertain-origin cases remain explicit.",
+      "reviewedAt": "2026-09-14T11:24:39.554Z"
+    },
+    {
+      "contentId": "profile:common-flameback",
+      "claim": "reproduction",
+      "claimText": "Excavates a nest hole, usually in a dead branch or snag several metres above ground.",
+      "hash": "8a1deaac0d9e742c5dd299976911162c08a57bc7d0db6021ecbc33323ac46576",
+      "sourceUrl": "https://juronglakegardens.nparks.gov.sg/birds/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "The linked biology source supports the nest or reproductive mode. No overseas breeding season was applied to Singapore.",
+      "reviewedAt": "2026-09-14T11:24:39.555Z"
+    },
+    {
+      "contentId": "profile:common-flameback",
+      "claim": "ecologicalRole",
+      "claimText": "Controls wood-dwelling insects and creates cavities that may later shelter other animals.",
+      "hash": "8a1deaac0d9e742c5dd299976911162c08a57bc7d0db6021ecbc33323ac46576",
+      "sourceUrl": "https://singaporebirds.com/species/common-flameback/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "This is a qualitative food-web interpretation of the documented diet. It does not claim a measured ecological effect.",
+      "reviewedAt": "2026-09-14T11:24:39.555Z"
+    },
+    {
+      "contentId": "profile:common-flameback",
+      "claim": "pressures",
+      "claimText": "Habitat considerations: Removing dead branches and snags can reduce feeding material and nest sites.",
+      "hash": "8a1deaac0d9e742c5dd299976911162c08a57bc7d0db6021ecbc33323ac46576",
+      "sourceUrl": "https://singaporebirds.com/species/common-flameback/",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "This is a labelled habitat-care interpretation based on the animal’s stated habitat needs and NParks viewing guidance. It is not a measured population trend.",
+      "reviewedAt": "2026-09-14T11:24:39.555Z"
+    },
+    {
+      "contentId": "profile:common-flameback",
+      "claim": "watch",
+      "claimText": "Watch quietly from a distance. Do not feed, catch or handle wildlife. Leave the animal an open escape route.",
+      "hash": "8a1deaac0d9e742c5dd299976911162c08a57bc7d0db6021ecbc33323ac46576",
+      "sourceUrl": "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "NParks guidance supports distant observation, no feeding or handling, and an open escape route.",
+      "reviewedAt": "2026-09-14T11:24:39.555Z"
+    },
+    {
+      "contentId": "profile:common-flameback",
+      "claim": "singaporeStatus",
+      "claimText": "Least Concern",
+      "hash": "8a1deaac0d9e742c5dd299976911162c08a57bc7d0db6021ecbc33323ac46576",
+      "sourceUrl": "https://www.nparks.gov.sg/nature/species-list/birds",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Matched the NParks RDB3 entry for the stated Singapore category LC. Origin notes preserve any uncertainty or mixed populations.",
+      "reviewedAt": "2026-09-14T11:24:39.555Z"
+    },
+    {
+      "contentId": "profile:common-flameback",
+      "claim": "globalStatus",
+      "claimText": "Dated global assessment not verified in this edition",
+      "hash": "8a1deaac0d9e742c5dd299976911162c08a57bc7d0db6021ecbc33323ac46576",
+      "sourceUrl": "https://www.nparks.gov.sg/nature/species-list/birds",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "The text records only that a dated taxon-matched global assessment was not verified. It does not turn national or encounter data into global risk.",
+      "reviewedAt": "2026-09-14T11:24:39.555Z"
+    },
+    {
+      "contentId": "profile:common-flameback",
+      "claim": "funFacts.0.text",
+      "claimText": "Males have a red crown; females have a black crown.",
+      "hash": "8a1deaac0d9e742c5dd299976911162c08a57bc7d0db6021ecbc33323ac46576",
+      "sourceUrl": "https://singaporebirds.com/species/common-flameback/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Checked “Crown tells the sex” against its linked identification, behaviour or Singapore reference.",
+      "reviewedAt": "2026-09-14T11:24:39.555Z"
+    },
+    {
+      "contentId": "profile:common-flameback",
+      "claim": "funFacts.1.text",
+      "claimText": "NParks reports that this woodpecker applies tree sap to its feathers to help remove parasites.",
+      "hash": "8a1deaac0d9e742c5dd299976911162c08a57bc7d0db6021ecbc33323ac46576",
+      "sourceUrl": "https://juronglakegardens.nparks.gov.sg/birds/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Checked “Sap feather care” against its linked identification, behaviour or Singapore reference.",
+      "reviewedAt": "2026-09-14T11:24:39.555Z"
+    },
+    {
+      "contentId": "profile:oriental-whip-snake",
+      "claim": "identification",
+      "claimText": "Long, narrow body, pointed snout, yellow eyes and horizontal pupils. Adults are often bright green; juveniles can be brown.",
+      "hash": "c8d16c23a6c679953014fcea7bce247c843e384fc7f1030084aad713c6123c97",
+      "sourceUrl": "https://juronglakegardens.nparks.gov.sg/reptiles-and-amphibians/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared identification with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.555Z"
+    },
+    {
+      "contentId": "profile:oriental-whip-snake",
+      "claim": "diet",
+      "claimText": "Mainly lizards, plus frogs and small birds.",
+      "hash": "c8d16c23a6c679953014fcea7bce247c843e384fc7f1030084aad713c6123c97",
+      "sourceUrl": "https://juronglakegardens.nparks.gov.sg/reptiles-and-amphibians/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared diet with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.555Z"
+    },
+    {
+      "contentId": "profile:oriental-whip-snake",
+      "claim": "activity",
+      "claimText": "Active by day in trees and shrubs.",
+      "hash": "c8d16c23a6c679953014fcea7bce247c843e384fc7f1030084aad713c6123c97",
+      "sourceUrl": "https://juronglakegardens.nparks.gov.sg/reptiles-and-amphibians/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared activity with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.555Z"
+    },
+    {
+      "contentId": "profile:oriental-whip-snake",
+      "claim": "behaviour",
+      "claimText": "Moves through foliage and relies on camouflage. When threatened, it may hold out its tongue as a warning.",
+      "hash": "c8d16c23a6c679953014fcea7bce247c843e384fc7f1030084aad713c6123c97",
+      "sourceUrl": "https://juronglakegardens.nparks.gov.sg/reptiles-and-amphibians/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared behaviour with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.556Z"
+    },
+    {
+      "contentId": "profile:oriental-whip-snake",
+      "claim": "singapore",
+      "claimText": "Recorded in Singapore in forest, gardens, mangroves, coast, shrubland. Use public paths and do not disturb nests or shelter sites.",
+      "hash": "c8d16c23a6c679953014fcea7bce247c843e384fc7f1030084aad713c6123c97",
+      "sourceUrl": "https://juronglakegardens.nparks.gov.sg/reptiles-and-amphibians/",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/nature/species-list/reptiles"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "The species account and national list support Singapore occurrence. Mixed-origin and uncertain-origin cases remain explicit.",
+      "reviewedAt": "2026-09-14T11:24:39.556Z"
+    },
+    {
+      "contentId": "profile:oriental-whip-snake",
+      "claim": "reproduction",
+      "claimText": "Retains eggs inside the body until they hatch, then gives birth to live young.",
+      "hash": "c8d16c23a6c679953014fcea7bce247c843e384fc7f1030084aad713c6123c97",
+      "sourceUrl": "https://juronglakegardens.nparks.gov.sg/reptiles-and-amphibians/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "The linked biology source supports the nest or reproductive mode. No overseas breeding season was applied to Singapore.",
+      "reviewedAt": "2026-09-14T11:24:39.556Z"
+    },
+    {
+      "contentId": "profile:oriental-whip-snake",
+      "claim": "ecologicalRole",
+      "claimText": "A small predator of lizards, frogs and birds in tree and shrub food webs.",
+      "hash": "c8d16c23a6c679953014fcea7bce247c843e384fc7f1030084aad713c6123c97",
+      "sourceUrl": "https://juronglakegardens.nparks.gov.sg/reptiles-and-amphibians/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "This is a qualitative food-web interpretation of the documented diet. It does not claim a measured ecological effect.",
+      "reviewedAt": "2026-09-14T11:24:39.556Z"
+    },
+    {
+      "contentId": "profile:oriental-whip-snake",
+      "claim": "pressures",
+      "claimText": "Habitat considerations: Clearing connected shrubs and mangroves removes hunting cover. Persecution caused by fear can kill harmlessly resting snakes.",
+      "hash": "c8d16c23a6c679953014fcea7bce247c843e384fc7f1030084aad713c6123c97",
+      "sourceUrl": "https://juronglakegardens.nparks.gov.sg/reptiles-and-amphibians/",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "This is a labelled habitat-care interpretation based on the animal’s stated habitat needs and NParks viewing guidance. It is not a measured population trend.",
+      "reviewedAt": "2026-09-14T11:24:39.556Z"
+    },
+    {
+      "contentId": "profile:oriental-whip-snake",
+      "claim": "watch",
+      "claimText": "Watch quietly from a distance. Do not feed, catch or handle wildlife. Leave the animal an open escape route.",
+      "hash": "c8d16c23a6c679953014fcea7bce247c843e384fc7f1030084aad713c6123c97",
+      "sourceUrl": "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "NParks guidance supports distant observation, no feeding or handling, and an open escape route.",
+      "reviewedAt": "2026-09-14T11:24:39.556Z"
+    },
+    {
+      "contentId": "profile:oriental-whip-snake",
+      "claim": "singaporeStatus",
+      "claimText": "Least Concern",
+      "hash": "c8d16c23a6c679953014fcea7bce247c843e384fc7f1030084aad713c6123c97",
+      "sourceUrl": "https://www.nparks.gov.sg/nature/species-list/reptiles",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Matched the NParks RDB3 entry for the stated Singapore category LC. Origin notes preserve any uncertainty or mixed populations.",
+      "reviewedAt": "2026-09-14T11:24:39.556Z"
+    },
+    {
+      "contentId": "profile:oriental-whip-snake",
+      "claim": "globalStatus",
+      "claimText": "Dated global assessment not verified in this edition",
+      "hash": "c8d16c23a6c679953014fcea7bce247c843e384fc7f1030084aad713c6123c97",
+      "sourceUrl": "https://www.nparks.gov.sg/nature/species-list/reptiles",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "The text records only that a dated taxon-matched global assessment was not verified. It does not turn national or encounter data into global risk.",
+      "reviewedAt": "2026-09-14T11:24:39.556Z"
+    },
+    {
+      "contentId": "profile:oriental-whip-snake",
+      "claim": "funFacts.0.text",
+      "claimText": "Its pupils are horizontal rather than round.",
+      "hash": "c8d16c23a6c679953014fcea7bce247c843e384fc7f1030084aad713c6123c97",
+      "sourceUrl": "https://juronglakegardens.nparks.gov.sg/reptiles-and-amphibians/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Checked “Sideways pupils” against its linked identification, behaviour or Singapore reference.",
+      "reviewedAt": "2026-09-14T11:24:39.556Z"
+    },
+    {
+      "contentId": "profile:oriental-whip-snake",
+      "claim": "funFacts.1.text",
+      "claimText": "Its eggs hatch inside the mother before the young are born.",
+      "hash": "c8d16c23a6c679953014fcea7bce247c843e384fc7f1030084aad713c6123c97",
+      "sourceUrl": "https://juronglakegardens.nparks.gov.sg/reptiles-and-amphibians/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Checked “Hidden hatchlings” against its linked identification, behaviour or Singapore reference.",
+      "reviewedAt": "2026-09-14T11:24:39.556Z"
+    },
+    {
+      "contentId": "profile:green-paddy-frog",
+      "claim": "identification",
+      "claimText": "Bright green or brown upperparts, a white upper lip and a clear white stripe along each side of the body.",
+      "hash": "2702fb3c5a2261cb630e9ab63e9f0569c233d6b6e17807373a67d8437c805f76",
+      "sourceUrl": "https://juronglakegardens.nparks.gov.sg/reptiles-and-amphibians/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared identification with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.556Z"
+    },
+    {
+      "contentId": "profile:green-paddy-frog",
+      "claim": "diet",
+      "claimText": "Mainly insects.",
+      "hash": "2702fb3c5a2261cb630e9ab63e9f0569c233d6b6e17807373a67d8437c805f76",
+      "sourceUrl": "https://juronglakegardens.nparks.gov.sg/reptiles-and-amphibians/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared diet with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.556Z"
+    },
+    {
+      "contentId": "profile:green-paddy-frog",
+      "claim": "activity",
+      "claimText": "Mostly nocturnal; remains close to freshwater and waterside plants.",
+      "hash": "2702fb3c5a2261cb630e9ab63e9f0569c233d6b6e17807373a67d8437c805f76",
+      "sourceUrl": "https://juronglakegardens.nparks.gov.sg/reptiles-and-amphibians/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared activity with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.557Z"
+    },
+    {
+      "contentId": "profile:green-paddy-frog",
+      "claim": "behaviour",
+      "claimText": "Waits beside water for prey and escapes by jumping into vegetation or water.",
+      "hash": "2702fb3c5a2261cb630e9ab63e9f0569c233d6b6e17807373a67d8437c805f76",
+      "sourceUrl": "https://juronglakegardens.nparks.gov.sg/reptiles-and-amphibians/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared behaviour with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.557Z"
+    },
+    {
+      "contentId": "profile:green-paddy-frog",
+      "claim": "singapore",
+      "claimText": "Recorded in Singapore in ponds, reservoirs, wetlands, ditches, parks. Use public paths and do not disturb nests or shelter sites.",
+      "hash": "2702fb3c5a2261cb630e9ab63e9f0569c233d6b6e17807373a67d8437c805f76",
+      "sourceUrl": "https://juronglakegardens.nparks.gov.sg/reptiles-and-amphibians/",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/nature/species-list/amphibians"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "The species account and national list support Singapore occurrence. Mixed-origin and uncertain-origin cases remain explicit.",
+      "reviewedAt": "2026-09-14T11:24:39.557Z"
+    },
+    {
+      "contentId": "profile:green-paddy-frog",
+      "claim": "reproduction",
+      "claimText": "Lays eggs in freshwater. Its large tadpoles develop in still ponds and ditches.",
+      "hash": "2702fb3c5a2261cb630e9ab63e9f0569c233d6b6e17807373a67d8437c805f76",
+      "sourceUrl": "https://juronglakegardens.nparks.gov.sg/reptiles-and-amphibians/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "The linked biology source supports the nest or reproductive mode. No overseas breeding season was applied to Singapore.",
+      "reviewedAt": "2026-09-14T11:24:39.557Z"
+    },
+    {
+      "contentId": "profile:green-paddy-frog",
+      "claim": "ecologicalRole",
+      "claimText": "Consumes insects, feeds wetland predators and can help indicate freshwater habitat condition.",
+      "hash": "2702fb3c5a2261cb630e9ab63e9f0569c233d6b6e17807373a67d8437c805f76",
+      "sourceUrl": "https://juronglakegardens.nparks.gov.sg/reptiles-and-amphibians/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "This is a qualitative food-web interpretation of the documented diet. It does not claim a measured ecological effect.",
+      "reviewedAt": "2026-09-14T11:24:39.557Z"
+    },
+    {
+      "contentId": "profile:green-paddy-frog",
+      "claim": "pressures",
+      "claimText": "Habitat considerations: Pollution, bank clearing and loss of still freshwater reduce breeding habitat.",
+      "hash": "2702fb3c5a2261cb630e9ab63e9f0569c233d6b6e17807373a67d8437c805f76",
+      "sourceUrl": "https://juronglakegardens.nparks.gov.sg/reptiles-and-amphibians/",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "This is a labelled habitat-care interpretation based on the animal’s stated habitat needs and NParks viewing guidance. It is not a measured population trend.",
+      "reviewedAt": "2026-09-14T11:24:39.557Z"
+    },
+    {
+      "contentId": "profile:green-paddy-frog",
+      "claim": "watch",
+      "claimText": "Watch quietly from a distance. Do not feed, catch or handle wildlife. Leave the animal an open escape route.",
+      "hash": "2702fb3c5a2261cb630e9ab63e9f0569c233d6b6e17807373a67d8437c805f76",
+      "sourceUrl": "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "NParks guidance supports distant observation, no feeding or handling, and an open escape route.",
+      "reviewedAt": "2026-09-14T11:24:39.557Z"
+    },
+    {
+      "contentId": "profile:green-paddy-frog",
+      "claim": "singaporeStatus",
+      "claimText": "Least Concern",
+      "hash": "2702fb3c5a2261cb630e9ab63e9f0569c233d6b6e17807373a67d8437c805f76",
+      "sourceUrl": "https://www.nparks.gov.sg/nature/species-list/amphibians",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Matched the NParks RDB3 entry for the stated Singapore category LC. Origin notes preserve any uncertainty or mixed populations.",
+      "reviewedAt": "2026-09-14T11:24:39.557Z"
+    },
+    {
+      "contentId": "profile:green-paddy-frog",
+      "claim": "globalStatus",
+      "claimText": "Dated global assessment not verified in this edition",
+      "hash": "2702fb3c5a2261cb630e9ab63e9f0569c233d6b6e17807373a67d8437c805f76",
+      "sourceUrl": "https://www.nparks.gov.sg/nature/species-list/amphibians",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "The text records only that a dated taxon-matched global assessment was not verified. It does not turn national or encounter data into global risk.",
+      "reviewedAt": "2026-09-14T11:24:39.557Z"
+    },
+    {
+      "contentId": "profile:green-paddy-frog",
+      "claim": "funFacts.0.text",
+      "claimText": "A white line along the body helps separate it from other green frogs.",
+      "hash": "2702fb3c5a2261cb630e9ab63e9f0569c233d6b6e17807373a67d8437c805f76",
+      "sourceUrl": "https://juronglakegardens.nparks.gov.sg/reptiles-and-amphibians/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Checked “White racing stripe” against its linked identification, behaviour or Singapore reference.",
+      "reviewedAt": "2026-09-14T11:24:39.557Z"
+    },
+    {
+      "contentId": "profile:green-paddy-frog",
+      "claim": "funFacts.1.text",
+      "claimText": "NParks describes freshwater amphibians as useful biological indicators of ecosystem health.",
+      "hash": "2702fb3c5a2261cb630e9ab63e9f0569c233d6b6e17807373a67d8437c805f76",
+      "sourceUrl": "https://juronglakegardens.nparks.gov.sg/reptiles-and-amphibians/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Checked “Pond health helper” against its linked identification, behaviour or Singapore reference.",
+      "reviewedAt": "2026-09-14T11:24:39.557Z"
+    },
+    {
+      "contentId": "profile:red-eared-slider",
+      "claim": "identification",
+      "claimText": "Olive-brown domed shell with yellow streaks and a broad red patch behind each eye. Adults commonly have shells around 15–20 cm long.",
+      "hash": "6ac434e4a2756934c09b5fa21d233c9d90a8022b9961c6cf7474b9d0fe1a83b7",
+      "sourceUrl": "https://juronglakegardens.nparks.gov.sg/reptiles-and-amphibians/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared identification with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.557Z"
+    },
+    {
+      "contentId": "profile:red-eared-slider",
+      "claim": "diet",
+      "claimText": "An adaptable omnivore; older animals often eat more plant material.",
+      "hash": "6ac434e4a2756934c09b5fa21d233c9d90a8022b9961c6cf7474b9d0fe1a83b7",
+      "sourceUrl": "https://juronglakegardens.nparks.gov.sg/reptiles-and-amphibians/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared diet with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.558Z"
+    },
+    {
+      "contentId": "profile:red-eared-slider",
+      "claim": "activity",
+      "claimText": "Feeds by day and often basks on rocks, logs and banks.",
+      "hash": "6ac434e4a2756934c09b5fa21d233c9d90a8022b9961c6cf7474b9d0fe1a83b7",
+      "sourceUrl": "https://juronglakegardens.nparks.gov.sg/reptiles-and-amphibians/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared activity with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.558Z"
+    },
+    {
+      "contentId": "profile:red-eared-slider",
+      "claim": "behaviour",
+      "claimText": "Moves between water and basking sites. It may slide quickly into water when approached.",
+      "hash": "6ac434e4a2756934c09b5fa21d233c9d90a8022b9961c6cf7474b9d0fe1a83b7",
+      "sourceUrl": "https://juronglakegardens.nparks.gov.sg/reptiles-and-amphibians/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Compared behaviour with the linked species account and supporting natural-history reference. The profile avoids local dates and population estimates not supplied by those sources.",
+      "reviewedAt": "2026-09-14T11:24:39.558Z"
+    },
+    {
+      "contentId": "profile:red-eared-slider",
+      "claim": "singapore",
+      "claimText": "NParks describes it as an exotic species found in many Singapore ponds and reservoirs after pet releases.",
+      "hash": "6ac434e4a2756934c09b5fa21d233c9d90a8022b9961c6cf7474b9d0fe1a83b7",
+      "sourceUrl": "https://juronglakegardens.nparks.gov.sg/reptiles-and-amphibians/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "The species account and national list support Singapore occurrence. Mixed-origin and uncertain-origin cases remain explicit.",
+      "reviewedAt": "2026-09-14T11:24:39.558Z"
+    },
+    {
+      "contentId": "profile:red-eared-slider",
+      "claim": "reproduction",
+      "claimText": "Lays shelled eggs in nests dug on land; hatchlings move towards freshwater.",
+      "hash": "6ac434e4a2756934c09b5fa21d233c9d90a8022b9961c6cf7474b9d0fe1a83b7",
+      "sourceUrl": "https://juronglakegardens.nparks.gov.sg/reptiles-and-amphibians/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "The linked biology source supports the nest or reproductive mode. No overseas breeding season was applied to Singapore.",
+      "reviewedAt": "2026-09-14T11:24:39.558Z"
+    },
+    {
+      "contentId": "profile:red-eared-slider",
+      "claim": "ecologicalRole",
+      "claimText": "An introduced omnivore that can compete with native freshwater wildlife for food and basking sites.",
+      "hash": "6ac434e4a2756934c09b5fa21d233c9d90a8022b9961c6cf7474b9d0fe1a83b7",
+      "sourceUrl": "https://juronglakegardens.nparks.gov.sg/reptiles-and-amphibians/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "This is a qualitative food-web interpretation of the documented diet. It does not claim a measured ecological effect.",
+      "reviewedAt": "2026-09-14T11:24:39.558Z"
+    },
+    {
+      "contentId": "profile:red-eared-slider",
+      "claim": "pressures",
+      "claimText": "Habitat considerations: Pet release spreads this species into new wetlands. Releasing or abandoning animals in parks is illegal.",
+      "hash": "6ac434e4a2756934c09b5fa21d233c9d90a8022b9961c6cf7474b9d0fe1a83b7",
+      "sourceUrl": "https://juronglakegardens.nparks.gov.sg/reptiles-and-amphibians/",
+      "additionalSources": [
+        "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals"
+      ],
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "This is a labelled habitat-care interpretation based on the animal’s stated habitat needs and NParks viewing guidance. It is not a measured population trend.",
+      "reviewedAt": "2026-09-14T11:24:39.558Z"
+    },
+    {
+      "contentId": "profile:red-eared-slider",
+      "claim": "watch",
+      "claimText": "Watch quietly from a distance. Do not feed, catch or handle wildlife. Leave the animal an open escape route.",
+      "hash": "6ac434e4a2756934c09b5fa21d233c9d90a8022b9961c6cf7474b9d0fe1a83b7",
+      "sourceUrl": "https://www.nparks.gov.sg/visit/when-visiting-parks/when-encountering-animals",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "NParks guidance supports distant observation, no feeding or handling, and an open escape route.",
+      "reviewedAt": "2026-09-14T11:24:39.558Z"
+    },
+    {
+      "contentId": "profile:red-eared-slider",
+      "claim": "singaporeStatus",
+      "claimText": "Not assessed here",
+      "hash": "6ac434e4a2756934c09b5fa21d233c9d90a8022b9961c6cf7474b9d0fe1a83b7",
+      "sourceUrl": "https://juronglakegardens.nparks.gov.sg/reptiles-and-amphibians/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "No exact current RDB3 category was verified. The profile displays Not assessed here and explains the taxonomic or listing gap.",
+      "reviewedAt": "2026-09-14T11:24:39.558Z"
+    },
+    {
+      "contentId": "profile:red-eared-slider",
+      "claim": "globalStatus",
+      "claimText": "Dated global assessment not verified in this edition",
+      "hash": "6ac434e4a2756934c09b5fa21d233c9d90a8022b9961c6cf7474b9d0fe1a83b7",
+      "sourceUrl": "https://juronglakegardens.nparks.gov.sg/reptiles-and-amphibians/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "The text records only that a dated taxon-matched global assessment was not verified. It does not turn national or encounter data into global risk.",
+      "reviewedAt": "2026-09-14T11:24:39.558Z"
+    },
+    {
+      "contentId": "profile:red-eared-slider",
+      "claim": "funFacts.0.text",
+      "claimText": "A broad red stripe behind the eye gives this turtle its name.",
+      "hash": "6ac434e4a2756934c09b5fa21d233c9d90a8022b9961c6cf7474b9d0fe1a83b7",
+      "sourceUrl": "https://juronglakegardens.nparks.gov.sg/reptiles-and-amphibians/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Checked “The red clue” against its linked identification, behaviour or Singapore reference.",
+      "reviewedAt": "2026-09-14T11:24:39.558Z"
+    },
+    {
+      "contentId": "profile:red-eared-slider",
+      "claim": "funFacts.1.text",
+      "claimText": "NParks states that releasing or abandoning animals in parks and nature reserves is illegal.",
+      "hash": "6ac434e4a2756934c09b5fa21d233c9d90a8022b9961c6cf7474b9d0fe1a83b7",
+      "sourceUrl": "https://juronglakegardens.nparks.gov.sg/reptiles-and-amphibians/",
+      "status": "supported",
+      "reviewer": "AniQuest source review",
+      "note": "Checked “Never release pets” against its linked identification, behaviour or Singapore reference.",
+      "reviewedAt": "2026-09-14T11:24:39.558Z"
+    }
+  ]
+}

@@ -31,6 +31,8 @@ test("dated events have approved organiser links, valid times, unique IDs and wo
   }
   assert.equal(eventsInMonth("2026-10","avs").length,2);
   assert.equal(eventsInMonth("2026-09","acres").length,0);
+  assert.deepEqual(["2026-08","2026-09","2026-10","2026-11","2026-12"].map(month => eventsInMonth(month).length), [1,16,13,4,3]);
+  assert.ok(ANIMAL_EVENTS.every(e => e.registrationDeadline || e.registrationNote || ["avs","spca"].includes(e.organiser)), "new nature sessions need a deadline or factual registration note");
   assert.ok(eventsInMonth("2026-09","nss","walk").every(e=>e.organiser==="nss"&&e.category==="walk"));
   const oct = eventsInMonth("2026-10","avs")[0];
   assert.equal(eventState(oct,new Date("2026-10-03T08:00:00Z")),"Today");
@@ -48,9 +50,11 @@ test("calendar exports use UTC, exact session times, escaped text and 75-octet l
   assert.doesNotMatch(ics,/RRULE/);
   for (const line of ics.split("\r\n")) assert.ok(Buffer.byteLength(line,"utf8")<=75);
   const month = eventsCalendarFile(ANIMAL_EVENTS.filter((item) => item.start.startsWith("2026-09")), new Date("2026-09-05T00:00:00Z"));
-  assert.equal((month.match(/BEGIN:VEVENT/g) || []).length, 7);
+  assert.equal((month.match(/BEGIN:VEVENT/g) || []).length, 16);
   assert.match(month, /SUMMARY:Nature Walk at HortPark/);
+  assert.match(month, /SUMMARY:SOSD Homebound Screening/);
   assert.match(month, /SUMMARY:Butterfly Walk at Dairy Farm/);
+  assert.match(month, /Registration deadline listed/);
   for (const line of month.split("\r\n")) assert.ok(Buffer.byteLength(line,"utf8")<=75);
 });
 

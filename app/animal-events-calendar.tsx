@@ -85,6 +85,7 @@ export function AnimalEventsCalendar() {
             <div className="aq-event-meta"><span><CalendarDays aria-hidden="true" />{dayLabel(event.start.slice(0,10))}</span><span><Clock3 aria-hidden="true" />{timeLabel(event.start)}{event.end ? `–${timeLabel(event.end)}` : " · end not listed"} SGT</span><span><MapPin aria-hidden="true" />{event.location}</span></div>
             <p>{event.summary}</p>
             {event.registrationDeadline && <small className="aq-event-deadline">{deadlinePassed ? "Listed registration deadline passed" : "Listed registration deadline"}: {dayLabel(event.registrationDeadline)}. Places may fill earlier.</small>}
+            {event.registrationNote && <small className="aq-event-registration-note">{event.registrationNote}</small>}
             <a className="aq-event-source-link" href={event.sourceUrl} target="_blank" rel="noreferrer">Source: {host.name} event page <ExternalLink /></a>
             <div className="aq-event-actions"><Button asChild variant="outline" size="sm"><a href={event.sourceUrl} target="_blank" rel="noreferrer">Open event source <ExternalLink /></a></Button><Button variant="ghost" size="sm" onClick={() => downloadEvent(event)} aria-label={`Download calendar file for ${event.title}`}><Download /> Calendar file</Button></div>
           </article>;

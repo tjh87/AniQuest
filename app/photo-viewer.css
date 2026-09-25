@@ -1,0 +1,66 @@
+.aq-photo-viewer.pswp {
+  --pswp-bg: var(--background);
+  --pswp-icon-color: var(--foreground);
+  --pswp-icon-color-secondary: var(--card);
+  z-index: 10000;
+  color: var(--foreground);
+  font-family: var(--font-sans);
+}
+.aq-photo-viewer .pswp__top-bar {
+  height: 64px;
+  align-items: center;
+  justify-content: flex-end;
+  background: var(--card);
+  border-bottom: 1px solid var(--border);
+}
+.aq-photo-viewer .pswp__button--photo-zoom,
+.aq-photo-viewer .pswp__button--photo-close {
+  width: auto;
+  min-width: 5rem;
+  height: 44px;
+  margin: 8px;
+  padding: 0 1rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--muted);
+  color: var(--foreground);
+  font: 600 .875rem/1.4 var(--font-sans);
+  opacity: 1;
+}
+.aq-photo-viewer .pswp__button--photo-close {
+  background: var(--primary);
+  border-color: var(--primary);
+  color: var(--primary-foreground);
+}
+.aq-photo-viewer .pswp__button:hover { border-color: var(--ring); }
+.aq-photo-viewer .pswp__button:focus-visible,
+.aq-photo-viewer a:focus-visible { outline: 3px solid var(--ring); outline-offset: 3px; }
+.aq-photo-viewer .pswp__photo-caption {
+  position: absolute;
+  z-index: 10;
+  inset-inline: 16px;
+  bottom: 16px;
+  max-width: 65rem;
+  max-height: 35vh;
+  margin-inline: auto;
+  padding: .75rem 1rem;
+  overflow: auto;
+  overscroll-behavior: contain;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--card);
+  color: var(--foreground);
+  line-height: 1.5;
+  overflow-wrap: anywhere;
+}
+.aq-photo-viewer .pswp__photo-caption h2 { margin: 0; font-size: 1.125rem; font-weight: 700; }
+.aq-photo-viewer .pswp__photo-caption p { margin: .2rem 0 .5rem; color: var(--muted-foreground); font-size: .875rem; }
+.aq-photo-viewer .pswp__photo-caption > div { display: flex; flex-wrap: wrap; gap: .4rem 1rem; }
+.aq-photo-viewer .pswp__photo-caption a { color: var(--primary); font-size: .875rem; text-decoration: underline; text-underline-offset: .2em; }
+.aq-photo-viewer .pswp__img { object-fit: contain; filter: none; image-rendering: auto; }
+.aq-photo-viewer .pswp__error-msg { color: var(--foreground); font-size: 1rem; }
+[data-ui-style="cute"] .aq-photo-viewer .pswp__photo-caption h2 { font-family: Georgia, "Palatino Linotype", serif; }
+[data-ui-style="retro"] .aq-photo-viewer .pswp__photo-caption { border-width: 2px; box-shadow: 3px 3px 0 var(--border); }
+@media (max-width: 480px) {
+  .aq-photo-viewer .pswp__photo-caption { inset-inline: 10px; bottom: 10px; padding: .65rem .8rem; }
+}

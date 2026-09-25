@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { Button } from "@/components/ui/button";
 import directory from "./bird-directory.json";
 import { SINGAPORE_SPECIES } from "./species-data";
@@ -19,7 +19,6 @@ export function BirdDirectory({ onOpen, initialQuery = "" }: { onOpen: (id: stri
   const [expanded, setExpanded] = useState(!!initialQuery);
   const [family, setFamily] = useState("all");
   const [status, setStatus] = useState("all");
-  useEffect(() => { setQuery(initialQuery); setExpanded(!!initialQuery); setFamily("all"); setStatus("all"); }, [initialQuery]);
   const normalise = (text: string) => text.toLowerCase().replace(/[\s’'-]+/g, "");
   const matched = DIRECTORY_BIRDS.filter(bird => (family === "all" || bird.family === family)
     && (status === "all" || bird.statuses.includes(status))

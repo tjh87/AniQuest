@@ -1,4 +1,6 @@
 export const AUTO_CHECKED_HOSTS = new Set([
+  "besgroup.org",
+  "birdlife.org.au",
   "api.gbif.org",
   "www.opcf.org.hk",
   "www.afcd.gov.hk",
@@ -38,6 +40,7 @@ export const AUTO_CHECKED_HOSTS = new Set([
   "www.channelnewsasia.com",
   "www.dbs.nus.edu.sg",
   "www.fisheries.noaa.gov",
+  "www.merlintuttle.org",
   "www.iucnredlist.org",
   "mustsharenews.com",
   "www.nea.gov.sg",
@@ -115,8 +118,8 @@ export function classifyLinkResponse(status: number, previousFailures = 0): { st
 export function classifyLinkFailure(message: string, previousFailures = 0): { status: LinkHealthStatus; failureStreak: number; detail: string } {
   const failureStreak = previousFailures + 1;
   return {
-    status: failureStreak >= 3 ? "broken" : "warning",
+    status: "warning",
     failureStreak,
-    detail: `${message} ${failureStreak >= 3 ? "The failure repeated across checks." : "A later check will confirm whether this is temporary."}`,
+    detail: `${message} Automated access failure does not confirm that the page is broken; review it manually.`,
   };
 }

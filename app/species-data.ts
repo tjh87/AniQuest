@@ -6,6 +6,10 @@ import { ASSESSMENT_UPDATES } from "./species-assessments";
 import evidenceUpdates from "./species-evidence-updates.json";
 import fullBirdProfiles from "./full-bird-profiles.json";
 import type { ProfileSource } from "./species-profiles";
+import { NATIVE_SPECIES_EXPANSION } from "./native-species-expansion";
+import { COMMON_SPECIES_EXPANSION } from "./common-species-expansion";
+import { ADDITIONAL_COMMON_SPECIES } from "./additional-common-species";
+import { MIGRATORY_BIRD_EXPANSION } from "./migratory-bird-expansion";
 
 export const SPECIES_REVIEW_DATE = "2026-09-05";
 export const STATUS_LABELS = { LC: "Least Concern", NT: "Near Threatened", VU: "Vulnerable", EN: "Endangered", CR: "Critically Endangered", NA: "Not Applicable", UNV: "Not assessed here" } as const;
@@ -154,11 +158,19 @@ export const SINGAPORE_SPECIES: SingaporeSpecies[] = [
   ...EXPANDED_SPECIES.map(({ profile, ...species }) => ({ ...species, ...profile, singaporeStatus: STATUS_LABELS[species.statusCode] })),
   ...WATER_SPECIES,
   ...FULL_BIRD_PROFILES,
-].map(species => {
+  ...NATIVE_SPECIES_EXPANSION,
+  ...COMMON_SPECIES_EXPANSION,
+  ...ADDITIONAL_COMMON_SPECIES,
+  ...MIGRATORY_BIRD_EXPANSION,
+].map(rawSpecies => {
+  const species = rawSpecies as SingaporeSpecies;
+  const tagged = /migrant/i.test(species.rarity) || species.tags?.includes("Migratory")
+    ? { ...species, tags: [...new Set([...(species.tags ?? []), "Migratory"])] }
+    : species;
   const update = EVIDENCE_UPDATES[species.id];
-  if (!update) return species;
+  if (!update) return tagged;
   const { evidenceSources = [], ...fields } = update;
-  return { ...species, ...fields, sources: [...species.sources, ...evidenceSources.filter(source => !species.sources.some(existing => existing.url === source.url))] };
+  return { ...tagged, ...fields, sources: [...tagged.sources, ...evidenceSources.filter(source => !tagged.sources.some(existing => existing.url === source.url))] };
 });
 
 export function speciesById(id: string) {
@@ -176,7 +188,7 @@ export function getSpeciesStatusCounts() {
 export function filterSpecies(query = "", group = "All", encounter = "All", conservation = "All") {
   const terms = searchable(query).split(" ").filter(Boolean);
   return SINGAPORE_SPECIES.filter((species) => {
-    const haystack = searchable([species.name, species.scientific, species.habitat, species.family, species.group, ...species.aliases, ...species.habitats].join(" "));
+    const haystack = searchable([species.name, species.scientific, species.habitat, species.family, species.group, ...species.aliases, ...species.habitats, ...(species.tags ?? [])].join(" "));
     const matchesStatus = conservation === "All" || (conservation === "Threatened" ? THREATENED_STATUS_CODES.has(species.statusCode) : species.statusCode === conservation);
     return (group === "All" || species.group === group) && (encounter === "All" || species.encounter === encounter) && matchesStatus && terms.every((term) => haystack.includes(term));
   });

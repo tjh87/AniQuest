@@ -172,6 +172,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .aq-pixel-palette select { min-height: 2rem; border: 1px solid var(--border); border-radius: .45rem; background: var(--card); color: var(--foreground); padding: .25rem .45rem; font: inherit; cursor: pointer; }
 .aq-style-swatch { width: 1.05rem; height: 1.05rem; flex: 0 0 auto; border: 1px solid currentColor; border-radius: .25rem; }
 .aq-style-swatch.classic { background: linear-gradient(135deg, #ffffff 50%, #2656a6 50%); }
+.aq-style-swatch.cute { background: conic-gradient(#f6add2 0 25%, #a9d9c2 0 50%, #ffd18c 0 75%, #aebdec 0); }
 .aq-style-swatch.retro { border-radius: 0; background: conic-gradient(#efd07c 0 25%, #414e91 0 50%, #f7f3e6 0 75%, #29334d 0); box-shadow: 2px 2px 0 color-mix(in srgb, currentColor 45%, transparent); }
 .aq-view { display: flex; flex-direction: column; gap: var(--aq-gap); animation: aq-in .22s ease-out; }
 @keyframes aq-in { from { opacity: .3; transform: translateY(4px); } }

@@ -2,6 +2,7 @@
 
 import { useRef, useState } from "react";
 import { Button } from "@/components/ui/button";
+import { createClientId } from "./client-id";
 import type { QuizQuestion } from "./quiz-data";
 import type { AnswerFeedback, AnswerHandler, AttemptContext } from "./learning-records";
 import { ContentReviewNote } from "./content-review";
@@ -24,7 +25,7 @@ export function QuestionChallenge({ question, onAnswer, onNext, context, hintsEn
     inFlight.current = true;
     setBusy(true); setError("");
     try {
-      if (!submissionId.current) submissionId.current = crypto.randomUUID();
+      if (!submissionId.current) submissionId.current = createClientId();
       const result = await onAnswer(question, selected, { ...context, hintUsed, submissionId: submissionId.current });
       if (!result) { setError("Your answer could not be saved. Try again."); return; }
       setFeedback(result);

@@ -9,9 +9,9 @@ after(() => vite.close());
 
 test("all catalogue animals resolve to complete, distinct profiles with sourced facts", async () => {
   const { SINGAPORE_SPECIES, speciesById } = await vite.ssrLoadModule("/app/species-data.ts");
-  assert.equal(SINGAPORE_SPECIES.length, 94);
-  assert.equal(new Set(SINGAPORE_SPECIES.map(s => s.id)).size, 94);
-  assert.equal(new Set(SINGAPORE_SPECIES.map(s => s.scientific)).size, 94);
+  assert.equal(SINGAPORE_SPECIES.length, 141);
+  assert.equal(new Set(SINGAPORE_SPECIES.map(s => s.id)).size, 141);
+  assert.equal(new Set(SINGAPORE_SPECIES.map(s => s.scientific)).size, 141);
   const counts = {};
   for (const animal of SINGAPORE_SPECIES) {
     counts[animal.group] = (counts[animal.group] || 0) + 1;
@@ -33,8 +33,9 @@ test("all catalogue animals resolve to complete, distinct profiles with sourced 
       assert.equal(new URL(source.url).protocol, "https:");
     }
   }
-  assert.deepEqual(counts, { Mammal: 19, Bird: 61, Reptile: 10, Amphibian: 4 });
-  assert.equal(SINGAPORE_SPECIES.flatMap(s => s.funFacts).length, 188);
+  assert.deepEqual(counts, { Mammal: 29, Bird: 91, Reptile: 14, Amphibian: 7 });
+  assert.equal(SINGAPORE_SPECIES.filter(s => s.origin === "Native").length, 134);
+  assert.equal(SINGAPORE_SPECIES.flatMap(s => s.funFacts).length, 282);
   assert.equal(speciesById("not-an-animal"), undefined);
 });
 
@@ -50,36 +51,63 @@ test("names, aliases, scientific names and filters lead to the intended animals"
   assert.equal(filterSpecies("Spizaetus cirrhatus")[0].id, "changeable-hawk-eagle");
   assert.equal(filterSpecies("three-striped palm civet")[0].id, "small-toothed-palm-civet");
   assert.equal(filterSpecies("Horsfield’s flying squirrel")[0].id, "horsfields-flying-squirrel");
-  assert.equal(filterSpecies("", "Bird").length, 61);
+  assert.equal(filterSpecies("", "Bird").length, 91);
+  assert.equal(filterSpecies("migratory").length, 30);
+  assert.equal(filterSpecies("Duttaphrynus melanostictus")[0].id, "asian-toad");
+  assert.equal(filterSpecies("rock dove")[0].id, "rock-pigeon");
+  assert.equal(filterSpecies("Eutropis multifasciatus")[0].id, "common-sun-skink");
+  assert.equal(filterSpecies("Hirundo tahitica")[0].id, "pacific-swallow");
+  assert.equal(filterSpecies("Malaysian pied fantail")[0].id, "sunda-pied-fantail");
+  assert.equal(filterSpecies("Common greenback")[0].id, "green-paddy-frog");
+  assert.equal(filterSpecies("peaceful dove").length, 0, "Geopelia placida must not alias zebra dove");
   assert.ok(filterSpecies("", "Mammal", "Rare or restricted").every(s => s.group === "Mammal" && s.encounter === "Rare or restricted"));
   assert.equal(filterSpecies("nonexistent animal name").length, 0);
   assert.equal(filterSpecies("", "Fish").length, 0);
   assert.equal(filterSpecies("", "Insect").length, 0);
 });
 
+test("migratory animals have a clickable catalogue tag and sourced seasonal text", async () => {
+  const { SINGAPORE_SPECIES, speciesById } = await vite.ssrLoadModule("/app/species-data.ts");
+  const newMigrants = ["common-sandpiper", "barn-swallow", "asian-brown-flycatcher", "arctic-warbler", "brown-shrike", "blue-tailed-bee-eater", "pacific-golden-plover", "common-redshank", "yellow-rumped-flycatcher"];
+  const tagged = SINGAPORE_SPECIES.filter(species => species.tags?.includes("Migratory"));
+  assert.equal(tagged.length, 30);
+  assert.ok(SINGAPORE_SPECIES.filter(species => /migrant/i.test(species.rarity)).every(species => species.tags?.includes("Migratory")));
+  for (const id of newMigrants) {
+    const animal = speciesById(id);
+    assert.ok(animal.tags.includes("Migratory"), `${id}: missing Migratory tag`);
+    assert.match(animal.singapore, /migrant|migration|passage/i);
+    assert.ok(animal.sources.some(source => source.url === animal.sourceUrl && /migrant|seasonal/i.test(source.supports)));
+  }
+});
+
 test("national conservation filters and chart counts agree with the reviewed RDB3 categories", async () => {
   const { filterSpecies, getSpeciesStatusCounts, speciesById } = await vite.ssrLoadModule("/app/species-data.ts");
-  const expectedCounts = { LC: 17, NT: 4, VU: 2, EN: 8, CR: 15, NA: 2, UNV: 46 };
+  const expectedCounts = { LC: 44, NT: 5, VU: 9, EN: 8, CR: 20, NA: 4, UNV: 51 };
   const chart = getSpeciesStatusCounts();
   assert.deepEqual(Object.fromEntries(chart.map(row => [row.code, row.count])), expectedCounts);
-  assert.equal(chart.reduce((total, row) => total + row.count, 0), 94);
+  assert.equal(chart.reduce((total, row) => total + row.count, 0), 141);
   for (const [code, expected] of Object.entries(expectedCounts)) {
     const matches = filterSpecies("", "All", "All", code);
     assert.equal(matches.length, expected, `${code}: filter count`);
     assert.ok(matches.every(species => species.statusCode === code));
   }
-  assert.deepEqual(filterSpecies("", "All", "All", "VU").map(s => s.id).sort(), ["buffy-fish-owl", "changeable-hawk-eagle"]);
+  assert.deepEqual(filterSpecies("", "All", "All", "VU").map(s => s.id).sort(), ["brown-shrike", "buffy-fish-owl", "cave-nectar-bat", "changeable-hawk-eagle", "common-redshank", "common-sandpiper", "lesser-long-tongued-nectar-bat", "oriental-magpie-robin", "pacific-golden-plover"]);
+  assert.equal(speciesById("eurasian-tree-sparrow").statusCode, "LC");
+  assert.match(speciesById("eurasian-tree-sparrow").statusNote, /Native\?/);
+  assert.equal(speciesById("ornate-sunbird").statusCode, "UNV");
+  assert.equal(speciesById("red-eared-slider").origin, "Introduced");
+  assert.equal(speciesById("red-eared-slider").statusCode, "UNV");
   assert.equal(speciesById("blue-eared-kingfisher").statusCode, "EN");
   assert.equal(speciesById("great-billed-heron").statusCode, "CR");
   assert.equal(speciesById("purple-heron").statusCode, "EN");
   const threatened = filterSpecies("", "All", "All", "Threatened");
-  assert.equal(threatened.length, 25);
+  assert.equal(threatened.length, 37);
   assert.ok(threatened.every(species => ["VU", "EN", "CR"].includes(species.statusCode)));
   assert.ok(!threatened.some(species => ["long-tailed-macaque", "javan-myna", "banded-bullfrog"].includes(species.id)), "national filter must not use global risk or unknown status");
   assert.deepEqual(filterSpecies("heron", "Bird", "Rare or restricted", "CR").map(s => s.id), ["great-billed-heron"]);
   assert.equal(filterSpecies("heron", "Mammal", "All", "Threatened").length, 0);
   assert.equal(filterSpecies("", "All", "All", "INVALID").length, 0);
-  assert.equal(filterSpecies("", "All", "All", "All").length, 94);
+  assert.equal(filterSpecies("", "All", "All", "All").length, 141);
 });
 
 test("origin, national risk and dated global assessments remain separate", async () => {

@@ -5,7 +5,7 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import Link from "next/link";
 import {
   Activity, ArrowLeft, BarChart3, BookOpenCheck, CircleCheck, CircleHelp, CircleX,
-  ExternalLink, Eye, FileClock, LayoutDashboard, Link2, LockKeyhole, LogOut,
+  ExternalLink, Eye, FileClock, LayoutDashboard, Link2, LogOut,
   Megaphone, Moon, Newspaper, Palette, Plus, RefreshCw, Rss, Save, ShieldCheck, Sun,
   Sparkles, Trash2, TriangleAlert, Users,
 } from "lucide-react";
@@ -48,7 +48,7 @@ const settingLabels: Record<keyof SiteSettingsValues, string> = {
   defaultDensity: "Default interface size",
   contentReviewDays: "News review cycle",
   featuredBiome: "Featured biome",
-  dailyFacts: "Random fact pool",
+  dailyFacts: "Fact of the day pool",
   newsFeeds: "Trusted news feeds",
 };
 
@@ -194,7 +194,7 @@ export function AdminRoom({ adminName, signOutPath, initialDashboard }: { adminN
   };
 
   const addFact = () => {
-    if (draft.dailyFacts.length >= 24) { setMessage("AniQuest supports up to 24 random facts."); return; }
+  if (draft.dailyFacts.length >= 24) { setMessage("AniQuest supports up to 24 daily facts."); return; }
     setValue("dailyFacts", [...draft.dailyFacts, {
       text: "Add a verified Singapore animal fact here.",
       sourceName: "NParks source",
@@ -335,7 +335,7 @@ export function AdminRoom({ adminName, signOutPath, initialDashboard }: { adminN
           <section className="room-panel"><div className="room-panel-title"><Megaphone /><div><h2>Site announcement</h2><p>Show one short message above the main learning area.</p></div></div><SettingRow title="Show announcement" description="Turn the banner on or off for all users."><Switch checked={draft.announcementEnabled} onCheckedChange={(value) => setValue("announcementEnabled", value)} aria-label="Show site announcement" /></SettingRow><label className="room-field"><span>Message</span><Textarea value={draft.announcementText} maxLength={180} placeholder="Add a short service or learning update." onChange={(event) => setValue("announcementText", event.target.value)} /><small>{draft.announcementText.length} / 180</small></label></section>
           <section className="room-panel"><div className="room-panel-title"><Newspaper /><div><h2>Content and news</h2><p>Control discovery and review defaults.</p></div></div><SettingRow title="Show News Nest" description="Turning this off removes News Nest from user navigation."><Switch checked={draft.newsEnabled} onCheckedChange={(value) => setValue("newsEnabled", value)} aria-label="Show News Nest" /></SettingRow><SettingRow title="News review cycle" description="Choose how often links and changing claims must be checked."><div className="room-number"><Input type="number" min={7} max={90} value={draft.contentReviewDays} onChange={(event) => setValue("contentReviewDays", Number(event.target.value))} aria-label="News review days" /><span>days</span></div></SettingRow><SettingRow title="Featured habitat" description="Highlight one Singapore habitat in the home learning trail."><Select value={draft.featuredBiome} onValueChange={(value) => setValue("featuredBiome", value as SiteSettingsValues["featuredBiome"])}><SelectTrigger aria-label="Featured habitat"><SelectValue /></SelectTrigger><SelectContent><SelectItem value="rainforest">Rainforest</SelectItem><SelectItem value="mangrove">Mangrove and mudflat</SelectItem><SelectItem value="freshwater">Freshwater and parks</SelectItem><SelectItem value="coast">Coast and coral reef</SelectItem></SelectContent></Select></SettingRow></section>
           <section className="room-panel" id="daily-facts">
-            <div className="room-panel-title"><Sparkles /><div><h2>Random fact</h2><p>A sourced Singapore animal fact is selected when a user opens Home.</p></div></div>
+            <div className="room-panel-title"><Sparkles /><div><h2>Fact of the day</h2><p>A sourced Singapore animal fact is selected once each Singapore calendar day.</p></div></div>
             <div className="room-fact-list">{draft.dailyFacts.map((fact, index) => <article key={index}><div className="room-fact-number">{index + 1}</div><div className="room-fact-fields"><label><span>Fact</span><Textarea value={fact.text} maxLength={180} onChange={(event) => updateFact(index, "text", event.target.value)} /></label><div><label><span>Source name</span><Input value={fact.sourceName} maxLength={80} onChange={(event) => updateFact(index, "sourceName", event.target.value)} /></label><label><span>HTTPS source URL</span><Input type="url" value={fact.sourceUrl} maxLength={500} onChange={(event) => updateFact(index, "sourceUrl", event.target.value)} /></label></div></div><Button type="button" variant="ghost" size="icon-sm" disabled={draft.dailyFacts.length <= 3} onClick={() => setValue("dailyFacts", draft.dailyFacts.filter((_, factIndex) => factIndex !== index))} aria-label={`Remove fact ${index + 1}`}><Trash2 /></Button></article>)}</div>
             <div className="room-fact-footer"><span>{draft.dailyFacts.length} facts · 3–24 required · 180 characters each</span><Button type="button" variant="outline" size="sm" disabled={draft.dailyFacts.length >= 24} onClick={addFact}><Plus /> Add sourced fact</Button></div>
           </section>

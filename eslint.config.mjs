@@ -11,6 +11,8 @@ const eslintConfig = defineConfig([
     ".next/**",
     "out/**",
     "build/**",
+    "dist/**",
+    "dist-local/**",
     "next-env.d.ts",
   ]),
   {
@@ -21,6 +23,13 @@ const eslintConfig = defineConfig([
       "@typescript-eslint/no-unused-vars": "off",
       "react-hooks/purity": "off",
       "react-hooks/set-state-in-effect": "off",
+    },
+  },
+  {
+    files: ["local/**/*.{ts,tsx}"],
+    rules: {
+      // The local entry is a Vite app, so Next.js page-link rules do not apply.
+      "@next/next/no-html-link-for-pages": "off",
     },
   },
 ]);

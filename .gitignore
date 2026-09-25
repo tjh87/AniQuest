@@ -42,5 +42,12 @@ next-env.d.ts
 /.sites-runtime/
 /outputs/
 /work/
-/.checkpoints/
-/tmp/
+
+# Portable build inputs and personal files
+/.npm-cache/
+/runtime/
+/releases/
+/portable-stage/
+/backups/
+/git-export/
+!/.env.example

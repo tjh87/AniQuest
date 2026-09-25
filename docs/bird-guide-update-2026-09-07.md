@@ -21,7 +21,7 @@ Local Red Data Book categories stay unassessed when this review did not match a 
 - [NParks birdwatching](https://www.nparks.gov.sg/visit/activities/birdwatching): quiet observation, binoculars, no playback, nest protection.
 - [NParks reserve rules](https://www.nparks.gov.sg/visit/when-visiting-parks/etiquette/nature-parks-reserve-dos-donts): marked trails, distance, no feeding, no collection or release.
 - [NParks Garden Bird Watch](https://www.nparks.gov.sg/nature/community-in-nature/garden-bird-watch): volunteer survey, training and registration.
-- [NParks bird guide](https://www.nparks.gov.sg/-/media/nparks-real-content/about-us/publications/garden_bird_watch_lowres.pdf): local bird reference and mixed chicken flocks.
+- [NParks Garden Bird Watch species list](https://www.nparks.gov.sg/nature/community-in-nature/garden-bird-watch): local common-bird list and citizen-science survey context.
 - [NParks red junglefowl](https://www.nparks.gov.sg/florafaunaweb/fauna/2/6/265): identification clues and domestic interbreeding.
 - [Visual raptor guide](https://singaporebirds.com/raptor-guide/): flight identification reference.
 

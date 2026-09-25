@@ -1,0 +1,101 @@
+{
+  "common-sandpiper": {
+    "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/64/imagecb2d8724-277a-479a-a5c7-ce60973ccda4-f951ce2a-fca5-4937-9749-ccac566244cc/w400.webp",
+    "width": 400,
+    "height": 267,
+    "name": "Common Sandpiper",
+    "alt": "Common Sandpiper. Common Sandpiper at Seletar Dam",
+    "photographer": "Francis Yap",
+    "location": "Bird Society of Singapore reference photograph",
+    "sourceUrl": "https://singaporebirds.com/species/common-sandpiper/",
+    "position": "50% 50%"
+  },
+  "barn-swallow": {
+    "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/288/imagea464ec26-15e2-42f4-92e2-830ee80debce-b5ab1dab-9426-459b-ba2f-16ce28444b47/w400.webp",
+    "width": 400,
+    "height": 267,
+    "name": "Barn Swallow",
+    "alt": "Barn Swallow. Barn Swallow at Punggol Barat",
+    "photographer": "Francis Yap",
+    "location": "Bird Society of Singapore reference photograph",
+    "sourceUrl": "https://singaporebirds.com/species/barn-swallow/",
+    "position": "50% 50%"
+  },
+  "asian-brown-flycatcher": {
+    "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/343/image256e60e5-fef6-440f-970e-c340aed4c4d1-4ce558fa-3df3-45f1-b43d-46a42770a270/w400.webp",
+    "width": 400,
+    "height": 267,
+    "name": "Asian Brown Flycatcher",
+    "alt": "Asian Brown Flycatcher. Asian Brown Flycatcher at Punggol",
+    "photographer": "Alan Ng",
+    "location": "Bird Society of Singapore reference photograph",
+    "sourceUrl": "https://singaporebirds.com/species/asian-brown-flycatcher/",
+    "position": "50% 50%"
+  },
+  "arctic-warbler": {
+    "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/301/image63d4339e-875d-472b-83ea-c39bd39ccdb7-c683b06c-0e95-422c-a78c-118c474215ae/w400.webp",
+    "width": 400,
+    "height": 267,
+    "name": "Arctic Warbler",
+    "alt": "Arctic Warbler. Arctic Warbler at Upper Seletar Reservoir Park",
+    "photographer": "Francis Yap",
+    "location": "Bird Society of Singapore reference photograph",
+    "sourceUrl": "https://singaporebirds.com/species/arctic-warbler/",
+    "position": "50% 50%"
+  },
+  "brown-shrike": {
+    "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/268/image45a5243f-8f70-4271-af5c-1bf3d36ab3a0-a5379a96-3d99-414e-a0a8-e5d9a839beb9/w400.webp",
+    "width": 267,
+    "height": 400,
+    "name": "Brown Shrike",
+    "alt": "Brown Shrike. Male Brown Shrike (ssp confusus) from Changi Cove",
+    "photographer": "Francis Yap",
+    "location": "Bird Society of Singapore reference photograph",
+    "sourceUrl": "https://singaporebirds.com/species/brown-shrike/",
+    "position": "50% 50%"
+  },
+  "blue-tailed-bee-eater": {
+    "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/197/image7fb9d1cc-6e22-4a34-b2a8-04bcff2183cb-079a0075-b700-4c6c-a13c-58ded5567f3e/w400.webp",
+    "width": 400,
+    "height": 267,
+    "name": "Blue-tailed Bee-eater",
+    "alt": "Blue-tailed Bee-eater. Blue-tailed Bee-eater at Jelutong Tower",
+    "photographer": "Francis Yap",
+    "location": "Bird Society of Singapore reference photograph",
+    "sourceUrl": "https://singaporebirds.com/species/blue-tailed-bee-eater/",
+    "position": "50% 50%"
+  },
+  "pacific-golden-plover": {
+    "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/46/image06fb0ea7-429e-444f-9e2d-7ed6ac181d9b-1959b027-4cef-48e2-9693-38e9b5300934/w400.webp",
+    "width": 400,
+    "height": 267,
+    "name": "Pacific Golden Plover",
+    "alt": "Pacific Golden Plover. Pacific Golden Plover at Lorong Halus",
+    "photographer": "Francis Yap",
+    "location": "Bird Society of Singapore reference photograph",
+    "sourceUrl": "https://singaporebirds.com/species/pacific-golden-plover/",
+    "position": "50% 50%"
+  },
+  "common-redshank": {
+    "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/70/image73e80309-5143-490a-b61e-76534795e8e2-9b5f66de-caf4-4685-8b0e-397af85192c1/w400.webp",
+    "width": 400,
+    "height": 267,
+    "name": "Common Redshank",
+    "alt": "Common Redshank. Common Redshank at SBWR",
+    "photographer": "Francis Yap",
+    "location": "Bird Society of Singapore reference photograph",
+    "sourceUrl": "https://singaporebirds.com/species/common-redshank/",
+    "position": "50% 50%"
+  },
+  "yellow-rumped-flycatcher": {
+    "src": "https://birdsofsingapore.blob.core.windows.net/species-photos/species/350/image4de20044-a1d6-4f5d-9568-a8788adc58a5-eb45cae9-2da4-4077-8ea9-68a0094fce1f/w400.webp",
+    "width": 400,
+    "height": 267,
+    "name": "Yellow-rumped Flycatcher",
+    "alt": "Yellow-rumped Flycatcher. Female Yellow-rumped Flycatcher at Bidadari",
+    "photographer": "Alan Ng",
+    "location": "Bird Society of Singapore reference photograph",
+    "sourceUrl": "https://singaporebirds.com/species/yellow-rumped-flycatcher/",
+    "position": "50% 50%"
+  }
+}

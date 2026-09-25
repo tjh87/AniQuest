@@ -122,7 +122,8 @@ test("source checker classifies responses and never follows unsafe redirects", a
   const firstFailure = await checkSourceLink(source, 0, async () => { throw new Error("offline"); });
   const repeatedFailure = await checkSourceLink(source, 2, async () => { throw new Error("offline"); });
   assert.equal(firstFailure.status, "warning");
-  assert.equal(repeatedFailure.status, "broken");
+  assert.equal(repeatedFailure.status, "warning");
+  assert.match(repeatedFailure.detail, /does not confirm/i);
 
   calls = 0;
   const unsafeRedirect = await checkSourceLink(source, 0, async () => {
